@@ -1,0 +1,28 @@
+#link {
+    position: absolute; 
+    bottom: 51px; 
+    left: 44%;
+}
+
+#helplink {
+    bottom: 24px; 
+    left:47.8%;
+    text-decoration: underline;
+    position: absolute;
+}
+
+@media (min-device-width: 375px) and (max-device-width: 812px) {
+    #link {
+        position: absolute; 
+        bottom: 51px; 
+        text-align:center;
+        left: 27.55%
+    }
+
+    #helplink {
+        position: absolute;
+        bottom: 24px; 
+        left:41.80%;
+        text-decoration: underline;
+    }
+}
