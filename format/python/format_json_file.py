@@ -379,7 +379,7 @@ for song in songs:
 
             run_command.chdir('../format/python')
 
-            song_info += "\n		\"Image\": \"" + image + "\","
+            song_info += "\n		\"Image\": \"" + image[1:] + "\","
             song_info += "\n		\"Links\": \"" + links[:-3] + "\"" 
             song_info += "\n	},"
 
