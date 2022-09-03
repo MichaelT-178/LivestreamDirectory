@@ -55,8 +55,6 @@ const outputHtml = matches => {
   };
 };
 
-//46D3F6
-
 outputHtml(otherMatches);
 
 matchList.addEventListener('click', (e) => {
