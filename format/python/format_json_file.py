@@ -129,7 +129,7 @@ for i in range(len(all_songs)):
 for the_song in all_songs:
     if ("(Electric riff)" in the_song or "(Classical Guitar)" in the_song or
        "(Mandolin)" in the_song or "(Electric Song)" in the_song or
-       "(12/twelve String)" in the_song or  "(Partial)" in the_song):
+       "(12/twelve String)" in the_song or "(Partial)" in the_song):
        the_temp = the_song.replace("(Electric riff)", "").replace("(Classical Guitar)", "").replace("(Mandolin)", "").replace("(Electric Song)", "").replace("(12/twelve String)","").replace("(Partial)", "")
 
        if the_temp.strip() not in matches and the_song not in no_repeats and the_song not in only_keys:
@@ -185,7 +185,7 @@ for a_song in songs:
         print("\n" + colored("Remove from no_repeats", 'red') + ": " + full_song)
         no_repeats = remove_from_no_repeats(no_repeats, full_song)
 
-    elif a_song + " (Partial)" in no_repeats:
+    elif a_song.strip() + " (Partial)" in no_repeats:
         full_song = a_song + " (Partial)"
         print("\n" + colored("Remove from no_repeats", 'red') + ": " + full_song)
         no_repeats = remove_from_no_repeats(no_repeats, full_song)
