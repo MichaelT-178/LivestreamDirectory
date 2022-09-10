@@ -25,7 +25,6 @@ window.addEventListener('load', () => {
         document.getElementById('result-instrument').innerHTML = instruments.split(",").map((instrument) => 
         ` <div style="font-size:24px;margin: 6px 0; left: 5px;margin-left: 33px;"> • ${instrument} </div>`
         ).join(''); 
-
     }; 
     
     window.addEventListener('error', () => {
