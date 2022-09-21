@@ -6073,11 +6073,11 @@
 		"Title": "Hey You",
 		"Artist": "Pink Floyd",
 		"Other_Artists": "",
-		"Appearances": "Livestream 112,Livestream 122",
+		"Appearances": "Livestream 112,Livestream 122,Solo Video",
 		"Other": "",
 		"Instruments": "Acoustic Guitar",
 		"Image": "./pics/Pink Floyd.jpg",
-		"Links": "https://youtu.be/s6H9GdbDwbQ?t=4789 , https://youtu.be/MmxzKv8Mw2E?t=5019"
+		"Links": "https://youtu.be/s6H9GdbDwbQ?t=4789 , https://youtu.be/MmxzKv8Mw2E?t=5019 , https://youtu.be/cF5ZPSBbGcs?t=0"
 	},
 	{
 		"Title": "Couldn't Stand the Weather",
@@ -6303,11 +6303,11 @@
 		"Title": "Is There Anybody Out There?",
 		"Artist": "Pink Floyd",
 		"Other_Artists": "",
-		"Appearances": "Livestream 122",
+		"Appearances": "Livestream 122,Solo Video",
 		"Other": "",
 		"Instruments": "Acoustic Guitar",
 		"Image": "./pics/Pink Floyd.jpg",
-		"Links": "https://youtu.be/MmxzKv8Mw2E?t=4915"
+		"Links": "https://youtu.be/MmxzKv8Mw2E?t=4915 , https://youtu.be/cF5ZPSBbGcs?t=276"
 	},
 	{
 		"Title": "Baby, I Love Your Way (Partial)",
