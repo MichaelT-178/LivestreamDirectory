@@ -368,7 +368,7 @@ for song in songs:
                     exit()
 
             artist_pic = artist.strip().replace(".", "").replace("'", "").replace("’", "")
-
+            
             image = f"../pics/{artist_pic}.jpg"
 
             run_command.chdir('../')
