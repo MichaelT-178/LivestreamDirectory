@@ -254,7 +254,7 @@ for song in songs:
                     
                     try:
                         if (int(ls_num) == 136 and "Chris Whitley" == artist):
-                            appearances.replace("Livestream 136,", "Livestream 136 (w/ Blues Slide),")
+                            appearances = appearances.replace("Livestream 136,", "Livestream 136 (w/ Blues Slide),")
                     except ValueError:
                         pass
 
