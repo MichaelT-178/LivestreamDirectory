@@ -1,3 +1,4 @@
+from multiprocessing.sharedctypes import Value
 import threading as thread
 import json
 from time import time as the_time
@@ -250,6 +251,14 @@ for song in songs:
 
                     else:
                         appearances += ("Livestream " + ls_num + ",") if ("solo video" not in ls_num.lower()) else (ls_num.strip() + ",")
+                    
+                    try:
+                        if (int(ls_num) == 136 and "Chris Whitley" == artist):
+                            appearances += "Livestream " + ls_num + " (w/ Blues Slide),"
+                    except ValueError:
+                        pass
+
+
 
                     try:
                         links += youtube_links(link, time_split[0])
@@ -274,6 +283,8 @@ for song in songs:
                     instruments += "Harmonica," if ("Rein"  in line and instruments == "") else ""
                     instruments += " Harmonica," if ("Rein"  in line and "Harmonica" not in instruments) else ""
 
+                    instruments += "Blues Slide" if ("Blues Slide" in title or "Blues Slide" in appearances) else ""
+                    
                     if ("(Electric riff)" not in line and "(Electric Song)" not in line
                         and "(Classical Guitar)" not in line and "(Mandolin)" not in line
                         and "Acoustic Guitar" not in instruments and "(H)" not in line
@@ -320,7 +331,7 @@ for song in songs:
 
             other += title.replace(" and ", " & ") + ", " if ("and" in title) else ""
             other += title.replace("'", "’").replace(".", "") + ", " if ("'" in title or "." in title) else ""
-
+            
             other += artist.replace("-", " ").replace(",", " ") + ", " if ("-" in artist or "," in artist) else ""
             other += "Pink, " if (artist == "P!nk") else ""
             other += "The Red Hot Chili Peppers, " if ("Red Hot Chili" in artist) else ""
