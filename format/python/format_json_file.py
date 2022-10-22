@@ -258,8 +258,6 @@ for song in songs:
                     except ValueError:
                         pass
 
-
-
                     try:
                         links += youtube_links(link, time_split[0])
                     except ValueError:
@@ -282,14 +280,14 @@ for song in songs:
 
                     instruments += "Harmonica," if ("Rein"  in line and instruments == "") else ""
                     instruments += " Harmonica," if ("Rein"  in line and "Harmonica" not in instruments) else ""
-
-                    instruments += "Blues Slide" if ("Blues Slide" in title or "Blues Slide" in appearances) else ""
-                    
+            
                     if ("(Electric riff)" not in line and "(Electric Song)" not in line
                         and "(Classical Guitar)" not in line and "(Mandolin)" not in line
                         and "Acoustic Guitar" not in instruments and "(H)" not in line
                         and "Electric Riff Session #" not in line):
                         instruments += "Acoustic Guitar,"
+
+                    instruments += " Blues Slide " if ("Blues Slide" in title or "Blues Slide" in appearances) else ""
  
         if (appearances.strip() != ""):
             song_info += "\n	{"
