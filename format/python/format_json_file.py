@@ -444,8 +444,8 @@ if open_repo.upper() in ["Y", "YES"]:
     Google.open("https://github.com/MichaelT-178/MichaelT-178.github.io")
     
 #Commands to add to Github
-# run_command.system('git add .')
-# run_command.system('git commit -m "Adding files"')
+run_command.system('git add .')
+run_command.system('git commit -m "Adding files"')
 run_command.system('git push')
 
 
