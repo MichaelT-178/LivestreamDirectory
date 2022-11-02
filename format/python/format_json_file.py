@@ -1,3 +1,8 @@
+"""
+This program reads the all-timestamps.txt file and writes
+the song information to the song_list.json file in json format.
+Performs error and format checking before writing to file.
+"""
 import threading as thread
 import json
 from time import time as the_time
@@ -61,7 +66,8 @@ def remove_from_no_repeats(no_repeats_list, item):
     return no_repeats_list
 
 def remove_no_repeat_add_keys(no_repeats_list, item, only_keys_list, line):
-    no_repeats = remove_from_no_repeats(no_repeats_list, item)
+    
+    remove_from_no_repeats(no_repeats_list, item)
     key_list = line.split("%!")
     only_keys_list.append(key_list[0])
     only_keys_list.append(key_list[1])
@@ -107,7 +113,7 @@ with open("../timestamps/all-timestamps.txt", "r") as afile:
             all_songs.append(split_line[0].strip())
         line_num += 1
 
-if (cap_error_found):
+if cap_error_found:
     print("\nGo fix capitalization and rerun\n")
     run_command.system(f'open -a "Visual Studio Code" ../timestamps/all-timestamps.txt')
     run_command._exit(0)
