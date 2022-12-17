@@ -4,8 +4,8 @@ let otherMatches = [];
 
 const searchSongs = async searchText => {
 
-    const res = await fetch('./json/song_list.json');
-    const songs = await res.json();
+    const response = await fetch('./json/song_list.json');
+    const songs = await response.json();
 
     let matches = songs.filter(song => {
         const regex = searchText.toLowerCase().trim();
@@ -72,7 +72,7 @@ matchList.addEventListener('click', (e) => {
         localStorage.setItem("theInstruments", otherMatches[id].Instruments);
         localStorage.setItem("theImage", otherMatches[id].Image);
         localStorage.setItem("theLinks", otherMatches[id].Links);
-        
+
         document.getElementById('search').value = "";
         document.getElementById('link').style.display = "flex";
         document.getElementById('helplink').style.display = "flex";
