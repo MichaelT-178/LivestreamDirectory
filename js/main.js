@@ -51,7 +51,9 @@ const outputHtml = matches => {
             </div>
 
         `).join('');
+
     matchList.innerHTML = html;
+    
   };
 };
 
