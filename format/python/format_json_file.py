@@ -347,6 +347,8 @@ for song in songs:
             other += artist.replace("Grey", "Gray") + ", " if ("Grey" in artist) else ""
             other += "I Am A Man of Constant Sorrow, " if ("Man Of Constant Sorrow" in title) else ""
             other += "Vincent (Starry, Starry Night), " if ("Vincent" == title) else ""
+            other += "Happy Christmas, " if ("Xmas" in title) else ""
+            other += "Merry Christmas, " if ("Xmas" in title) else ""
 
             other += artist.strip().replace(".", "").replace("'", "").replace("’", "") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
 

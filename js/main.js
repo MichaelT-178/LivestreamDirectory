@@ -37,9 +37,9 @@ const outputHtml = matches => {
        
         `<div class="card card-body mb-1" data-id="${i}">
         <a href="indexTwo.html" style="text-decoration:none;">
-            <button type="button"  style="background-color:#222; width: 100%; overflow: hidden;">
+            <button type="button"  style="background-color:#222; width: 100%; overflow: hidden;"> 
+            
 
-               
                 <h4>${match.Title} by <span class="text-primary">
                 ${match.Artist}</span></h4>
                 <small style="color:#FFFFFF">Instruments: ${match.Instruments} / Other Artists: 
@@ -56,6 +56,9 @@ const outputHtml = matches => {
     
   };
 };
+
+// Line 40. Code below will make button invisible 
+//<button type="button" style="background:transparent; border:none; color:transparent; width: 100%; overflow: hidden;">
 
 outputHtml(otherMatches);
 
