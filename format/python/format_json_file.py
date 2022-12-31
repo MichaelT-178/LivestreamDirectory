@@ -406,6 +406,7 @@ song_info += "\n]"
 run_command.chdir('../')
 
 with open('../json/song_list.json', 'w') as f:
+    f.write("/** This file was created by the format_json.py file. */\n")
     f.write(song_info)
 
 json_repeat.close()
@@ -415,6 +416,7 @@ all_the_artists.close()
 song_list = []
 
 with open('../json/song_list.json', 'r') as read_songs:
+    read_songs.readline()
     the_dict = json.load(read_songs)
 
     for song in the_dict:
