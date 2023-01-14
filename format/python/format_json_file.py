@@ -349,6 +349,8 @@ for song in songs:
             other += "Vincent (Starry, Starry Night), " if ("Vincent" == title) else ""
             other += "Happy Christmas, " if ("Xmas" in title) else ""
             other += "Merry Christmas, " if ("Xmas" in title) else ""
+            other += "Simon and Garfunkel, " if ("Simon & Gar" in artist) else ""
+            other += "Paul Simon, " if ("Simon & Gar" in artist) else ""
 
             other += artist.strip().replace(".", "").replace("'", "").replace("’", "") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
 
