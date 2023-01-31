@@ -395,7 +395,9 @@ for song in songs:
 
             if not file_exists:
                 print(colored("This artist needs a picture", 'red') + ": " + artist_pic)
-
+                print()
+                print(colored("ADD THIS ARTIST TO THE API SERVER", 'orange') + ": " + artist_pic)
+                
             run_command.chdir('../format/python')
 
             song_info += "\n			\"Image\": \"" + image[1:] + "\","
