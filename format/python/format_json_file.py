@@ -118,7 +118,8 @@ if cap_error_found:
     run_command.system(f'open -a "Visual Studio Code" ../timestamps/all-timestamps.txt')
     run_command._exit(0)
 
-song_info = "["
+song_info = "{"
+song_info += '\n	"songs":['
 
 ###############################################################################
 matches = []
@@ -295,7 +296,7 @@ for song in songs:
                     instruments += " Blues Slide " if ("Blues Slide" in title or "Blues Slide" in appearances) else ""
  
         if (appearances.strip() != ""):
-            song_info += "\n	{"
+            song_info += "\n		{"
             title = title.replace("(I)", "").replace("(H)", "").strip() #For Incubus wish you were Here and Harmonica only
             title = "Intro “Out of the Mist”" if ("intro “out of the mist”" in title.lower()) else title
             other = ""
@@ -309,14 +310,14 @@ for song in songs:
 
             the_title = title.replace("(Classical Guitar)", "").replace("(Mandolin)", "").replace("(Electric Song)", "").replace("(12/twelve String)","").strip()
 
-            song_info += "\n		\"Title\": \"" + the_title + "\","
+            song_info += "\n			\"Title\": \"" + the_title + "\","
         
             all_artists = artist.replace("/", ",").split(",") if ("Yusuf" not in artist and "," not in artist or "Eurythmics" in artist and "AC/DC" not in artist) else artist.split("&&&")
             artist = all_artists[0]
 
             artist = "AC/DC" if ("AC" in artist) else artist
 
-            song_info += "\n		\"Artist\": \"" + artist + "\","
+            song_info += "\n			\"Artist\": \"" + artist + "\","
 
             other_artists = ""
 
@@ -325,9 +326,9 @@ for song in songs:
 
             other_artists = "" if (artist == "AC/DC") else other_artists
 
-            song_info += "\n		\"Other_Artists\": \"" + other_artists[:-2].strip().replace("  ", " ") + "\","
+            song_info += "\n			\"Other_Artists\": \"" + other_artists[:-2].strip().replace("  ", " ") + "\","
         
-            song_info += "\n		\"Appearances\": \"" + appearances[:-1] + "\","
+            song_info += "\n			\"Appearances\": \"" + appearances[:-1] + "\","
 
             other += title.replace("É", "E").replace("í", "i").replace("é", "e").replace("á","a").replace("à", "a").replace("Á", "A") + ", " if (not title.isascii()) else ""
             other += title.replace("'","").replace(r_slash,"").replace(" & ", " and ").replace("-", " ").replace(",", "").replace(".","") + ", " if ("'" in title or "\"" in title or "&" in title or "-" in title or "," in title) else ""
@@ -358,11 +359,11 @@ for song in songs:
 
             other += "ACDC, " if (artist == "AC/DC") else ""
 
-            song_info += "\n		\"Other\": \"" + other[:-2].replace("  ", " ") + "\","
+            song_info += "\n			\"Other\": \"" + other[:-2].replace("  ", " ") + "\","
 
             instrument = instruments if (len(instruments.split(",")) == 1) else instruments[:-1]
 
-            song_info += "\n		\"Instruments\": \"" + instrument + "\","
+            song_info += "\n			\"Instruments\": \"" + instrument + "\","
 
             has_accent = ['Édith Piaf','Agustín Barrios Mangoré','Beyoncé, JAY-Z','Francisco Tárrega']
 
@@ -397,13 +398,14 @@ for song in songs:
 
             run_command.chdir('../format/python')
 
-            song_info += "\n		\"Image\": \"" + image[1:] + "\","
-            song_info += "\n		\"Links\": \"" + links[:-3] + "\"" 
-            song_info += "\n	},"
+            song_info += "\n			\"Image\": \"" + image[1:] + "\","
+            song_info += "\n			\"Links\": \"" + links[:-3] + "\"" 
+            song_info += "\n		},"
 
 
 song_info = song_info[:-1]
-song_info += "\n]"
+song_info += "\n	]"
+song_info += "\n}"
 
 run_command.chdir('../')
 
@@ -419,7 +421,7 @@ song_list = []
 with open('../json/song_list.json', 'r') as read_songs:
     the_dict = json.load(read_songs)
 
-    for song in the_dict:
+    for song in the_dict['songs']:
         song_list.append(song["Title"] + " by " + song["Artist"])
 
 letter = "A"

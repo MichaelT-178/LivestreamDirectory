@@ -5,7 +5,8 @@ let otherMatches = [];
 const searchSongs = async searchText => {
 
     const response = await fetch('./json/song_list.json');
-    const songs = await response.json();
+    const JSONdata = await response.json();
+    const songs = JSONdata['songs'];
 
     let matches = songs.filter(song => {
         const regex = searchText.toLowerCase().trim();
