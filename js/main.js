@@ -4,7 +4,7 @@ let otherMatches = [];
 
 const searchSongs = async searchText => {
 
-    const response = await fetch('./json/song_list.json');
+    const response = await fetch('./json/database/song_list.json');
     const JSONdata = await response.json();
     const songs = JSONdata['songs'];
 

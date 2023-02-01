@@ -11,6 +11,9 @@ import os as run_command
 import webbrowser as Google
 from os.path import exists
 
+# To see API json server
+# cd LivestreamDirectory/json 
+# npm start 
 print(colored("REMEBER TO ADD THE YOUTUBE LINK", "magenta"))
 open_timestamps = input("Do you want to open the \"all-timestamps.txt\" file? : ")
 
@@ -411,7 +414,7 @@ song_info += "\n}"
 
 run_command.chdir('../')
 
-with open('../json/song_list.json', 'w') as f:
+with open('../json/database/song_list.json', 'w') as f:
     f.write(song_info)
 
 json_repeat.close()
@@ -420,7 +423,7 @@ all_the_artists.close()
 
 song_list = []
 
-with open('../json/song_list.json', 'r') as read_songs:
+with open('../json/database/song_list.json', 'r') as read_songs:
     the_dict = json.load(read_songs)
 
     for song in the_dict['songs']:
@@ -449,7 +452,7 @@ print()
 run_command.chdir('../')
 
 if question.upper().strip() in ["Y", "YES"]:
-    filename = "json/song_list.json"
+    filename = "json/database/song_list.json"
     run_command.system(f'open -a "Visual Studio Code" {filename}')
 
 open_repo = input("Do you want to open the Github Repository? : ")

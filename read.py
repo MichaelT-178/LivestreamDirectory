@@ -1,7 +1,7 @@
 import os; os.system('clear')
 import json
 
-with open("/Users/michaeltotaro/LivestreamDirectory/json/song_list.json") as file:
+with open("/Users/michaeltotaro/LivestreamDirectory/json/database/song_list.json") as file:
     #for line in file:
     f = json.load(file)
     
