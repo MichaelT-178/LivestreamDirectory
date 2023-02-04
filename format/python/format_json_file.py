@@ -14,6 +14,7 @@ from os.path import exists
 # To see API json server
 # cd LivestreamDirectory/json 
 # npm start 
+# http://localhost:3000/songs
 print(colored("REMEBER TO ADD THE YOUTUBE LINK", "magenta"))
 open_timestamps = input("Do you want to open the \"all-timestamps.txt\" file? : ")
 
@@ -399,7 +400,7 @@ for song in songs:
             if not file_exists:
                 print(colored("This artist needs a picture", 'red') + ": " + artist_pic)
                 print()
-                print(colored("ADD THIS ARTIST TO THE API SERVER", 'orange') + ": " + artist_pic)
+                print(colored("ADD THIS ARTIST TO THE API SERVER", 'cyan') + ": " + artist_pic)
                 
             run_command.chdir('../format/python')
 
