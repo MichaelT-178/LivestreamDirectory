@@ -13,9 +13,7 @@ window.addEventListener('load', () => {
 
     document.getElementById('result-title').innerText = ": " + theTitle;
     document.getElementById('result-artist').innerText = ": " + artist;
-    display_other_art = ": " + (other_artists || "N/A");
-
-    document.getElementById('result-otherart').innerText = display_other_art;
+    document.getElementById('result-otherart').innerText = ": " + (other_artists || "N/A");
     document.getElementById('result-instruments').innerText = ": " + instruments;
     
     const mediaQuery = window.matchMedia('(min-device-width: 375px) and (max-device-width: 812px)');
