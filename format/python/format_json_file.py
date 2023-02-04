@@ -42,6 +42,11 @@ def youtube_links(video_id, time):
     seconds = t[1] + (t[0] * 60) if (len(t) == 2) else t[2] + (t[1] * 60) + (t[0] * 3600)
     return f"https://youtu.be/{video_id}?t={seconds} , " 
 
+def new_youtube_links(video_id, time):
+    t = [int(x) for x in time.split(":")]
+    seconds = t[1] + (t[0] * 60) if (len(t) == 2) else t[2] + (t[1] * 60) + (t[0] * 3600)
+    return f"https://www.youtube.com/live/{video_id}&t={seconds} , " 
+
 json_repeat = open("../json_files/no_repeats.json", 'r')
 json_keys = open("../json_files/only_with_keys.json", 'r')
 all_the_artists = open("../json_files/artists.json", 'r')
@@ -228,7 +233,7 @@ for song in songs:
                 ls_num = line.strip()
 
             if "https" in line:
-                link = line.strip().split("/")[3]
+                link = line.strip().split("/")[-1] #was 3
 
 
             if (len(line.rsplit(" by ", 1)) == 2):
@@ -269,7 +274,7 @@ for song in songs:
                         pass
 
                     try:
-                        links += youtube_links(link, time_split[0])
+                        links += new_youtube_links(link, time_split[0]) if ("share" in link) else youtube_links(link, time_split[0])
                     except ValueError:
                         print(colored("YOUTUBE LINK DIDN'T WORK RIGHT",'red'))
 
