@@ -41,7 +41,7 @@ def youtube_links(video_id, time):
     t = [int(x) for x in time.split(":")]
     seconds = t[1] + (t[0] * 60) if (len(t) == 2) else t[2] + (t[1] * 60) + (t[0] * 3600)
 
-    if ("share" in video_id): #Youtube updated their livestream links. 2/3/23
+    if "share" in video_id: #Youtube changed their livestream links. 2/3/23
         return f"https://www.youtube.com/live/{video_id}&t={seconds} , " 
 
     return f"https://youtu.be/{video_id}?t={seconds} , " 
@@ -360,6 +360,8 @@ for song in songs:
             other += "Merry Christmas, " if ("Xmas" in title) else ""
             other += "Simon and Garfunkel, " if ("Simon & Gar" in artist) else ""
             other += "Paul Simon, " if ("Simon & Gar" in artist) else ""
+            other += "Bubble, " if ("Bublé" in artist) else ""
+            other += "Buble, " if ("Bublé" in artist) else ""
 
             other += artist.strip().replace(".", "").replace("'", "").replace("’", "") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
 

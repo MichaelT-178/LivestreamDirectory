@@ -1,13 +1,17 @@
 const search = document.getElementById('search');
 const matchList = document.getElementById('match-list');
 let otherMatches = [];
+let JSONdata;
+let songs;
+
+const getSongs = async () => {
+    const response = await fetch('./json/database/song_list.json');
+    JSONdata = await response.json();
+    songs = JSONdata['songs'];
+};
 
 const searchSongs = async searchText => {
-
-    const response = await fetch('./json/database/song_list.json');
-    const JSONdata = await response.json();
-    const songs = JSONdata['songs'];
-
+    
     let matches = songs.filter(song => {
         const regex = searchText.toLowerCase().trim();
         return song.Title.toLowerCase().match(regex) || song.Artist.toLowerCase().match(regex) || 
@@ -85,4 +89,5 @@ matchList.addEventListener('click', (e) => {
     };
 });
 
+window.addEventListener('DOMContentLoaded', getSongs);
 search.addEventListener('input', () => searchSongs(search.value));
