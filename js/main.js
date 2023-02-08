@@ -1,6 +1,7 @@
 const search = document.getElementById('search');
 const matchList = document.getElementById('match-list');
 let otherMatches = [];
+
 let JSONdata;
 let songs;
 
@@ -11,12 +12,16 @@ const getSongs = async () => {
 };
 
 const searchSongs = async searchText => {
-    
+
     let matches = songs.filter(song => {
-        const regex = searchText.toLowerCase().trim();
-        return song.Title.toLowerCase().match(regex) || song.Artist.toLowerCase().match(regex) || 
-               song.Other_Artists.toLowerCase().match(regex) || song.Instruments.toLowerCase().match(regex) || 
-               song.Other.toLowerCase().match(regex);
+        //const regex = new RegExp(`${searchText.toLowerCase().trim()}`, 'gi')
+        const search = searchText.toLowerCase().trim();
+
+        return song.Title.toLowerCase().match(search) || 
+               song.Artist.toLowerCase().match(search) || 
+               song.Other_Artists.toLowerCase().match(search) || 
+               song.Instruments.toLowerCase().match(search) || 
+               song.Other.toLowerCase().match(search);
     });
     
     const l = document.getElementById('link');
