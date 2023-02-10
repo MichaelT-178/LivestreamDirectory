@@ -277,23 +277,23 @@ for song in songs:
                     except ValueError:
                         print(colored("YOUTUBE LINK DIDN'T WORK RIGHT",'red'))
 
-                    instruments += "Electric Guitar," if ("(Electric riff)" in line and instruments == "") else ""
+                    instruments += "Electric Guitar, " if ("(Electric riff)" in line and instruments == "") else ""
                     instruments += " Electric Guitar," if ("(Electric riff)" in line and "Electric Guitar" not in instruments) else ""
                     
-                    instruments += "Electric Guitar," if ("Electric Riff Session #" in line and instruments == "") else ""
-                    instruments += " Electric Guitar," if ("Electric Riff Session #" in line and "Electric Guitar" not in instruments) else ""
+                    instruments += "Electric Guitar, " if ("Electric Riff Session #" in line and instruments == "") else ""
+                    instruments += " Electric Guitar, " if ("Electric Riff Session #" in line and "Electric Guitar" not in instruments) else ""
                     
-                    instruments += "Electric Guitar," if ("(Electric Song)" in line and instruments == "") else ""
-                    instruments += " Electric Guitar," if ("(Electric Song)" in line and "Electric Guitar" not in instruments) else ""
+                    instruments += "Electric Guitar, " if ("(Electric Song)" in line and instruments == "") else ""
+                    instruments += " Electric Guitar, " if ("(Electric Song)" in line and "Electric Guitar" not in instruments) else ""
                    
-                    instruments += "Classical Guitar," if ("(Classical Guitar)" in line and instruments == "") else ""
-                    instruments += " Classical Guitar," if ("(Classical Guitar)" in line and "Classical Guitar" not in instruments) else ""
+                    instruments += "Classical Guitar, " if ("(Classical Guitar)" in line and instruments == "") else ""
+                    instruments += " Classical Guitar, " if ("(Classical Guitar)" in line and "Classical Guitar" not in instruments) else ""
 
-                    instruments += "Mandolin," if ("(Mandolin)"  in line and instruments == "") else ""
-                    instruments += " Mandolin," if ("(Mandolin)"  in line and "Mandolin" not in instruments) else ""
+                    instruments += "Mandolin, " if ("(Mandolin)"  in line and instruments == "") else ""
+                    instruments += " Mandolin, " if ("(Mandolin)"  in line and "Mandolin" not in instruments) else ""
 
-                    instruments += "Harmonica," if ("Rein"  in line and instruments == "") else ""
-                    instruments += " Harmonica," if ("Rein"  in line and "Harmonica" not in instruments) else ""
+                    instruments += "Harmonica, " if ("Rein"  in line and instruments == "") else ""
+                    instruments += " Harmonica, " if ("Rein"  in line and "Harmonica" not in instruments) else ""
             
                     if ("(Electric riff)" not in line and "(Electric Song)" not in line
                         and "(Classical Guitar)" not in line and "(Mandolin)" not in line
@@ -443,7 +443,7 @@ for a_song in sorted(song_list):
     if (a_song[0].upper() != letter and len(alphabet_list) > 0):
         letter = a_song[0].upper()
         alphabet_list.append("")
-        
+
     r_slash = r"\""
     alphabet_list.append(a_song.replace('"', r_slash))
 
