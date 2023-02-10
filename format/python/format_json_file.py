@@ -278,7 +278,7 @@ for song in songs:
                         print(colored("YOUTUBE LINK DIDN'T WORK RIGHT",'red'))
 
                     instruments += "Electric Guitar, " if ("(Electric riff)" in line and instruments == "") else ""
-                    instruments += " Electric Guitar," if ("(Electric riff)" in line and "Electric Guitar" not in instruments) else ""
+                    instruments += " Electric Guitar, " if ("(Electric riff)" in line and "Electric Guitar" not in instruments) else ""
                     
                     instruments += "Electric Guitar, " if ("Electric Riff Session #" in line and instruments == "") else ""
                     instruments += " Electric Guitar, " if ("Electric Riff Session #" in line and "Electric Guitar" not in instruments) else ""
@@ -299,7 +299,7 @@ for song in songs:
                         and "(Classical Guitar)" not in line and "(Mandolin)" not in line
                         and "Acoustic Guitar" not in instruments and "(H)" not in line
                         and "Electric Riff Session #" not in line):
-                        instruments += "Acoustic Guitar,"
+                        instruments += "Acoustic Guitar, "
 
                     instruments += " Blues Slide " if ("Blues Slide" in title or "Blues Slide" in appearances) else ""
  
@@ -371,7 +371,7 @@ for song in songs:
 
             song_info += "\n			\"Other\": \"" + other[:-2].replace("  ", " ") + "\","
 
-            instrument = instruments if (len(instruments.split(",")) == 1) else instruments[:-1]
+            instrument = instruments.strip()[:-1]
 
             song_info += "\n			\"Instruments\": \"" + instrument + "\","
 
