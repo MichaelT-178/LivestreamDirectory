@@ -16,7 +16,7 @@ document.getElementById('form').addEventListener('submit', function(event) {
       "<span id='sent'> "+  
       "Email sent succesfully!</span>";
       
-      setTimeout(function () {
+      setTimeout( () => {
         SentOrNot.innerHTML = '';
         btn.value = 'Send Email';
       }, 3500); 

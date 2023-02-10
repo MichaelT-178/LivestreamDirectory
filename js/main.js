@@ -27,8 +27,9 @@ const searchSongs = async searchText => {
     const l = document.getElementById('link');
     const l2 = document.getElementById('helplink');
 
-    l.style.display =  (matches.length === 0 || searchText.length === 0) ? "flex" : "none";
-    l2.style.display = (matches.length === 0 || searchText.length === 0) ? "flex" : "none";
+    //Hides the "Contact the developer" and "help" button when searching
+    l.style.display  = matches.length === 0 || searchText.length === 0 ? "flex" : "none";
+    l2.style.display = matches.length === 0 || searchText.length === 0 ? "flex" : "none";
 
     if (searchText.length === 0 || matches.length === 0) {
         matches = [];
@@ -69,8 +70,6 @@ const outputHtml = matches => {
 
 // Line 40. Code below will make button invisible 
 //<button type="button" style="background:transparent; border:none; color:transparent; width: 100%; overflow: hidden;">
-
-outputHtml(otherMatches);
 
 matchList.addEventListener('click', (e) => {
     const button = e.target.closest('button');

@@ -443,6 +443,7 @@ for a_song in sorted(song_list):
     if (a_song[0].upper() != letter and len(alphabet_list) > 0):
         letter = a_song[0].upper()
         alphabet_list.append("")
+        
     r_slash = r"\""
     alphabet_list.append(a_song.replace('"', r_slash))
 

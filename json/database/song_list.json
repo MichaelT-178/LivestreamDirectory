@@ -1,6 +1,76 @@
 {
 	"songs":[
 		{
+			"Title": "Electric Riff Session #1",
+			"Artist": "Various Artists",
+			"Other_Artists": "",
+			"Appearances": "Livestream 30",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Various Artists.jpg",
+			"Links": "https://youtu.be/9zUVfKZrSGs?t=6901"
+		},
+		{
+			"Title": "Electric Riff Session #2",
+			"Artist": "Various Artists",
+			"Other_Artists": "",
+			"Appearances": "Livestream 40",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Various Artists.jpg",
+			"Links": "https://youtu.be/AraZ934iGwQ?t=6516"
+		},
+		{
+			"Title": "Electric Riff Session #3",
+			"Artist": "Various Artists",
+			"Other_Artists": "",
+			"Appearances": "Livestream 47",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Various Artists.jpg",
+			"Links": "https://youtu.be/biTNdO9Z6Y8?t=8081"
+		},
+		{
+			"Title": "Electric Riff Session #4",
+			"Artist": "Various Artists",
+			"Other_Artists": "",
+			"Appearances": "Livestream 50",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Various Artists.jpg",
+			"Links": "https://youtu.be/WGGj7qyf4pA?t=7164"
+		},
+		{
+			"Title": "Electric Riff Session #5",
+			"Artist": "Various Artists",
+			"Other_Artists": "",
+			"Appearances": "Livestream 57",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Various Artists.jpg",
+			"Links": "https://youtu.be/MhNKFJxwK8g?t=7647"
+		},
+		{
+			"Title": "Electric Riff Session #6",
+			"Artist": "Various Artists",
+			"Other_Artists": "",
+			"Appearances": "Livestream 71",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Various Artists.jpg",
+			"Links": "https://youtu.be/sfTsmIo6Ybo?t=6310"
+		},
+		{
+			"Title": "Electric Riff Session #7",
+			"Artist": "Various Artists",
+			"Other_Artists": "",
+			"Appearances": "Livestream 81",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Various Artists.jpg",
+			"Links": "https://youtu.be/0vseNNLzOWY?t=7152"
+		},
+		{
 			"Title": "Way to the Sea",
 			"Artist": "Corey Heuvel",
 			"Other_Artists": "",
@@ -2401,16 +2471,6 @@
 			"Links": "https://youtu.be/9zUVfKZrSGs?t=5910 , https://youtu.be/__nszU6iOlM?t=4911"
 		},
 		{
-			"Title": "Electric Riff Session #1",
-			"Artist": "Various Artists",
-			"Other_Artists": "",
-			"Appearances": "Livestream 30",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Various Artists.jpg",
-			"Links": "https://youtu.be/9zUVfKZrSGs?t=6901"
-		},
-		{
 			"Title": "Thunderstruck (Electric riff)",
 			"Artist": "AC/DC",
 			"Other_Artists": "",
@@ -3291,16 +3351,6 @@
 			"Links": "https://youtu.be/AraZ934iGwQ?t=5726 , https://youtu.be/lfZRI_tmFH8?t=1345 , https://youtu.be/Lpcd7ALm6r4?t=1509"
 		},
 		{
-			"Title": "Electric Riff Session #2",
-			"Artist": "Various Artists",
-			"Other_Artists": "",
-			"Appearances": "Livestream 40",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Various Artists.jpg",
-			"Links": "https://youtu.be/AraZ934iGwQ?t=6516"
-		},
-		{
 			"Title": "Hot for Teacher (Electric riff)",
 			"Artist": "Van Halen",
 			"Other_Artists": "",
@@ -3831,16 +3881,6 @@
 			"Links": "https://youtu.be/biTNdO9Z6Y8?t=4544"
 		},
 		{
-			"Title": "Electric Riff Session #3",
-			"Artist": "Various Artists",
-			"Other_Artists": "",
-			"Appearances": "Livestream 47",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Various Artists.jpg",
-			"Links": "https://youtu.be/biTNdO9Z6Y8?t=8081"
-		},
-		{
 			"Title": "Eugene's Trick Bag (Electric riff)",
 			"Artist": "Steve Vai",
 			"Other_Artists": "",
@@ -4179,16 +4219,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Trans Siberian Orchestra.jpg",
 			"Links": "https://youtu.be/WGGj7qyf4pA?t=4118"
-		},
-		{
-			"Title": "Electric Riff Session #4",
-			"Artist": "Various Artists",
-			"Other_Artists": "",
-			"Appearances": "Livestream 50",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Various Artists.jpg",
-			"Links": "https://youtu.be/WGGj7qyf4pA?t=7164"
 		},
 		{
 			"Title": "Stranglehold (Electric riff)",
@@ -4731,16 +4761,6 @@
 			"Links": "https://youtu.be/MhNKFJxwK8g?t=6660"
 		},
 		{
-			"Title": "Electric Riff Session #5",
-			"Artist": "Various Artists",
-			"Other_Artists": "",
-			"Appearances": "Livestream 57",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Various Artists.jpg",
-			"Links": "https://youtu.be/MhNKFJxwK8g?t=7647"
-		},
-		{
 			"Title": "Purple Haze",
 			"Artist": "Jimi Hendrix",
 			"Other_Artists": "",
@@ -5271,16 +5291,6 @@
 			"Links": "https://youtu.be/sfTsmIo6Ybo?t=5105 , https://youtu.be/4MsSeM9AR60?t=4467 , https://youtu.be/yT-ZTr6ntP4?t=7529 , https://youtu.be/6Yy57i8sR0s?t=2756"
 		},
 		{
-			"Title": "Electric Riff Session #6",
-			"Artist": "Various Artists",
-			"Other_Artists": "",
-			"Appearances": "Livestream 71",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Various Artists.jpg",
-			"Links": "https://youtu.be/sfTsmIo6Ybo?t=6310"
-		},
-		{
 			"Title": "Erotic Nightmares (Electric riff)",
 			"Artist": "Steve Vai",
 			"Other_Artists": "",
@@ -5659,16 +5669,6 @@
 			"Instruments": "Electric Guitar,Acoustic Guitar",
 			"Image": "./pics/Nirvana.jpg",
 			"Links": "https://youtu.be/AraZ934iGwQ?t=6714 , https://youtu.be/0vseNNLzOWY?t=5260 , https://youtu.be/Qh8m_ldN2zw?t=7124"
-		},
-		{
-			"Title": "Electric Riff Session #7",
-			"Artist": "Various Artists",
-			"Other_Artists": "",
-			"Appearances": "Livestream 81",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Various Artists.jpg",
-			"Links": "https://youtu.be/0vseNNLzOWY?t=7152"
 		},
 		{
 			"Title": "My Head's in Mississippi (Electric riff)",
