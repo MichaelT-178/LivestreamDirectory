@@ -10,6 +10,7 @@ window.addEventListener('load', () => {
     const theLinks = localStorage.getItem("theLinks");
 
     theTitle = title.replace(" (Classical Guitar)", "").replace(" (Electric Song)", "");
+    theTitle += title.includes("Session #") ? " (Check comments for full timestamp)" : "";
 
     document.getElementById('result-title').innerText = ": " + theTitle;
     document.getElementById('result-artist').innerText = ": " + artist;
