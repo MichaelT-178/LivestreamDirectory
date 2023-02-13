@@ -33,7 +33,7 @@ const searchSongs = async searchText => {
 
     if (searchText.length === 0 || matches.length === 0) {
         matches = [];
-        const thehtml = 'No results for: "' + searchText + '"';
+        const thehtml = `No results for: "${searchText}"`;
         matchList.innerText = (searchText === "") ? '' : thehtml;
     };
 
