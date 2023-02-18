@@ -704,11 +704,11 @@
 			"Title": "Don't You Worry 'Bout A Thing",
 			"Artist": "Stevie Wonder",
 			"Other_Artists": "",
-			"Appearances": "Solo Video,Livestream 36,Livestream 67,Livestream 71,Livestream 103,Livestream 111,Livestream 119",
+			"Appearances": "Solo Video,Livestream 36,Livestream 67,Livestream 71,Livestream 103,Livestream 111,Livestream 119,Livestream 146",
 			"Other": "Dont You Worry Bout A Thing, Don’t You Worry ’Bout A Thing",
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Stevie Wonder.jpg",
-			"Links": "https://youtu.be/Pjvmv5vQsy4?t=0 , https://youtu.be/bszf3Megxhc?t=9515 , https://youtu.be/Xp03EMAOTCg?t=1289 , https://youtu.be/sfTsmIo6Ybo?t=7554 , https://youtu.be/0W8Q-hGHd80?t=6974 , https://youtu.be/7ub_S5Kx-wA?t=3798 , https://youtu.be/EAYQjuMqF1U?t=4859"
+			"Links": "https://youtu.be/Pjvmv5vQsy4?t=0 , https://youtu.be/bszf3Megxhc?t=9515 , https://youtu.be/Xp03EMAOTCg?t=1289 , https://youtu.be/sfTsmIo6Ybo?t=7554 , https://youtu.be/0W8Q-hGHd80?t=6974 , https://youtu.be/7ub_S5Kx-wA?t=3798 , https://youtu.be/EAYQjuMqF1U?t=4859 , https://youtu.be/8jK6wYjrnw4?t=6328"
 		},
 		{
 			"Title": "Ordinary Girl",
@@ -1941,11 +1941,11 @@
 			"Links": "https://youtu.be/RipA8bRdIbI?t=1703 , https://youtu.be/5yvoFRB-OAE?t=5444 , https://youtu.be/T6ydeqXOIvk?t=6243 , https://youtu.be/biTNdO9Z6Y8?t=5789 , https://youtu.be/WGGj7qyf4pA?t=1718 , https://youtu.be/CxcBGVkfVMc?t=4176 , https://youtu.be/qfsm5R2EeOU?t=8476 , https://youtu.be/4MsSeM9AR60?t=10115 , https://youtu.be/U1AhJr6L5SU?t=8254 , https://youtu.be/S0H-UbV9G48?t=7125 , https://youtu.be/HTJSoHhm7aY?t=5139 , https://youtu.be/0W8Q-hGHd80?t=8250 , https://youtu.be/PvNuNSk9iPM?t=4921 , https://youtu.be/dWIijDnVkho?t=9994 , https://youtu.be/8jK6wYjrnw4?t=2117"
 		},
 		{
-			"Title": "Ball-peen Hammer",
+			"Title": "Ball Peen Hammer",
 			"Artist": "Chris Whitley",
 			"Other_Artists": "",
 			"Appearances": "Livestream 25",
-			"Other": "Ball peen Hammer",
+			"Other": "",
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Chris Whitley.jpg",
 			"Links": "https://youtu.be/RipA8bRdIbI?t=4051"
@@ -7049,16 +7049,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/The Beatles.jpg",
 			"Links": "https://youtu.be/8jK6wYjrnw4?t=5657"
-		},
-		{
-			"Title": "Don't You Worry ‘Bout A Thing",
-			"Artist": "Stevie Wonder",
-			"Other_Artists": "",
-			"Appearances": "Livestream 146",
-			"Other": "Don't You Worry ‘Bout A Thing, Dont You Worry ‘Bout A Thing, Don’t You Worry ‘Bout A Thing",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/Stevie Wonder.jpg",
-			"Links": "https://youtu.be/8jK6wYjrnw4?t=6328"
 		},
 		{
 			"Title": "So Real",
