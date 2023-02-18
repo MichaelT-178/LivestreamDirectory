@@ -4,7 +4,6 @@ window.addEventListener('load', () => {
     const artist = localStorage.getItem("theArtist");
     const other_artists = localStorage.getItem("theOtherArt");
     const appears = localStorage.getItem("Appears");
-
     const instruments = localStorage.getItem("theInstruments");
     const image = localStorage.getItem("theImage");
     const theLinks = localStorage.getItem("theLinks");
