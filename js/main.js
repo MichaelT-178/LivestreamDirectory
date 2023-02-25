@@ -68,7 +68,7 @@ const outputHtml = matches => {
   };
 };
 
-// Line 40. Code below will make button invisible 
+// Line 51. Code below will make button invisible 
 //<button type="button" style="background:transparent; border:none; color:transparent; width: 100%; overflow: hidden;">
 
 matchList.addEventListener('click', (e) => {
