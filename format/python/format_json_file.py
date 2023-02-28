@@ -11,10 +11,6 @@ import os as run_command
 import webbrowser as Google
 from os.path import exists
 
-# To see API json server
-# cd LivestreamDirectory/json 
-# npm start 
-# http://localhost:3000/songs
 print(colored("REMEBER TO ADD THE YOUTUBE LINK", "magenta"))
 open_timestamps = input("Do you want to open the \"all-timestamps.txt\" file? : ")
 
