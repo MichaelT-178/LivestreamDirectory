@@ -359,12 +359,13 @@ for song in songs:
             other += "Bubble, " if ("Bublé" in artist) else ""
             other += "Buble, " if ("Bublé" in artist) else ""
 
-            other += artist.strip().replace(".", "").replace("'", "").replace("’", "") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
-
-            other += artist.replace('É', 'E').replace('í', 'i').replace('é','e').replace('á','a') + ", " if ('É' in artist or 'í' in artist or 'é' in artist or 'á' in artist) else ""
-
             other += "ACDC, " if (artist == "AC/DC") else ""
+            other += "The Dire Straits, " if (artist == "Dire Straits") else ""
+            other += "The Eagles, " if (artist == "Joe Walsh") else ""
 
+            other += artist.strip().replace(".", "").replace("'", "").replace("’", "") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
+            other += artist.replace('É', 'E').replace('í', 'i').replace('é','e').replace('á','a') + ", " if ('É' in artist or 'í' in artist or 'é' in artist or 'á' in artist) else ""
+            
             song_info += "\n			\"Other\": \"" + other[:-2].replace("  ", " ") + "\","
 
             instrument = instruments.strip()[:-1]
