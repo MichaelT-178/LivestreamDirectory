@@ -7,15 +7,15 @@ import threading as thread
 import json
 from time import time as the_time
 from termcolor import colored # https://pypi.org/project/termcolor/
-import os as run_command
 import webbrowser as Google
+import os
 from os.path import exists
 
 print(colored("REMEBER TO ADD THE YOUTUBE LINK", "magenta"))
 open_timestamps = input("Do you want to open the \"all-timestamps.txt\" file? : ")
 
 if open_timestamps.upper() in ['Y', "YES"]:
-    run_command.system(f'open -a "Visual Studio Code" ../timestamps/all-timestamps.txt')
+    os.system(f'open -a "Visual Studio Code" ../timestamps/all-timestamps.txt')
     exit()
     
 start_time = the_time()
@@ -37,7 +37,7 @@ def youtube_links(video_id, time):
     t = [int(x) for x in time.split(":")]
     seconds = t[1] + (t[0] * 60) if (len(t) == 2) else t[2] + (t[1] * 60) + (t[0] * 3600)
 
-    if "share" in video_id: #Youtube changed their livestream links. 2/3/23
+    if "share" in video_id: # Youtube changed their livestream links. 2/3/23
         return f"https://www.youtube.com/live/{video_id}&t={seconds} , " 
 
     return f"https://youtu.be/{video_id}?t={seconds} , " 
@@ -119,8 +119,8 @@ with open("../timestamps/all-timestamps.txt", "r") as afile:
 
 if cap_error_found:
     print("\nGo fix capitalization and rerun\n")
-    run_command.system(f'open -a "Visual Studio Code" ../timestamps/all-timestamps.txt')
-    run_command._exit(0)
+    os.system(f'open -a "Visual Studio Code" ../timestamps/all-timestamps.txt')
+    os._exit(0)
 
 song_info = "{"
 song_info += '\n	"songs":['
@@ -204,6 +204,9 @@ for a_song in songs:
     else:
         pass
 
+"""
+Main part of the program
+"""
 for song in songs:
     title = song.replace("’", "'")
     appearances = ""
@@ -397,7 +400,7 @@ for song in songs:
             
             image = f"../pics/{artist_pic}.jpg"
 
-            run_command.chdir('../')
+            os.chdir('../')
             file_exists = exists(image)
 
             if not file_exists:
@@ -405,7 +408,7 @@ for song in songs:
                 print()
                 print(colored("ADD THIS ARTIST TO THE API SERVER", 'cyan') + ": " + artist_pic)
                 
-            run_command.chdir('../format/python')
+            os.chdir('../format/python')
 
             song_info += "\n			\"Image\": \"" + image[1:] + "\","
             song_info += "\n			\"Links\": \"" + links[:-3] + "\"" 
@@ -416,7 +419,7 @@ song_info = song_info[:-1]
 song_info += "\n	]"
 song_info += "\n}"
 
-run_command.chdir('../')
+os.chdir('../')
 
 with open('../json/database/song_list.json', 'w') as f:
     f.write(song_info)
@@ -454,11 +457,11 @@ print(f"Program took {num} seconds to run.")
 question = input("\nDo you want to open the \"song_list.json\" file? : ")
 print()
 
-run_command.chdir('../')
+os.chdir('../')
 
 if question.upper().strip() in ["Y", "YES"]:
     filename = "json/database/song_list.json"
-    run_command.system(f'open -a "Visual Studio Code" {filename}')
+    os.system(f'open -a "Visual Studio Code" {filename}')
 
 open_repo = input("Do you want to open the Github Repository? : ")
 
@@ -466,8 +469,6 @@ if open_repo.upper() in ["Y", "YES"]:
     Google.open("https://github.com/MichaelT-178/MichaelT-178.github.io")
     
 #Commands to add to Github
-run_command.system('git add .')
-run_command.system('git commit -m "Adding files"')
-run_command.system('git push')
-
-
+os.system('git add .')
+os.system('git commit -m "Adding files"')
+os.system('git push')
