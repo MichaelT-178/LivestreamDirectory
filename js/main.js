@@ -21,7 +21,7 @@ const searchSongs = async searchText => {
 
         //Allows the user to look "Song by Artist". Ignore life by the drop, Train in Vain (Stand by Me),
         //Down by the River
-        if (searchText.includes(" by ") && !searchText.includes(" drop") && 
+        if (searchText.includes(" by") && !searchText.includes(" drop") && 
             !searchText.includes("vain") && !searchText.includes("by the River")) {
                 songText = searchText.split(" by ")[0]
                 artistText = searchText.split(" by ")[1]
