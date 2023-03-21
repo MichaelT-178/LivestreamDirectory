@@ -15,13 +15,31 @@ const searchSongs = async searchText => {
 
     let matches = songs.filter(song => {
         //const regex = new RegExp(`${searchText.toLowerCase().trim()}`, 'gi')
+
+        let songText = ""
+        let artistText = ""
+
+        //Allows the user to look "Song by Artist". Ignore life by the drop, Train in Vain (Stand by Me),
+        //Down by the River
+        if (searchText.includes(" by ") && !searchText.includes(" drop") && 
+            !searchText.includes("vain") && !searchText.includes("by the River")) {
+                songText = searchText.split(" by ")[0]
+                artistText = searchText.split(" by ")[1]
+        }
+
+
         const search = searchText.toLowerCase().trim();
 
-        return song.Title.toLowerCase().match(search) || 
+        return (song.Title.toLowerCase().match(search) || 
                song.Artist.toLowerCase().match(search) || 
                song.Other_Artists.toLowerCase().match(search) || 
                song.Instruments.toLowerCase().match(search) || 
-               song.Other.toLowerCase().match(search);
+               song.Other.toLowerCase().match(search)) || 
+
+               //Allows the user to look "Song by Artist". Example As by Stevie Wonder is now 
+               //easier to find. The double equals allows for ascii characters
+               ((song.Title.toLowerCase() == songText.toLowerCase()) || 
+               (song.Artist.toLowerCase() == artistText.toLowerCase()));
     });
     
     const l = document.getElementById('link');
