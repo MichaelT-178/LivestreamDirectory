@@ -337,7 +337,7 @@ for song in songs:
         
             song_info += "\n			\"Appearances\": \"" + appearances[:-1] + "\","
 
-            other += title.replace("É", "E").replace("í", "i").replace("é", "e").replace("á","a").replace("à", "a").replace("Á", "A") + ", " if (not title.isascii()) else ""
+            other += title.replace("É", "E").replace("í", "i").replace("é", "e").replace("á","a").replace("à", "a").replace("Á", "A").replace("ü", "u") + ", " if (not title.isascii()) else ""
             other += title.replace("'","").replace(r_slash,"").replace(" & ", " and ").replace("-", " ").replace(",", "").replace(".","") + ", " if ("'" in title or "\"" in title or "&" in title or "-" in title or "," in title) else ""
 
             other += title.replace(" and ", " & ") + ", " if ("and" in title) else ""
@@ -367,7 +367,7 @@ for song in songs:
             other += "The Eagles, " if (artist == "Joe Walsh") else ""
 
             other += artist.strip().replace(".", "").replace("'", "").replace("’", "") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
-            other += artist.replace('É', 'E').replace('í', 'i').replace('é','e').replace('á','a') + ", " if ('É' in artist or 'í' in artist or 'é' in artist or 'á' in artist) else ""
+            other += artist.replace('É', 'E').replace('í', 'i').replace('é','e').replace('á','a').replace("ü", "u") + ", " if ('É' in artist or 'í' in artist or 'é' in artist or 'á' in artist or "ü" in artist) else ""
             
             song_info += "\n			\"Other\": \"" + other[:-2].replace("  ", " ") + "\","
 
@@ -381,7 +381,7 @@ for song in songs:
                 print(colored("HAS ACCENT ", "cyan") + artist + ". Needs to be added to list manually!")
 
 
-            artist = artist.replace('É', 'E').replace('í', 'i').replace('é','e').replace('á','a').replace("/", ":")
+            artist = artist.replace('É', 'E').replace('í', 'i').replace('é','e').replace('á','a').replace("ü", "u").replace("/", ":")
             
             if artist.replace(":", "/").strip() not in artists_played:
                 print(colored("\nNEW ARTIST", 'magenta') + " \"" + artist + "\" written to file!")
