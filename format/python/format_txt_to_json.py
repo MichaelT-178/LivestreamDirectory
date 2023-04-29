@@ -460,8 +460,7 @@ print()
 os.chdir('../')
 
 if question.upper().strip() in ["Y", "YES"]:
-    filename = "json/database/song_list.json"
-    os.system(f'open -a "Visual Studio Code" {filename}')
+    os.system(f'open -a "Visual Studio Code" json/database/song_list.json')
 
 open_repo = input("Do you want to open the Github Repository? : ")
 
