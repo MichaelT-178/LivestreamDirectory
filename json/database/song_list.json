@@ -1941,6 +1941,16 @@
 			"Links": "https://youtu.be/3JWXUragzHc?t=0 , https://www.youtube.com/live/2xkUDe5ZndE?feature=share&t=4102"
 		},
 		{
+			"Title": "Couldn't Stand the Weather",
+			"Artist": "Stevie Ray Vaughan",
+			"Other_Artists": "",
+			"Appearances": "Solo Video,Livestream 112,Livestream 115,Livestream 120,Livestream 150,Livestream 158",
+			"Other": "Couldnt Stand the Weather, Couldn't Stand the Weather, Couldn’t Stand the Weather",
+			"Instruments": "Acoustic Guitar",
+			"Image": "./pics/Stevie Ray Vaughan.jpg",
+			"Links": "https://youtu.be/o4HIycpvIWs?t=0 , https://youtu.be/s6H9GdbDwbQ?t=5817 , https://youtu.be/PvNuNSk9iPM?t=3068 , https://youtu.be/HJpwaG3PP3E?t=1665 , https://www.youtube.com/live/GpaZbjokFec?feature=share&t=10475 , https://www.youtube.com/live/2xkUDe5ZndE?feature=share&t=2083"
+		},
+		{
 			"Title": "Green River",
 			"Artist": "Creedence Clearwater Revival",
 			"Other_Artists": "",
@@ -6399,16 +6409,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/John Prine.jpg",
 			"Links": "https://youtu.be/s6H9GdbDwbQ?t=3782"
-		},
-		{
-			"Title": "Couldn't Stand the Weather",
-			"Artist": "Stevie Ray Vaughan",
-			"Other_Artists": "",
-			"Appearances": "Livestream 112,Livestream 115,Livestream 120,Livestream 150,Livestream 158",
-			"Other": "Couldnt Stand the Weather, Couldn't Stand the Weather, Couldn’t Stand the Weather",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/Stevie Ray Vaughan.jpg",
-			"Links": "https://youtu.be/s6H9GdbDwbQ?t=5817 , https://youtu.be/PvNuNSk9iPM?t=3068 , https://youtu.be/HJpwaG3PP3E?t=1665 , https://www.youtube.com/live/GpaZbjokFec?feature=share&t=10475 , https://www.youtube.com/live/2xkUDe5ZndE?feature=share&t=2083"
 		},
 		{
 			"Title": "About A Girl",
