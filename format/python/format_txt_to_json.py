@@ -245,6 +245,7 @@ for song in songs:
                     real_title = real_title.replace("(Electric riff)", "").replace("(Classical Guitar)", "").replace("(Mandolin)", "").replace("(Electric Song)", "").replace("(12/twelve String)","").replace("(Partial)", "")
                 
                 title = title.replace(" (Classical Guitar)", "") if ("Fugue" in title) else title
+                title = title.replace(" (Classical Guitar)", "") if ("1006a" in title) else title
 
                 if title.lower().strip() == real_title.lower().strip(): 
                     artist = split_line[1].strip() if (len(split_line[1]) > len(artist)) else artist
