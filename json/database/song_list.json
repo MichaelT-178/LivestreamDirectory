@@ -704,11 +704,11 @@
 			"Title": "Don't You Worry 'Bout A Thing",
 			"Artist": "Stevie Wonder",
 			"Other_Artists": "",
-			"Appearances": "Solo Video,Livestream 36,Livestream 67,Livestream 71,Livestream 103,Livestream 111,Livestream 119,Livestream 146",
+			"Appearances": "Solo Video,Livestream 36,Livestream 67,Livestream 71,Livestream 103,Livestream 111,Livestream 119,Livestream 146,Livestream 162",
 			"Other": "Dont You Worry Bout A Thing, Don’t You Worry ’Bout A Thing",
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Stevie Wonder.jpg",
-			"Links": "https://youtu.be/Pjvmv5vQsy4?t=0 , https://youtu.be/bszf3Megxhc?t=9515 , https://youtu.be/Xp03EMAOTCg?t=1289 , https://youtu.be/sfTsmIo6Ybo?t=7554 , https://youtu.be/0W8Q-hGHd80?t=6974 , https://youtu.be/7ub_S5Kx-wA?t=3798 , https://youtu.be/EAYQjuMqF1U?t=4859 , https://youtu.be/8jK6wYjrnw4?t=6328"
+			"Links": "https://youtu.be/Pjvmv5vQsy4?t=0 , https://youtu.be/bszf3Megxhc?t=9515 , https://youtu.be/Xp03EMAOTCg?t=1289 , https://youtu.be/sfTsmIo6Ybo?t=7554 , https://youtu.be/0W8Q-hGHd80?t=6974 , https://youtu.be/7ub_S5Kx-wA?t=3798 , https://youtu.be/EAYQjuMqF1U?t=4859 , https://youtu.be/8jK6wYjrnw4?t=6328 , https://www.youtube.com/live/1HkYscBWtp8?feature=share&t=6758"
 		},
 		{
 			"Title": "Ordinary Girl",
@@ -7309,16 +7309,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Pink Floyd.jpg",
 			"Links": "https://www.youtube.com/live/1HkYscBWtp8?feature=share&t=5650"
-		},
-		{
-			"Title": "Don't You Worry ‘Bout A Thing",
-			"Artist": "Stevie Wonder",
-			"Other_Artists": "",
-			"Appearances": "Livestream 162",
-			"Other": "Don't You Worry ‘Bout A Thing, Dont You Worry ‘Bout A Thing, Don’t You Worry ‘Bout A Thing",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/Stevie Wonder.jpg",
-			"Links": "https://www.youtube.com/live/1HkYscBWtp8?feature=share&t=6758"
 		}
 	]
 }

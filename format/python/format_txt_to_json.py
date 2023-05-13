@@ -103,16 +103,16 @@ with open("../timestamps/all-timestamps.txt", "r") as afile:
             split_line = line.rsplit(" by ", 1)
             
             #Checks for capitalization error
-            if (split_line[0].strip().replace("’", "'").replace("’", "'") not in songs and 
-                split_line[0].strip().replace("’", "'").replace("’", "'").lower() in lower_songs):
-                print(colored("CAPITALIZATION ERROR: ", 'red') + "\"" + split_line[0].strip().replace("’", "'"), end="")
+            if (split_line[0].strip().replace("’", "'").replace("’", "'").replace("‘", "'") not in songs and 
+                split_line[0].strip().replace("’", "'").replace("’", "'").replace("‘", "'").lower() in lower_songs):
+                print(colored("CAPITALIZATION ERROR: ", 'red') + "\"" + split_line[0].strip().replace("’", "'").replace("‘", "'"), end="")
                 print("\" on Line " + str(line_num + 1))
                 cap_error_found = True
     
 
-            if split_line[0].strip().replace("’", "'") not in songs:
-                songs.append(split_line[0].strip().replace("’", "'"))
-                lower_songs.append(split_line[0].strip().replace("’", "'").lower())
+            if split_line[0].strip().replace("’", "'").replace("‘", "'") not in songs:
+                songs.append(split_line[0].strip().replace("’", "'").replace("‘", "'"))
+                lower_songs.append(split_line[0].strip().replace("’", "'").replace("‘", "'").lower())
 
             all_songs.append(split_line[0].strip())
         line_num += 1
@@ -208,7 +208,7 @@ for a_song in songs:
 Main part of the program
 """
 for song in songs:
-    title = song.replace("’", "'")
+    title = song.replace("’", "'").replace("‘", "'")
     appearances = ""
     instruments = ""
     artist = ""
@@ -222,7 +222,7 @@ for song in songs:
         #file.readline() #Ignores first line of file
         for line in file:
 
-            line = line.replace("’", "'")
+            line = line.replace("’", "'").replace("‘", "'")
 
             if "Livestream" in line:
                 ls_num = line.strip().replace("Livestream ", "")
@@ -370,7 +370,7 @@ for song in songs:
             if (artist == "Joe Walsh"): other += "The Eagles, " 
             if (artist == "Elliott Smith"): other += "Elliot , "
 
-            other += artist.strip().replace(".", "").replace("'", "").replace("’", "") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
+            other += artist.strip().replace(".", "").replace("'", "").replace("’", "").replace("‘", "'") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
             other += artist.replace('É', 'E').replace('í', 'i').replace('é','e').replace('á','a').replace("ü", "u") + ", " if ('É' in artist or 'í' in artist or 'é' in artist or 'á' in artist or "ü" in artist) else ""
             
             song_info += "\n			\"Other\": \"" + other[:-2].replace("  ", " ") + "\","
@@ -400,7 +400,7 @@ for song in songs:
                 if pic_question.upper() in ["Y", "YES"]:
                     exit()
 
-            artist_pic = artist.strip().replace(".", "").replace("'", "").replace("’", "")
+            artist_pic = artist.strip().replace(".", "").replace("'", "").replace("’", "").replace("‘", "'")
             
             image = f"../pics/{artist_pic}.jpg"
 
