@@ -1,4 +1,4 @@
-Control + g. Type 833 for stand alone Videos
+Control + g. Type 838 for stand alone Videos
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -836,6 +836,14 @@ Solo Video
 https://youtu.be/o4HIycpvIWs
 0:00 Couldn't Stand the Weather by Stevie Ray Vaughan
 
+Solo Video
+https://youtu.be/PbBTEPlz8mA
+0:00 Pray for the Moon by Corey Heuvel
+
+Solo Video (Live)
+https://youtu.be/Z9KyZZDQXyo
+0:00 Machine Gun by Jimi Hendrix
+
 Livestream 25
 https://youtu.be/RipA8bRdIbI
 2:11 Solsbury Hill by Peter Gabriel
@@ -1063,7 +1071,7 @@ Acoustic
 2:27:23 I Still Haven't Found What I'm Looking For by U2
 2:33:03 If It's Wrong (It's Alright) by Corey Heuvel
 2:38:15 Last Goodbye by Jeff Buckley
-2:43:54 Mr Brightside by The Killers
+2:43:54 Mr. Brightside by The Killers
 2:48:07 Ordinary Girl by Corey Heuvel
 2:53:51 Superstition by Stevie Wonder
 
@@ -1335,7 +1343,7 @@ https://youtu.be/gSqP0YvvvNY
 1:30:05 Pride and Joy by Stevie Ray Vaughan
 1:35:43 Never Going Back Again by Fleetwood Mac/Lindsey Buckingham
 1:39:21 Have a Cigar by Pink Floyd
-1:46:42 Mr Brightside by The Killers
+1:46:42 Mr. Brightside by The Killers
 1:51:03 The Simpson's Theme by Danny Elfman
 1:52:09 Crazy by Gnarls Barkley/Ray LaMontagne
 1:57:55 Crimson Fools by Corey Heuvel
@@ -2052,7 +2060,7 @@ Corey Heuvel's Set
 39:04 Dream Song by Scott Matthews
 47:10 Never Going Back Again by Fleetwood Mac
 52:38 As by Stevie Wonder
-58:32 Mr Brightside by The Killers
+58:32 Mr. Brightside by The Killers
 1:04:01 Time Always Tells by Corey Heuvel
 1:09:41 Pride and Joy by Stevie Ray Vaughan
 1:14:57 No One Knows (Partial) by Queens of the Stone Age
@@ -5970,7 +5978,7 @@ https://www.youtube.com/live/1HkYscBWtp8?feature=share
 1:23:01 The Logical Song by Supertramp
 1:28:18 Planet Caravan by Black Sabbath 
 1:34:10 Fearless by Pink Floyd
-1:42:06 Mr Brightside by The Killers 
+1:42:06 Mr. Brightside by The Killers
 1:47:26 The Way You Make Me Feel by Michael Jackson 
 1:52:38 Don’t You Worry ‘Bout A Thing by Stevie Wonder
 1:58:10 Cold Shot by Stevie Ray Vaughan

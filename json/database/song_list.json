@@ -1951,6 +1951,26 @@
 			"Links": "https://youtu.be/o4HIycpvIWs?t=0 , https://youtu.be/s6H9GdbDwbQ?t=5817 , https://youtu.be/PvNuNSk9iPM?t=3068 , https://youtu.be/HJpwaG3PP3E?t=1665 , https://www.youtube.com/live/GpaZbjokFec?feature=share&t=10475 , https://www.youtube.com/live/2xkUDe5ZndE?feature=share&t=2083"
 		},
 		{
+			"Title": "Pray for the Moon",
+			"Artist": "Corey Heuvel",
+			"Other_Artists": "",
+			"Appearances": "Solo Video,Livestream 86,Livestream 114",
+			"Other": "",
+			"Instruments": "Acoustic Guitar",
+			"Image": "./pics/Corey Heuvel.jpg",
+			"Links": "https://youtu.be/PbBTEPlz8mA?t=0 , https://youtu.be/DqQEPSThDlg?t=7807 , https://youtu.be/KoChozPGk7c?t=3850"
+		},
+		{
+			"Title": "Machine Gun",
+			"Artist": "Jimi Hendrix",
+			"Other_Artists": "",
+			"Appearances": "Solo Video (Electric Song),Solo Video (Live)",
+			"Other": "",
+			"Instruments": "Electric Guitar, Acoustic Guitar",
+			"Image": "./pics/Jimi Hendrix.jpg",
+			"Links": "https://youtu.be/8n3PhO-2QcM?t=0 , https://youtu.be/Z9KyZZDQXyo?t=0"
+		},
+		{
 			"Title": "Green River",
 			"Artist": "Creedence Clearwater Revival",
 			"Other_Artists": "",
@@ -2661,11 +2681,11 @@
 			"Links": "https://youtu.be/9zUVfKZrSGs?t=8843 , https://youtu.be/IJmsYXQl5dA?t=3418"
 		},
 		{
-			"Title": "Mr Brightside",
+			"Title": "Mr. Brightside",
 			"Artist": "The Killers",
 			"Other_Artists": "",
 			"Appearances": "Livestream 30,Livestream 38,Livestream 56,Livestream 162",
-			"Other": "",
+			"Other": "Mr Brightside",
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/The Killers.jpg",
 			"Links": "https://youtu.be/9zUVfKZrSGs?t=9834 , https://youtu.be/gSqP0YvvvNY?t=6402 , https://youtu.be/KLIWP_nbaXs?t=3512 , https://www.youtube.com/live/1HkYscBWtp8?feature=share&t=6126"
@@ -5869,16 +5889,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Radiohead.jpg",
 			"Links": "https://youtu.be/DqQEPSThDlg?t=7451 , https://youtu.be/JNbwlKX5IJE?t=4800 , https://youtu.be/skPtRNli5KY?t=7600"
-		},
-		{
-			"Title": "Pray for the Moon",
-			"Artist": "Corey Heuvel",
-			"Other_Artists": "",
-			"Appearances": "Livestream 86,Livestream 114",
-			"Other": "",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/Corey Heuvel.jpg",
-			"Links": "https://youtu.be/DqQEPSThDlg?t=7807 , https://youtu.be/KoChozPGk7c?t=3850"
 		},
 		{
 			"Title": "Closer To The Heart",
