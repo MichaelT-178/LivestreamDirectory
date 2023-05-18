@@ -454,11 +454,11 @@
 			"Title": "Machine Gun",
 			"Artist": "Jimi Hendrix",
 			"Other_Artists": "",
-			"Appearances": "Solo Video (Electric Song)",
+			"Appearances": "Solo Video (Electric Song),Solo Video (Live)",
 			"Other": "",
 			"Instruments": "Electric Guitar",
 			"Image": "./pics/Jimi Hendrix.jpg",
-			"Links": "https://youtu.be/8n3PhO-2QcM?t=0"
+			"Links": "https://youtu.be/8n3PhO-2QcM?t=0 , https://youtu.be/Z9KyZZDQXyo?t=0"
 		},
 		{
 			"Title": "Nothing Dream",
@@ -1959,16 +1959,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Corey Heuvel.jpg",
 			"Links": "https://youtu.be/PbBTEPlz8mA?t=0 , https://youtu.be/DqQEPSThDlg?t=7807 , https://youtu.be/KoChozPGk7c?t=3850"
-		},
-		{
-			"Title": "Machine Gun",
-			"Artist": "Jimi Hendrix",
-			"Other_Artists": "",
-			"Appearances": "Solo Video (Electric Song),Solo Video (Live)",
-			"Other": "",
-			"Instruments": "Electric Guitar, Acoustic Guitar",
-			"Image": "./pics/Jimi Hendrix.jpg",
-			"Links": "https://youtu.be/8n3PhO-2QcM?t=0 , https://youtu.be/Z9KyZZDQXyo?t=0"
 		},
 		{
 			"Title": "Green River",

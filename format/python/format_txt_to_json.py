@@ -3,6 +3,7 @@ This program reads the all-timestamps.txt file and writes
 the song information to the song_list.json file in json format.
 Performs error and format checking before writing to file.
 """
+import re
 import threading as thread
 import json
 from time import time as the_time
@@ -204,6 +205,13 @@ for a_song in songs:
     else:
         pass
 
+def replace_nth(full_str, old_str, new_str, occurence):
+    arr = full_str.split(old_str)
+    part1 = old_str.join(arr[:occurence])
+    part2 = old_str.join(arr[occurence:])
+    
+    return part1 + new_str + part2
+
 """
 Main part of the program
 """
@@ -246,7 +254,7 @@ for song in songs:
                 
                 title = title.replace(" (Classical Guitar)", "") if ("Fugue" in title) else title
                 title = title.replace(" (Classical Guitar)", "") if ("1006a" in title) else title
-
+                
                 if title.lower().strip() == real_title.lower().strip(): 
                     artist = split_line[1].strip() if (len(split_line[1]) > len(artist)) else artist
 
@@ -337,7 +345,11 @@ for song in songs:
             other_artists = "" if (artist == "AC/DC") else other_artists
 
             song_info += "\n			\"Other_Artists\": \"" + other_artists[:-2].strip().replace("  ", " ") + "\","
-        
+
+    
+            if "Machine Gun" in title: 
+                appearances = replace_nth(appearances," (Electric Song)", "", 2)
+
             song_info += "\n			\"Appearances\": \"" + appearances[:-1] + "\","
 
             other += title.replace("É", "E").replace("í", "i").replace("é", "e").replace("á","a").replace("à", "a").replace("Á", "A").replace("ü", "u") + ", " if (not title.isascii()) else ""
