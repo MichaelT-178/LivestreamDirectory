@@ -3,7 +3,6 @@ This program reads the all-timestamps.txt file and writes
 the song information to the song_list.json file in json format.
 Performs error and format checking before writing to file.
 """
-import re
 import threading as thread
 import json
 from time import time as the_time
