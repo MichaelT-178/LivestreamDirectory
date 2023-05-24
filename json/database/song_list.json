@@ -1961,6 +1961,16 @@
 			"Links": "https://youtu.be/PbBTEPlz8mA?t=0 , https://youtu.be/DqQEPSThDlg?t=7807 , https://youtu.be/KoChozPGk7c?t=3850"
 		},
 		{
+			"Title": "Paint It, Black",
+			"Artist": "The Rolling Stones",
+			"Other_Artists": "",
+			"Appearances": "Solo Video,Livestream 156 (Partial),Livestream 157",
+			"Other": "Paint It Black",
+			"Instruments": "Acoustic Guitar",
+			"Image": "./pics/The Rolling Stones.jpg",
+			"Links": "https://youtu.be/6uqbBws3US0?t=0 , https://www.youtube.com/live/r4JaTRrhap8?feature=share&t=866 , https://www.youtube.com/live/Kj7ILSIRVbQ?feature=share&t=8162"
+		},
+		{
 			"Title": "Green River",
 			"Artist": "Creedence Clearwater Revival",
 			"Other_Artists": "",
@@ -7229,16 +7239,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/The Tragically Hip.jpg",
 			"Links": "https://www.youtube.com/live/Kj7ILSIRVbQ?feature=share&t=7853"
-		},
-		{
-			"Title": "Paint It, Black",
-			"Artist": "The Rolling Stones",
-			"Other_Artists": "",
-			"Appearances": "Livestream 156 (Partial),Livestream 157",
-			"Other": "Paint It Black",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/The Rolling Stones.jpg",
-			"Links": "https://www.youtube.com/live/r4JaTRrhap8?feature=share&t=866 , https://www.youtube.com/live/Kj7ILSIRVbQ?feature=share&t=8162"
 		},
 		{
 			"Title": "Tiny Dancer",
