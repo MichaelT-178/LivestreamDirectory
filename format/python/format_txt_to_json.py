@@ -380,6 +380,8 @@ for song in songs:
             if (artist == "Dire Straits"): "The Dire Straits, " 
             if (artist == "Joe Walsh"): other += "The Eagles, " 
             if (artist == "Elliott Smith"): other += "Elliot , "
+            if (title == "Trouble So Hard"): other += "Natural Blues by Moby, "
+            if (title == "Natural Blues"): other += "Trouble So Hard by Vera Hall, "
 
             other += artist.strip().replace(".", "").replace("'", "").replace("’", "").replace("‘", "'") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
             other += artist.replace('É', 'E').replace('í', 'i').replace('é','e').replace('á','a').replace("ü", "u") + ", " if ('É' in artist or 'í' in artist or 'é' in artist or 'á' in artist or "ü" in artist) else ""
