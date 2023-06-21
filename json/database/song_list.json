@@ -1971,6 +1971,16 @@
 			"Links": "https://youtu.be/6uqbBws3US0?t=0 , https://www.youtube.com/live/r4JaTRrhap8?feature=share&t=866 , https://www.youtube.com/live/Kj7ILSIRVbQ?feature=share&t=8162"
 		},
 		{
+			"Title": "I Still Haven't Found What I'm Looking For",
+			"Artist": "U2",
+			"Other_Artists": "",
+			"Appearances": "Solo Video,Livestream 30,Livestream 144,Livestream 164",
+			"Other": "I Still Havent Found What Im Looking For, I Still Haven’t Found What I’m Looking For",
+			"Instruments": "Acoustic Guitar",
+			"Image": "./pics/U2.jpg",
+			"Links": "https://youtu.be/SaObNtoOXcg?t=0 , https://youtu.be/9zUVfKZrSGs?t=8843 , https://youtu.be/IJmsYXQl5dA?t=3418 , https://www.youtube.com/live/c1H63fb1AJs?feature=share&t=4615"
+		},
+		{
 			"Title": "Green River",
 			"Artist": "Creedence Clearwater Revival",
 			"Other_Artists": "",
@@ -2669,16 +2679,6 @@
 			"Instruments": "Acoustic Guitar,  Blues Slid",
 			"Image": "./pics/Chris Whitley.jpg",
 			"Links": "https://youtu.be/9zUVfKZrSGs?t=8200 , https://youtu.be/RLZoln3RATs?t=7446 , https://youtu.be/hs3UcA7DP4U?t=1494 , https://youtu.be/q0SOrSxKE90?t=1917 , https://youtu.be/dWIijDnVkho?t=1667"
-		},
-		{
-			"Title": "I Still Haven't Found What I'm Looking For",
-			"Artist": "U2",
-			"Other_Artists": "",
-			"Appearances": "Livestream 30,Livestream 144,Livestream 164",
-			"Other": "I Still Havent Found What Im Looking For, I Still Haven’t Found What I’m Looking For",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/U2.jpg",
-			"Links": "https://youtu.be/9zUVfKZrSGs?t=8843 , https://youtu.be/IJmsYXQl5dA?t=3418 , https://www.youtube.com/live/c1H63fb1AJs?feature=share&t=4615"
 		},
 		{
 			"Title": "Mr. Brightside",
