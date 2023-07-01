@@ -1981,6 +1981,16 @@
 			"Links": "https://youtu.be/SaObNtoOXcg?t=0 , https://youtu.be/9zUVfKZrSGs?t=8843 , https://youtu.be/IJmsYXQl5dA?t=3418 , https://www.youtube.com/live/c1H63fb1AJs?feature=share&t=4615"
 		},
 		{
+			"Title": "Freewill",
+			"Artist": "Rush",
+			"Other_Artists": "",
+			"Appearances": "Solo Video,Livestream 30 (Electric riff)",
+			"Other": "",
+			"Instruments": "Acoustic Guitar,  Electric Guitar",
+			"Image": "./pics/Rush.jpg",
+			"Links": "https://youtu.be/FYuVgQVSKEY?t=0 , https://youtu.be/9zUVfKZrSGs?t=7565"
+		},
+		{
 			"Title": "Green River",
 			"Artist": "Creedence Clearwater Revival",
 			"Other_Artists": "",
@@ -2629,16 +2639,6 @@
 			"Instruments": "Electric Guitar",
 			"Image": "./pics/Rush.jpg",
 			"Links": "https://youtu.be/9zUVfKZrSGs?t=7553"
-		},
-		{
-			"Title": "Freewill (Electric riff)",
-			"Artist": "Rush",
-			"Other_Artists": "",
-			"Appearances": "Livestream 30 (Electric riff)",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Rush.jpg",
-			"Links": "https://youtu.be/9zUVfKZrSGs?t=7565"
 		},
 		{
 			"Title": "(Don't Fear) The Reaper (Electric riff)",
