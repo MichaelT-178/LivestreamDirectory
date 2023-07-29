@@ -349,7 +349,7 @@ for song in songs:
             if "Machine Gun" in title: 
                 appearances = replace_nth(appearances," (Electric Song)", "", 2)
             
-            if ("Led Boots" in title):
+            if "Led Boots" in title:
                 appearances = appearances.replace(" 50 (Electric Song)", " 50 (Electric riff)")
 
             song_info += "\n			\"Appearances\": \"" + appearances[:-1] + "\","
