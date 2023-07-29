@@ -485,7 +485,7 @@ if question.upper().strip() in ["Y", "YES"]:
 open_repo = input("Do you want to open the Github Repository? : ")
 
 if open_repo.upper() in ["Y", "YES"]:
-    Google.open("https://github.com/MichaelT-178/MichaelT-178.github.io")
+    Google.open("https://github.com/MichaelT-178/LivestreamDirectory")
     
 #Commands to add to Github
 os.system('git add .')
