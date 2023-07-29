@@ -1991,6 +1991,16 @@
 			"Links": "https://youtu.be/FYuVgQVSKEY?t=0 , https://youtu.be/9zUVfKZrSGs?t=7565"
 		},
 		{
+			"Title": "Led Boots",
+			"Artist": "Jeff Beck",
+			"Other_Artists": "",
+			"Appearances": "Solo Video (Electric Song),Livestream 50 (Electric riff)",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Jeff Beck.jpg",
+			"Links": "https://youtu.be/oN18DSmCMKI?t=0 , https://youtu.be/WGGj7qyf4pA?t=8379"
+		},
+		{
 			"Title": "Green River",
 			"Artist": "Creedence Clearwater Revival",
 			"Other_Artists": "",
@@ -4379,16 +4389,6 @@
 			"Instruments": "Electric Guitar",
 			"Image": "./pics/The Knack.jpg",
 			"Links": "https://youtu.be/WGGj7qyf4pA?t=8239"
-		},
-		{
-			"Title": "Led Boots (Electric riff)",
-			"Artist": "Jeff Beck",
-			"Other_Artists": "",
-			"Appearances": "Livestream 50 (Electric riff)",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Jeff Beck.jpg",
-			"Links": "https://youtu.be/WGGj7qyf4pA?t=8379"
 		},
 		{
 			"Title": "Man in the Box (Electric riff)",

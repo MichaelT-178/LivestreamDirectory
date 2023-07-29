@@ -1,4 +1,4 @@
-Control + g. Type 862 for stand alone Videos
+Control + g. Type 870 for stand alone Videos
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -863,6 +863,10 @@ https://youtu.be/SaObNtoOXcg
 Solo Video 
 https://youtu.be/FYuVgQVSKEY
 0:00 Freewill by Rush
+
+Solo Video 
+https://youtu.be/oN18DSmCMKI
+0:00 Led Boots (Electric Song) by Jeff Beck
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
@@ -1865,7 +1869,7 @@ Electric Guitar
 2:17:19 My Sharona (Electric riff) by The Knack
 2:18:07 Paranoid Android (Electric riff) by Radiohead
 2:18:59 Scatterbrain (Electric riff) by Jeff Beck
-2:19:39 Led Boots (Electric riff) by Jeff Beck
+2:19:39 Led Boots (Electric Song) by Jeff Beck
 2:20:17 Man in the Box (Electric riff) by Alice In Chains
 2:20:53 Heartbreaker (Electric riff) by Led Zeppelin
 2:21:25 Beat It (Electric riff) by Michael Jackson

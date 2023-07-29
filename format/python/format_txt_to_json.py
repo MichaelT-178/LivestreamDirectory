@@ -348,6 +348,9 @@ for song in songs:
     
             if "Machine Gun" in title: 
                 appearances = replace_nth(appearances," (Electric Song)", "", 2)
+            
+            if ("Led Boots" in title):
+                appearances = appearances.replace(" 50 (Electric Song)", " 50 (Electric riff)")
 
             song_info += "\n			\"Appearances\": \"" + appearances[:-1] + "\","
 
@@ -385,7 +388,7 @@ for song in songs:
 
             other += artist.strip().replace(".", "").replace("'", "").replace("’", "").replace("‘", "'") + ", " if ("." in artist or "'" in artist or "’" in artist) else ""
             other += artist.replace('É', 'E').replace('í', 'i').replace('é','e').replace('á','a').replace("ü", "u") + ", " if ('É' in artist or 'í' in artist or 'é' in artist or 'á' in artist or "ü" in artist) else ""
-            
+
             song_info += "\n			\"Other\": \"" + other[:-2].replace("  ", " ") + "\","
 
             instrument = instruments.strip()[:-1]
