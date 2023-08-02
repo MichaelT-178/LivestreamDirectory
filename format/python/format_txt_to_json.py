@@ -310,6 +310,7 @@ for song in songs:
                         and "Electric Riff Session #" not in line):
                         instruments += "Acoustic Guitar, "
 
+                    if ("Forget Her" in line): instruments += " Electric Guitar, " 
                     instruments += " Blues Slide " if ("Blues Slide" in title or "Blues Slide" in appearances) else ""
  
         if (appearances.strip() != ""):
