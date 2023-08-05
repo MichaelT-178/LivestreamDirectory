@@ -360,7 +360,7 @@ for song in songs:
 
             other += title.replace(" and ", " & ") + ", " if ("and" in title) else ""
             other += title.replace("'", "’").replace(".", "") + ", " if ("'" in title or "." in title) else ""
-            other += title.replace(" you ", " u ").replace(",", "").replace("'", "") + ", " if ("you" in title.lower()) else ""
+            other += title.replace(" You ", " u ").replace(" you ", " u ").replace(",", "").replace("'", "") + ", " if ("you" in title.lower()) else ""
 
             other += artist.replace("-", " ").replace(",", " ") + ", " if ("-" in artist or "," in artist) else ""
             
