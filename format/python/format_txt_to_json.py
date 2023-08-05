@@ -360,8 +360,10 @@ for song in songs:
 
             other += title.replace(" and ", " & ") + ", " if ("and" in title) else ""
             other += title.replace("'", "’").replace(".", "") + ", " if ("'" in title or "." in title) else ""
-            
+
             other += artist.replace("-", " ").replace(",", " ") + ", " if ("-" in artist or "," in artist) else ""
+            other += artist.replace(" You ", " U ").replace(" you ", " u") if ("you" in title.lower()) else ""
+            
             other += "Pink, " if (artist == "P!nk") else ""
             other += "The Red Hot Chili Peppers, " if ("Red Hot Chili" in artist) else ""
             other += "Neil Young, " if ("Young" in artist and artist != "Neil Young") else ""
