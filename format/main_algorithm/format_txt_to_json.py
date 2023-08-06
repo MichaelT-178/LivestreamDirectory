@@ -24,7 +24,6 @@ print("\nPlease be patient. This will take a couple of seconds...")
 def write():
     print("Writing to file...")
 
-#Had to put the print statements in a function for some reason and leave out parentheses when calling?
 t = thread.Timer(1.0, write)
 t.start()
 
@@ -90,6 +89,7 @@ lower_songs = []
 
 cap_error_found = False
 line_num = 0
+
 with open("../timestamps/all-timestamps.txt", "r") as afile:
     for aline in afile:
         if (len(aline.rsplit(" by ", 1)) == 2):
@@ -426,7 +426,7 @@ for song in songs:
                 print()
                 print(colored("ADD THIS ARTIST TO THE API SERVER", 'cyan') + ": " + artist_pic)
                 
-            os.chdir('../format/python')
+            os.chdir('../format/main_algorithm')
 
             song_info += "\n			\"Image\": \"" + image[1:] + "\","
             song_info += "\n			\"Links\": \"" + links[:-3] + "\"" 
