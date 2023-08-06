@@ -24,14 +24,9 @@ print("\nPlease be patient. This will take a couple of seconds...")
 def write():
     print("Writing to file...")
 
-def wait():
-    print("Python for loops am I right? 😅")
-
 #Had to put the print statements in a function for some reason and leave out parentheses when calling?
 t = thread.Timer(1.0, write)
-t2 = thread.Timer(5.5, wait)
 t.start()
-t2.start()
 
 def youtube_links(video_id, time):
     t = [int(x) for x in time.split(":")]
@@ -444,7 +439,7 @@ song_info += "\n}"
 
 os.chdir('../')
 
-with open('../json/database/song_list.json', 'w') as f:
+with open('../database/song_list.json', 'w') as f:
     f.write(song_info)
 
 json_repeat.close()
@@ -453,7 +448,7 @@ all_the_artists.close()
 
 song_list = []
 
-with open('../json/database/song_list.json', 'r') as read_songs:
+with open('../database/song_list.json', 'r') as read_songs:
     the_dict = json.load(read_songs)
 
     for song in the_dict['songs']:
@@ -483,7 +478,7 @@ print()
 os.chdir('../')
 
 if question.upper().strip() in ["Y", "YES"]:
-    os.system(f'open -a "Visual Studio Code" json/database/song_list.json')
+    os.system(f'open -a "Visual Studio Code" database/song_list.json')
 
 open_repo = input("Do you want to open the Github Repository? : ")
 

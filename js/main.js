@@ -6,7 +6,7 @@ let JSONdata;
 let songs;
 
 const getSongs = async () => {
-    const response = await fetch('./json/database/song_list.json');
+    const response = await fetch('./database/song_list.json');
     JSONdata = await response.json();
     songs = JSONdata['songs'];
 };
