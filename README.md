@@ -1,5 +1,5 @@
 # Livestream Directory
-This is a search tool I made for the Youtuber "Corey Heuvel". Allows users to easily navigate thousands of livestream music performances. Currently being hosted on GitHub pages.
+This is a search tool I made for the Youtuber "Corey Heuvel". Allows users to easily navigate thousands of livestream music performances. This website is currently being hosted on GitHub pages.
 
 Link to Website: https://michaelt-178.github.io/LivestreamDirectory/
 
