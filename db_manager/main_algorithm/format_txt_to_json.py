@@ -424,7 +424,7 @@ for song in songs:
             if not file_exists:
                 print(colored("This artist needs a picture", 'red') + ": " + artist_pic)
                 
-            os.chdir('../create_DB/main_algorithm')
+            os.chdir('../db_manager/main_algorithm')
 
             song_info += "\n			\"Image\": \"" + image[1:] + "\","
             song_info += "\n			\"Links\": \"" + links[:-3] + "\"" 

@@ -16,7 +16,7 @@
     <ul id="thesongs"></ul>
 
     <script>
-        fetch("../create_DB/json_files/repertoire.json").then(response => {
+        fetch("../db_manager/json_files/repertoire.json").then(response => {
             return response.json();
         }).then(songs => {
             
