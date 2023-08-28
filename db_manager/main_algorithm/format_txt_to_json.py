@@ -117,9 +117,6 @@ if cap_error_found:
     os.system(f'open -a "Visual Studio Code" ../timestamps/all-timestamps.txt')
     os._exit(0)
 
-song_info = "{"
-song_info += '\n	"songs":['
-
 ###############################################################################
 matches = []
 
@@ -209,6 +206,10 @@ def replace_nth(full_str, old_str, new_str, occurence):
 """
 Main part of the program
 """
+
+song_info = "{"
+song_info += '\n	"songs":['
+
 for song in songs:
     title = song.replace("’", "'").replace("‘", "'")
     appearances = ""
