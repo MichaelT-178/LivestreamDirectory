@@ -374,9 +374,9 @@ for song in songs:
             other += "Happy Christmas, " if ("Xmas" in title) else ""
             other += "Merry Christmas, " if ("Xmas" in title) else ""
             other += "Simon and Garfunkel, " if ("Simon & Gar" in artist) else ""
-            other += "Bubble, " if ("Bublé" in artist) else ""
-            other += "Buble, " if ("Bublé" in artist) else ""
             
+            if ("Bublé" in artist): other += "Bubble, "
+            if ("Bublé" in artist): other += "Buble, "
             if ("Simon & Gar" in artist): other += "Paul Simon, "
             if (artist == "AC/DC"): other += "ACDC, " 
             if (artist == "Dire Straits"): "The Dire Straits, " 
