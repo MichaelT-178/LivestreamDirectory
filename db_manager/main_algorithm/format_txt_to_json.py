@@ -358,7 +358,6 @@ for song in songs:
             other += title.replace("'", "’").replace(".", "") + ", " if ("'" in title or "." in title) else ""
 
             other += title.replace(" You ", " u ").replace(" you ", " u ").replace(",", "").replace("'", "") + ", " if (" you " in title.lower()) else ""
-
             other += artist.replace("-", " ").replace(",", " ") + ", " if ("-" in artist or "," in artist) else ""
 
             other += "Pink, " if (artist == "P!nk") else ""
