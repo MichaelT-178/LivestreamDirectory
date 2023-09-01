@@ -353,13 +353,14 @@ for song in songs:
 
             other += title.replace("É", "E").replace("í", "i").replace("é", "e").replace("á","a").replace("à", "a").replace("Á", "A").replace("ü", "u") + ", " if (not title.isascii()) else ""
             other += title.replace("'","").replace(r_slash,"").replace(" & ", " and ").replace("-", " ").replace(",", "").replace(".","") + ", " if ("'" in title or "\"" in title or "&" in title or "-" in title or "," in title) else ""
-
+            
             other += title.replace(" and ", " & ") + ", " if ("and" in title) else ""
             other += title.replace("'", "’").replace(".", "") + ", " if ("'" in title or "." in title) else ""
-            other += title.replace(" You ", " u ").replace(" you ", " u ").replace(",", "").replace("'", "") + ", " if ("you" in title.lower()) else ""
+
+            other += title.replace(" You ", " u ").replace(" you ", " u ").replace(",", "").replace("'", "") + ", " if (" you " in title.lower()) else ""
 
             other += artist.replace("-", " ").replace(",", " ") + ", " if ("-" in artist or "," in artist) else ""
-            
+
             other += "Pink, " if (artist == "P!nk") else ""
             other += "The Red Hot Chili Peppers, " if ("Red Hot Chili" in artist) else ""
             other += "Neil Young, " if ("Young" in artist and artist != "Neil Young") else ""
