@@ -1,4 +1,4 @@
-Control + g. Type 900 for stand alone Videos.
+Control + g. Type 900 for stand alone Videos. Format: time title by artist
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs

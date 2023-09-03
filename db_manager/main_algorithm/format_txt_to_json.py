@@ -222,7 +222,8 @@ for song in songs:
     the_artists = []
 
     with open("../timestamps/all-timestamps.txt", "r") as file:
-        #file.readline() #Ignores first line of file
+        file.readline() #Ignores first line of file
+        
         for line in file:
 
             line = line.replace("’", "'").replace("‘", "'")
