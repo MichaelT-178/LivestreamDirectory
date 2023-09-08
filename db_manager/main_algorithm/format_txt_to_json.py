@@ -239,11 +239,12 @@ for song in songs:
 
 
             if (len(line.rsplit(" by ", 1)) == 2):
-                split_line = line.rsplit(" by ", 1)
 
-                time_split = line.split()
+                split_line = line.rsplit(" by ", 1) #['0:00 Blackbird', 'The Beatles\n']
 
-                real_title = split_line[0].replace(time_split[0], "").strip()
+                time_split = line.split() #['0:00', 'Blackbird', 'by', 'The', 'Beatles']
+
+                real_title = split_line[0].replace(time_split[0], "").strip() #Blackbird
 
                 if title not in no_repeats and title not in only_keys:
                     real_title = real_title.replace("(Electric riff)", "").replace("(Classical Guitar)", "").replace("(Mandolin)", "").replace("(Electric Song)", "").replace("(12/twelve String)","").replace("(Partial)", "")
@@ -271,13 +272,11 @@ for song in songs:
 
                     else:
                         appearances += ("Livestream " + ls_num + ",") if ("solo video" not in ls_num.lower()) else (ls_num.strip() + ",")
-                    
-                    try:
+
+                    if ls_num.isnumeric():
                         if (int(ls_num) == 136 and "Chris Whitley" == artist):
                             appearances = appearances.replace("Livestream 136,", "Livestream 136 (w/ Blues Slide),")
-                    except ValueError:
-                        pass
-
+                            
                     try:
                         links += youtube_links(link, time_split[0])
                     except ValueError:
@@ -308,7 +307,7 @@ for song in songs:
                         instruments += "Acoustic Guitar, "
 
                     if ("Forget Her" in line): instruments += "Electric Guitar, " 
-                    instruments += " Blues Slide " if ("Blues Slide" in title or "Blues Slide" in appearances) else ""
+                    instruments += " Blues Slide, " if ("Blues Slide" in title or "Blues Slide" in appearances) else ""
  
         if (appearances.strip() != ""):
             song_info += "\n		{"
