@@ -15,7 +15,7 @@ public class ErrorHandler {
 
         try {
             //file = new File("../timestamps/all-timestamps.txt");
-            file = new File("/Users/michaeltotaro/LivestreamDirectory/db_manager/timestamps/all-timestamps.txt");
+            file = new File("../timestamps/all-timestamps.txt");
             input = new Scanner(file);
         } catch (FileNotFoundException ex) {
             printRedError("This should never be throw. File missing", "\n");
