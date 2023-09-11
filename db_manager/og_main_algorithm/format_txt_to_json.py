@@ -379,7 +379,7 @@ for song in songs:
             if ("Bublé" in artist): other += "Buble, "
             if ("Simon & Gar" in artist): other += "Paul Simon, "
             if (artist == "AC/DC"): other += "ACDC, " 
-            if (artist == "Dire Straits"): "The Dire Straits, " 
+            if (artist == "Dire Straits"): other += "The Dire Straits, " 
             if (artist == "Joe Walsh"): other += "The Eagles, " 
             if (artist == "Elliott Smith"): other += "Elliot , "
             if (title == "Trouble So Hard"): other += "Natural Blues by Moby, "
@@ -483,7 +483,7 @@ open_repo = input("Do you want to open the Github Repository? : ")
 
 if open_repo.upper() in ["Y", "YES"]:
     Google.open("https://github.com/MichaelT-178/LivestreamDirectory")
-    
+
 #Commands to add to Github
 os.system('git add .')
 os.system('git commit -m "Adding files"')
