@@ -35,7 +35,7 @@ public class Algorithm {
             Scanner input = null;
 
             try {
-                fileInput = new FileInputStream("../timestamps/all-timestamps.txt");
+                fileInput = new FileInputStream("./db_manager/timestamps/all-timestamps.txt");
                 input = new Scanner(fileInput);
             } catch (FileNotFoundException e) {
                 printRedError("File could not be read. Algorithm.java line 40.", "\n");
@@ -279,7 +279,7 @@ public class Algorithm {
 
                     artistsPlayed.add(artist.strip());
 
-                    jsonHelper.writeJSONToFile(artistsPlayed, "../json_files/artists.json");
+                    jsonHelper.writeJSONToFile(artistsPlayed, "./db_manager/json_files/artists.json");
 
                     // pic_question = input("Do you want to exit the program to find a picture? : ")
 

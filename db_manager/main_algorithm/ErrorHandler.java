@@ -15,7 +15,7 @@ public class ErrorHandler {
 
         try {
             //file = new File("../timestamps/all-timestamps.txt");
-            file = new File("../timestamps/all-timestamps.txt");
+            file = new File("./db_manager/timestamps/all-timestamps.txt");
             input = new Scanner(file);
         } catch (FileNotFoundException ex) {
             printRedError("This should never be throw. File missing", "\n");
@@ -66,7 +66,7 @@ public class ErrorHandler {
             System.out.println("\nGo fix capitalization and rerun\n");
 
             OperatingSystem os = new OperatingSystem();
-            os.openApp("../timestamps/all-timestamps.txt", "Visual Studio Code");
+            os.openApp("./db_manager/timestamps/all-timestamps.txt", "Visual Studio Code");
 
             System.exit(0);
         }

@@ -24,16 +24,16 @@ public class MainAlgorithm {
         OperatingSystem os = new OperatingSystem();
 
         if (openTimestamps.equalsIgnoreCase("Y") || openTimestamps.equalsIgnoreCase("Yes")) {
-            os.openApp("../timestamps/all-timestamps.txt", "Visual Studio Code");
+            os.openApp("./db_manager/timestamps/all-timestamps.txt", "Visual Studio Code");
             System.exit(0);
         }
 
         JSONHelper jsonHelper = new JSONHelper();
 
                 //../json_files/no_repeats.json
-        List<String> noRepeats = jsonHelper.getFilesJSONData("../json_files/no_repeats.json");
-        List<String> onlyKeys = jsonHelper.getFilesJSONData("../json_files/only_with_keys.json");
-        List<String> artistsPlayed = jsonHelper.getFilesJSONData("../json_files/artists.json");
+        List<String> noRepeats = jsonHelper.getFilesJSONData("./db_manager/json_files/no_repeats.json");
+        List<String> onlyKeys = jsonHelper.getFilesJSONData("./db_manager/json_files/only_with_keys.json");
+        List<String> artistsPlayed = jsonHelper.getFilesJSONData("./db_manager/json_files/artists.json");
 
         List<String> songs = new ArrayList<>();
         List<String> allSongs = new ArrayList<>();
@@ -97,7 +97,7 @@ public class MainAlgorithm {
         }
 
         if (question.strip().equalsIgnoreCase("Y") || question.strip().equalsIgnoreCase("YES")) {
-            os.openApp("../timestamps/all-timestamps.txt", "Visual Studio Code");
+            os.openApp("./db_manager/timestamps/all-timestamps.txt", "Visual Studio Code");
         }
 
         System.out.print("Do you want to open the Github Repository? : ");

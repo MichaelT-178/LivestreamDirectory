@@ -70,7 +70,7 @@ public class JSONHelper {
 
     public List<String> removeFromNoRepeats(List<String> noRepeatsList, String item) {
         noRepeatsList.remove(item);
-        writeJSONToFile(noRepeatsList, "../json_files/no_repeats.json");
+        writeJSONToFile(noRepeatsList, "./db_manager/json_files/no_repeats.json");
         return noRepeatsList;
     }
 
@@ -83,14 +83,14 @@ public class JSONHelper {
         onlyKeysList.add(keyList[0]);
         onlyKeysList.add(keyList[1]);
 
-        writeJSONToFile(onlyKeysList, "../json_files/only_with_keys.json");
+        writeJSONToFile(onlyKeysList, "./db_manager/json_files/only_with_keys.json");
 
         return onlyKeysList;
     }
 
     public List<String> addNoRepeats(List<String> noRepeatsList, String item) {
         noRepeatsList.add(item);
-        writeJSONToFile(noRepeatsList, "../json_files/no_repeats.json");
+        writeJSONToFile(noRepeatsList, "./db_manager/json_files/no_repeats.json");
         return noRepeatsList;
     }
 
