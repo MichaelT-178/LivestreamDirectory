@@ -131,7 +131,7 @@ public class JSONHelper {
         List<String> songList = new ArrayList<>();
 
         try {
-            String filePath = "../database/song_list.json";
+            String filePath = "./database/song_list2.json";
             FileReader fileReader = new FileReader(filePath);
             JSONTokener jsonTokener = new JSONTokener(fileReader);
             JSONObject jsonObject = new JSONObject(jsonTokener);
@@ -157,7 +157,7 @@ public class JSONHelper {
         List<Song> songList = new ArrayList<>();
 
         try {
-            String filePath = "../database/song_list.json";
+            String filePath = "./database/song_list2.json";
             FileReader fileReader = new FileReader(filePath);
             JSONTokener jsonTokener = new JSONTokener(fileReader);
             JSONObject jsonObject = new JSONObject(jsonTokener);

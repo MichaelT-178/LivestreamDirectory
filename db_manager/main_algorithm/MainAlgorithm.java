@@ -46,8 +46,12 @@ public class MainAlgorithm {
         songs = updatedLists.get(0);
         allSongs = updatedLists.get(1);
         lowerSongs = updatedLists.get(2);
-
+        
         noRepeats = errorHandler.findNoRepeats(allSongs, noRepeats, onlyKeys);
+
+        // System.out.println("DO YOU WANT TO CONTINUE");
+        // String yeet = scanner.nextLine();
+        
         onlyKeys = errorHandler.addToOnlyWithKeys(allSongs, noRepeats, onlyKeys);
 
         for (String song : songs) {
@@ -78,7 +82,7 @@ public class MainAlgorithm {
             alphabetList.add(song.replace("\"", rSlash));
         }
 
-        jsonHelper.writeJSONToFile(alphabetList, "json_files/repertoire.json");
+        jsonHelper.writeJSONToFile(alphabetList, "./db_manager/json_files/repertoire.json");
 
         //LINE 470
         System.out.print("File ");
@@ -89,15 +93,8 @@ public class MainAlgorithm {
         String question = scanner.nextLine();
         System.out.println();
 
-        try {
-            os.chdir("../");
-        } catch (IOException e) {
-            printWithColor("COULDN'T CHANGE DIRECTORIES", Color.RED, "\n");
-            System.exit(0);
-        }
-
         if (question.strip().equalsIgnoreCase("Y") || question.strip().equalsIgnoreCase("YES")) {
-            os.openApp("./db_manager/timestamps/all-timestamps.txt", "Visual Studio Code");
+            os.openApp("./database/song_list2.json", "Visual Studio Code");
         }
 
         System.out.print("Do you want to open the Github Repository? : ");

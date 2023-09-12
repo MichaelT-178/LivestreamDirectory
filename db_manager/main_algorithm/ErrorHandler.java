@@ -96,16 +96,16 @@ public class ErrorHandler {
 
         for (String song : allSongs) {
             if (titleContainsInstrument(song)) {
+        
                 String theTemp = song.replace("(Electric riff)", "").replace("(Classical Guitar)", "").replace("(Mandolin)", "").replace("(Electric Song)", "").replace("(12/twelve String)","").replace("(Partial)", "");
-
+                
                 if (!matches.contains(theTemp.strip()) && !noRepeats.contains(song) && !onlyKeys.contains(song)) {
                     printRedError("\nAdd to No_Repeats", "");
                     System.out.println(": " + song.strip() + "\n");
-                }
-                
-                JSONHelper jsonHelper = new JSONHelper();
 
-                noRepeats = jsonHelper.addNoRepeats(noRepeats, song.strip());
+                    JSONHelper jsonHelper = new JSONHelper();
+                    noRepeats = jsonHelper.addNoRepeats(noRepeats, song.strip());
+                }
             }
         }
 
@@ -190,11 +190,41 @@ public class ErrorHandler {
         }
     }
 
-    public static String replaceNth(String fullStr, String oldStr, String newStr, int occurrence) {
-        String[] arr = fullStr.split(oldStr, occurrence + 1);
-        String part1 = String.join(oldStr, Arrays.copyOfRange(arr, 0, occurrence));
-        String part2 = String.join(oldStr, Arrays.copyOfRange(arr, occurrence, arr.length));
-        return part1 + newStr + part2;
+    // public static String replaceNth(String fullStr, String oldStr, String newStr, int occurrence) {
+    //     String[] arr = fullStr.split(oldStr, occurrence + 1);
+    //     String part1 = String.join(oldStr, Arrays.copyOfRange(arr, 0, occurrence));
+    //     String part2 = String.join(oldStr, Arrays.copyOfRange(arr, occurrence, arr.length));
+    //     return part1 + newStr + part2;
+    // }
+
+    // public static String replaceNth(String fullStr, String oldStr, String newStr, int occurrence) {
+    //     String[] arr = fullStr.split(oldStr, -1);
+    
+    //     if (occurrence < 0 || occurrence >= arr.length - 1) {
+    //         // If occurrence is out of bounds, or there aren't enough occurrences, return the original string.
+    //         return fullStr;
+    //     }
+    
+    //     String part1 = String.join(oldStr, Arrays.copyOfRange(arr, 0, occurrence));
+    //     String part2 = String.join(oldStr, Arrays.copyOfRange(arr, occurrence + 1, arr.length));
+    
+    //     return part1 + newStr + part2;
+    // }
+    
+    public static String replaceNth(String originalString, String oldStr, String newStr, int occurrence) {
+        int index = originalString.indexOf(oldStr);
+        int count = 0;
+
+        while (index != -1) {
+            count++;
+            if (count == occurrence) {
+                originalString = originalString.substring(0, index) + newStr + originalString.substring(index + oldStr.length());
+                break;
+            }
+            index = originalString.indexOf(oldStr, index + 1);
+        }
+
+        return originalString;
     }
 
     private static void printRedError(String str, String newLine) {

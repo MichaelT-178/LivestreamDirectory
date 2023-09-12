@@ -20,16 +20,6 @@ public class OperatingSystem {
         }
     }
 
-    public void chdir(String newPath) throws IOException {
-        Path newDirectory = Paths.get(newPath).toAbsolutePath();
-
-        if (newDirectory.toFile().isDirectory()) {
-            System.setProperty("user.dir", newDirectory.toString());
-        } else {
-            printRedError("Failed to change directories");
-            System.exit(0);
-        }
-    }
 
     public void executeGitCommands() throws IOException, InterruptedException {
         ProcessBuilder processBuilder = new ProcessBuilder();

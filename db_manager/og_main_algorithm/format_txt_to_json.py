@@ -218,9 +218,6 @@ for song in songs:
     time = ""
     links = ""
 
-    the_songs = []
-    the_artists = []
-
     with open("../timestamps/all-timestamps.txt", "r") as file:
         file.readline() #Ignores first line of file
         
@@ -253,7 +250,7 @@ for song in songs:
                 title = title.replace(" (Classical Guitar)", "") if ("1006a" in title) else title
                 
                 if title.lower().strip() == real_title.lower().strip(): 
-                    artist = split_line[1].strip() if (len(split_line[1]) > len(artist)) else artist
+                    artist = split_line[1].strip() if (len(split_line[1].strip()) > len(artist)) else artist
 
                     if ("(Electric riff)" in line): 
                         appearances += ("Livestream " + ls_num + " (Electric riff),") if ("so" not in ls_num.lower()) else (ls_num.strip() + " (Electric riff),")
@@ -325,7 +322,7 @@ for song in songs:
             the_title = title.replace("(Classical Guitar)", "").replace("(Mandolin)", "").replace("(Electric Song)", "").replace("(12/twelve String)","").strip()
 
             song_info += "\n			\"Title\": \"" + the_title + "\","
-        
+
             all_artists = artist.replace("/", ",").split(",") if ("Yusuf" not in artist and "," not in artist or "Eurythmics" in artist and "AC/DC" not in artist) else artist.split("&&&")
             artist = all_artists[0]
 

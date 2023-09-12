@@ -28,9 +28,6 @@ public class Algorithm {
             String time = "";
             String links = "";
 
-            List<String> theSongs = new ArrayList<>();
-            List<String> theArtists = new ArrayList<>();
-
             FileInputStream fileInput;
             Scanner input = null;
 
@@ -82,7 +79,6 @@ public class Algorithm {
                 
                     if (title.strip().equalsIgnoreCase(realTitle.strip())) {
                         artist = (splitLine[1].length() > artist.length()) ? splitLine[1].strip() : artist;
-                        
 
                         if (line.contains("(Electric riff)")) {
                             appearances += !lsNum.toLowerCase().contains("so") ? ("Livestream " + lsNum + " (Electric riff),") : (lsNum.strip() + " (Electric riff),");
@@ -96,12 +92,16 @@ public class Algorithm {
                         else if (line.contains("(Mandolin)")) {
                             appearances += !lsNum.toLowerCase().contains("so") ? ("Livestream " + lsNum + " (Mandolin),") : (lsNum.strip() + " (Mandolin),");
                         } 
+                        else if (line.contains("(Partial)")) {
+                            appearances += !lsNum.toLowerCase().contains("so") ? ("Livestream " + lsNum + " (Partial),") : (lsNum.strip() + " (Partial),");
+                        }
+
                         else {
                             appearances += !lsNum.toLowerCase().contains("solo video") ? ("Livestream " + lsNum + ",") : (lsNum.strip() + ",");
                         }
 
                         if (isNumeric(lsNum)) {
-                            if (Integer.parseInt(lsNum) == 6 && artist.equals("Chris Whitley")) {
+                            if (Integer.parseInt(lsNum) == 136 && artist.equals("Chris Whitley")) {
                                 appearances = appearances.replace("Livestream 136,", "Livestream 136 (w/ Blues Slide),");
                             }
                         }
@@ -132,8 +132,8 @@ public class Algorithm {
 
                         if (!line.contains("(Electric riff)") && !line.contains("(Electric Song)") && 
                             !line.contains("(Classical Guitar)") && !line.contains("(Mandolin)") &&
-                            !line.contains("Acoustic Guitar") && !line.contains("(H)") && 
-                            !line.contains("Electric Riff Session #")) 
+                            !line.contains("(H)") && !line.contains("Electric Riff Session #") &&
+                            !instruments.contains("Acoustic Guitar")) 
                         { 
                             instruments += "Acoustic Guitar, ";
                         }
@@ -186,7 +186,9 @@ public class Algorithm {
 
                 otherArtists = artist.equals("AC/DC") ? "" : otherArtists;
 
-                songInfo.append(jsonStr("Other_Artists", otherArtists.substring(0, otherArtists.length() - 2).strip().replace("  ", " "), ","));
+                String otherArtistStr = !otherArtists.equals("") ? otherArtists.substring(0, otherArtists.length() - 2).strip().replace("  ", " ") : "";
+                
+                songInfo.append(jsonStr("Other_Artists", otherArtistStr, ","));
 
                 if (title.contains("Machine Gun")) 
                     appearances = ErrorHandler.replaceNth(appearances, " (Electric Song)", "" , 2);
@@ -228,8 +230,8 @@ public class Algorithm {
                 if (artist.contains("Nelly") || artist.contains("Flo Rida")) other.append("Rap, ");
                 if (artist.equals("Extreme")) other.append("The Extreme, ");
 
-                if (title.contains("Grey")) other.append(title.replace("Grey", "Gray"));
-                if (artist.contains("Grey")) other.append(artist.contains("Grey"));
+                if (title.contains("Grey")) other.append(title.replace("Grey", "Gray") + ", ");
+                if (artist.contains("Grey")) other.append(artist.replace("Grey", "Gray") + ", ");
 
                 if (title.contains("Man Of Constant Sorrow")) other.append("I Am A Man of Constant Sorrow, ");
                 if (title.equals("Vincent")) other.append("Vincent (Starry, Starry Night), ");
@@ -257,7 +259,8 @@ public class Algorithm {
                 }
 
                 String otherStr = other.toString();
-                songInfo.append(jsonStr("Other", otherStr.substring(0, otherStr.length() - 2).replace("  ", " "), ","));
+                otherStr = !otherStr.equals("") ? otherStr.substring(0, otherStr.length() - 2).replace("  ", " ") : "";
+                songInfo.append(jsonStr("Other", otherStr, ","));
 
                 String finalInstruments = instruments.strip().substring(0, instruments.strip().length() - 1);
 
@@ -294,14 +297,7 @@ public class Algorithm {
 
                 String artistPic = artist.strip().replace(".", "").replace("'", "").replace("’", "").replace("‘", "'");
 
-                String image = "../pics/" + artistPic + ".jpg";
-
-                try {
-                    os.chdir("../");
-                } catch (IOException e) {
-                    printRedError("DIDN'T CHANGE DIRECTORIES CORRECTLY LINE 302", "\n");
-                    System.exit(0);
-                }
+                String image = "../LivestreamDirectory/pics/" + artistPic + ".jpg";
 
                 boolean fileExists = os.fileExists(image);
 
@@ -310,14 +306,8 @@ public class Algorithm {
                     System.out.println(": " + artistPic);
                 }  
 
-                try {
-                    os.chdir("../db_manager/main_algorithm");
-                } catch (IOException e) {
-                    printRedError("DIDN'T CHANGE DIRECTORIES CORRECTLY LINE 316", "\n");
-                    System.exit(0);
-                }
 
-                songInfo.append(jsonStr("Image", image.substring(1), ","));
+                songInfo.append(jsonStr("Image", image.substring(1).replace("/LivestreamDirectory", ""), ","));
                 songInfo.append(jsonStr("Links", links.substring(0, links.length() - 3), ""));
                 songInfo.append("\n		},");
 
@@ -328,14 +318,7 @@ public class Algorithm {
         songInfo.append("\n	]");
         songInfo.append("\n}");
 
-        try {
-            os.chdir("../");
-        } catch (IOException e) {
-            printRedError("DIDN'T CHANGE DIRECTORIES CORRECTLY LINE 316", "\n");
-            System.exit(0);
-        }
-
-        jsonHelper.writeStringToFile(songInfo.toString(), "../database/song_list.json");
+        jsonHelper.writeStringToFile(songInfo.toString(), "./database/song_list2.json");
 
     }
 
@@ -349,9 +332,11 @@ public class Algorithm {
      * of the " by " substring. If can't be split returns null.
      * @param line The line to split 
      * @return An string array on the line split by the last 
-     *         index of by. Returns null if " by " not in string.
+     *         index of by. Returns null if " by " is not in 
+     *         line at least twice.
      */
     private static String[] rsplit(String line) {
+
         int i = line.lastIndexOf(" by ");
         String[] splitLine = null;
 
@@ -406,5 +391,4 @@ public class Algorithm {
         return "\n			\"" + name + "\": \"" + val + "\"" + comma;
     }
     
-
 }
