@@ -12,16 +12,16 @@ import java.util.Scanner;
 import org.json.*;
 
 /**
- * This algorithms main purpose is to check that the all-timestamps 
- * file doesn't have errors, create a list of json objects out of the 
- * songs out of the all-timestamps file to use as a database, and 
- * push the updated code to Github.
+ * Creates the song_list.json file out of the all-timestamps.txt file
  * @author Michael Totaro
  */
 public class MainAlgorithm {
 
     /**
-     * 
+     * This algorithms main purpose is to check that the all-timestamps 
+     * file doesn't have errors, create a list of json objects out of the 
+     * songs out of the all-timestamps file to use as a database, and 
+     * push the updated code to Github.
      * @param args Unused command line arguments 
      */
     public static void main(String[] args) {
@@ -124,7 +124,7 @@ public class MainAlgorithm {
 
         //Open song_list.json to see/check changes if you want.
         if (question.strip().equalsIgnoreCase("Y") || question.strip().equalsIgnoreCase("YES")) {
-            os.openApp("./database/song_list2.json", "Visual Studio Code");
+            os.openApp("./database/song_list.json", "Visual Studio Code");
         }
 
         System.out.print("Do you want to open the Github Repository? : ");
@@ -141,6 +141,7 @@ public class MainAlgorithm {
         //Add the updates to GitHub.
         try {
             os.executeGitCommands();
+            System.out.println();
         } catch (Exception e) {
             printWithColor("Git Commands failed", Color.RED, "\n");
         }

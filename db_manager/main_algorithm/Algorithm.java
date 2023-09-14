@@ -365,7 +365,7 @@ public class Algorithm {
         songInfo.append("\n}");
 
         //Write the songInfo string to the song_list.json file.
-        jsonHelper.writeStringToFile(songInfo.toString(), "./database/song_list2.json");
+        jsonHelper.writeStringToFile(songInfo.toString(), "./database/song_list.json");
 
     }
     

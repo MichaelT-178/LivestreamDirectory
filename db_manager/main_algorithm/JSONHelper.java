@@ -183,7 +183,7 @@ public class JSONHelper {
         List<String> songList = new ArrayList<>();
 
         try {
-            String filePath = "./database/song_list2.json";
+            String filePath = "./database/song_list.json";
             FileReader fileReader = new FileReader(filePath);
             JSONTokener jsonTokener = new JSONTokener(fileReader);
             JSONObject jsonObject = new JSONObject(jsonTokener);

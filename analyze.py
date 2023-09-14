@@ -16,8 +16,8 @@ def are_files_equal(file1, file2):
     return True
 
 # Usage example
-file1 = "/Users/michaeltotaro/LivestreamDirectory/database/song_list.json"
-file2 = "/Users/michaeltotaro/LivestreamDirectory/database/song_list2.json"
+file1 = "/Users/michaeltotaro/LivestreamDirectory/database/og_song_list.json"
+file2 = "/Users/michaeltotaro/LivestreamDirectory/database/song_list.json"
 
 if are_files_equal(file1, file2):
     print("SONG_LIST EQUAL: YES")

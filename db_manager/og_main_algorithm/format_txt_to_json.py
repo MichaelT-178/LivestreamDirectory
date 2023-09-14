@@ -1,6 +1,6 @@
 """
 This program reads the all-timestamps.txt file and writes
-the song information to the song_list.json file in json format.
+the song information to the og_song_list.json file in json format.
 Performs error and format checking before writing to file.
 """
 import threading as thread
@@ -435,7 +435,7 @@ song_info += "\n}"
 
 os.chdir('../')
 
-with open('../database/song_list.json', 'w') as f:
+with open('../database/og_song_list.json', 'w') as f:
     f.write(song_info)
 
 json_repeat.close()
@@ -444,7 +444,7 @@ all_the_artists.close()
 
 song_list = []
 
-with open('../database/song_list.json', 'r') as read_songs:
+with open('../database/og_song_list.json', 'r') as read_songs:
     the_dict = json.load(read_songs)
 
     for song in the_dict['songs']:
@@ -468,13 +468,13 @@ print("File " + colored("successfully","green") + " written to!")
 num = round(the_time() - start_time, 2)
 print(f"Program took {num} seconds to run.")
 
-question = input("\nDo you want to open the \"song_list.json\" file? : ")
+question = input("\nDo you want to open the \"og_song_list.json\" file? : ")
 print()
 
 os.chdir('../')
 
 if question.upper().strip() in ["Y", "YES"]:
-    os.system('open -a "Visual Studio Code" database/song_list.json')
+    os.system('open -a "Visual Studio Code" database/og_song_list.json')
 
 open_repo = input("Do you want to open the Github Repository? : ")
 
