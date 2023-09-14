@@ -7,8 +7,7 @@ compile_str = f"javac -cp {jar_path} -d ./bin ./MainAlgorithm.java"
 files = ["Algorithm",
          "ErrorHandler",
          "JSONHelper",
-         "OperatingSystem",
-         "Song"]
+         "OperatingSystem"]
 
 for file in files:
     compile_str += f" ./{file}.java "
