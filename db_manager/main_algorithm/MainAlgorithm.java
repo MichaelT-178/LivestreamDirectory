@@ -141,7 +141,6 @@ public class MainAlgorithm {
         //Add the updates to GitHub.
         try {
             os.executeGitCommands();
-            System.out.println();
         } catch (Exception e) {
             printWithColor("Git Commands failed", Color.RED, "\n");
         }
