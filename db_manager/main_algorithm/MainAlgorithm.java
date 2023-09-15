@@ -66,7 +66,7 @@ public class MainAlgorithm {
         //List of all songs titles in the file, with all/multiple occurences of the songs title.
         allSongs = updatedLists.get(1);
         
-        //Find all songs that have been played once
+        //Find all songs that have been played once and have keys in their title.
         noRepeats = errorHandler.findNoRepeats(allSongs, noRepeats, onlyKeys);
 
         //All songs that have only been played with keys 

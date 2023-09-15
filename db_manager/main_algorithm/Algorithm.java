@@ -18,7 +18,7 @@ public class Algorithm {
      * song_list.json file. Loops through all songs and builds a list of json 
      * song json objects with their attributes. 
      * @param songs List that contains only one occurence of every unique song title.
-     * @param noRepeats List of song titles that don't repeat 
+     * @param noRepeats List of song titles that don't repeat and have keys in their title
      * @param onlyKeys List of songs that only appear with keys in their title.
      * @param artistsPlayed List of artists played in the Livestreams 
      * @param scanner Scanner for user input

@@ -1,4 +1,4 @@
-Control + g. Type 900 for stand alone Videos. Format: time title by artist
+Control + g. Type 915 for stand alone Videos. Format: time title by artist
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -901,6 +901,17 @@ https://youtu.be/kQ3JE8Svduc?si=-qze5mxYjsdDiQau
 Solo Video 
 https://youtu.be/yAfv15orPVY?si=wRpG8dKhsfu5K_-W
 0:00 Lover, You Should've Come Over by Jeff Buckley
+
+Solo Video (Album Version)
+https://youtu.be/o_u2RWvoGLU?si=yA5415-yGb_AtwZC
+0:00 The New by Corey Heuvel
+5:28 Beautiful Slide by Corey Heuvel
+10:06 Queenstown by Corey Heuvel
+13:38 Crimson Fools by Corey Heuvel
+18:58 Sage Trees by Corey Heuvel
+24:55 Out of the Mist by Corey Heuvel
+28:38 A Still and Silent Mountain by Corey Heuvel
+35:07 Jhana by Corey Heuvel
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI

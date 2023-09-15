@@ -110,7 +110,7 @@ public class ErrorHandler {
     /**
      * Finds songs that have only been played once and add it to noRepeats.
      * @param allSongs List of all song titles in the all-timestampes folder
-     * @param noRepeats List of song titles that are only played once.
+     * @param noRepeats List of song titles that are only played once and have keys in their title.
      * @param onlyKeys List of song titles that have only have titles with keys
      * @return The noRepeats list
      */
@@ -153,7 +153,7 @@ public class ErrorHandler {
      * Iterates over the noRepeats list and if a song is found to repeat more than once without 
      * it's different keys, than it is added to the onlyKeys list.
      * @param allSongs List of all Songs in the all-timestamps file.
-     * @param noRepeats List of songs that are only played once.
+     * @param noRepeats List of songs that are only played once and have keys in their title
      * @param onlyKeys List of songs that have only have titles with keys
      * @return The updated onlyKeys list 
      */
@@ -192,7 +192,8 @@ public class ErrorHandler {
     /**
      * If noRepeats contains the song title with a key, the song will be removed
      * from noRepeats.
-     * @param noRepeats List of songs that have only been played once.
+     * @param noRepeats List of songs that have only been played once and have
+     *        have keys in their title.
      * @param song The song to be determined if there was a repeat.
      */
     public void manageStringInNoRepeats(List<String> noRepeats, String song) {
