@@ -1,10 +1,13 @@
 #See if og_song_list and song_list are equivalent after running both algorithm files.
 #Note now og_main_algorithm is in ancient-python-files/newer_old_files
 
-og_song_list = "../LivestreamDirectory/database/og_song_list.json"
-new_song_list = "../LivestreamDirectory/database/song_list.json"
+#Og_song_list.json created by python algorithm
+file1 = "../LivestreamDirectory/database/og_song_list.json"
 
-if File.read(og_song_list) == File.read(new_song_list)
+#Song_list.json created by java algorithm
+file2 = "../LivestreamDirectory/database/song_list.json"
+
+if File.read(file1) == File.read(file2)
     puts "SONG_LIST EQUAL: YES"
 else
     puts c("The files are not equivalent.", 'red')
