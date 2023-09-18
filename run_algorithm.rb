@@ -1,5 +1,5 @@
 #Manually Change to true if you want to recompile java files 
-recompile = false
+recompile = true
 
 ask = ""
 

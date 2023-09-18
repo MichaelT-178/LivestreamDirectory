@@ -31,12 +31,8 @@ public class JSONHelper {
         }
 
         int seconds = (timeArrLength == 2)  ?  (t[1] + (t[0] * 60))  :  (t[2] + (t[1] * 60) + (t[0] * 3600));
-
-        if (videoId.contains("share")) {
-            return "https://www.youtube.com/live/" + videoId + "&t=" + seconds + " , ";
-        }
-
-        return "https://youtu.be/" + videoId + "?t=" + seconds + " , ";
+        
+        return "https://youtu.be/" + videoId + "&t=" + seconds + " , ";
         
     }
 
