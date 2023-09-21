@@ -2411,16 +2411,6 @@
 			"Links": "https://youtu.be/RfYn2ozzN_c&t=10092 , https://youtu.be/5yvoFRB-OAE&t=4108 , https://youtu.be/KLIWP_nbaXs&t=9822 , https://youtu.be/uLKs6770MzM&t=6656 , https://youtu.be/exm9X0zIDaA&t=2101 , https://youtu.be/skPtRNli5KY&t=7820"
 		},
 		{
-			"Title": "The Past Recedes (Chords)",
-			"Artist": "John Frusciante",
-			"Other_Artists": "",
-			"Appearances": "Livestream 27,Livestream 35",
-			"Other": "",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/John Frusciante.jpg",
-			"Links": "https://youtu.be/RfYn2ozzN_c&t=10404 , https://youtu.be/61pND0vO3z8&t=2900"
-		},
-		{
 			"Title": "Be Your Husband",
 			"Artist": "Nina Simone",
 			"Other_Artists": "Jeff Buckley",
@@ -3191,6 +3181,16 @@
 			"Links": "https://youtu.be/5yvoFRB-OAE&t=10656 , https://youtu.be/CoQ0bS1d7uo&t=10217 , https://youtu.be/ROzDnzn7Vwo&t=1314 , https://youtu.be/Q4p-jIfkQpM&t=5094 , https://youtu.be/79E9gUpu6pk&t=10268 , https://youtu.be/Qih3Nx18Yas&t=1602 , https://youtu.be/PPq9uuigSs0&t=4385 , https://youtu.be/9-UHTEmE9UU&t=873 , https://youtu.be/1W4TxxgXnOk&t=1439 , https://youtu.be/EX4bD4sLh3Y&t=903 , https://youtu.be/JNbwlKX5IJE&t=5534 , https://youtu.be/bEBVkT9SWFY&t=7015 , https://youtu.be/wSBFKylNQjU&t=2568 , https://youtu.be/QLLYLiTUyDY?feature=share&t=1677"
 		},
 		{
+			"Title": "The Past Recedes (Chords)",
+			"Artist": "John Frusciante",
+			"Other_Artists": "",
+			"Appearances": "Livestream 35",
+			"Other": "",
+			"Instruments": "Acoustic Guitar",
+			"Image": "./pics/John Frusciante.jpg",
+			"Links": "https://youtu.be/61pND0vO3z8&t=2900"
+		},
+		{
 			"Title": "I Won't Back Down",
 			"Artist": "Tom Petty",
 			"Other_Artists": "Johnny Cash",
@@ -3521,7 +3521,7 @@
 			"Links": "https://youtu.be/AraZ934iGwQ&t=4787"
 		},
 		{
-			"Title": "Eyes Wider than Before",
+			"Title": "Eyes Wider Than Before",
 			"Artist": "Scott Matthews",
 			"Other_Artists": "",
 			"Appearances": "Livestream 40,Livestream 62",
@@ -3754,11 +3754,11 @@
 			"Title": "The Past Recedes",
 			"Artist": "John Frusciante",
 			"Other_Artists": "",
-			"Appearances": "Livestream 42,Livestream 47,Livestream 80,Livestream 91,Livestream 115",
+			"Appearances": "Livestream 27 (Partial),Livestream 42,Livestream 47,Livestream 80,Livestream 91,Livestream 115",
 			"Other": "",
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/John Frusciante.jpg",
-			"Links": "https://youtu.be/T6ydeqXOIvk&t=2604 , https://youtu.be/biTNdO9Z6Y8&t=3310 , https://youtu.be/x048oootisY&t=5173 , https://youtu.be/yiFNZvisSQw&t=8655 , https://youtu.be/PvNuNSk9iPM&t=8851"
+			"Links": "https://youtu.be/RfYn2ozzN_c&t=10404 , https://youtu.be/T6ydeqXOIvk&t=2604 , https://youtu.be/biTNdO9Z6Y8&t=3310 , https://youtu.be/x048oootisY&t=5173 , https://youtu.be/yiFNZvisSQw&t=8655 , https://youtu.be/PvNuNSk9iPM&t=8851"
 		},
 		{
 			"Title": "Nutshell",
@@ -4951,7 +4951,7 @@
 			"Links": "https://youtu.be/MhNKFJxwK8g&t=7684"
 		},
 		{
-			"Title": "Wonderwall Chords",
+			"Title": "Wonderwall (Chords)",
 			"Artist": "Oasis",
 			"Other_Artists": "",
 			"Appearances": "Livestream 58",
