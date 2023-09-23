@@ -274,6 +274,7 @@ public class Algorithm {
                 if (artist.contains("Allman")) other.append("The Allman Brothers, ");
                 if (artist.contains("Nelly") || artist.contains("Flo Rida")) other.append("Rap, ");
                 if (artist.equals("Extreme")) other.append("The Extreme, ");
+                if (artist.equals("The Police")) other.append("Sting, ");
 
                 if (title.contains("Grey")) other.append(title.replace("Grey", "Gray") + ", ");
                 if (artist.contains("Grey")) other.append(artist.replace("Grey", "Gray") + ", ");

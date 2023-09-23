@@ -10,7 +10,7 @@ begin
         puts song['Title']
     end
   end
-
+  
 rescue JSON::ParserError => e
   puts "Error parsing JSON: #{e.message}"
 rescue Errno::ENOENT => e
