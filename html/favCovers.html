@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/favCoverStyle.css">
+    <title>Personal Favorite Covers</title>
+</head>
+<body>
+
+    <div class="header-padding">
+        <header>
+            <div class="container">
+                <div class="search-wrapper">
+            <!-- <label for="search">Search Songs</label> -->
+                    <input type="search" id="search" placeholder="Search Songs" autocomplete="off" data-search>
+                    <div id="message">*This isn't really in order, just the first and second rows are probably my unordered all-time favorites.</div>
+                </div>
+            </div>
+        </header>
+        </div>
+    <div class="user-cards" data-user-cards-container></div>
+    <template data-user-template>
+        <a href="#" class="card">
+            <div class="header" data-header></div>
+            <div class="body" data-body></div>
+        </a>
+    </template>
+    <script src="../js/script.js"></script>
+</body>
+</html>

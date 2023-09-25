@@ -296,6 +296,7 @@ public class Algorithm {
                 if (artist.equals("Elliott Smith")) other.append("Elliot , ");
                 if (title.equals("Trouble So Hard")) other.append("Natural Blues by Moby, ");
                 if (title.equals("Natural Blues")) other.append("Trouble So Hard by Vera Hall, ");
+                if (title.equals("Satisfied Mind")) other.append("A Satisfied Mind, ");
 
                 if (artist.contains(".") || artist.contains("'") || artist.contains("’")) {
                     other.append(artist.strip().replace(".", "").replace("'", "").replace("’", "").replace("‘", "'") + ", ");
