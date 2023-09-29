@@ -85,7 +85,7 @@ public class MainAlgorithm {
         List<String> songList = jsonHelper.getSongList();
 
 
-        //Alphabetically sort all songs into a list. This list is used for reperoire.json
+        //Alphabetically sort all songs into a list. This list is used for repertoire.json
         String letter = "A";
         List<String> alphabetList = new ArrayList<>();
 
@@ -134,7 +134,7 @@ public class MainAlgorithm {
             try {
                 Desktop.getDesktop().browse(new URI("https://github.com/MichaelT-178/LivestreamDirectory"));
             } catch (IOException | URISyntaxException e) {
-                e.printStackTrace();
+                printWithColor("Could not open GitHub in the browser.", Color.RED, "\n");
             }
         }
 
