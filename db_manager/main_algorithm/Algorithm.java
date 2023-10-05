@@ -294,6 +294,8 @@ public class Algorithm {
                 if (artist.equals("Dire Straits")) other.append("The Dire Straits, ");
                 if (artist.equals("Joe Walsh")) other.append("The Eagles, " );
                 if (artist.equals("Elliott Smith")) other.append("Elliot , ");
+                if (artist.equals("Black Sabbath")) other.append("Ozzy Osbourne, ");
+                if (artist.equals("Ozzy Osbourne")) other.append("Black Sabbath, ");
                 if (title.equals("Trouble So Hard")) other.append("Natural Blues by Moby, ");
                 if (title.equals("Natural Blues")) other.append("Trouble So Hard by Vera Hall, ");
                 if (title.equals("Satisfied Mind")) other.append("A Satisfied Mind, ");
