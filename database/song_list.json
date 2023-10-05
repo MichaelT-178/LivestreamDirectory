@@ -354,11 +354,11 @@
 			"Title": "Between the Horizons",
 			"Artist": "Corey Heuvel",
 			"Other_Artists": "",
-			"Appearances": "Solo Video,Livestream 44,Livestream 59,Livestream 90,Livestream 103,Livestream 128",
+			"Appearances": "Solo Video,Solo Video (Album Version),Livestream 44,Livestream 59,Livestream 90,Livestream 103,Livestream 128",
 			"Other": "",
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Corey Heuvel.jpg",
-			"Links": "https://youtu.be/PkYtyhOiql0&t=0 , https://youtu.be/CoQ0bS1d7uo&t=6090 , https://youtu.be/hs3UcA7DP4U&t=8213 , https://youtu.be/S0H-UbV9G48&t=5358 , https://youtu.be/0W8Q-hGHd80&t=7257 , https://youtu.be/bEBVkT9SWFY&t=6304"
+			"Links": "https://youtu.be/PkYtyhOiql0&t=0 , https://youtu.be/kQ3JE8Svduc?si=-qze5mxYjsdDiQau&t=1971 , https://youtu.be/CoQ0bS1d7uo&t=6090 , https://youtu.be/hs3UcA7DP4U&t=8213 , https://youtu.be/S0H-UbV9G48&t=5358 , https://youtu.be/0W8Q-hGHd80&t=7257 , https://youtu.be/bEBVkT9SWFY&t=6304"
 		},
 		{
 			"Title": "Reverie",
@@ -2059,16 +2059,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Corey Heuvel.jpg",
 			"Links": "https://youtu.be/kQ3JE8Svduc?si=-qze5mxYjsdDiQau&t=1732"
-		},
-		{
-			"Title": "Between the Horizon",
-			"Artist": "Corey Heuvel",
-			"Other_Artists": "",
-			"Appearances": "Solo Video (Album Version)",
-			"Other": "",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/Corey Heuvel.jpg",
-			"Links": "https://youtu.be/kQ3JE8Svduc?si=-qze5mxYjsdDiQau&t=1971"
 		},
 		{
 			"Title": "Home Again",
