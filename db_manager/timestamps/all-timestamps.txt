@@ -1,4 +1,4 @@
-Control + g. Type 915 for stand alone Videos. Format: time title by artist
+Control + g. Type 938 for end of solo videos. Format: time title by artist
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
