@@ -451,16 +451,6 @@
 			"Links": "https://youtu.be/rKHBvqQAfiw&t=0 , https://youtu.be/vGOATBTIGy8&t=0 , https://youtu.be/Uz3-Q1-R2kk?si=bPhYhVMFS8YQotE8&t=2205 , https://youtu.be/RipA8bRdIbI&t=131 , https://youtu.be/6r4e55Yo27A&t=488 , https://youtu.be/jDGy1_nMmbk&t=1269 , https://youtu.be/5yvoFRB-OAE&t=2166 , https://youtu.be/bszf3Megxhc&t=612 , https://youtu.be/RLZoln3RATs&t=5324 , https://youtu.be/CoQ0bS1d7uo&t=6829 , https://youtu.be/WGGj7qyf4pA&t=1025 , https://youtu.be/CxcBGVkfVMc&t=1185 , https://youtu.be/VEh4FA59OGA&t=756 , https://youtu.be/LuQ78Y2Fiwo&t=8675 , https://youtu.be/Q4p-jIfkQpM&t=7717 , https://youtu.be/qfsm5R2EeOU&t=905 , https://youtu.be/bCz3cavBkog&t=9867 , https://youtu.be/x6f3H65JhEg&t=1310 , https://youtu.be/PPq9uuigSs0&t=978 , https://youtu.be/Y473wJBI_Y8&t=4143 , https://youtu.be/sfTsmIo6Ybo&t=2777 , https://youtu.be/uLKs6770MzM&t=1906 , https://youtu.be/q0SOrSxKE90&t=1500 , https://youtu.be/x048oootisY&t=1317 , https://youtu.be/T_2aqBkmeUc&t=1485 , https://youtu.be/1W4TxxgXnOk&t=753 , https://youtu.be/yiFNZvisSQw&t=3174 , https://youtu.be/lmyOp2MHwCY&t=926 , https://youtu.be/HTJSoHhm7aY&t=1825 , https://youtu.be/aiAhYDQQdUo&t=6477 , https://youtu.be/GDMlH7bT0FA&t=3543 , https://youtu.be/0W8Q-hGHd80&t=1471 , https://youtu.be/Bs2mSVV4b38&t=1523 , https://youtu.be/7ub_S5Kx-wA&t=1179 , https://youtu.be/KoChozPGk7c&t=1535 , https://youtu.be/h_KbDQybQmE&t=1340 , https://youtu.be/HJpwaG3PP3E&t=6875 , https://youtu.be/5Y_XA4lXk_8&t=1483 , https://youtu.be/pvM5qp6ZCS4&t=2588 , https://youtu.be/bEBVkT9SWFY&t=1308 , https://youtu.be/iB2cbbPaJU0&t=1902 , https://youtu.be/skPtRNli5KY&t=5358 , https://youtu.be/yN7gKYOObcE&t=9501 , https://youtu.be/9RNVOwRTSwc&t=1532 , https://youtu.be/rHhhcP4jGD8&t=1033 , https://youtu.be/sXKeY6LpR9g&t=1183 , https://youtu.be/s-v4qoUK0tU?feature=share&t=1528 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=1825 , https://youtu.be/Mm_r2XHf7kw?feature=share&t=1545 , https://youtu.be/c1H63fb1AJs?feature=share&t=1347"
 		},
 		{
-			"Title": "Machine Gun",
-			"Artist": "Jimi Hendrix",
-			"Other_Artists": "",
-			"Appearances": "Solo Video (Electric Song),Solo Video (Live)",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Jimi Hendrix.jpg",
-			"Links": "https://youtu.be/8n3PhO-2QcM&t=0 , https://youtu.be/Z9KyZZDQXyo&t=0"
-		},
-		{
 			"Title": "Nothing Dream",
 			"Artist": "Corey Heuvel",
 			"Other_Artists": "",
@@ -1419,26 +1409,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Gnarls Barkley.jpg",
 			"Links": "https://youtu.be/F8lQmFANH0s&t=0"
-		},
-		{
-			"Title": "Green Light Girl",
-			"Artist": "Doyle Bramhall II, Smokestack",
-			"Other_Artists": "",
-			"Appearances": "Solo Video (Electric Song),Solo Video (Electric Song)",
-			"Other": "Doyle Bramhall II Smokestack",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Doyle Bramhall II, Smokestack.jpg",
-			"Links": "https://youtu.be/w5MzR9MYnbk&t=0 , https://youtu.be/BwuqxrPeUAA&t=416"
-		},
-		{
-			"Title": "Tension",
-			"Artist": "Corey Heuvel",
-			"Other_Artists": "",
-			"Appearances": "Solo Video (Electric Song),Solo Video (Electric Song)",
-			"Other": "",
-			"Instruments": "Electric Guitar",
-			"Image": "./pics/Corey Heuvel.jpg",
-			"Links": "https://youtu.be/BwuqxrPeUAA&t=0 , https://youtu.be/upfONr2TXSA&t=0"
 		},
 		{
 			"Title": "Morning Wish",
