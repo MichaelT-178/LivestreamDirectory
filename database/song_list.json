@@ -604,11 +604,11 @@
 			"Title": "Grace",
 			"Artist": "Jeff Buckley",
 			"Other_Artists": "",
-			"Appearances": "Solo Video,Solo Video (Album Version),Livestream 28,Livestream 36,Livestream 44,Livestream 45,Livestream 50 (Electric riff),Livestream 57,Livestream 65,Livestream 77,Livestream 83,Livestream 106,Livestream 114,Livestream 115,Livestream 121,Livestream 128,Livestream 148,Livestream 156,Livestream 164",
+			"Appearances": "Solo Video,Livestream 28,Livestream 36,Livestream 44,Livestream 45,Livestream 50 (Electric riff),Livestream 57,Livestream 65,Livestream 77,Livestream 83,Livestream 106,Livestream 114,Livestream 115,Livestream 121,Livestream 128,Livestream 148,Livestream 156,Livestream 164",
 			"Other": "",
 			"Instruments": "Acoustic Guitar,  Electric Guitar",
 			"Image": "./pics/Jeff Buckley.jpg",
-			"Links": "https://youtu.be/og2IIDjz_7k&t=0 , https://youtu.be/Uz3-Q1-R2kk?si=bPhYhVMFS8YQotE8&t=1640 , https://youtu.be/8yEnflFWoIU&t=7959 , https://youtu.be/bszf3Megxhc&t=8783 , https://youtu.be/CoQ0bS1d7uo&t=3966 , https://youtu.be/L1VngMqyXo4&t=10174 , https://youtu.be/WGGj7qyf4pA&t=8093 , https://youtu.be/MhNKFJxwK8g&t=4272 , https://youtu.be/x6f3H65JhEg&t=5819 , https://youtu.be/q0SOrSxKE90&t=9628 , https://youtu.be/_7xQAOqGbk4&t=7710 , https://youtu.be/pVDmEFQX16c&t=6623 , https://youtu.be/KoChozPGk7c&t=5217 , https://youtu.be/PvNuNSk9iPM&t=9421 , https://youtu.be/Yr3DnVxJbnA&t=9421 , https://youtu.be/bEBVkT9SWFY&t=8479 , https://youtu.be/ARCgeQF6tRg&t=5960 , https://youtu.be/r4JaTRrhap8?feature=share&t=7168 , https://youtu.be/c1H63fb1AJs?feature=share&t=8419"
+			"Links": "https://youtu.be/og2IIDjz_7k&t=0 , https://youtu.be/8yEnflFWoIU&t=7959 , https://youtu.be/bszf3Megxhc&t=8783 , https://youtu.be/CoQ0bS1d7uo&t=3966 , https://youtu.be/L1VngMqyXo4&t=10174 , https://youtu.be/WGGj7qyf4pA&t=8093 , https://youtu.be/MhNKFJxwK8g&t=4272 , https://youtu.be/x6f3H65JhEg&t=5819 , https://youtu.be/q0SOrSxKE90&t=9628 , https://youtu.be/_7xQAOqGbk4&t=7710 , https://youtu.be/pVDmEFQX16c&t=6623 , https://youtu.be/KoChozPGk7c&t=5217 , https://youtu.be/PvNuNSk9iPM&t=9421 , https://youtu.be/Yr3DnVxJbnA&t=9421 , https://youtu.be/bEBVkT9SWFY&t=8479 , https://youtu.be/ARCgeQF6tRg&t=5960 , https://youtu.be/r4JaTRrhap8?feature=share&t=7168 , https://youtu.be/c1H63fb1AJs?feature=share&t=8419"
 		},
 		{
 			"Title": "A Thousand Miles",
@@ -2139,6 +2139,16 @@
 			"Instruments": "Electric Guitar, Acoustic Guitar",
 			"Image": "./pics/Doyle Bramhall II, Smokestack.jpg",
 			"Links": "https://youtu.be/w5MzR9MYnbk&t=0 , https://youtu.be/BwuqxrPeUAA&t=416 , https://youtu.be/Uz3-Q1-R2kk?si=bPhYhVMFS8YQotE8&t=1440"
+		},
+		{
+			"Title": "Grace",
+			"Artist": "Corey Heuvel",
+			"Other_Artists": "",
+			"Appearances": "Solo Video (Album Version)",
+			"Other": "",
+			"Instruments": "Acoustic Guitar",
+			"Image": "./pics/Corey Heuvel.jpg",
+			"Links": "https://youtu.be/Uz3-Q1-R2kk?si=bPhYhVMFS8YQotE8&t=1640"
 		},
 		{
 			"Title": "Sunshine Of Your Love",

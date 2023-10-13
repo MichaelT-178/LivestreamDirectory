@@ -188,9 +188,12 @@ public class Algorithm {
                 songInfo.append("\n\t\t{");
 
                 //(I) is to indicate that the version of "Wish You Were here"
-                //is the incubus one and not pink floyd. (H) indicates that 
-                //Fox Chase & Lost John doesn't have an acoustic guitar, just harmonica.
-                title = title.replace("(I)", "").replace("(H)", "").strip();
+                //is the incubus one and not pink floyd. 
+                //(C) is to indicate that the version of "Grace" is by Corey Heuvel
+                // not jeff buckley
+                //(H) indicates that Fox Chase & Lost John doesn't have an 
+                //acoustic guitar, just harmonica.
+                title = title.replace("(I)", "").replace("(H)", "").replace("(C)", "").strip();
 
                 if (title.toLowerCase().contains("intro “out of the mist”")) title = "Intro “Out of the Mist”";
 
