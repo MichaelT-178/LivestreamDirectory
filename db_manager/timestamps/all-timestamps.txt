@@ -1,4 +1,4 @@
-Control + g. Type 938 for end of solo videos. Format: time title by artist
+Control + g. Type 951 for end of solo videos. Format: time title by artist
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -709,44 +709,8 @@ https://youtu.be/FXMSjxm16yQ
 0:00 Under the Bridge by Red Hot Chili Peppers
 
 Solo Video
-https://www.youtube.com/watch?v=7Op4BVk0jdA
-0:00 Interstate Love Song by Stone Temple Pilots
-
-Solo Video
-https://www.youtube.com/watch?v=kfFzk3OQy54
-0:00 Behind Blue Eyes by The Who
-
-Solo Video
-https://www.youtube.com/watch?v=-J56wVkO1S4
-0:00 Subterranean Homesick Alien by Radiohead
-
-Solo Video
-https://www.youtube.com/watch?v=_kbTeTAVqPM
-0:00 Blue on Black by Kenny Wayne Shepherd
-
-Solo Video
-https://www.youtube.com/watch?v=C4jzWJ54G3Q
-0:00 Never Going Back Again by Fleetwood Mac
-
-Solo Video
-https://www.youtube.com/watch?v=MdqTNPRzvU0
-0:00 Hole Hearted by Extreme
-
-Solo Video
-https://www.youtube.com/watch?v=LUK3DNFEJl0
-0:00 Helplessly Hoping by Crosby Stills & Nash
-
-Solo Video
-https://www.youtube.com/watch?v=1vKqXdirXrw
-0:00 Can't Find My Way Home by Blind Faith
-
-Solo Video
 https://www.youtube.com/watch?v=lgFK1S8tSjw
 0:00 Dust in a Baggie by Billy Strings
-
-Solo Video
-https://www.youtube.com/watch?v=en4syvhbts4
-0:00 Vincent by Don McLean
 
 Solo Video
 https://youtu.be/MSpW4pKoeZ8
@@ -781,10 +745,6 @@ https://youtu.be/zegRt3yt1As
 Solo Video
 https://youtu.be/Tklv7fFd_Oo
 0:00 Life's Been Good by Joe Walsh
-
-Solo Video
-https://youtu.be/WP-eWEDEeoU
-0:00 Thunder Road by Bruce Springsteen
 
 Solo Video
 https://youtu.be/uIaYd6qWmlo
@@ -935,6 +895,20 @@ https://youtu.be/Uz3-Q1-R2kk?si=bPhYhVMFS8YQotE8
 36:45 Solsbury Hill by Peter Gabriel
 41:24 Venus Sky by Corey Heuvel
 46:38 Machine Gun by Jimi Hendrix
+
+Solo Video (Acoustic Session)
+https://youtu.be/9LlydBY-v1E?si=uT2P2JZmUA9BXB79
+4:18 What I’m About to Do by Corey Heuvel
+8:43 Ordinary Girl by Corey Heuvel
+12:57 God Knows (I Love You Madly) by Corey Heuvel
+16:40 Starbird by Corey Heuvel
+21:15 Into Light by Corey Heuvel
+26:10 Mother Divine by Corey Heuvel
+30:21 Giving Up by Corey Heuvel
+34:27 Flowers Field by Corey Heuvel
+35:52 Way to the Sea by Corey Heuvel
+39:59 Time Always Tells by Corey Heuvel
+44:15 Until the End by Corey Heuvel
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
@@ -6197,5 +6171,3 @@ https://www.youtube.com/live/il7d9PknEmQ?feature=share
 3:07:03 Do It Again by Steely Dan
 3:15:36 Voodoo Child (Slight Return) by Jimi Hendrix 
 3:24:44 Outro “Jhana” by Corey Heuvel
-
-Livestream 166
