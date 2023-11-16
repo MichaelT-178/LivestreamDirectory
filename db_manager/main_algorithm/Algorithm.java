@@ -360,7 +360,7 @@ public class Algorithm {
                     System.out.println(": " + artistPic);
                 }  
 
-                songInfo.append(jsonStr("Image", image.substring(1).replace("/LivestreamDirectory", ""), ","));
+                songInfo.append(jsonStr("Image", image.replace("../LivestreamDirectory/pics/", ""), ","));
                 songInfo.append(jsonStr("Links", links.substring(0, links.length() - 3), ""));
                 songInfo.append("\n		},");
 

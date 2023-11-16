@@ -1,0 +1,53 @@
+html { 
+    background-color: black; 
+    display: inline;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} 
+
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-family: var(--bs-body-font-family)
+}
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+#songList {
+    position: relative;
+    left: 162px;
+}
+
+#songelements {
+    color: #C6C6C6; 
+    font-size: 19px;
+}
+
+#songelements:empty {
+    color: black;
+}
+
+@media (max-width: 800px) {
+    
+    #songList {
+        left: 100px;
+    }
+}
+
+@media (max-width: 600px) {
+    
+    #songList {
+        left: 0px;
+    }
+}
