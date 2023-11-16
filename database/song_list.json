@@ -1844,11 +1844,11 @@
 			"Title": "Let Me In",
 			"Artist": "Corey Heuvel",
 			"Other_Artists": "",
-			"Appearances": "Solo Video",
+			"Appearances": "Solo Video,Solo Video (EP Version) (Electric Song)",
 			"Other": "",
-			"Instruments": "Acoustic Guitar",
+			"Instruments": "Acoustic Guitar,  Electric Guitar",
 			"Image": "./pics/Corey Heuvel.jpg",
-			"Links": "https://youtu.be/6EHJ6Yszx3E?si=-o_xWBbLTnOojPPl&t=0"
+			"Links": "https://youtu.be/6EHJ6Yszx3E?si=-o_xWBbLTnOojPPl&t=0 , https://youtu.be/W2COtI_RqTk?si=ZFXy3zoqbgeuZlqo&t=0"
 		},
 		{
 			"Title": "Stay Away",
@@ -2024,11 +2024,11 @@
 			"Title": "Drowning In Your Love",
 			"Artist": "Corey Heuvel",
 			"Other_Artists": "",
-			"Appearances": "Solo Video (Electric Song),Solo Video (Album Version)",
+			"Appearances": "Solo Video (Electric Song),Solo Video (Album Version),Solo Video (EP Version)",
 			"Other": "",
 			"Instruments": "Electric Guitar, Acoustic Guitar",
 			"Image": "./pics/Corey Heuvel.jpg",
-			"Links": "https://youtu.be/mf_l06TFiV4&t=0 , https://youtu.be/Uz3-Q1-R2kk?si=bPhYhVMFS8YQotE8&t=1099"
+			"Links": "https://youtu.be/mf_l06TFiV4&t=0 , https://youtu.be/Uz3-Q1-R2kk?si=bPhYhVMFS8YQotE8&t=1099 , https://youtu.be/W2COtI_RqTk?si=ZFXy3zoqbgeuZlqo&t=576"
 		},
 		{
 			"Title": "Green Light Girl",
@@ -2079,6 +2079,26 @@
 			"Instruments": "Electric Guitar, Acoustic Guitar",
 			"Image": "./pics/Jimi Hendrix.jpg",
 			"Links": "https://youtu.be/8n3PhO-2QcM&t=0 , https://youtu.be/Z9KyZZDQXyo&t=0 , https://youtu.be/Uz3-Q1-R2kk?si=bPhYhVMFS8YQotE8&t=2798"
+		},
+		{
+			"Title": "Leave My Little Girl Alone",
+			"Artist": "Corey Heuvel",
+			"Other_Artists": "",
+			"Appearances": "Solo Video (EP Version) (Electric Song)",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Corey Heuvel.jpg",
+			"Links": "https://youtu.be/W2COtI_RqTk?si=ZFXy3zoqbgeuZlqo&t=269"
+		},
+		{
+			"Title": "They Won't Go When I Go",
+			"Artist": "Stevie Wonder",
+			"Other_Artists": "",
+			"Appearances": "Solo Video,Livestream 52",
+			"Other": "They Wont Go When I Go, They Won’t Go When I Go",
+			"Instruments": "Acoustic Guitar",
+			"Image": "./pics/Stevie Wonder.jpg",
+			"Links": "https://youtu.be/-PKvtQsNwyk?si=2o0mp79twcYDY1cJ&t=0 , https://youtu.be/9mwYBbDX0dY&t=9909"
 		},
 		{
 			"Title": "Green River",
@@ -4699,16 +4719,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Corey Heuvel.jpg",
 			"Links": "https://youtu.be/9mwYBbDX0dY&t=9677"
-		},
-		{
-			"Title": "They Won't Go When I Go",
-			"Artist": "Stevie Wonder",
-			"Other_Artists": "",
-			"Appearances": "Livestream 52",
-			"Other": "They Wont Go When I Go, They Won’t Go When I Go",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/Stevie Wonder.jpg",
-			"Links": "https://youtu.be/9mwYBbDX0dY&t=9909"
 		},
 		{
 			"Title": "Lenny",
