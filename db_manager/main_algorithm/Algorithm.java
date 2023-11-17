@@ -302,6 +302,8 @@ public class Algorithm {
                 if (title.equals("Trouble So Hard")) other.append("Natural Blues by Moby, ");
                 if (title.equals("Natural Blues")) other.append("Trouble So Hard by Vera Hall, ");
                 if (title.equals("Satisfied Mind")) other.append("A Satisfied Mind, ");
+                if (title.contains("'")) other.append(title.replace("'", "‘") + ", ");
+                if (artist.contains("'")) other.append(artist.replace("'", "‘") + ", ");
 
                 if (artist.contains(".") || artist.contains("'") || artist.contains("’")) {
                     other.append(artist.strip().replace(".", "").replace("'", "").replace("’", "").replace("‘", "'") + ", ");
