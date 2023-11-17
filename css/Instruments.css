@@ -1,0 +1,70 @@
+html {
+    background-color: black; 
+    display: inline;
+}
+
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-family: var(--bs-body-font-family)
+}
+
+#link, #helplink {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0 10px;
+}
+
+#link {
+    margin-bottom: 25px;
+}
+
+#InstrumentList {
+    text-align: center;
+    max-width: 400px; 
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 220px; 
+}
+
+#InstrumentList ul {
+    list-style-position: inside; /* Decreases space between bullet and text */
+    padding: 0; /* Gets rid of horizontal padding */
+    margin: 0; /* Reduces spacing between list and title */
+    text-align: left; /* Aligns text left */
+}
+
+#InstrumentList li {
+    padding-left: 30px; /* Increase left padding. Moves elements right*/
+    margin-bottom: 2.5px; /* Increases bottom space between list elements */
+}
+
+#InstrumentTitle {
+    color: #C6C6C6;
+    text-decoration: underline;
+    margin-bottom: 10px; /* Bottom spacing between title and instruments */
+}
+
+#Instruments {
+    color: #C6C6C6;
+    font-size: 20px;
+}
+
+li span {
+    position: relative;
+    left: -10px; /* Decreases space between bullet and list item */
+}
+
+a {
+    color: #2a9fd6;
+}
+
+a:hover {
+    color: #0000FF;
+}
