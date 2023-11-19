@@ -13,24 +13,27 @@ html {
 
 #link, #helplink {
     position: fixed;
-    bottom: 30px;
     left: 50%;
     transform: translateX(-50%);
     margin: 0 10px;
 }
 
 #link {
-    margin-bottom: 25px;
+    bottom: 63px;
+}
+
+#helplink {
+    bottom: 40px;
 }
 
 #InstrumentList {
     text-align: center;
-    max-width: 400px; 
     margin: auto;
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 220px; 
+    top: 345px; 
+    white-space: nowrap;
 }
 
 #InstrumentList ul {
@@ -41,7 +44,7 @@ html {
 }
 
 #InstrumentList li {
-    padding-left: 30px; /* Increase left padding. Moves elements right*/
+    padding-left: 50px; /* Increase left padding. Moves elements right*/
     margin-bottom: 2.5px; /* Increases bottom space between list elements */
 }
 
@@ -67,4 +70,49 @@ a {
 
 a:hover {
     color: #0000FF;
+}
+
+
+/* @media (min-device-width: 375px) and (max-device-width: 812px) { */
+@media (max-width: 400px) {
+
+    #myHeader {
+        padding: 15px;
+    }
+
+    #InstrumentList {
+        top: 332px; 
+    }
+
+    #InstrumentTitle {
+        margin-bottom: 4px; 
+    }
+
+    /* Set all values to default css "null" equivalent */
+    #link, #helplink {
+        transform: translateX(0%);
+        margin: 0 0px;
+        position: absolute;
+        font-size: 20px; 
+    }
+
+    #link {
+        bottom: 51px; /*65 */
+        left: 30.8%;
+    }
+
+    #helplink {
+        bottom: 22px; /*36*/
+        left: 27.5%;
+    }
+
+    li span {
+        position: relative;
+        left: 3px; /* Decreases space between bullet and list item */
+    }
+
+    #InstrumentList li {
+        padding-left: 0px; /* Increase left padding. Moves elements right*/
+        margin-bottom: 2.5px; /* Increases bottom space between list elements */
+    }
 }
