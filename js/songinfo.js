@@ -31,7 +31,7 @@ window.addEventListener('load', () => {
         console.error("Image name: " + image);
     }, true);
 
-    document.getElementById("pic1").src = `../pics/${image}`;
+    document.getElementById("pic1").src = `${image}`;
 
     web = appears.split(",");
 
