@@ -5,7 +5,7 @@ window.addEventListener('load', () => {
     const other_artists = localStorage.getItem("theOtherArt");
     const appears = localStorage.getItem("Appears");
     const instruments = localStorage.getItem("theInstruments");
-    const image = localStorage.getItem("theImage");
+    const image = `../pics/${localStorage.getItem("theImage")}`;
     const theLinks = localStorage.getItem("theLinks");
 
     theTitle = title.replace(" (Classical Guitar)", "").replace(" (Electric Song)", "");
@@ -31,7 +31,7 @@ window.addEventListener('load', () => {
         console.error("Image name: " + image);
     }, true);
 
-    document.getElementById("pic1").src = `../pics/${image}.jpg`;
+    document.getElementById("pic1").src = image;
 
     web = appears.split(",");
 
