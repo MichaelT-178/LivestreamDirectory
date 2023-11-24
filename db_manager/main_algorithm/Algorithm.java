@@ -172,6 +172,7 @@ public class Algorithm {
                         if (title.contains("Blues Slide") || appearances.contains("Blues Slide")) instruments += " Blues Slide, ";
                         
                         if (title.contains("Bad To The Bone")) instruments += " Blues Slide, ";
+                        if (title.contains("Slide Thing")) instruments += " Blues Slide, ";
 
                     }
                 }
