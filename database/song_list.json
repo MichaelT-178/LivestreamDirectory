@@ -2101,6 +2101,36 @@
 			"Links": "https://youtu.be/-PKvtQsNwyk?si=2o0mp79twcYDY1cJ&t=0 , https://youtu.be/9mwYBbDX0dY&t=9909"
 		},
 		{
+			"Title": "Love Story",
+			"Artist": "Corey Heuvel",
+			"Other_Artists": "",
+			"Appearances": "Solo Video (Electric Song)",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Corey Heuvel.jpg",
+			"Links": "https://youtu.be/8cn8APVLKnY?si=xg-7CDw0PRmImZnw&t=0"
+		},
+		{
+			"Title": "Radiant Skies",
+			"Artist": "Corey Heuvel",
+			"Other_Artists": "",
+			"Appearances": "Solo Video (Electric Song)",
+			"Other": "",
+			"Instruments": "Electric Guitar",
+			"Image": "./pics/Corey Heuvel.jpg",
+			"Links": "https://youtu.be/8cn8APVLKnY?si=xg-7CDw0PRmImZnw&t=273"
+		},
+		{
+			"Title": "Slide Thing (w/ slide)",
+			"Artist": "Corey Heuvel",
+			"Other_Artists": "",
+			"Appearances": "Solo Video",
+			"Other": "",
+			"Instruments": "Acoustic Guitar",
+			"Image": "./pics/Corey Heuvel.jpg",
+			"Links": "https://youtu.be/8cn8APVLKnY?si=xg-7CDw0PRmImZnw&t=575"
+		},
+		{
 			"Title": "Green River",
 			"Artist": "Creedence Clearwater Revival",
 			"Other_Artists": "",
@@ -4161,12 +4191,12 @@
 			"Links": "https://youtu.be/biTNdO9Z6Y8&t=8520 , https://youtu.be/sfTsmIo6Ybo&t=6566"
 		},
 		{
-			"Title": "Bad to the Bone (w/ slide) (Electric riff)",
+			"Title": "Bad To The Bone (w/ slide) (Electric riff)",
 			"Artist": "George Thorogood & The Destroyers",
 			"Other_Artists": "",
 			"Appearances": "Livestream 47 (Electric riff)",
 			"Other": "",
-			"Instruments": "Electric Guitar",
+			"Instruments": "Electric Guitar,  Blues Slide",
 			"Image": "./pics/George Thorogood & The Destroyers.jpg",
 			"Links": "https://youtu.be/biTNdO9Z6Y8&t=8573"
 		},

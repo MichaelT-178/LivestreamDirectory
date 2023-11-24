@@ -170,6 +170,8 @@ public class Algorithm {
 
                         if (line.contains("Forget Her")) instruments += "Electric Guitar, ";
                         if (title.contains("Blues Slide") || appearances.contains("Blues Slide")) instruments += " Blues Slide, ";
+                        
+                        if (title.contains("Bad To The Bone")) instruments += " Blues Slide, ";
 
                     }
                 }

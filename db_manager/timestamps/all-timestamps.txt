@@ -1,4 +1,4 @@
-Control + g. Type 951 for end of solo videos. Format: time title by artist
+Control + g. Type 926 for end of solo videos. Format: time title by artist
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -920,6 +920,12 @@ Solo Video
 https://youtu.be/-PKvtQsNwyk?si=2o0mp79twcYDY1cJ
 0:00 They Won't Go When I Go by Stevie Wonder
 
+Solo Video 
+https://youtu.be/8cn8APVLKnY?si=xg-7CDw0PRmImZnw
+0:00 Love Story (Electric Song) by Corey Heuvel 
+4:33 Radiant Skies (Electric Song) by Corey Heuvel
+9:35 Slide Thing (w/ slide) by Corey Heuvel
+
 Livestream 25
 https://youtu.be/RipA8bRdIbI
 2:11 Solsbury Hill by Peter Gabriel
@@ -1781,7 +1787,7 @@ Electric Guitar
 2:20:52 Mississippi Queen (Electric riff) by Mountain
 2:21:29 Sweet Child O'Mine (Electric riff) by Guns 'N Roses
 2:22:00 Cowboys from Hell (Electric riff) by Pantera
-2:22:53 Bad to the Bone (w/ slide) (Electric riff) by George Thorogood & The Destroyers
+2:22:53 Bad To The Bone (w/ slide) (Electric riff) by George Thorogood & The Destroyers
 2:23:30 Voodoo Child (Slight Return) (Electric riff) by Jimi Hendrix
 2:23:45 Pride and Joy (Electric riff) by Stevie Ray Vaughan
 2:24:28 Suize Q (Electric riff) by Creedence Clearwater Revival
