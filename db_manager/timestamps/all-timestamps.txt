@@ -1,4 +1,4 @@
-Control + g. Type 951 for end of solo videos. Format: time title by artist
+Control + g. Type 926 for end of solo videos. Format: time title by artist
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -919,6 +919,10 @@ https://youtu.be/W2COtI_RqTk?si=ZFXy3zoqbgeuZlqo
 Solo Video 
 https://youtu.be/-PKvtQsNwyk?si=2o0mp79twcYDY1cJ
 0:00 They Won't Go When I Go by Stevie Wonder
+
+Solo Video 
+https://youtu.be/1vKqXdirXrw?si=CUhOSl_70g3XVuZn
+0:00 Can't Find My Way Home by Blind Faith
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
@@ -5503,7 +5507,7 @@ https://youtu.be/sXKeY6LpR9g
 56:09 Ziggy Stardust by David Bowie
 1:05:51 Riptide by Vance Joy
 1:11:45 Lookin’ Out My Back Door by Creedence Clearwater Revival
-1:19:12 When I’m Up (I Can’t Get Down) by Great Big Sea
+1:19:12 When I’m Up - I Can't Get Down by Great Big Sea
 1:26:52 Hey Joe by Jimi Hendrix/Billy Roberts
 1:41:04 While My Guitar Gently Weeps by The Beatles
 1:47:51 Under the Bridge by Red Hot Chili Peppers
