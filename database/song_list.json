@@ -2131,6 +2131,16 @@
 			"Links": "https://youtu.be/8cn8APVLKnY?si=xg-7CDw0PRmImZnw&t=575"
 		},
 		{
+			"Title": "Can't Find My Way Home",
+			"Artist": "Blind Faith",
+			"Other_Artists": "",
+			"Appearances": "Solo Video,Livestream 25,Livestream 29,Livestream 37,Livestream 45,Livestream 53,Livestream 59,Livestream 70,Livestream 76,Livestream 83,Livestream 89,Livestream 94,Livestream 108,Livestream 114,Livestream 134,Livestream 148,Livestream 158",
+			"Other": "Cant Find My Way Home, Can’t Find My Way Home, Can‘t Find My Way Home",
+			"Instruments": "Acoustic Guitar",
+			"Image": "./pics/Blind Faith.jpg",
+			"Links": "https://youtu.be/1vKqXdirXrw?si=CUhOSl_70g3XVuZn&t=0 , https://youtu.be/RipA8bRdIbI&t=6466 , https://youtu.be/6r4e55Yo27A&t=8505 , https://youtu.be/mwrkFoGJsqU&t=9948 , https://youtu.be/L1VngMqyXo4&t=1761 , https://youtu.be/VEh4FA59OGA&t=5311 , https://youtu.be/hs3UcA7DP4U&t=4731 , https://youtu.be/Y473wJBI_Y8&t=6831 , https://youtu.be/ERjisFF12Vk&t=7599 , https://youtu.be/_7xQAOqGbk4&t=6672 , https://youtu.be/j9CL1ydfDSI&t=7677 , https://youtu.be/JpKnYI_-2OA&t=8031 , https://youtu.be/JNbwlKX5IJE&t=1687 , https://youtu.be/KoChozPGk7c&t=3488 , https://youtu.be/skPtRNli5KY&t=5005 , https://youtu.be/ARCgeQF6tRg&t=2711 , https://youtu.be/2xkUDe5ZndE?feature=share&t=1385"
+		},
+		{
 			"Title": "Green River",
 			"Artist": "Creedence Clearwater Revival",
 			"Other_Artists": "",
@@ -2199,16 +2209,6 @@
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Joni Mitchell.jpg",
 			"Links": "https://youtu.be/RipA8bRdIbI&t=5852"
-		},
-		{
-			"Title": "Can't Find My Way Home",
-			"Artist": "Blind Faith",
-			"Other_Artists": "",
-			"Appearances": "Livestream 25,Livestream 29,Livestream 37,Livestream 45,Livestream 53,Livestream 59,Livestream 70,Livestream 76,Livestream 83,Livestream 89,Livestream 94,Livestream 108,Livestream 114,Livestream 134,Livestream 148,Livestream 158",
-			"Other": "Cant Find My Way Home, Can’t Find My Way Home, Can‘t Find My Way Home",
-			"Instruments": "Acoustic Guitar",
-			"Image": "./pics/Blind Faith.jpg",
-			"Links": "https://youtu.be/RipA8bRdIbI&t=6466 , https://youtu.be/6r4e55Yo27A&t=8505 , https://youtu.be/mwrkFoGJsqU&t=9948 , https://youtu.be/L1VngMqyXo4&t=1761 , https://youtu.be/VEh4FA59OGA&t=5311 , https://youtu.be/hs3UcA7DP4U&t=4731 , https://youtu.be/Y473wJBI_Y8&t=6831 , https://youtu.be/ERjisFF12Vk&t=7599 , https://youtu.be/_7xQAOqGbk4&t=6672 , https://youtu.be/j9CL1ydfDSI&t=7677 , https://youtu.be/JpKnYI_-2OA&t=8031 , https://youtu.be/JNbwlKX5IJE&t=1687 , https://youtu.be/KoChozPGk7c&t=3488 , https://youtu.be/skPtRNli5KY&t=5005 , https://youtu.be/ARCgeQF6tRg&t=2711 , https://youtu.be/2xkUDe5ZndE?feature=share&t=1385"
 		},
 		{
 			"Title": "Ramble On",
@@ -7141,11 +7141,11 @@
 			"Links": "https://youtu.be/LuQ78Y2Fiwo&t=6193 , https://youtu.be/8jK6wYjrnw4&t=7053"
 		},
 		{
-			"Title": "When I'm Up (I Can't Get Down)",
+			"Title": "When I'm Up - I Can't Get Down",
 			"Artist": "Great Big Sea",
 			"Other_Artists": "",
 			"Appearances": "Livestream 147",
-			"Other": "When Im Up (I Cant Get Down), When I’m Up (I Can’t Get Down), When I‘m Up (I Can‘t Get Down)",
+			"Other": "When Im Up  I Cant Get Down, When I’m Up - I Can’t Get Down, When I‘m Up - I Can‘t Get Down",
 			"Instruments": "Acoustic Guitar",
 			"Image": "./pics/Great Big Sea.jpg",
 			"Links": "https://youtu.be/sXKeY6LpR9g&t=4752"
