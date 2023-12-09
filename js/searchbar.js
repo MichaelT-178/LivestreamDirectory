@@ -2,16 +2,19 @@ const search = document.getElementById('search');
 const matchList = document.getElementById('match-list');
 let otherMatches = [];
 
-let JSONdata;
-let songs;
-
 const getSongs = async () => {
-    const response = await fetch('./database/song_list.json');
-    JSONdata = await response.json();
-    songs = JSONdata['songs'];
+    try {
+        const response = await fetch('./database/song_list.json');
+        const data = await response.json();
+        return data['songs'];
+    } catch (error) {
+        console.error('Error fetching data:', error);
+    }
 };
 
 const searchSongs = async searchText => {
+
+    let songs = await getSongs();
 
     let matches = songs.filter(song => {
         //const regex = new RegExp(`${searchText.toLowerCase().trim()}`, 'gi')
