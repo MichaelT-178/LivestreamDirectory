@@ -1,4 +1,4 @@
-Control + g. Type 926 for end of solo videos. Format: time title by artist
+Control + g. Type 936 for end of solo videos. Format: time title by artist
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -929,6 +929,10 @@ https://youtu.be/8cn8APVLKnY?si=xg-7CDw0PRmImZnw
 Solo Video 
 https://youtu.be/1vKqXdirXrw?si=CUhOSl_70g3XVuZn
 0:00 Can't Find My Way Home by Blind Faith
+
+Solo Video 
+https://youtu.be/xS1ChdA2M08?si=iBtwugKCAjAZ4wqR
+0:00 Mojo Pin by Jeff Buckley
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
