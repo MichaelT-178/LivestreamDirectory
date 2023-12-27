@@ -13,3 +13,6 @@
 /Users/michaeltotaro/LivestreamDirectory/obj/Debug/net8.0/LivestreamDirectory.pdb
 /Users/michaeltotaro/LivestreamDirectory/obj/Debug/net8.0/LivestreamDirectory.genruntimeconfig.cache
 /Users/michaeltotaro/LivestreamDirectory/obj/Debug/net8.0/ref/LivestreamDirectory.dll
+/Users/michaeltotaro/LivestreamDirectory/bin/Debug/net8.0/Colorful.Console.dll
+/Users/michaeltotaro/LivestreamDirectory/obj/Debug/net8.0/LivestreamDirectory.csproj.AssemblyReference.cache
+/Users/michaeltotaro/LivestreamDirectory/obj/Debug/net8.0/LivestreamDirectory.csproj.CopyComplete
