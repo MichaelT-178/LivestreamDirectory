@@ -3,7 +3,7 @@ system("clear")
 
 begin
 
-  json_data = JSON.parse(File.read("../LivestreamDirectory/database/song_list.json"))
+  json_data = JSON.parse(File.read("../database/song_list.json"))
 
   for song in json_data['songs']
     if song['Title'].split(" ").length == 1
