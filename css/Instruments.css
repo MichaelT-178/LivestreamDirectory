@@ -32,7 +32,7 @@ html {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 348px; 
+    top: 345px; 
     white-space: nowrap;
 }
 
@@ -51,7 +51,7 @@ html {
 #InstrumentTitle {
     color: #C6C6C6;
     text-decoration: underline;
-    margin-bottom: 10px; /* Bottom spacing between title and instruments */
+    margin-bottom: 5px; /* Bottom spacing between title and instruments */
 }
 
 #Instruments {
