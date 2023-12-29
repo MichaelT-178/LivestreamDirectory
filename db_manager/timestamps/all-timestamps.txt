@@ -1137,7 +1137,7 @@ Electric guitar
 1:57:00 Whole Lotta Love (Electric riff) by Led Zeppelin
 1:57:34 Pride and Joy (Electric riff) by Stevie Ray Vaughan
 1:58:13 Texas Flood (Electric riff) by Stevie Ray Vaughan
-1:59:11 Wish You Were Here (I)(Electric riff) by Incubus
+1:59:11 Wish You Were Here (I) (Electric riff) by Incubus
 2:00:06 Nothing Else Matters (Electric riff) by Metallica
 2:00:41 Hallelujah (Electric riff) by Jeff Buckley/Leonard Cohen
 2:01:33 Satch Boogie (Electric riff) by Joe Satriani
@@ -1179,7 +1179,7 @@ https://youtu.be/mH3c9W8vKbc
 
 Mandolin
 55:07 Rise (Mandolin) by Eddie Vedder
-58:13 Battle of Evermore (Mandolin)(Partial) by Led Zeppelin
+58:13 Battle of Evermore (Mandolin) (Partial) by Led Zeppelin
 
 Acoustic Guitar
 1:01:07 Can't Stop by Red Hot Chili Peppers
@@ -1509,12 +1509,12 @@ Electric Guitar
 1:48:36 Blues-Rock Improv
 1:49:17 Hot for Teacher (Electric riff) by Van Halen
 1:50:17 B.B. King Inspired Improv
-1:50:55 Hammer to Fall (Electric riff) by Queen
-1:51:16 Tie your mother down (Electric riff) by Queen
+1:50:55 Hammer To Fall (Electric riff) by Queen
+1:51:16 Tie Your Mother Down (Electric riff) by Queen
 1:51:54 Lithium (Electric riff) by Nirvana
 1:52:31 Shine On You Crazy Diamond (Electric riff) by Pink Floyd
-1:53:34 Back in Black (Electric riff) by AC/DC
-1:53:57 Welcome to the Jungle (Electric riff) by Guns 'N Roses
+1:53:34 Back In Black (Electric riff) by AC/DC
+1:53:57 Welcome To The Jungle (Electric riff) by Guns 'N Roses
 1:55:08 Alright Now (Electric riff) by Free
 1:55:50 Lenny (Electric riff) by Stevie Ray Vaughan
 1:57:25 Seven Nation Army (Electric riff) by The White Stripes
@@ -1523,7 +1523,7 @@ Electric Guitar
 1:59:42 War Pigs (Electric riff) by Black Sabbath
 2:00:37 Miserlou (Electric riff) by Dick Dale
 2:01:15 Personal Jesus (Electric riff) by Depeche Mode
-2:01:29 Joker and the Thief (Electric riff) by Wolfmother
+2:01:29 Joker And The Thief (Electric riff) by Wolfmother
 2:01:54 Tush (Electric riff) by ZZ Top
 2:03:06 Won't Get Fooled Again (Electric riff) by The Who
 2:03:35 Enter Sandman (Electric riff) by Metallica
@@ -1603,7 +1603,7 @@ Electric Guitar
 Acoustic Guitar
 2:11:12 Kiss from a Rose by Seal
 2:17:15 Can't Stop (Partial) by Red Hot Chili Peppers
-2:17:26 May this be Love by Jimi Hendrix
+2:17:26 May This Be Love by Jimi Hendrix
 2:21:30 Crossroads by Cream/Robert Johnson
 2:26:19 Patience (SAS) by Chris Cornell/Guns 'N Roses
 2:33:51 Hazey Jane I (M) by Nick Drake
@@ -1795,7 +1795,7 @@ Electric Guitar
 2:20:52 Mississippi Queen (Electric riff) by Mountain
 2:21:29 Sweet Child O'Mine (Electric riff) by Guns 'N Roses
 2:22:00 Cowboys from Hell (Electric riff) by Pantera
-2:22:53 Bad to the Bone (w/ slide) (Electric riff) by George Thorogood & The Destroyers
+2:22:53 Bad to the Bone (w/ Slide) (Electric riff) by George Thorogood & The Destroyers
 2:23:30 Voodoo Child (Slight Return) (Electric riff) by Jimi Hendrix
 2:23:45 Pride and Joy (Electric riff) by Stevie Ray Vaughan
 2:24:28 Suize Q (Electric riff) by Creedence Clearwater Revival
@@ -1835,7 +1835,7 @@ https://youtu.be/bVTlDNPzTn4
 52:58 Jet Airliner by Steve Miller Band
 59:35 Have a Cigar by Pink Floyd
 1:08:08 Otherside by Red Hot Chili Peppers
-1:13:14 May this be Love by Jimi Hendrix
+1:13:14 May This Be Love by Jimi Hendrix
 1:22:13 Crazy by Gnarls Barkley/Ray LaMontagne
 1:28:30 Into Light by Corey Heuvel
 1:38:09 Parchman Farm Blues by Jeff Buckley/Bukka White
@@ -4417,8 +4417,8 @@ https://youtu.be/h_KbDQybQmE
 1:05:37 Sultans of Swing by Dire Straits
 
 12-String Guitar
-1:13:36 More Than a Feeling (Partial) (12/twelve String) by Boston
-1:14:05 Out of Tune 12-String for Jim (12/twelve String) by Corey Heuvel
+1:13:36 More Than a Feeling (Partial) (12/Twelve-String) by Boston
+1:14:05 Out of Tune 12-String for Jim (12/Twelve-String) by Corey Heuvel
 
 Acoustic Guitar
 1:15:47 38 Years Old by The Tragically Hip
@@ -4890,7 +4890,7 @@ https://youtu.be/Qh8m_ldN2zw
 39:31 Killer Queen by Queen
 44:25 No Whining (No Complaining) (M) by Corey Heuvel
 50:07 Sugar Mountain by Neil Young
-57:14 (Sittin’ On) the Dock of the Bay by Otis Redding
+57:14 (Sittin' On) the Dock of the Bay by Otis Redding
 1:02:09 River Man by Nick Drake
 1:08:43 Way to the Sea by Corey Heuvel
 1:14:40 Parachutes by Coldplay
@@ -5329,7 +5329,7 @@ https://youtu.be/vRD0K6kl3Qs
 40:16 Lucky Man by The Verve 
 43:29 Dear Mr. Fantasy by Traffic
 49:09 Learn to Fly by Foo Fighters 
-55:27 (Sittin’ On) the Dock of the Bay by Otis Redding
+55:27 (Sittin' On) the Dock of the Bay by Otis Redding
 58:26 Little Wing by Jimi Hendrix
 1:03:36 Come On In My Kitchen (M) by Robert Johnson
 1:08:32 Time Always Tells by Corey Heuvel
@@ -5655,7 +5655,7 @@ https://www.youtube.com/live/FHa2vjbViJo?feature=share
 31:18 Ballad Of Big Nothing (DX1R) by Elliott Smith
 35:28 Lookin' Out My Back Door by Creedence Clearwater Revival
 40:13 If It’s Wrong (It’s Alright) by Corey Heuvel
-44:37 (Sittin’ On) the Dock of the Bay by Otis Redding
+44:37 (Sittin' On) the Dock of the Bay by Otis Redding
 48:18 The Way You Make Me Feel by Corey Heuvel
 53:55 Natural Blues by Moby
 53:55 Trouble So Hard by Vera Hall

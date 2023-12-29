@@ -24,7 +24,7 @@ html {
 #myHeader {
     background-color: lightblue;
     color: black;
-    padding: 20px;
+    padding: 15px;
     text-align: center;
     font-family: var(--bs-body-font-family)
 }

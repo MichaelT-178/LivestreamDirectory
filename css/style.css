@@ -24,7 +24,7 @@ html {background-color: black; display: inline;}
 #myHeader {
     background-color: lightblue;
     color: black;
-    padding: 20px;
+    padding: 15px;
     text-align: center;
     font-family: var(--bs-body-font-family)
 }
