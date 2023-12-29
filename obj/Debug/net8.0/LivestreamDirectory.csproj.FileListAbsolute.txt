@@ -16,3 +16,4 @@
 /Users/michaeltotaro/LivestreamDirectory/bin/Debug/net8.0/Colorful.Console.dll
 /Users/michaeltotaro/LivestreamDirectory/obj/Debug/net8.0/LivestreamDirectory.csproj.AssemblyReference.cache
 /Users/michaeltotaro/LivestreamDirectory/obj/Debug/net8.0/LivestreamDirectory.csproj.CopyComplete
+/Users/michaeltotaro/LivestreamDirectory/bin/Debug/net8.0/Newtonsoft.Json.dll

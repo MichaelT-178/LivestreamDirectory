@@ -1,8 +1,15 @@
 /**
- * Creates the song_list.json file out of the all-timestamps.txt file
+ * Methods for printing colored text.
+ *
+ * Methods
+ * Print | Print a colored string
+ * PrintLine | Print a colored string with newline
+ * DisplayError | Print a red error string
+ * GetColorCode | Get a color code given a string
+ *
  * @author Michael Totaro
  */
-public class Color
+class Color
 {   
     /** The beginning escape unicode sequence to print colored text */
     public const string escape = "\u001B[";

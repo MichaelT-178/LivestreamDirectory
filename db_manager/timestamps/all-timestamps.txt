@@ -1,4 +1,4 @@
-Control + g. Type 936 for end of solo videos. Format: time title by artist
+Control + g. Type 936 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1809,7 +1809,7 @@ Electric Guitar
 2:30:41 Heartbreaker (Electric riff) by Led Zeppelin
 2:31:20 Rocky Mountain way (Electric riff) by The Eagles
 2:31:59 More Than a Feeling (Electric riff) by Boston
-2:32:47 Black dog (Electric riff) by Led Zeppelin
+2:32:47 Black Dog (Electric riff) by Led Zeppelin
 2:33:35 One Step Closer (Electric riff) by Linkin Park
 2:34:26 Bad Penny (Electric riff) by Rory Gallagher
 2:35:17 Sultans of Swing (Electric riff) by Dire Straits
