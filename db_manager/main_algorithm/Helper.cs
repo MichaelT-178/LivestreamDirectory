@@ -74,6 +74,23 @@ class Helper {
     }
 
     /**
+     * Removes relevant ascii characters from a string
+     * @param song. The title which will have the chars removed.
+     * @return String without ascii characters.
+     */
+    public static string RemoveAsciiChars(string song)
+    {
+        return song
+                .Replace("É", "E")
+                .Replace("í", "i")
+                .Replace("é", "e")
+                .Replace("á","a")
+                .Replace("à", "a")
+                .Replace("Á", "A")
+                .Replace("ü", "u");
+    }
+
+    /**
      * Removes all keys from a song title.
      * @param title The title of the song with keys to be removed.
      * @return The title without keys.

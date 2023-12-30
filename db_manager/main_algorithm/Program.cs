@@ -2,6 +2,7 @@
 
 /**
  * This is the main UI of the Livestream Directory algorithm.
+ * The purpose of this algorithm is to build and update the database.
  * @author Michael Totaro
  */
 class Program 
@@ -38,6 +39,11 @@ class Program
         List<string> songs = updatedLists[0];
         List<string> allSongs = updatedLists[1];
 
+        Color.PrintLine("No capitalization errors found!", "green");
+
+        ErrorFinder.AllArtistPicturesExist();
+        
+        Color.PrintLine("An image was found for every artist!", "green");
         
         
 

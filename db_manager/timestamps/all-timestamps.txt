@@ -1048,7 +1048,7 @@ Mandolin
 55:37 Fool in the Rain by Led Zeppelin
 1:01:34 Black & Gold by Sam Sparro
 1:09:55 Money by Pink Floyd
-1:14:03 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:14:03 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:16:58 Carolina in my Mind by James Taylor
 1:21:29 Lonely Boy by The Black Keys
 1:28:10 Until the End by Corey Heuvel
@@ -1368,7 +1368,7 @@ https://youtu.be/bszf3Megxhc
 1:52:03 Blackbird by The Beatles
 1:56:16 Giving Up by Corey Heuvel
 2:02:03 Suit & Tie by Justin Timberlake ft. JAY-Z
-2:08:57 Carolina in my Mind by James Taylor 
+2:08:57 Carolina in my Mind by James Taylor
 2:13:30 Love Struck Baby by Stevie Ray Vaughan
 2:17:04 While My Guitar Gently Weeps by The Beatles/Eric Clapton/The Jeff Healey Band
 2:22:18 Fly (M) by Nick Drake
@@ -1736,7 +1736,7 @@ https://youtu.be/UvL7GFjtrj0
 1:21:26 Out On The Western Plain by Rory Gallagher
 1:27:56 Way to the Sea by Corey Heuvel
 1:32:53 Money by Pink Floyd
-1:36:58 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:36:58 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:40:38 Deuces are Wild by Aerosmith
 1:47:35 Time Always Tells by Corey Heuvel
 1:54:49 Palm Muting Lesson
@@ -2238,7 +2238,7 @@ https://youtu.be/Q4p-jIfkQpM
 41:15 Take It Easy by The Eagles
 46:34 Crazy On You by Heart
 52:31 Virtual Insanity by Jamiroquai
-57:28 Wonderwall (Chords) by Oasis
+57:28 Wonderwall (Chords) by Ryan Adams/Oasis
 57:53 Wonderwall by Ryan Adams/Oasis
 1:02:32 God Knows (I Love You Madly) by Corey Heuvel
 
@@ -2478,7 +2478,7 @@ https://youtu.be/Qih3Nx18Yas
 2:23:27 Fall to Pieces by Velvet Revolver
 2:31:26 Nice to Know You by Incubus
 2:37:15 Money by Pink Floyd
-2:41:23 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+2:41:23 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 2:44:09 Starbird by Corey Heuvel
 2:49:42 Empty Arms by Stevie Ray Vaughan
 2:53:34 Voodoo Child (Slight Return) by Jimi Hendrix
@@ -2955,7 +2955,7 @@ https://youtu.be/q0SOrSxKE90
 1:32:39 Dust in a Baggie by Billy Strings
 1:38:04 A Still and Silent Mountain by Corey Heuvel
 1:45:00 Money by Pink Floyd
-1:49:05 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:49:05 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:52:33 Angeles by Elliott Smith
 1:56:09 No Whining (No Complaining) (M) by Corey Heuvel
 2:01:03 Johnny B. Goode by Chuck Berry
@@ -3275,7 +3275,7 @@ https://youtu.be/U1AhJr6L5SU
 1:36:14 Vincent by Don McLean
 1:41:57 I Shot The Sheriff by Bob Marley/Eric Clapton/Bob Marley & The Wailers
 1:49:09 Money by Pink Floyd
-1:53:27 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:53:27 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:56:13 Way to the Sea by Corey Heuvel
 2:01:13 Harvest Moon by Neil Young
 2:06:55 Hand in My Pocket (M) by Alanis Morissette
@@ -3842,7 +3842,7 @@ https://youtu.be/3iWYcnMuVzc
 0:12 Intro “Out of the Mist” by Corey Heuvel
 7:58 What I'm About to Do by Corey Heuvel
 16:33 Money by Pink Floyd
-20:39 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+20:39 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 25:21 Take A Picture by Filter
 28:33 Time Always Tells by Corey Heuvel
 37:04 Catfish Blues (M) by Robert Petway/Jimi Hendrix
@@ -4065,7 +4065,7 @@ https://youtu.be/Bs2mSVV4b38
 2:26:58 What I'm About to Do by Corey Heuvel
 2:32:24 Surely (I Love You) by Colin James
 2:36:23 Money by Pink Floyd
-2:40:25 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+2:40:25 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 2:43:57 Starbird by Corey Heuvel
 2:48:25 Do It Again by Steely Dan
 2:55:28 Ordinary Girl by Corey Heuvel
@@ -4569,7 +4569,7 @@ https://youtu.be/Yr3DnVxJbnA
 1:14:52 Superstition by Stevie Wonder
 1:21:30 Helpless by Crosby, Stills, Nash & Young
 1:28:17 Money by Pink Floyd
-1:32:37 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:32:37 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 
 Classical Guitar
 1:36:13 Bouree in E Minor (Partial) by Johann Sebastian Bach
@@ -4756,7 +4756,7 @@ https://youtu.be/ebv-JlkIPUY
 1:30:58 Way to the Sea by Corey Heuvel
 1:38:49 Corey's favorite chord progression to solo over 
 1:38:56 Money by Pink Floyd
-1:43:10 Sweet Dreams (Are Made of This) by Eurythmics
+1:43:10 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:46:52 Hysteria by Muse
 1:53:01 Operator (That's Not the Way It Feels) by Jim Croce
 1:57:55 Pride and Joy by Stevie Ray Vaughan 
@@ -4899,7 +4899,7 @@ https://youtu.be/Qh8m_ldN2zw
 1:30:23 The Way Young Lovers Do Van Morrison/Jeff Buckley
 1:39:16 Nobody’s Fault But My Own by Beck
 1:44:18 Money by Pink Floyd
-1:48:25 Sweet Dreams (Are Made of This) by Eurythmics 
+1:48:25 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:52:15 Into Light (DX1R) by Corey Heuvel
 1:58:44 Lithium by Nirvana
 2:03:46 Rock N' Roll Duty (Partial) by Kim Mitchell
@@ -5103,7 +5103,7 @@ https://youtu.be/dWIijDnVkho
 17:39 Blues Improv by Corey Heuvel
 19:37 Song For George by Eric Johnson
 21:35 Ohio by Crosby, Stills, Nash & Young
-27:47 Phone Call from Leavenworth by Chris Whitley
+27:47 Phone Call from Leavenworth (w/ Blues Slide) by Chris Whitley
 35:11 No One Knows by Queens of the Stone Age
 40:55 Evers by Corey Heuvel
 47:43 Shiver by Coldplay
@@ -5303,7 +5303,7 @@ https://youtu.be/9RNVOwRTSwc
 1:47:26 Which Will (DX1R) by Nick Drake
 1:51:37 Time Always Tells by Corey Heuvel
 1:58:31 Money by Pink Floyd
-2:02:38 Sweet Dreams (Are Made of This) by Eurythmics
+2:02:38 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 2:05:49 Ohio by Crosby, Stills, Nash & Young
 2:11:22 Black & Gold by Sam Sparro
 2:17:25 Last Goodbye by Jeff Buckley
@@ -5366,7 +5366,7 @@ https://youtu.be/rHhhcP4jGD8
 28:22 God Knows (I Love You Madly) by Corey Heuvel
 33:01 Crazy by Gnarls Barkley
 38:23 Under the Bridge by Red Hot Chili Peppers
-44:15 There She Goes by The La’s 
+44:15 There She Goes by The La's 
 48:12 Iris by The Goo Goo Dolls
 52:33 Giving Up by Corey Heuvel
 57:41 Interstate Love Song by Stone Temple Pilots
@@ -5490,7 +5490,7 @@ https://youtu.be/8jK6wYjrnw4
 1:38:03 Breathe (In the Air) by Pink Floyd
 1:40:07 Time by Pink Floyd
 1:45:28 Don't You Worry 'Bout A Thing by Stevie Wonder
-1:49:53 Angeles by Elliot Smith
+1:49:53 Angeles by Elliott Smith
 1:53:35 Drive by Incubus
 1:57:33 So Real by Jeff Buckley
 2:03:39 Life’s Been Good by Joe Walsh
@@ -5774,7 +5774,7 @@ https://www.youtube.com/live/QLLYLiTUyDY?feature=share
 48:19 Shiver by Coldplay
 57:58 Helplessly Hoping by Crosby, Stills & Nash
 1:02:02 Money by Pink Floyd
-1:06:11 Sweet Dreams (Are Made of This) by Eurythmics
+1:06:11 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:13:10 Way to the Sea by Corey Heuvel
 1:20:37 Wondering Where The Lions Are by Bruce Cockburn
 1:26:26 I Shot The Sheriff by Bob Marley 
