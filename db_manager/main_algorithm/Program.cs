@@ -44,16 +44,11 @@ class Program
         ErrorFinder.AllArtistPicturesExist();
         
         Color.PrintLine("An image was found for every artist!", "green");
-        
-        
-
 
         //Stop the watch
         stopwatch.Stop();
         double elapsedSeconds = stopwatch.Elapsed.TotalSeconds;
         Console.WriteLine($"Elapsed Time: {elapsedSeconds} seconds");
-
-
-
+        
     }
 }
