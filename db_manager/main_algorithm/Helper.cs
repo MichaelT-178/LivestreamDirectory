@@ -91,41 +91,41 @@ class Helper {
     }
 
     /**
-     * Removes all keys from a song title.
-     * @param title The title of the song with keys to be removed.
-     * @return The title without keys.
+     * Removes all keys from the line
+     * @param line The line with keys
+     * @return The line without keys
      */
-    public static string RemoveKeys(string title)
+    public static string RemoveKeys(string line)
     {
-            return title
-                    .Replace("(BH)", "")
-                    .Replace("(B)", "")
-                    .Replace("(DX1R)", "")
-                    .Replace("(MDT)", "")
-                    .Replace("(M)", "")
-                    .Replace("(NST)", "")
-                    .Replace("(OOM)", "")
-                    .Replace("(SAS)", "")
-                    .Replace("(SGI)", "")
-                    .Replace("(SDB)", "")
-                    .Replace("(V)", "")
-                    .Replace("(Mandolin)", "")
-                    .Replace("(Electric Song)", "")
-                    .Replace("(Classical Guitar)", "")
-                    .Replace("(Partial)", "")
-                    .Replace("(Electric riff)", "")
-                    .Replace("(Rein Rutnik Performance)", "")
-                    .Replace("(Chords)", "")
-                    .Replace("(Short Reggae Version)", "")
-                    .Replace("(Instrumental)", "")
-                    .Replace("(12/Twelve-String)", "")
-                    .Replace("(Old)", "")
-                    .Replace("(New)", "")
-                    .Replace("(Audio Issues)", "")
-                    .Replace("(Live)", "")
-                    .Replace("(w/ Blues Slide)", "")
-                    .Replace("(Cont.)", "")
-                    .Trim();
+        return line
+                .Replace("(BH)", "")
+                .Replace("(B)", "")
+                .Replace("(DX1R)", "")
+                .Replace("(MDT)", "")
+                .Replace("(M)", "")
+                .Replace("(NST)", "")
+                .Replace("(OOM)", "")
+                .Replace("(SAS)", "")
+                .Replace("(SGI)", "")
+                .Replace("(SDB)", "")
+                .Replace("(V)", "")
+                .Replace("(Mandolin)", "")
+                .Replace("(Electric Song)", "")
+                .Replace("(Classical Guitar)", "")
+                .Replace("(Partial)", "")
+                .Replace("(Electric riff)", "")
+                .Replace("(Rein Rutnik Performance)", "")
+                .Replace("(Chords)", "")
+                .Replace("(Short Reggae Version)", "")
+                .Replace("(Instrumental)", "")
+                .Replace("(12/Twelve-String)", "")
+                .Replace("(Old)", "")
+                .Replace("(New)", "")
+                .Replace("(Audio Issues)", "")
+                .Replace("(Live)", "")
+                .Replace("(w/ Blues Slide)", "")
+                .Replace("(Cont.)", "")
+                .Trim();
     }
     
 }
