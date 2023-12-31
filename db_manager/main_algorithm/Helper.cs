@@ -95,25 +95,37 @@ class Helper {
      * @param title The title of the song with keys to be removed.
      * @return The title without keys.
      */
-    public static string RemoveKeys(string songTitle)
+    public static string RemoveKeys(string title)
     {
-        return songTitle
-                  .Replace("(Electric riff)", "")
-                  .Replace("(Classical Guitar)", "")
-                  .Replace("(Mandolin)", "")
-                  .Replace("(Electric Song)", "")
-                  .Replace("(12/twelve String)","")
-                  .Replace("(Partial)", "")
-                  .Replace("(B)", "")
-                  .Replace("(DX1R)", "")
-                  .Replace("(MDT)", "")
-                  .Replace("(M)", "")
-                  .Replace("(NST)", "")
-                  .Replace("(OOM)", "")
-                  .Replace("(SAS)", "")
-                  .Replace("(SGI)", "")
-                  .Replace("(SDB)", "")
-                  .Replace("(V)", "");
+            return title
+                    .Replace("(BH)", "")
+                    .Replace("(B)", "")
+                    .Replace("(DX1R)", "")
+                    .Replace("(MDT)", "")
+                    .Replace("(M)", "")
+                    .Replace("(NST)", "")
+                    .Replace("(OOM)", "")
+                    .Replace("(SAS)", "")
+                    .Replace("(SGI)", "")
+                    .Replace("(SDB)", "")
+                    .Replace("(V)", "")
+                    .Replace("(Mandolin)", "")
+                    .Replace("(Electric Song)", "")
+                    .Replace("(Classical Guitar)", "")
+                    .Replace("(Partial)", "")
+                    .Replace("(Electric riff)", "")
+                    .Replace("(Rein Rutnik Performance)", "")
+                    .Replace("(Chords)", "")
+                    .Replace("(Short Reggae Version)", "")
+                    .Replace("(Instrumental)", "")
+                    .Replace("(12/Twelve-String)", "")
+                    .Replace("(Old)", "")
+                    .Replace("(New)", "")
+                    .Replace("(Audio Issues)", "")
+                    .Replace("(Live)", "")
+                    .Replace("(w/ Blues Slide)", "")
+                    .Replace("(Cont.)", "")
+                    .Trim();
     }
-
+    
 }
