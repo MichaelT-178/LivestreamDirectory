@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
  * ReplaceWithCorrectQuotes | Replaces stylized quotes with standard ASCII quotes.
  * ExtractKeysFromLines | Gets all the keys from the appearances as string list.
  * GetJoinedKeysAsString | Takes a key list and joins them as a string seperated by '/' characters.
- * GetSongTitlePartialAndIssuesKeys |
+ * GetSongTitlePartialAndIssuesKeys | Gets any partial or issue keys from the title.
  * GetYouTubeLink | Gets a timestamped youtube link.
  * GetArtistPic | Gets the artists picture file path as a valid string.
  * GetOtherArtistsAsString | Joins the other artists as a string by commas.
@@ -289,7 +289,6 @@ class AlgorithmHelper
         }
         
         return "";
-
     }
     
 }
