@@ -5,6 +5,7 @@
  * GetAnsweredYes | Checks if user answered yes to a prompt 
  * ListContainsSongWithoutCommas | Check if list contain strings without commas 
  * GetSongAndArtist | Get list of Song and artist from all-timestamps line.
+ * GetSortedAlphabetList | Gets a list sorted alphabetically.
  * ReplaceNonAsciiChars | Replaces non-ascii charcters with valid ascii characters.
  * IsAscii | Returns whether or not a string contains only Ascii characters 
  * RemoveKeys | Removes all keys from a song title.
@@ -73,6 +74,38 @@ class Helper {
         }
 
         return null;
+    }
+    
+    /**
+     * Takes the repertoire list which contains songs formatted
+     * as *song* by *artist* and sorts the list alphabetically.
+     * Adds a space between groups of alphabetically sorted song.
+     * Ex: In the file there will be a space between "WoodStock by Joni Mitchell"
+     * and "Yellow by Coldplay"
+     * @param songList unsorted repertoire list
+     * @return The songList sorted alphabetically.
+     */
+    public static List<string> GetSortedAlphabetList(List<string> songList)
+    {
+        string letter = "A";
+        List<string> alphabetList = new List<string>();
+
+        songList.Sort();
+
+        foreach (string song in songList)
+        {
+            string firstChar = song.Substring(0, 1);
+
+            if (!firstChar.Equals(letter, StringComparison.OrdinalIgnoreCase) && alphabetList.Count > 0)
+            {
+                letter = firstChar.ToUpper();
+                alphabetList.Add("");
+            }
+            
+            alphabetList.Add(song);
+        }
+        
+        return alphabetList;
     }
 
     /**

@@ -266,7 +266,7 @@ class AlgorithmHelper
             {"(Mandolin)", "Mandolin"},
             {"(Electric Song)", "Electric Guitar"},
             {"(Classical Guitar)", "Classical Guitar"},
-            {"(w/ Blues Slide)", "Blues Slide"},
+            {"(Blues Slide)", "Blues Slide"},
             {"(Electric riff)", "Electric Guitar"},
             {"(Rein Rutnik Performance)", "Harmonica"},
             {"(12/Twelve-String)", "12-String Guitar"}

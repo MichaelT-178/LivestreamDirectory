@@ -1,4 +1,8 @@
 using Newtonsoft.Json;
+using System.Collections.Generic;
+using System.IO;
+using System.Text.Json;
+using SystemTextJsonSerializer = System.Text.Json.JsonSerializer;
 
 /**
  * This class helps perform JSON operations on files.
@@ -6,9 +10,8 @@ using Newtonsoft.Json;
  * Methods
  * GetFilesJSONData | Gets JSON data from a list and stores it in a string list.
  * GetJSONSongAsString | Gets the string of a song object to be added to database file.
- *
- *
- *
+ * GetDatabaseSongs | Gets a string list that contains every songs title and artist the database file.
+ * WriteJSONToFile | Writes a JSON list to a file
  *
  * @author Michael Totaro
  */
@@ -57,5 +60,49 @@ class JSONHelper
         return objectString;
 
     }
-    
+
+    /**
+     * Creates and returns a string list that contains every songs title and artist 
+     * from the song_list.json database file. The format is *song.Title* by *song.Artist*
+     * @return 
+     * @throws ArgumentException If SongContainer cannot be created from file.
+     * @throws ArgumentException If the Songs list couldn't be gotten from the SongContainer.
+     */
+    public static List<string> GetDatabaseSongs()
+    {
+        string jsonData = File.ReadAllText("./database/song_list.json");
+        SongsContainer songsContainer = JsonConvert.DeserializeObject<SongsContainer>(jsonData)
+                                        ?? throw new ArgumentException("Couldn't create SongContainer!");
+                                        
+        List<Song> databaseSongs = songsContainer.Songs 
+                                   ?? throw new ArgumentException("Couldn't get database songs!");
+
+        List<string> databaseSongInfo = new List<string>();
+
+        
+        foreach (Song song in databaseSongs)
+        {
+            string songAndArtist = $"{song.Title} by {song.Artist}";
+            databaseSongInfo.Add(songAndArtist);
+            Console.WriteLine(songAndArtist);
+        }
+
+        return databaseSongInfo;
+    }
+
+    public static void WriteJSONToFile(List<string> yourList)
+    {
+        string filePath = "/Users/michaeltotaro/add_to_ls/database_songs.json";
+
+        // Serialize the List<string> to JSON format
+        string jsonString = SystemTextJsonSerializer.Serialize(yourList, new System.Text.Json.JsonSerializerOptions
+        {
+            WriteIndented = true, // Makes the JSON output more readable with indentation
+            Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+        });
+
+        // Write the JSON string to the file
+        File.WriteAllText(filePath, jsonString);
+    }
+
 }

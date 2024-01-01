@@ -45,6 +45,13 @@ class Program
         
         Color.PrintLine("An image was found for every artist!", "green");
 
+        foreach (string song in Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongs()))
+        {
+            Console.WriteLine(song);
+        }
+
+        JSONHelper.WriteJSONToFile(Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongs()));
+
         //Stop the watch
         stopwatch.Stop();
         double elapsedSeconds = stopwatch.Elapsed.TotalSeconds;

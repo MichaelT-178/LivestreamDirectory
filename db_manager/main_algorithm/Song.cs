@@ -15,3 +15,12 @@ public class Song
     public required string Pic { get; set; }
     public required string Links { get; set; }
 }
+
+/**
+ * A container class that matches the structure of the 
+ * database song_list.json file.
+ */
+public class SongsContainer
+{
+    public List<Song> Songs { get; set; } = new List<Song>();
+}
