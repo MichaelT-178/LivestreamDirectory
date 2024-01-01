@@ -8,13 +8,12 @@ using System.Text.RegularExpressions;
  * ReplaceWithCorrectQuotes | Replaces stylized quotes with standard ASCII quotes.
  * ExtractKeysFromLines | Gets all the keys from the appearances as string list.
  * GetJoinedKeysAsString | Takes a key list and joins them as a string seperated by '/' characters.
- * GetSongTitleKeyListAsString | Gets a key from the keyList that can be used in a song title.
+ * GetSongTitlePartialAndIssuesKeys |
  * GetYouTubeLink | Gets a timestamped youtube link.
  * GetArtistPic | Gets the artists picture file path as a valid string.
  * GetOtherArtistsAsString | Joins the other artists as a string by commas.
  * AddDefaultAcousticGuitar | Adds acoustic guitar to instruments if necessary
  * GetInstrumentsFromSong | Gets the instrument from a song title based on it's keys.
- * GetJSONSongAsString | Gets the string of a song object to be added to database file.
  * RemoveKeys | Removes all keys from the line
  *
  * @author Michael Totaro
@@ -51,8 +50,8 @@ class AlgorithmHelper
         string pattern = @"\((.*?)\)";
         Regex regex = new Regex(pattern);
 
-        List<string> keysFromCurrLs = new List<string>();
-        List<string> keysFromSong = new List<string>();
+        List<string> keysFromCurrLs = [];
+        List<string> keysFromSong = [];
 
         foreach (Match match in regex.Matches(currLs))
         {
@@ -64,7 +63,7 @@ class AlgorithmHelper
             keysFromSong.Add(match.Groups[1].Value);
         }
 
-        List<string> resultKeys = new List<string>();
+        List<string> resultKeys = [];
 
         foreach (string key in keysFromCurrLs.Concat(keysFromSong))
         {
@@ -106,27 +105,69 @@ class AlgorithmHelper
     }
 
     /**
-     * Gets a key from the keyList that can be used in a song title. These are 
-     * keys that will be shown in the search result title when using the search bar.
-     * Example: Back In Black (Electric riff). Meant to show it's not full song.
-     * @param keyList. List of keys from the line in all-timestamps.txt
-     * @return 
+     * Gets any partial or issue keys from the title. These keys will be 
+     * displayed in the title in the UI search results. This works by 
+     * extracting and counting keys from the appearances attribute string.
+     * @param appearances List containing all appearances and their keys.
+     * @return Partial or issue keys to add and display in the title.
      */
-    public static string GetSongTitleKeyListAsString(List<string> keyList)
+    public static string GetSongTitlePartialAndIssuesKeys(string appearances)
     {
-        if (keyList.Count == 0) return "";
+            int numOfAppearances = appearances.Split(",").Length;
+            List<string> appearanceKeys = ExtractKeysFromLines(appearances, "");
+            
 
-        List<string> validKeys = ["(Rein Rutnik Performance)", "(Electric riff)", "(Partial)"];
+            List<string> allAppearanceKeys = [];
 
-        foreach (string key in keyList)
-        {
-            if (validKeys.Contains(key))
+            foreach (string appKey in appearanceKeys)
             {
-                return key;
-            }
-        }
+                List<string> appKeysList = appKey.Split("/").ToList();
 
-        return "";
+                foreach (string aKey in appKeysList)
+                {
+                    allAppearanceKeys.Add(aKey.Replace("(", "").Replace(")", "").Trim());
+                }
+            }
+
+            int numOfElectricRiffs = allAppearanceKeys.Count(s => s == "Electric riff");
+            int numOfAudioIssues = allAppearanceKeys.Count(s => s == "Audio Issues");
+            int numOfReinPerformances = allAppearanceKeys.Count(s => s == "Rein Rutnik Performance");
+            int numOfInstrumental = allAppearanceKeys.Count(s => s == "Instrumental");
+            int numOfPartial = allAppearanceKeys.Count(s => s == "Partial");
+
+            if (
+                numOfElectricRiffs == 0 &&
+                numOfAudioIssues == 0 && 
+                numOfReinPerformances == 0 && 
+                numOfInstrumental == 0 && 
+                numOfPartial == 0
+            )
+            {
+                return "";
+            }
+
+            if (numOfElectricRiffs == numOfAppearances)
+            {
+                return " (Electric riff)";
+            }
+            else if (numOfReinPerformances == numOfAppearances)
+            {
+                return " (Rein Rutnik Performance)";
+            }
+            else if (numOfAudioIssues == numOfAppearances)
+            {
+                return " (Audio Issues)";
+            }
+            else if (numOfInstrumental == numOfAppearances)
+            {
+                return " (Instrumental)";
+            }
+            else if (numOfPartial == numOfAppearances)
+            {
+                return " (Partial)";
+            }
+
+            return "";
     }
 
     /**
@@ -248,33 +289,6 @@ class AlgorithmHelper
         }
         
         return "";
-
-    }
-
-    /**
-     * Gets the string of a song object to be added to database file.
-     * @param song The song to be added to the JSON file
-     * @return The JSON string of the song object to be added to 
-     *         the database.
-     */
-    public static string GetJSONSongAsString(Song song)
-    {
-        string objectString = "";
-        
-        //Space in json file
-        string s = "			";
-
-        objectString += "		{\n";
-        objectString += $"{s}\"Title\": \"{song.Title}\",\n";
-        objectString += $"{s}\"Artist\": \"{song.Artist}\",\n";
-        objectString += $"{s}\"Other_Artists\": \"{song.OtherArtists}\",\n";
-        objectString += $"{s}\"Appearances\": \"{song.Appearances}\",\n";
-        objectString += $"{s}\"Instruments\": \"{song.Instruments}\",\n";
-        objectString += $"{s}\"Image\": \"{song.Pic}\",\n";
-        objectString += $"{s}\"Links\": \"{song.Links}\"\n";
-        objectString += "		},\n";
-
-        return objectString;
 
     }
     

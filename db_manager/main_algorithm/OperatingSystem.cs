@@ -6,7 +6,6 @@ using System.Diagnostics;
  *
  * Methods
  * OpenFileInVSCode | Opens a file in VSCode for viewing.
- * FileExists | Checks if file exists 
  * ExecuteGitCommands | Adds, commits, and pushes project to Github
  *
  * @author Michael Totaro
@@ -41,16 +40,6 @@ class OS {
             Color.DisplayError("Visual Studio Code could not be opened.");
             Console.WriteLine(ex.ToString());
         }
-    }
-
-    /**
-     * Checks if file on the given file path exists 
-     * @param filePath Filepath the file to be checked is on.
-     * @return True if file exists, else false.
-     */
-    public static bool FileExists(string filePath) 
-    {
-        return false;
     }
 
     /**

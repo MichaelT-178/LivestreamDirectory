@@ -148,6 +148,10 @@ class Helper {
                 .Replace("(Live)", "")
                 .Replace("(w/ Blues Slide)", "")
                 .Replace("(Cont.)", "")
+                .Replace("(Album Version)", "")
+                .Replace("(Acoustic Session)", "")
+                .Replace("(EP Version)", "")
+                .Replace("(Pink Moon Album)", "")
                 .Trim();
     }
     

@@ -131,6 +131,8 @@ class OtherHelper
         if (title.Equals("Trouble So Hard")) { other.Append("Natural Blues by Moby, "); return other.ToString(); }
         if (title.Equals("Natural Blues")) { other.Append("Trouble So Hard by Vera Hall, "); return other.ToString(); }
         if (title.Equals("Satisfied Mind")) { other.Append("A Satisfied Mind, "); return other.ToString(); }
+        if (title.Contains("Autumn Leaves")) { other.Append("Jazz, "); return other.ToString(); }
+        if (title.Contains("D'yer Mak'er")) { other.Append("Deyer, "); return other.ToString(); }
         
         return other.ToString();
     }

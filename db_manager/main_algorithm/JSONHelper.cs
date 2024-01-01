@@ -5,7 +5,7 @@ using Newtonsoft.Json;
  *
  * Methods
  * GetFilesJSONData | Gets JSON data from a list and stores it in a string list.
- * 
+ * GetJSONSongAsString | Gets the string of a song object to be added to database file.
  *
  *
  *
@@ -31,7 +31,31 @@ class JSONHelper
         return songs;
     }
 
+    /**
+     * Gets the string of a song object to be added to database file.
+     * @param song The song to be added to the JSON file
+     * @return The JSON string of the song object to be added to 
+     *         the database.
+     */
+    public static string GetJSONSongAsString(Song song)
+    {
+        string objectString = "";
+        
+        //Space in json file
+        string s = "			";
+
+        objectString += "		{\n";
+        objectString += $"{s}\"Title\": \"{song.Title}\",\n";
+        objectString += $"{s}\"Artist\": \"{song.Artist}\",\n";
+        objectString += $"{s}\"Other_Artists\": \"{song.OtherArtists}\",\n";
+        objectString += $"{s}\"Appearances\": \"{song.Appearances}\",\n";
+        objectString += $"{s}\"Instruments\": \"{song.Instruments}\",\n";
+        objectString += $"{s}\"Image\": \"{song.Pic}\",\n";
+        objectString += $"{s}\"Links\": \"{song.Links}\"\n";
+        objectString += "		},\n";
+
+        return objectString;
+
+    }
     
-
-
 }
