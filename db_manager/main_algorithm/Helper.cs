@@ -179,7 +179,7 @@ class Helper {
                 .Replace("(New)", "")
                 .Replace("(Audio Issues)", "")
                 .Replace("(Live)", "")
-                .Replace("(w/ Blues Slide)", "")
+                .Replace("(Blues Slide)", "")
                 .Replace("(Cont.)", "")
                 .Replace("(Album Version)", "")
                 .Replace("(Acoustic Session)", "")
