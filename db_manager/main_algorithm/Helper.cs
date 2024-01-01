@@ -5,6 +5,8 @@
  * GetAnsweredYes | Checks if user answered yes to a prompt 
  * ListContainsSongWithoutCommas | Check if list contain strings without commas 
  * GetSongAndArtist | Get list of Song and artist from all-timestamps line.
+ * ReplaceNonAsciiChars | Replaces non-ascii charcters with valid ascii characters.
+ * IsAscii | Returns whether or not a string contains only Ascii characters 
  * RemoveKeys | Removes all keys from a song title.
  * 
  *
@@ -74,11 +76,12 @@ class Helper {
     }
 
     /**
-     * Removes relevant ascii characters from a string
+     * Replaces relevant non-ascii characters from a string with 
+     * valid ascii characters.
      * @param song. The title which will have the chars removed.
      * @return String without ascii characters.
      */
-    public static string RemoveAsciiChars(string song)
+    public static string ReplaceNonAsciiChars(string song)
     {
         return song
                 .Replace("É", "E")
@@ -88,6 +91,26 @@ class Helper {
                 .Replace("à", "a")
                 .Replace("Á", "A")
                 .Replace("ü", "u");
+    }
+
+    /**
+     * Determines whether the string contains only Ascii chars.
+     * @param str String to be checked 
+     * @return True if only ascii string else false.
+     */
+    public static bool IsAscii(string str)
+    {
+        foreach (char c in str)
+        {
+            int codePoint = c;
+
+            if (codePoint > 127)
+            {
+                return false; // Found a non-ASCII character
+            }
+        }
+
+        return true; // All characters are ASCII
     }
 
     /**
