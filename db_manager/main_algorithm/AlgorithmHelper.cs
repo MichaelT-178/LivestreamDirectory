@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
  * Methods
  * ReplaceWithCorrectQuotes | Replaces stylized quotes with standard ASCII quotes.
  * ExtractKeysFromLines | Gets all the keys from the appearances as string list.
- * GetJoinedKeysAsString | Takes a key list and joins them as a string seperated by '/' characters.
+ * GetKeysJoinedAsString | Takes a key list and joins them as a string seperated by '/' characters.
  * GetSongTitlePartialAndIssuesKeys | Gets any partial or issue keys from the title.
  * GetYouTubeLink | Gets a timestamped youtube link.
  * GetArtistPic | Gets the artists picture file path as a valid string.
@@ -86,7 +86,7 @@ class AlgorithmHelper
      * @return The key list as a joined string or a blank string if there were 
      *         no keys.
      */
-    public static string GetJoinedKeysAsString(List<string> keyList)
+    public static string GetKeysJoinedAsString(List<string> keyList)
     {   
         // Guard clause. If list is empty, just return empty string.
         if (keyList.Count == 0) return "";
@@ -290,5 +290,5 @@ class AlgorithmHelper
         
         return "";
     }
-    
+
 }
