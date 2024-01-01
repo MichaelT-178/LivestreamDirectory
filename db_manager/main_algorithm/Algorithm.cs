@@ -4,7 +4,7 @@
  * to song_list.json in the database directory.
  *
  * Methods
- * run | Runs the algorithm
+ * Run | Runs the algorithm
  *
  * @author Michael Totaro
  */
@@ -16,9 +16,9 @@ class Algorithm
      * @param allSongs All songs from all-timestamps.txt. Each song
      *        only appears one time and has been stripped of it's keys.
      */
-    public static void run(List<string> allSongs)
+    public static void Run(List<string> allSongs)
     {
-        
+
     }
 
 }
