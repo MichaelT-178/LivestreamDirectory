@@ -11,7 +11,7 @@ class Program
      * Allows the user to run the algorithm and enter input
      */
     public static void Main()
-    {
+    {   
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
 
         Console.Write(@"Do you want to open the ""all-timestamps.txt"" file? : ");
@@ -29,10 +29,6 @@ class Program
 
         Console.WriteLine("\nPlease be patient. This will take a couple of seconds...");
         Console.WriteLine("Writing to file...");
-
-        List<string> noRepeats = JSONHelper.GetFilesJSONData("./db_manager/json_files/no_repeats.json");
-        List<string> onlyKeys = JSONHelper.GetFilesJSONData("./db_manager/json_files/only_with_keys.json");
-        List<string> artistsPlayed = JSONHelper.GetFilesJSONData("./db_manager/json_files/artists.json");
 
         List<List<string>> updatedLists = ErrorFinder.FindCapErrors();
     

@@ -1,7 +1,4 @@
 using Newtonsoft.Json;
-using System.Collections.Generic;
-using System.IO;
-using System.Text.Json;
 using SystemTextJsonSerializer = System.Text.Json.JsonSerializer;
 
 /**
@@ -90,18 +87,20 @@ class JSONHelper
         return databaseSongInfo;
     }
 
-    public static void WriteJSONToFile(List<string> yourList)
+    /**
+     * Writes a JSON list to a file
+     * @param alphabetList List of sorted strings.
+     */
+    public static void WriteJSONToFile(List<string> stringList)
     {
-        string filePath = "/Users/michaeltotaro/add_to_ls/database_songs.json";
+        string filePath = "./db_manager/json_files/repertoire.json";
 
-        // Serialize the List<string> to JSON format
-        string jsonString = SystemTextJsonSerializer.Serialize(yourList, new System.Text.Json.JsonSerializerOptions
+        string jsonString = SystemTextJsonSerializer.Serialize(stringList, new System.Text.Json.JsonSerializerOptions
         {
-            WriteIndented = true, // Makes the JSON output more readable with indentation
+            WriteIndented = true, 
             Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
         });
-
-        // Write the JSON string to the file
+        
         File.WriteAllText(filePath, jsonString);
     }
 

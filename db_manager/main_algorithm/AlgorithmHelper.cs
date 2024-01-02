@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
  *
  * Methods
  * ReplaceWithCorrectQuotes | Replaces stylized quotes with standard ASCII quotes.
- * ExtractKeysFromLines | Gets all the keys from the appearances as string list.
+ * GetAllKeysFromLines | Gets all the keys from the appearances as string list.
  * GetKeysJoinedAsString | Takes a key list and joins them as a string seperated by '/' characters.
  * GetSongTitlePartialAndIssuesKeys | Gets any partial or issue keys from the title.
  * GetYouTubeLink | Gets a timestamped youtube link.
@@ -45,7 +45,7 @@ class AlgorithmHelper
      * @param song The song title which has keys.
      * @return A string list of the keys for 
      */
-    public static List<string> ExtractKeysFromLines(string currLs, string song)
+    public static List<string> GetAllKeysFromLines(string currLs, string song)
         {
         string pattern = @"\((.*?)\)";
         Regex regex = new Regex(pattern);
@@ -114,7 +114,7 @@ class AlgorithmHelper
     public static string GetSongTitlePartialAndIssuesKeys(string appearances)
     {
             int numOfAppearances = appearances.Split(",").Length;
-            List<string> appearanceKeys = ExtractKeysFromLines(appearances, "");
+            List<string> appearanceKeys = GetAllKeysFromLines(appearances, "");
             
 
             List<string> allAppearanceKeys = [];
