@@ -1,4 +1,4 @@
-Control + g. Type 936 for end of solo videos. Format: time title by artist
+Control + g. Type 940 for end of solo videos. Format: time title by artist
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -933,6 +933,10 @@ https://youtu.be/1vKqXdirXrw?si=CUhOSl_70g3XVuZn
 Solo Video 
 https://youtu.be/xS1ChdA2M08?si=iBtwugKCAjAZ4wqR
 0:00 Mojo Pin by Jeff Buckley
+
+Solo Video
+https://youtu.be/C4jzWJ54G3Q?si=AM4mASOiuOnmEZa1
+0:00 Never Going Back Again by Fleetwood Mac
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
