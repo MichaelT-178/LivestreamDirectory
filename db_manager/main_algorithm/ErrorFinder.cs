@@ -11,7 +11,7 @@
  */
 public class ErrorFinder
 {
-    public static List<List<string>> FindCapErrors()
+    public static List<string> FindCapErrors()
     {
         string timestampsFilePath = "./db_manager/timestamps/all-timestamps.txt";
 
@@ -65,18 +65,7 @@ public class ErrorFinder
             Environment.Exit(0);
         }
 
-        foreach (string song in songs) 
-        {
-            int times = songs.Count(s => s == song);
-
-            if (times > 1)
-            {   
-                Console.Write("HERE: ");
-                Console.WriteLine(song);
-            }
-        }
-
-        return [songs, allSongs];
+        return songs;
     }
 
     /**
@@ -93,6 +82,7 @@ public class ErrorFinder
             using (StreamReader reader = new StreamReader(filePath))
             {
                 List<string> checkedArtists = new List<string>();
+                List<string> artistsWithOutImage = new List<string>();
 
                 while (!reader.EndOfStream)
                 {
@@ -119,13 +109,25 @@ public class ErrorFinder
                             //Check if image exists 
                             if (!File.Exists(imagePath))
                             {
-                                Color.Print("Image not found!: ", "Red");
-                                Console.WriteLine(artist);
-                                Environment.Exit(0);
+                                artistsWithOutImage.Add(artist);
                             }
                         } //checked artists contains ends
                     } //songAndArtist conditional ends 
                 } //While reader has stream
+
+                if (artistsWithOutImage.Count != 0)
+                {
+                    Console.WriteLine();
+
+                    foreach (string artist in artistsWithOutImage)
+                    {
+                        Color.Print("Image not found", "Red");
+                        Console.WriteLine($": {artist}");
+                    }
+
+                    Console.WriteLine("Go find images for these artists and rerun\n");
+                    Environment.Exit(0);
+                }
             } //Using StreamReader ends 
         } //Check file exists ends 
         else

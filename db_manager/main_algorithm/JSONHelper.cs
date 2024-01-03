@@ -81,7 +81,6 @@ class JSONHelper
         {
             string songAndArtist = $"{song.Title} by {song.Artist}";
             databaseSongInfo.Add(songAndArtist);
-            Console.WriteLine(songAndArtist);
         }
 
         return databaseSongInfo;

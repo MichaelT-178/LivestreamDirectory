@@ -132,7 +132,10 @@ class Helper {
 
         foreach (string song in songList)
         {
-            songListNoKeys.Add(RemoveKeys(song));
+            if (!songListNoKeys.Contains(RemoveKeys(song)))
+            {
+                songListNoKeys.Add(RemoveKeys(song));
+            }
         }
 
         return songListNoKeys;

@@ -29,18 +29,10 @@ class Program
 
         Console.WriteLine("\nPlease be patient. This will take a couple of seconds...");
         Console.WriteLine("Writing to file...");
-
-        List<List<string>> updatedLists = ErrorFinder.FindCapErrors();
     
-        List<string> songsWithKeys = updatedLists[0];
-        List<string> allSongs = updatedLists[1];
-        
-        
-        List<string> songsWithoutKeys = Helper.GetSongListWithoutKeys(songsWithKeys);
+        List<string> songsWithKeys = ErrorFinder.FindCapErrors();
 
-        //TODO: FILL THIS IN
-        // GetSongsNoKeys
-        // Environment.Exit(0);
+        List<string> songsWithoutKeys = Helper.GetSongListWithoutKeys(songsWithKeys);
 
         Color.PrintLine("No capitalization errors found!", "Green");
 

@@ -1,7 +1,6 @@
 
 using System.Text;
 
-
 /**
  *
  * This class runs the algorithm to convert all-timestamps.txt
@@ -16,8 +15,8 @@ class Algorithm
 {   
     /**
      * This algorithm creates the song_list.json database from 
-     * the allSongs string list and all-timestamps.txt file.
-     * @param allSongs All songs from all-timestamps.txt. Each song
+     * the songsWithoutKeys string list and all-timestamps.txt file.
+     * @param allSongs songs from all-timestamps.txt. Each song
      *        only appears one time and has been stripped of it's keys.
      */
     public static void Run(List<string> allSongs)
