@@ -7,6 +7,7 @@
  * GetSongAndArtist | Get list of Song and artist from all-timestamps line.
  * ReplaceWithCorrectQuotes | Replaces stylized quotes with standard ASCII quotes.
  * GetSortedAlphabetList | Gets a list sorted alphabetically.
+ * GetSongListWithoutKeys | Removes all the keys for every song in a song list 
  * ReplaceNonAsciiChars | Replaces non-ascii charcters with valid ascii characters.
  * IsAscii | Returns whether or not a string contains only Ascii characters 
  * RemoveKeys | Removes all keys from a song title.
@@ -33,7 +34,7 @@ class Helper {
      */
     public static bool ListContainsSongWithCorrectQuotes(List<string> songList, string song)
     {
-        return songList.Contains(song.Trim().Replace("’", "'").Replace("’", "'").Replace("‘", "'"));
+        return songList.Contains(ReplaceWithCorrectQuotes(song.Trim()));
     }
 
     /**
@@ -118,6 +119,23 @@ class Helper {
         }
         
         return alphabetList;
+    }
+
+    /**
+     * Removes all the keys for every song in a song list 
+     * @param songList List of song titles with their keys
+     * @return The songList where the titles don't have their keys
+     */
+    public static List<string> GetSongListWithoutKeys(List<string> songList)
+    {
+        List<string> songListNoKeys = new List<string>();
+
+        foreach (string song in songList)
+        {
+            songListNoKeys.Add(RemoveKeys(song));
+        }
+
+        return songListNoKeys;
     }
 
     /**

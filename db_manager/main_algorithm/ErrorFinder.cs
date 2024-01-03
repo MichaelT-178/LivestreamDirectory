@@ -46,7 +46,6 @@ public class ErrorFinder
                     capErrorFound = true;
                 }
 
-                Console.WriteLine(song);
                 if (!Helper.ListContainsSongWithCorrectQuotes(songs, song)) 
                 {
                     songs.Add(Helper.ReplaceWithCorrectQuotes(song.Trim()));
@@ -64,6 +63,17 @@ public class ErrorFinder
             Console.WriteLine("\nGo fix capitalization and rerun\n");
             OS.OpenFileInVSCode("./db_manager/timestamps/all-timestamps.txt");
             Environment.Exit(0);
+        }
+
+        foreach (string song in songs) 
+        {
+            int times = songs.Count(s => s == song);
+
+            if (times > 1)
+            {   
+                Console.Write("HERE: ");
+                Console.WriteLine(song);
+            }
         }
 
         return [songs, allSongs];

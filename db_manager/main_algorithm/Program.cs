@@ -32,8 +32,11 @@ class Program
 
         List<List<string>> updatedLists = ErrorFinder.FindCapErrors();
     
-        List<string> songs = updatedLists[0];
+        List<string> songsWithKeys = updatedLists[0];
         List<string> allSongs = updatedLists[1];
+        
+        
+        List<string> songsWithoutKeys = Helper.GetSongListWithoutKeys(songsWithKeys);
 
         //TODO: FILL THIS IN
         // GetSongsNoKeys
@@ -48,7 +51,7 @@ class Program
         Console.WriteLine("Currently running algorithm...");
 
         //RUN THE MAIN ALGORITHM
-        Algorithm.Run(songs);
+        Algorithm.Run(songsWithoutKeys);
 
         Color.PrintLine("Database song_list.json file was successfuly created!", "Green");
 

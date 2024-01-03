@@ -150,11 +150,11 @@ class AlgorithmHelper
             {
                 return " (Instrumental)";
             }
-            else if (numOfPartial == numOfAppearances)
+            else if ((numOfPartial + numOfInstrumental + numOfElectricRiffs) == numOfAppearances)
             {
                 return " (Partial)";
             }
-
+            
             return "";
     }
 
