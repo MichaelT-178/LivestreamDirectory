@@ -6,14 +6,26 @@
  */
 public class Song
 {
-    public required string Title { get; set; }
-    public required string Artist { get; set; }
-    public required string OtherArtists { get; set; }
-    public required string Appearances { get; set; }
-    public required string Other { get; set; }
-    public required string Instruments { get; set; }
-    public required string Pic { get; set; }
-    public required string Links { get; set; }
+    public string Title { get; set; }
+    public string Artist { get; set; }
+    public string OtherArtists { get; set; }
+    public string Appearances { get; set; }
+    public string Other { get; set; }
+    public string Instruments { get; set; }
+    public string Pic { get; set; }
+    public string Links { get; set; }
+
+    public Song(string title, string artist, string otherArtists, string appearances, string other, string instruments, string artistPic, string links)
+    {
+        Title = title;
+        Artist = artist;
+        OtherArtists = otherArtists;
+        Appearances = appearances;
+        Other = other;
+        Instruments = instruments;
+        Pic = artistPic;
+        Links = links;
+    }
 }
 
 /**

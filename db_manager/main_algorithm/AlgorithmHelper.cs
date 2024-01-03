@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
  * ReplaceWithCorrectQuotes | Replaces stylized quotes with standard ASCII quotes.
  * GetAllKeysFromLines | Gets all the keys from the appearances as string list.
  * GetKeysJoinedAsString | Takes a key list and joins them as a string seperated by '/' characters.
- * GetSongTitlePartialAndIssuesKeys | Gets any partial or issue keys from the title.
+ * GetSongTitlePartialAndIssuesKey | Gets any partial or issue keys from the title.
  * GetYouTubeLink | Gets a timestamped youtube link.
  * GetArtistPic | Gets the artists picture file path as a valid string.
  * GetOtherArtistsAsString | Joins the other artists as a string by commas.
@@ -111,7 +111,7 @@ class AlgorithmHelper
      * @param appearances List containing all appearances and their keys.
      * @return Partial or issue keys to add and display in the title.
      */
-    public static string GetSongTitlePartialAndIssuesKeys(string appearances)
+    public static string GetSongTitlePartialAndIssuesKey(string appearances)
     {
             int numOfAppearances = appearances.Split(",").Length;
             List<string> appearanceKeys = GetAllKeysFromLines(appearances, "");
@@ -203,10 +203,10 @@ class AlgorithmHelper
 
     /**
      * Joins the other artists as a string by commas.
-     * @param otherArtists A string list containing the names of the other artists.
+     * @param otherArtists A string array containing the names of the other artists.
      * @return A string of the other artists joined by commas.
      */
-    public static string GetOtherArtistsAsString(List<string> otherArtists)
+    public static string GetOtherArtistsAsString(string[] otherArtists)
     {
         return string.Join(", ", otherArtists);
     }

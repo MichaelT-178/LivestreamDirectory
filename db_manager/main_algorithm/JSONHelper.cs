@@ -74,7 +74,7 @@ class JSONHelper
         List<Song> databaseSongs = songsContainer.Songs 
                                    ?? throw new ArgumentException("Couldn't get database songs!");
 
-        List<string> databaseSongInfo = new List<string>();
+        List<string> databaseSongInfo = new();
 
         
         foreach (Song song in databaseSongs)
@@ -102,6 +102,21 @@ class JSONHelper
         });
         
         File.WriteAllText(filePath, jsonString);
+    }
+
+    /**
+     * Writes the jsonSongList string to the song_list.json in the 
+     * database 
+     * @param jsonSongList The string that contains the full formatted 
+     *        database of songs.
+     */
+    public static void WriteTextToJSONFile(string jsonSongList)
+    {
+        string filePath = "./database/song_list.json";
+
+        using StreamWriter writer = new(filePath);
+
+        writer.Write(jsonSongList);
     }
 
 }
