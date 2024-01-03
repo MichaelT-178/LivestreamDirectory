@@ -136,7 +136,8 @@ class Algorithm
             
             if (!string.IsNullOrEmpty(other))
             {
-                other = other[..^1]; //get rid of last "," character
+                other = other.Trim()[..^1]; //get rid of last "," character
+                other = other.Replace("\"", "\\\"");
             }
 
             if (artist == "AC") otherArtists = "";
