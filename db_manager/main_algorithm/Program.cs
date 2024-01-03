@@ -35,16 +35,22 @@ class Program
         List<string> songs = updatedLists[0];
         List<string> allSongs = updatedLists[1];
 
-        Color.PrintLine("No capitalization errors found!", "green");
+        //TODO: FILL THIS IN
+        // GetSongsNoKeys
+        // Environment.Exit(0);
+
+        Color.PrintLine("No capitalization errors found!", "Green");
 
         ErrorFinder.AllArtistPicturesExist();
         
-        Color.PrintLine("An image was found for every artist!", "green");
+        Color.PrintLine("An image was found for every artist!", "Green");
 
-        foreach (string song in Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongs()))
-        {
-            Console.WriteLine(song);
-        }
+        Console.WriteLine("Currently running algorithm...");
+
+        //RUN THE MAIN ALGORITHM
+        Algorithm.Run(songs);
+
+        Color.PrintLine("Database song_list.json file was successfuly created!", "Green");
 
         JSONHelper.WriteJSONToFile(Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongs()));
 

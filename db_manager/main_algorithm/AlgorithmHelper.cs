@@ -5,7 +5,6 @@ using System.Text.RegularExpressions;
  * This class helps perform functions in the main algorithm.
  *
  * Methods
- * ReplaceWithCorrectQuotes | Replaces stylized quotes with standard ASCII quotes.
  * GetAllKeysFromLines | Gets all the keys from the appearances as string list.
  * GetKeysJoinedAsString | Takes a key list and joins them as a string seperated by '/' characters.
  * GetSongTitlePartialAndIssuesKey | Gets any partial or issue keys from the title.
@@ -25,17 +24,6 @@ class AlgorithmHelper
     
     /** String List of all the keys to not remove */
     private static List<string> keysToKeep = JSONHelper.GetFilesJSONData(keysToKeepPath);
-
-    /**
-     * Replaces stylized quotes with standard ASCII quotes.
-     * Purpose is to make equality checks more accurate.
-     * @param line The line to be modified.
-     * @return line with correct quotation chars 
-     */
-    public static string ReplaceWithCorrectQuotes(string line)
-    {
-        return line.Replace("’", "'").Replace("‘", "'").Replace("“", "\"").Replace("”", "\"");
-    }
 
     /**
      * Gets all the keys from the current livestream appearance 

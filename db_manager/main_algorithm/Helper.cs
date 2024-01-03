@@ -3,18 +3,14 @@
  *
  * Methods
  * GetAnsweredYes | Checks if user answered yes to a prompt 
- * ListContainsSongWithoutCommas | Check if list contain strings without commas 
+ * ListContainsSongWithCorrectQuotes | Checks if a song list contains a song with with the correct quotes.
  * GetSongAndArtist | Get list of Song and artist from all-timestamps line.
+ * ReplaceWithCorrectQuotes | Replaces stylized quotes with standard ASCII quotes.
  * GetSortedAlphabetList | Gets a list sorted alphabetically.
  * ReplaceNonAsciiChars | Replaces non-ascii charcters with valid ascii characters.
  * IsAscii | Returns whether or not a string contains only Ascii characters 
  * RemoveKeys | Removes all keys from a song title.
  * 
- *
- *
- *
- *
- *
  * @author Michael Totaro
  */
 class Helper {
@@ -29,8 +25,13 @@ class Helper {
                string.Equals(prompt, "Yes", StringComparison.OrdinalIgnoreCase);
     }
 
-
-    public static bool ListContainsSongWithoutCommas(List<string> songList, string song)
+    /**
+     * Checks if a song list contains a song with with the correct quotes.
+     * @param songList the song list to be checked 
+     * @param song The song whose quotes will be replaced.
+     * @return Whether the songlist contains the song with the correct quotes.
+     */
+    public static bool ListContainsSongWithCorrectQuotes(List<string> songList, string song)
     {
         return songList.Contains(song.Trim().Replace("’", "'").Replace("’", "'").Replace("‘", "'"));
     }
@@ -75,7 +76,18 @@ class Helper {
 
         return null;
     }
-    
+
+    /**
+     * Replaces stylized quotes with standard ASCII quotes.
+     * Purpose is to make equality checks more accurate.
+     * @param line The line to be modified.
+     * @return line with correct quotation chars 
+     */
+    public static string ReplaceWithCorrectQuotes(string line)
+    {
+        return line.Replace("’", "'").Replace("‘", "'").Replace("“", "\"").Replace("”", "\"");
+    }
+
     /**
      * Takes the repertoire list which contains songs formatted
      * as *song* by *artist* and sorts the list alphabetically.

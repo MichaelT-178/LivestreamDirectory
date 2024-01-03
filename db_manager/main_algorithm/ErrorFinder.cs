@@ -37,8 +37,8 @@ public class ErrorFinder
             if (songAndArtist != null) {
                 string song = songAndArtist[0];
 
-                if (!Helper.ListContainsSongWithoutCommas(songs, song)
-                    && Helper.ListContainsSongWithoutCommas(lowerSongs, song.ToLower()))
+                if (!Helper.ListContainsSongWithCorrectQuotes(songs, song)
+                    && Helper.ListContainsSongWithCorrectQuotes(lowerSongs, song.ToLower()))
                 {
                     Color.Print("CAPITALIZATION ERROR: ", "Red");
                     Console.Write("\"" + song.Trim().Replace("’", "'").Replace("‘", "'"));
@@ -46,10 +46,11 @@ public class ErrorFinder
                     capErrorFound = true;
                 }
 
-                if (!Helper.ListContainsSongWithoutCommas(songs, song)) 
+                Console.WriteLine(song);
+                if (!Helper.ListContainsSongWithCorrectQuotes(songs, song)) 
                 {
-                    songs.Add(song.Trim().Replace("’", "'").Replace("‘", "'"));
-                    lowerSongs.Add(song.Trim().Replace("’", "'").Replace("‘", "'").ToLower());
+                    songs.Add(Helper.ReplaceWithCorrectQuotes(song.Trim()));
+                    lowerSongs.Add(Helper.ReplaceWithCorrectQuotes(song.Trim().ToLower()));
                 }
 
                 allSongs.Add(song.Trim());

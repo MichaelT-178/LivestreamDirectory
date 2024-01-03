@@ -76,7 +76,7 @@ class Algorithm
                     //Ex: 1:14:31
                     string fileSongTimestamp = line.Split(" ")[0];
                     //Ex: Satisfied Mind (MDT)
-                    string fileSongWithKeys = AlgorithmHelper.ReplaceWithCorrectQuotes(fileSongAndArtist[0]);
+                    string fileSongWithKeys = Helper.ReplaceWithCorrectQuotes(fileSongAndArtist[0]);
                     //Ex: Jeff Buckley/Porter Wagoner/Red Hays
                     string fileArtists = fileSongAndArtist[1];
                     //Livestream 95
@@ -159,7 +159,7 @@ class Algorithm
 
         } //song in allSongs for loop ends 
 
-        string jsonSongString = songListBuilder.ToString()[..^1].Trim();
+        string jsonSongString = songListBuilder.ToString().Trim()[..^1];
         jsonSongString += "\n    ]\n}";
         
         JSONHelper.WriteTextToJSONFile(jsonSongString);
