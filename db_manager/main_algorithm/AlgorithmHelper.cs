@@ -88,7 +88,7 @@ class AlgorithmHelper
         }
 
         //[..^1] removes the last "/" character from resultString. Add parenthesis around string
-        return "(" + resultString[..^1] + ")";
+        return " (" + resultString[..^1] + ")";
 
     }
 
@@ -154,7 +154,7 @@ class AlgorithmHelper
             {
                 return " (Partial)";
             }
-            
+
             return "";
     }
 

@@ -97,7 +97,7 @@ class Algorithm
 
                     if (song == fileSongWithOutKeys)
                     {
-                        appearances += $"{currentLivestreamNoKeys} {joinedAppearanceKeys},".Trim();
+                        appearances += $"{currentLivestreamNoKeys}{joinedAppearanceKeys},";
                         artist = fileMainArtist;
                         otherArtistsList = (fileOtherArtists?.Length ?? 0) > otherArtistsList.Length
                                             ? fileOtherArtists!
