@@ -9,21 +9,21 @@ public class Song
     public string Title { get; set; }
     public string Artist { get; set; }
     public string OtherArtists { get; set; }
-    public string Appearances { get; set; }
-    public string Other { get; set; }
     public string Instruments { get; set; }
     public string Pic { get; set; }
+    public string Search { get; set; }
+    public string Appearances { get; set; }
     public string Links { get; set; }
 
-    public Song(string title, string artist, string otherArtists, string appearances, string other, string instruments, string artistPic, string links)
+    public Song(string title, string artist, string otherArtists, string instruments, string artistPic, string search, string appearances, string links)
     {
         Title = title;
         Artist = artist;
         OtherArtists = otherArtists;
-        Appearances = appearances;
-        Other = other;
         Instruments = instruments;
         Pic = artistPic;
+        Search = search;
+        Appearances = appearances;
         Links = links;
     }
 }

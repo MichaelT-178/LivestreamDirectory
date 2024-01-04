@@ -36,7 +36,7 @@ class Algorithm
             string[] otherArtistsList = [];
             string appearances =  "";
             string instruments = "";
-            StringBuilder otherBuilder = new StringBuilder();
+            StringBuilder searchBuilder = new StringBuilder();
             string links = "";
 
             //Ex: Livestream 95 (Audio Issues) or Solo Video
@@ -105,7 +105,7 @@ class Algorithm
                         instruments += AlgorithmHelper.AddDefaultAcousticGuitar(fileSongWithKeys, instruments);
                         instruments += AlgorithmHelper.GetInstrumentsFromSong(fileSongWithKeys, instruments);
 
-                        OtherHelper.GetInfo(ref otherBuilder, title, artist);
+                        OtherHelper.GetInfo(ref searchBuilder, title, artist);
                         links += AlgorithmHelper.GetYouTubeLink(currentLink, fileSongTimestamp);
                     } //song == fileSongWithoutKeys if block ends 
 
@@ -134,12 +134,12 @@ class Algorithm
 
             string artistPic = AlgorithmHelper.GetArtistPic(artist);
             
-            string other = otherBuilder.ToString();
+            string search = searchBuilder.ToString();
 
-            if (!string.IsNullOrEmpty(other))
+            if (!string.IsNullOrEmpty(search))
             {
-                other = other.Trim()[..^1]; //get rid of last "," character
-                other = other.Replace("\"", "\\\"");
+                search = search.Trim()[..^1]; //get rid of last "," character
+                search = search.Replace("\"", "\\\"");
             }
 
             if (artist == "AC") otherArtists = "";
@@ -155,7 +155,7 @@ class Algorithm
                 instruments = instruments[..^2]; //get rid of last " , " character
             }
 
-            Song jsonSong = new(title, artist, otherArtists, appearances, other, instruments, artistPic, links);
+            Song jsonSong = new(title, artist, otherArtists, instruments, artistPic, search, appearances, links);
 
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));
 

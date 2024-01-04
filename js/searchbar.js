@@ -37,7 +37,7 @@ const searchSongs = async searchText => {
                song.Artist.toLowerCase().match(search) || 
                song.Other_Artists.toLowerCase().match(search) || 
                song.Instruments.toLowerCase().match(search) || 
-               song.Other.toLowerCase().match(search)) || 
+               song.Search.toLowerCase().match(search)) || 
 
                //Allows the user to look "Song by Artist". Example As by Stevie Wonder is now 
                //easier to find. The double equals allows for ascii characters
