@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LivestreamDirectory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6e476973d5c9683f05bcde7e51062f29b4e0520")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LivestreamDirectory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LivestreamDirectory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
