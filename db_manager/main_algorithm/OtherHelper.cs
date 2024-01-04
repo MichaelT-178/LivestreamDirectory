@@ -5,6 +5,7 @@ using System.Text;
  *
  * Methods
  * GetInfo | Creates the other attribute for a song
+ * AppendNew | Checks that content is not already in other, then adds it
  *
  * @author Michael Totaro
  */
@@ -18,122 +19,128 @@ class OtherHelper
      * @param artist The artist of the song
      * @return The other attribute 
      */
-    public static string GetInfo(string title, string artist)
-    {
+    public static void GetInfo(ref StringBuilder other, string title, string artist)
+    {   
 
-        StringBuilder other = new StringBuilder();
-
-        if (title.Contains("“") || title.Contains("”"))
+        /**
+         * Checks content is not already in other, then adds it
+         * @param content to be appended to other
+         * @param endString String to be appended at end.
+         */
+        void AppendNew(string content, StringBuilder other)
         {
-            other.Append(title + ", ");
+            if (!other.ToString().Contains(content))
+            {
+                other.Append(content + ", ");
+            }
+        }
+
+        if (title.Contains('\"'))
+        {
+            AppendNew(title.Replace("\"", "“").Replace("\"","”"), other);
         }
         
         if (!Helper.IsAscii(title)) 
-        {
-            other.Append(Helper.ReplaceNonAsciiChars(title) + ", ");
+        {   
+            AppendNew(Helper.ReplaceNonAsciiChars(title), other);
         }
 
 
-        if (title.Contains("'") || title.Contains("\"") || title.Contains("&") || 
-            title.Contains("-") || title.Contains(",")) 
+        if (title.Contains('\'') || title.Contains('"') || title.Contains('&') || 
+            title.Contains('-') || title.Contains(',')) 
         {
-            other.Append(
+            AppendNew(
                 title.Replace("'","")
-                     .Replace("\\\"","")
+                     .Replace("\"","")
                      .Replace(" & ", " and ")
                      .Replace("-", " ")
                      .Replace(",", "")
-                     .Replace(".","") + ", "
+                     .Replace(".",""), 
+                     other
                 );
         }
-        
-        if (artist.Contains(".") || artist.Contains("'") || artist.Contains("’")) 
+    
+        if (artist.Contains('.') || artist.Contains('\''))
         {
-            other.Append(
-                artist.Replace(".", "")
-                      .Replace("'", "")
-                      .Replace("’", "")
-                      .Replace("‘", "'") + ", "
-                );
+            AppendNew(artist.Replace(".", "").Replace("'", ""), other);
         }
 
         if (!Helper.IsAscii(artist)) 
         {
-            other.Append(Helper.ReplaceNonAsciiChars(artist) + ", ");
+            AppendNew(Helper.ReplaceNonAsciiChars(artist), other);
         }
         
         if (title.Contains("and"))
         {
-            other.Append(title.Replace(" and ", " & ") + ", ");
+            AppendNew(title.Replace(" and ", " & "), other);
         }
 
         if (title.Contains("'") || title.Contains("."))
         {
-            other.Append(title.Replace("'", "’").Replace(".", "") + ", "); 
+            AppendNew(title.Replace("'", "’").Replace(".", ""), other);
         }
         
         if (title.ToLower().Contains(" you ")) 
         {
-            other.Append(
+            AppendNew(
                 title.Replace(" You ", " u ")
                      .Replace(" you ", " u ")
                      .Replace(",", "")
-                     .Replace("'", "") + ", "
+                     .Replace("'", ""), 
+                     other
                 );
         }
         
         if (artist.Contains("-") || artist.Contains(",")) 
         { 
-            other.Append(artist.Replace("-", " ").Replace(",", " ") + ", "); 
+            AppendNew(artist.Replace("-", " ").Replace(",", " "), other);
         }
         
         if (title.Contains("'")) 
         {
-            other.Append(title.Replace("'", "‘") + ", ");
+            AppendNew(title.Replace("'", "‘"), other);
         }
         
         if (artist.Contains("'")) 
         {
-            other.Append(artist.Replace("'", "‘") + ", ");
+            AppendNew(artist.Replace("'", "‘"), other);
         }
 
         //Song and artist specific other attributes. Add then return.
-        if (artist.Equals("Black Sabbath")) { other.Append("Ozzy Osbourne, "); return other.ToString(); }
-        if (artist.Equals("Ozzy Osbourne")) { other.Append("Black Sabbath, "); return other.ToString(); }
+        if (artist.Equals("Black Sabbath")) { AppendNew("Ozzy Osbourne", other); return; }
+        if (artist.Equals("Ozzy Osbourne")) { AppendNew("Black Sabbath", other); return; }
 
-        if (artist.Equals("P!nk")) { other.Append("Pink, " ); return other.ToString(); }
-        if (artist.Contains("Red Hot Chili")) { other.Append("The Red Hot Chili Peppers, "); return other.ToString(); }
-        if (artist.Contains("Young") && !artist.Equals("Neil Young")) { other.Append("Neil Young, "); return other.ToString(); }
-        if (title.Contains("Starbird")) { other.Append("Star bird, "); return other.ToString(); }
-        if (artist.Contains("Allman")) { other.Append("The Allman Brothers, "); return other.ToString(); }
-        if (artist.Contains("Nelly") || artist.Contains("Flo Rida")) { other.Append("Rap, "); return other.ToString(); }
-        if (artist.Equals("Extreme")) { other.Append("The Extreme, "); return other.ToString(); }
-        if (artist.Equals("The Police")) { other.Append("Sting, "); return other.ToString(); }
+        if (artist.Equals("P!nk")) { AppendNew("Pink", other); return; }
+        if (artist.Contains("Red Hot Chili")) { AppendNew("The Red Hot Chili Peppers", other); return; }
+        if (artist.Contains("Young") && !artist.Equals("Neil Young")) { AppendNew("Neil Young", other); return; }
+        if (title.Contains("Starbird")) { AppendNew("Star bird", other); return; }
+        if (artist.Contains("Allman")) { AppendNew("The Allman Brothers", other); return; }
+        if (artist.Contains("Nelly") || artist.Contains("Flo Rida")) { AppendNew("Rap", other); return; }
+        if (artist.Equals("Extreme")) { AppendNew("The Extreme", other); return; }
+        if (artist.Equals("The Police")) { AppendNew("Sting", other); return; }
 
-        if (title.Contains("Grey")) { other.Append(title.Replace("Grey", "Gray") + ", "); }
-        if (artist.Contains("Grey")) { other.Append(artist.Replace("Grey", "Gray") + ", "); return other.ToString(); }
+        if (title.Contains("Grey")) { AppendNew(title.Replace("Grey", "Gray"), other); }
+        if (artist.Contains("Grey")) { AppendNew(artist.Replace("Grey", "Gray"), other); return; }
 
-        if (title.Contains("Man Of Constant Sorrow")) { other.Append("I Am A Man of Constant Sorrow, "); return other.ToString(); }
-        if (title.Equals("Vincent")) { other.Append("Vincent (Starry, Starry Night), "); return other.ToString(); }
+        if (title.Contains("Man Of Constant Sorrow")) { AppendNew("I Am A Man of Constant Sorrow", other); return; }
+        if (title.Equals("Vincent")) { AppendNew("Vincent (Starry, Starry Night)", other); return; }
 
-        if (title.Contains("Xmas")) other.Append("Happy Christmas, "); 
-        if (title.Contains("Xmas")) { other.Append("Merry Christmas, " ); return other.ToString(); }
+        if (title.Contains("Xmas")) AppendNew("Happy Christmas", other); 
+        if (title.Contains("Xmas")) { AppendNew("Merry Christmas", other); return; }
 
-        if (artist.Contains("Simon & Gar")) { other.Append("Simon and Garfunkel, "); return other.ToString(); }
+        if (artist.Contains("Simon & Gar")) { AppendNew("Simon and Garfunkel", other); return; }
         
-        if (artist.Contains("Bublé")) other.Append("Bubble, ");
-        if (artist.Contains("Bublé")) { other.Append("Buble, "); return other.ToString(); }
-        if (artist.Contains("Simon & Gar")) { other.Append("Paul Simon, "); return other.ToString(); }
-        if (artist.Equals("AC")) { other.Append("ACDC, "); return other.ToString(); }
-        if (artist.Equals("Dire Straits")) { other.Append("The Dire Straits, "); return other.ToString(); }
-        if (artist.Equals("Joe Walsh")) { other.Append("The Eagles, " ); return other.ToString(); }
-        if (artist.Equals("Elliott Smith")) { other.Append("Elliot , "); return other.ToString(); }
-        if (title.Equals("Trouble So Hard")) { other.Append("Natural Blues by Moby, "); return other.ToString(); }
-        if (title.Equals("Natural Blues")) { other.Append("Trouble So Hard by Vera Hall, "); return other.ToString(); }
-        if (title.Equals("Satisfied Mind")) { other.Append("A Satisfied Mind, "); return other.ToString(); }
-        if (title.Contains("Autumn Leaves")) { other.Append("Jazz, "); return other.ToString(); }
-        if (title.Contains("D'yer Mak'er")) { other.Append("Deyer, "); return other.ToString(); }
-        
-        return other.ToString();
+        if (artist.Contains("Bublé")) AppendNew("Bubble", other);
+        if (artist.Contains("Bublé")) { AppendNew("Buble", other); return; }
+        if (artist.Contains("Simon & Gar")) { AppendNew("Paul Simon", other); return; }
+        if (artist.Equals("AC")) { AppendNew("ACDC", other); return; }
+        if (artist.Equals("Dire Straits")) { AppendNew("The Dire Straits", other); return; }
+        if (artist.Equals("Joe Walsh")) { AppendNew("The Eagles", other); return; }
+        if (artist.Equals("Elliott Smith")) { AppendNew("Elliot ", other); return; } //The space in Elliot is on purpose
+        if (title.Equals("Trouble So Hard")) { AppendNew("Natural Blues by Moby", other); return; }
+        if (title.Equals("Natural Blues")) { AppendNew("Trouble So Hard by Vera Hall", other); return; }
+        if (title.Equals("Satisfied Mind")) { AppendNew("A Satisfied Mind", other); return; }
+        if (title.Contains("Autumn Leaves")) { AppendNew("Jazz", other); return; }
+        if (title.Contains("D'yer Mak'er")) { AppendNew("Deyer", other); return; }
     }
 }

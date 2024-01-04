@@ -36,7 +36,7 @@ class Algorithm
             string[] otherArtistsList = [];
             string appearances =  "";
             string instruments = "";
-            string other = "";
+            StringBuilder otherBuilder = new StringBuilder();
             string links = "";
 
             //Ex: Livestream 95 (Audio Issues) or Solo Video
@@ -105,7 +105,7 @@ class Algorithm
                         instruments += AlgorithmHelper.AddDefaultAcousticGuitar(fileSongWithKeys, instruments);
                         instruments += AlgorithmHelper.GetInstrumentsFromSong(fileSongWithKeys, instruments);
 
-                        other += OtherHelper.GetInfo(title, artist);
+                        OtherHelper.GetInfo(ref otherBuilder, title, artist);
                         links += AlgorithmHelper.GetYouTubeLink(currentLink, fileSongTimestamp);
                     } //song == fileSongWithoutKeys if block ends 
 
@@ -134,6 +134,8 @@ class Algorithm
 
             string artistPic = AlgorithmHelper.GetArtistPic(artist);
             
+            string other = otherBuilder.ToString();
+
             if (!string.IsNullOrEmpty(other))
             {
                 other = other.Trim()[..^1]; //get rid of last "," character
