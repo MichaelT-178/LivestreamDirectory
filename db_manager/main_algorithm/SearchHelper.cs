@@ -1,20 +1,21 @@
 using System.Text;
 
 /**
- * Creates the other attribute. 
+ * Creates the Search attribute. 
  *
  * Methods
- * GetInfo | Creates the other attribute for a song
- * AppendNew | Checks that content is not already in other, then adds it
+ * GetInfo | Creates the Search attribute for a song
+ * AppendNew | Checks that content is not already in Search reference, then adds it
  *
  * @author Michael Totaro
  */
-class OtherHelper
+class SearchHelper
 {   
     /**
-     * Creates the other attribute. Adds information to the attribute
+     * Creates the Search attribute. Adds information to the attribute
      * to helper the user find the song easier using the search bar.
      *
+     * @search A reference to the StringBuilder Search attribute.
      * @param title The title of the song
      * @param artist The artist of the song
      * @return The other attribute 
@@ -27,7 +28,7 @@ class OtherHelper
          * @param content to be appended to other
          * @param endString String to be appended at end.
          */
-        void AppendNew(string content, StringBuilder search)
+        static void AppendNew(string content, StringBuilder search)
         {
             if (!search.ToString().Contains(content))
             {
@@ -75,7 +76,7 @@ class OtherHelper
             AppendNew(title.Replace(" and ", " & "), search);
         }
 
-        if (title.Contains("'") || title.Contains("."))
+        if (title.Contains('\'') || title.Contains('.'))
         {
             AppendNew(title.Replace("'", "’").Replace(".", ""), search);
         }

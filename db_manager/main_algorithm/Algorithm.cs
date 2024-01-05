@@ -105,7 +105,7 @@ class Algorithm
                         instruments += AlgorithmHelper.AddDefaultAcousticGuitar(fileSongWithKeys, instruments);
                         instruments += AlgorithmHelper.GetInstrumentsFromSong(fileSongWithKeys, instruments);
 
-                        OtherHelper.GetInfo(ref searchBuilder, title, artist);
+                        SearchHelper.GetInfo(ref searchBuilder, title, artist);
                         links += AlgorithmHelper.GetYouTubeLink(currentLink, fileSongTimestamp);
                     } //song == fileSongWithoutKeys if block ends 
 
