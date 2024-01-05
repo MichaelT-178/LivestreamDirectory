@@ -54,6 +54,10 @@ html {
     left: 28px;
 } 
 
+#result-instrument {
+    margin-top: 0px;
+}
+
 a {
     color: #2a9fd6;
 }

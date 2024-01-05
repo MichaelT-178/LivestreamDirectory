@@ -32,14 +32,13 @@ for song in data['songs']:
     appearances = song["Appearances"]
     links = song["Links"]
 
-    cursor.execute(
-        f'''
-        INSERT INTO Song (Title, Artist, Other_Artists, Instruments, 
-                          Image, Search, Appearances, Links)
-        VALUES ('{title}', '{artist}', '{other_artists}', '{instruments}', 
-                '{artist_pic}', '{search}', '{appearances}', '{links}');
-        '''
-    )
+    sql = '''INSERT INTO Song (Title, Artist, Other_Artists, Instruments, 
+                               Image, Search, Appearances, Links)
+             VALUES (?, ?, ?, ?, ?, ?, ?, ?);
+          '''
     
+    cursor.execute(sql, (title, artist, other_artists, instruments, artist_pic, search, appearances, links))
+
+
 conn.commit()
 conn.close()

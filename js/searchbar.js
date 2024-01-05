@@ -74,7 +74,7 @@ const outputHtml = matches => {
 
                 <h4>${match.Title} by <span class="text-primary">
                 ${match.Artist}</span></h4>
-                <small style="color:#FFFFFF">Instruments: ${match.Instruments} / Other Artists: 
+                <small style="color:#FFFFFF">Instruments: ${match.Instruments.split(', ').slice(0, 3).join(', ') + (match.Instruments.split(', ').length > 3 ? "..." : "")} / Other Artists: 
                 ${(match.Other_Artists === "") ? "N/A" : match.Other_Artists}</small>
                 
 

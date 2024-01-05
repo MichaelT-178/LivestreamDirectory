@@ -18,8 +18,8 @@ cursor.execute('''
         Instruments VARCHAR(255),
         Image VARCHAR(50),
         Search VARCHAR(255),
-        Appearances VARCHAR(255),
-        Links VARCHAR(255)
+        Appearances TEXT(3000),
+        Links TEXT(7000)
     );
 ''')
 

@@ -30,8 +30,7 @@ window.addEventListener('load', () => {
 
     const instrumentList = instruments.split(",");
 
-    const marginLeft = instrumentList.length > 3 ? 32 : 12;
-
+    const marginLeft = instrumentList.length > 2 ? 34 : 12;
 
     const mediaQuery = window.matchMedia('(min-device-width: 375px) and (max-device-width: 812px)');
     const instrumentStyling = "font-size: 24px;" + 
@@ -40,7 +39,7 @@ window.addEventListener('load', () => {
                               `margin-left: ${marginLeft}px;` +
                               "margin-bottom: 9px;";
 
-    if (instrumentList.length > 3 && !mediaQuery.matches) {
+    if (instrumentList.length > 2 && !mediaQuery.matches) {
 
         if (theTitle.length < 30 && artist.length < 28 && other_artists.length < 28) {
             numberOfH = 30 - theTitle.length;
@@ -55,6 +54,9 @@ window.addEventListener('load', () => {
         document.getElementById('result-instrument').innerHTML = instrumentList.map((instrument) => 
         ` <div style="${instrumentStyling}"> • ${instrument} </div>`
         ).join(''); 
+
+        document.getElementById('result-instrument').style.marginTop = '-11px';
+
     }
 
                               
