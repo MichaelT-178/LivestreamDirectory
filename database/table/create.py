@@ -2,14 +2,12 @@
 Creates the song list table in the database
 """
 
-
 import sqlite3
 
-conn = sqlite3.connect('example.db')
+conn = sqlite3.connect('Songs.db')
 
 cursor = conn.cursor()
 
-# SQL COMMAND HERE 
 cursor.execute('''
     CREATE TABLE Song (
         Title VARCHAR(100),
@@ -22,12 +20,6 @@ cursor.execute('''
         Links TEXT(7000)
     );
 ''')
-
-# Appearances
-# 2725
-
-# Links
-# 6704
 
 conn.commit()
 conn.close()

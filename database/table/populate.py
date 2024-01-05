@@ -15,11 +15,9 @@ with open("../song_list.json", 'r') as file:
 
 
 
-conn = sqlite3.connect('example.db')
+conn = sqlite3.connect('Songs.db')
 
 cursor = conn.cursor()
-
-# SQL COMMAND HERE 
 
 for song in data['songs']:
 
