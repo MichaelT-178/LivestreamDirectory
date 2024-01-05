@@ -85,7 +85,7 @@ class Algorithm
                     //Ex: Jeff Buckley
                     string fileMainArtist = fileArtists.Split("/")[0];
 
-                    //["Porter Wagoner", "Red Hays"]
+                    //Ex: ["Porter Wagoner", "Red Hays"]
                     string[] otherArtistsFromFile = fileArtists.Split('/').Skip(1).ToArray(); //Get all artists except first.
                     string[]? fileOtherArtists = otherArtistsFromFile.Length != 0 ? otherArtistsFromFile : null;
 
