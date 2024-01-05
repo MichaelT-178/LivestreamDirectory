@@ -98,8 +98,7 @@ class OS {
         string originalDirectory = Environment.CurrentDirectory;
 
         // Directory Livestream/database/table
-        string targetDirectory = "database/table";
-        string targetPath = Path.Combine(originalDirectory, targetDirectory);
+        string targetPath = Path.Combine(originalDirectory, "database/table");
         Environment.CurrentDirectory = targetPath;
 
         string pythonInterpreter = "python3";
