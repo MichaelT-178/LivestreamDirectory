@@ -155,6 +155,8 @@ class Algorithm
                 instruments = instruments[..^2]; //get rid of last " , " character
             }
 
+            artistPic = Helper.ReplaceNonAsciiChars(artistPic).Replace("/", ":");
+
             Song jsonSong = new(title, artist, otherArtists, instruments, artistPic, search, appearances, links);
 
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));
