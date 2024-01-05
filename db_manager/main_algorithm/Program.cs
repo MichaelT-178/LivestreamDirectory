@@ -58,7 +58,7 @@ class Program
 
         //EXECUTE UPDATE SQLite DATABASE COMMAND 
         OS.UpdateSQLiteDatabase();
-        Console.WriteLine("SQLite Database successfully updated!", "Green");
+        Color.PrintLine("SQLite Database successfully updated!", "Green");
 
         //EXECUTE GITHUB COMMANDS 
 
