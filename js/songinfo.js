@@ -8,7 +8,7 @@ window.addEventListener('load', () => {
     const image = `../pics/${localStorage.getItem("theImage")}`;
     const theLinks = localStorage.getItem("theLinks");
 
-    const theTitle = title + (title.includes("Session #") ? " (Check comments for full timestamp)" : "");
+    let theTitle = title + (title.includes("Session #") ? " (Check comments for full timestamp)" : "");
 
     let numberOfH;
     let hString;
@@ -16,28 +16,52 @@ window.addEventListener('load', () => {
     //if condition is true add h's for length purposes to push thing to the left over so it's not dead center
     //Kind of a ghetto fix but it works.
     if (theTitle.length < 28 && artist.length < 28 && other_artists.length < 28 && instruments.length < 28) {
-        numberOfH = 27 - instruments.length;
+        numberOfH = 27 - theTitle.length;
         hString = 'h'.repeat(Math.max(numberOfH, 0));
     }
 
     instruments = `${instruments}<span style='color: red; user-select: none;'>${hString || ""}</span>`; 
 
-    document.getElementById('result-title').innerText = ": " + theTitle;
+    document.getElementById('result-title').innerHTML = ": " + theTitle;
     document.getElementById('result-artist').innerText = ": " + artist;
     document.getElementById('result-otherart').innerText = ": " + (other_artists || "N/A");
     document.getElementById('result-instruments').innerHTML = ": " + instruments;
-    
+
+
+    const instrumentList = instruments.split(",");
+
+    const marginLeft = instrumentList.length > 3 ? 32 : 12;
+
+
     const mediaQuery = window.matchMedia('(min-device-width: 375px) and (max-device-width: 812px)');
     const instrumentStyling = "font-size: 24px;" + 
                               "color: lightBlue;" +
                               "text-align: left;" +
-                              "margin-left: 12px;" +
+                              `margin-left: ${marginLeft}px;` +
                               "margin-bottom: 9px;";
 
+    if (instrumentList.length > 3 && !mediaQuery.matches) {
+
+        if (theTitle.length < 30 && artist.length < 28 && other_artists.length < 28) {
+            numberOfH = 30 - theTitle.length;
+            hString = 'h'.repeat(Math.max(numberOfH, 0));
+        }
+    
+        theTitle = `${theTitle}<span style='color: red; user-select: none;'>${hString || ""}</span>`; 
+        document.getElementById('result-title').innerHTML = "";
+        document.getElementById('result-title').innerHTML = ": " + theTitle;
+        
+        document.getElementById('result-instruments').innerHTML = "";
+        document.getElementById('result-instrument').innerHTML = instrumentList.map((instrument) => 
+        ` <div style="${instrumentStyling}"> • ${instrument} </div>`
+        ).join(''); 
+    }
+
+                              
     if (mediaQuery.matches) {
         document.getElementById('result-instruments').innerHTML = "";
         
-        document.getElementById('result-instrument').innerHTML = instruments.split(",").map((instrument) => 
+        document.getElementById('result-instrument').innerHTML = instrumentList.map((instrument) => 
         ` <div style="${instrumentStyling}"> • ${instrument} </div>`
         ).join(''); 
     }; 
