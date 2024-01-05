@@ -8,6 +8,7 @@ using System.Diagnostics;
  * OpenFileInVSCode | Opens a file in VSCode for viewing.
  * ExecuteGitCommands | Adds, commits, and pushes project to 
  * ExecuteCommand | Executes a command on the operating system.
+ * UpdateSQLiteDatabase | Runs the run_all.py file to update the SQLite table.
  *
  * @author Michael Totaro
  */
@@ -85,6 +86,41 @@ class OS {
         process.StandardInput.Close();
 
         process.WaitForExit();
+    }
+
+    /**
+     * Runs the run_all.py file in the database/table directory
+     * to update the SQLite table.
+     */
+    public static void UpdateSQLiteDatabase()
+    {   
+        // Directory Livestream/
+        string originalDirectory = Environment.CurrentDirectory;
+
+        // Directory Livestream/database/table
+        string targetDirectory = "database/table";
+        string targetPath = Path.Combine(originalDirectory, targetDirectory);
+        Environment.CurrentDirectory = targetPath;
+
+        string pythonInterpreter = "python3";
+        string scriptPath = "run_all.py";
+
+        ProcessStartInfo startInfo = new()
+        {
+            FileName = pythonInterpreter,
+            Arguments = scriptPath,
+            UseShellExecute = false,
+            CreateNoWindow = true
+        };
+
+        using (Process process = new () { StartInfo = startInfo })
+        {
+            process.Start();
+            process.WaitForExit();
+        }
+        
+        // Directory Livestream/
+        Environment.CurrentDirectory = originalDirectory;
     }
 
 }

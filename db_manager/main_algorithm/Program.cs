@@ -12,6 +12,7 @@ class Program
      */
     public static void Main()
     {   
+
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
 
         Console.Write(@"Do you want to open the ""all-timestamps.txt"" file? : ");
@@ -55,7 +56,12 @@ class Program
         string totalTimeSeconds = elapsedSeconds.ToString("0.00");
         Console.WriteLine($"Program took {totalTimeSeconds} seconds to run.");
 
+        //EXECUTE UPDATE SQLite DATABASE COMMAND 
+        OS.UpdateSQLiteDatabase();
+        Console.WriteLine("SQLite Database successfully updated!", "Green");
+
         //EXECUTE GITHUB COMMANDS 
+
         
     }
 }
