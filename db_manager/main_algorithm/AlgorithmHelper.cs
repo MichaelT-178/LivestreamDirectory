@@ -36,7 +36,7 @@ class AlgorithmHelper
     public static List<string> GetAllKeysFromLines(string currLs, string song)
         {
         string pattern = @"\((.*?)\)";
-        Regex regex = new Regex(pattern);
+        Regex regex = new(pattern);
 
         List<string> keysFromCurrLs = [];
         List<string> keysFromSong = [];
