@@ -13,8 +13,6 @@ with open("../song_list.json", 'r') as file:
     contents = file.read()
     data = json.loads(contents)
 
-
-
 conn = sqlite3.connect('Songs.db')
 
 cursor = conn.cursor()
@@ -36,7 +34,6 @@ for song in data['songs']:
           '''
     
     cursor.execute(sql, (title, artist, other_artists, instruments, artist_pic, search, appearances, links))
-
 
 conn.commit()
 conn.close()
