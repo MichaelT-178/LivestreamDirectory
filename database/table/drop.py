@@ -9,7 +9,6 @@ conn = sqlite3.connect('Songs.db')
 cursor = conn.cursor()
 
 try:
-    #SQL COMMAND HERE 
     cursor.execute("DROP TABLE Song;")
 except sqlite3.OperationalError:
     pass
