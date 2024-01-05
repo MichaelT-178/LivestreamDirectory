@@ -52,8 +52,8 @@ class Program
         //Stop the watch
         stopwatch.Stop();
         double elapsedSeconds = stopwatch.Elapsed.TotalSeconds;
-        Console.WriteLine($"Elapsed Time: {elapsedSeconds} seconds");
-
+        string totalTimeSeconds = elapsedSeconds.ToString("0.00");
+        Console.WriteLine($"Program took {totalTimeSeconds} seconds to run.");
 
         //EXECUTE GITHUB COMMANDS 
         

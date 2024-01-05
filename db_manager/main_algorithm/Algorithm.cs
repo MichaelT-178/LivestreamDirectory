@@ -158,7 +158,6 @@ class Algorithm
             artistPic = Helper.ReplaceNonAsciiChars(artistPic).Replace("/", ":");
 
             Song jsonSong = new(title, artist, otherArtists, instruments, artistPic, search, appearances, links);
-
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));
 
         } //song in allSongs for loop ends 

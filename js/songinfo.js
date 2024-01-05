@@ -4,25 +4,41 @@ window.addEventListener('load', () => {
     const artist = localStorage.getItem("theArtist");
     const other_artists = localStorage.getItem("theOtherArt");
     const appears = localStorage.getItem("Appears");
-    const instruments = localStorage.getItem("theInstruments");
+    let instruments = localStorage.getItem("theInstruments");
     const image = `../pics/${localStorage.getItem("theImage")}`;
     const theLinks = localStorage.getItem("theLinks");
 
-    theTitle = title.replace(" (Classical Guitar)", "").replace(" (Electric Song)", "");
-    theTitle += title.includes("Session #") ? " (Check comments for full timestamp)" : "";
+    const theTitle = title + (title.includes("Session #") ? " (Check comments for full timestamp)" : "");
+
+    let numberOfH;
+    let hString;
+
+    //if condition is true add h's for length purposes to push thing to the left over so it's not dead center
+    //Kind of a ghetto fix but it works.
+    if (theTitle.length < 28 && artist.length < 28 && other_artists.length < 28 && instruments.length < 28) {
+        numberOfH = 27 - instruments.length;
+        hString = 'h'.repeat(Math.max(numberOfH, 0));
+    }
+
+    instruments = `${instruments}<span style='color: red; user-select: none;'>${hString || ""}</span>`; 
 
     document.getElementById('result-title').innerText = ": " + theTitle;
     document.getElementById('result-artist').innerText = ": " + artist;
     document.getElementById('result-otherart').innerText = ": " + (other_artists || "N/A");
-    document.getElementById('result-instruments').innerText = ": " + instruments;
+    document.getElementById('result-instruments').innerHTML = ": " + instruments;
     
     const mediaQuery = window.matchMedia('(min-device-width: 375px) and (max-device-width: 812px)');
-    
+    const instrumentStyling = "font-size: 24px;" + 
+                              "color: lightBlue;" +
+                              "text-align: left;" +
+                              "margin-left: 12px;" +
+                              "margin-bottom: 9px;";
+
     if (mediaQuery.matches) {
         document.getElementById('result-instruments').innerHTML = "";
-
+        
         document.getElementById('result-instrument').innerHTML = instruments.split(",").map((instrument) => 
-        ` <div style="font-size:24px;margin: 6px 0; left: 5px;margin-left: 33px;"> • ${instrument} </div>`
+        ` <div style="${instrumentStyling}"> • ${instrument} </div>`
         ).join(''); 
     }; 
     
