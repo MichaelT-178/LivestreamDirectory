@@ -61,7 +61,7 @@ class Program
         Color.PrintLine("SQLite Database successfully updated!", "Green");
 
         //EXECUTE GITHUB COMMANDS 
-        Console.WriteLine("\nPushing to GitHub...");
+        Console.WriteLine("\nAdding changes to GitHub");
         OS.ExecuteGitCommands();
 
         

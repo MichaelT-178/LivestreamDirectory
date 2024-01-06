@@ -70,6 +70,7 @@ class OS {
             FileName = "/bin/bash",
             RedirectStandardInput = true,
             RedirectStandardOutput = true,
+            RedirectStandardError = true,
             CreateNoWindow = true,
             UseShellExecute = false
         };
