@@ -12,7 +12,8 @@ using System.Diagnostics;
  *
  * @author Michael Totaro
  */
-class OS {
+class OS 
+{
 
      /**
       * Opens a file in Visual Studio Code.

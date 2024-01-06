@@ -8,7 +8,15 @@
  * @author Michael Totaro
  */
 class ErrorFinder
-{
+{   
+    /**
+     * Makes sure that all songs with the same name
+     * have the same capitalization in the all-timestamps.txt
+     * file. Then returns a string list containing all songs 
+     * once without their keys.
+     * @return A string list that contains each song title once 
+     *         without it's keys.
+     */
     public static List<string> FindCapErrors()
     {
         string timestampsFilePath = "./db_manager/timestamps/all-timestamps.txt";

@@ -14,7 +14,8 @@
  * 
  * @author Michael Totaro
  */
-class Helper {
+class Helper 
+{
 
     /**
      * Checks if the user answered yes to a prompt. Ignores case.
