@@ -30,7 +30,7 @@ window.addEventListener('load', () => {
 
     const instrumentList = instruments.split(",");
 
-    const marginLeft = instrumentList.length > 2 ? 34 : 12;
+    const marginLeft = instrumentList.length > 2 ? 34 : 8;
 
     const mediaQuery = window.matchMedia('(min-device-width: 375px) and (max-device-width: 812px)');
     const instrumentStyling = "font-size: 24px;" + 
