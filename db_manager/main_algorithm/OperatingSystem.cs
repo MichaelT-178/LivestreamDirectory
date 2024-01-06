@@ -67,7 +67,7 @@ class OS {
     {
         ProcessStartInfo processStartInfo = new ProcessStartInfo
         {
-            FileName = "cmd.exe",
+            FileName = "/bin/bash",
             RedirectStandardInput = true,
             RedirectStandardOutput = true,
             CreateNoWindow = true,
