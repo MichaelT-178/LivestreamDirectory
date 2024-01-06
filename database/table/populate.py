@@ -4,8 +4,6 @@ Just meant to see the contents of the json file as a table.
 Use SQLite Viewer to view table.
 """
 
-
-
 import sqlite3
 import json
 

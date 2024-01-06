@@ -24,7 +24,7 @@ cursor.execute('''
 conn.commit()
 conn.close()
 
-
+# Attribute and max string length
 # Title - 66
 # Artist - 33
 # Other Artist - 38

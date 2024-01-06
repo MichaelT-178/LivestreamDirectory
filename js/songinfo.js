@@ -20,7 +20,7 @@ window.addEventListener('load', () => {
         hString = 'h'.repeat(Math.max(numberOfH, 0));
     }
 
-    instruments = `${instruments}<span style='color: red; user-select: none;'>${hString || ""}</span>`; 
+    instruments = `${instruments}<span style='color: black; user-select: none;'>${hString || ""}</span>`; 
 
     document.getElementById('result-title').innerHTML = ": " + theTitle;
     document.getElementById('result-artist').innerText = ": " + artist;
@@ -46,7 +46,7 @@ window.addEventListener('load', () => {
             hString = 'h'.repeat(Math.max(numberOfH, 0));
         }
     
-        theTitle = `${theTitle}<span style='color: red; user-select: none;'>${hString || ""}</span>`; 
+        theTitle = `${theTitle}<span style='color: black; user-select: none;'>${hString || ""}</span>`; 
         document.getElementById('result-title').innerHTML = "";
         document.getElementById('result-title').innerHTML = ": " + theTitle;
         
