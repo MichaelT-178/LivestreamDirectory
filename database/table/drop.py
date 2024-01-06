@@ -10,7 +10,7 @@ cursor = conn.cursor()
 try:
     cursor.execute("DROP TABLE Song;")
 except sqlite3.OperationalError:
-    pass
+    pass # Table might not exist. Just pass.
 
 conn.commit()
 conn.close()

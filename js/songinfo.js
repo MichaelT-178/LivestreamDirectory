@@ -16,7 +16,7 @@ window.addEventListener('load', () => {
     //if condition is true add h's for length purposes to push thing to the left over so it's not dead center
     //Kind of a ghetto fix but it works.
     if (theTitle.length < 28 && artist.length < 28 && other_artists.length < 28 && instruments.length < 28) {
-        numberOfH = 27 - theTitle.length;
+        numberOfH = 14 - theTitle.length;
         hString = 'h'.repeat(Math.max(numberOfH, 0));
     }
 
