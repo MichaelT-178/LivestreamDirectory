@@ -5,11 +5,9 @@
  * FindCapErrors | Find capitalization errors.
  * AllArtistPicturesExist | Ensures every artist has picture.
  *
- *
- *
  * @author Michael Totaro
  */
-public class ErrorFinder
+class ErrorFinder
 {
     public static List<string> FindCapErrors()
     {
