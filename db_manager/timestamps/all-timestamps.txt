@@ -1,4 +1,4 @@
-Control + g. Type 940 for end of solo videos. Format: time title by artist
+Control + g. Type 1061 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -190,11 +190,11 @@ https://youtu.be/wg6p6FTN_R0
 
 Solo Video
 https://youtu.be/4-awWzNUJIo
-0:00 Fly Like An Eagle by Steve Miller Band
+0:00 Fly Like An Eagle (M) by Steve Miller Band
 
 Solo Video
 https://youtu.be/vdb98onFVl0
-0:00 Soul Embers by Corey Heuvel
+0:00 Soul Embers (M) by Corey Heuvel
 
 Solo Video
 https://youtu.be/mw87W5HNyjg
@@ -218,7 +218,7 @@ https://youtu.be/HR21dICNYpk
 
 Solo Video
 https://youtu.be/USRXhRh6Kkk
-0:00 Hereafter by Corey Heuvel
+0:00 Hereafter (M) by Corey Heuvel
 
 Solo Video
 https://youtu.be/MzewdYZ-yWk
@@ -234,7 +234,7 @@ https://youtu.be/_KjCMExH9-s
 
 Solo Video
 https://youtu.be/iVRnFsXphb4
-0:00 Time in a Bottle by Jim Croce
+0:00 Time in a Bottle (M) by Jim Croce
 
 Solo Video
 https://youtu.be/cyn2xfCwxR0
@@ -310,7 +310,7 @@ https://youtu.be/RNOrBaCku98
 
 Solo Video
 https://youtu.be/sdZ4P0cil_A
-0:00 Hand in My Pocket by Alanis Morissette
+0:00 Hand in My Pocket (SDB) by Alanis Morissette
 
 Solo Video
 https://youtu.be/wvREJylHD9Q
@@ -430,11 +430,11 @@ https://youtu.be/qwAA3oqESCU
 
 Solo Video
 https://youtu.be/x-UZq57HJzM
-0:00 Hey Joe by Jimi Hendrix
+0:00 Hey Joe (MDT) by Jimi Hendrix
 
 Solo Video
 https://youtu.be/vlqevfp4cdw
-0:00 Empty Arms by Stevie Ray Vaughan
+0:00 Empty Arms (MDT) by Stevie Ray Vaughan
 
 Solo Video
 https://youtu.be/NOzg_c_GMwA
@@ -442,7 +442,7 @@ https://youtu.be/NOzg_c_GMwA
 
 Solo Video
 https://youtu.be/6P8-i95G0oI
-0:00 Satisfied Mind by Jeff Buckley
+0:00 Satisfied Mind (MDT) by Jeff Buckley
 
 Solo Video
 https://youtu.be/CIPl_tVViJ0
@@ -450,7 +450,7 @@ https://youtu.be/CIPl_tVViJ0
 
 Solo Video
 https://youtu.be/2Zw3vI93LSI
-0:00 You and Me by Neil Young
+0:00 You and Me (OOM) by Neil Young
 
 Solo Video
 https://youtu.be/O0X7yY4P-gQ
@@ -490,7 +490,7 @@ https://youtu.be/qrrFKXvw6ps
 
 Solo Video
 https://youtu.be/Xf7_iWWRb_U
-0:00 Little Wing by Jimi Hendrix
+0:00 Little Wing (M) by Jimi Hendrix
 
 Solo Video
 https://youtu.be/C4IQvgyGNPE
@@ -756,19 +756,19 @@ https://youtu.be/Rfyb4ClRjpI
 
 Solo Video 
 https://youtu.be/aQitbwGH5XI
-0:00 Mama, I'm Coming Home by Ozzy Osbourne
+0:00 Mama, I'm Coming Home (SGI) by Ozzy Osbourne
 
 Solo Video (Pink Moon Album)
 https://youtu.be/GtqrWBN9tsc
-0:00 Pink Moon by Nick Drake
-2:08 Place To Be by Nick Drake
-5:01 Road by Nick Drake
-7:10 Which Will by Nick Drake
-10:26 Horn by Nick Drake
+0:00 Pink Moon (M) by Nick Drake
+2:08 Place To Be (M) by Nick Drake
+5:01 Road (M) by Nick Drake
+7:10 Which Will (M) by Nick Drake
+10:26 Horn (M) by Nick Drake
 12:09 Things Behind The Sun by Nick Drake
-16:20 Know by Nick Drake
-18:47 Parasite by Nick Drake
-22:29 Free Ride by Nick Drake
+16:20 Know (M) by Nick Drake
+18:47 Parasite (M) by Nick Drake
+22:29 Free Ride (M) by Nick Drake
 25:31 Harvest Breed by Nick Drake
 27:08 From The Morning by Nick Drake
 
@@ -814,7 +814,7 @@ https://youtu.be/vGOATBTIGy8
 
 Solo Video 
 https://youtu.be/6uqbBws3US0
-0:00 Paint It, Black by The Rolling Stones 
+0:00 Paint It, Black (SGI) by The Rolling Stones 
 
 Solo Video 
 https://youtu.be/SaObNtoOXcg
@@ -934,9 +934,130 @@ Solo Video
 https://youtu.be/xS1ChdA2M08?si=iBtwugKCAjAZ4wqR
 0:00 Mojo Pin by Jeff Buckley
 
-Solo Video
+Solo Video 
 https://youtu.be/C4jzWJ54G3Q?si=AM4mASOiuOnmEZa1
 0:00 Never Going Back Again by Fleetwood Mac
+
+
+Solo Video
+https://youtube.com/watch?v=4bCTEUKdQUo
+0:00 Kaijie (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=gH-hi4TsFjA
+0:00 Furch OOM Vintage 1 (BH) by Corey Heuvel
+0:00 You and Me (Instrumental) (BH) by Neil Young
+
+Solo Video
+https://youtube.com/watch?v=R8qrTo2g6LE
+0:05 Godin Progression Plus Cherry Burst RN (BH) (Electric Song) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=eErXYQKZh4U
+0:05 Godin Stadium '59 Desert Green RN demo (BH) (Electric Song) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=K6RyCMow7Xc
+0:06 Godin 5th Ave Uptown GT LTD Trans Cream (BH) (Electric Song) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=9_puIWsSEs0
+0:46 Martin vs. Furch vs. Boucher | High-End Guitar Comparison (BH) by Corey Heuvel
+2:19 Dust in a Baggie (Partial) by Billy Strings
+3:15 Memories (Partial) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=_WcQbI1CTjw
+0:06 Furch Blue D-CM demo (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=W3fIfsbxoA8
+0:07 Boucher SG-52-I demo (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=o5x9v-YJtGE
+0:06 Godin Rialto JR Satina Gray HG Q-Discrete (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=g3Ylz2FQ7jQ
+0:05 Godin Metropolis Natural Cedar EQ demo (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=B2bSZCP_4UM
+0:06 Godin Metropolis LTD Natural HG EQ demo (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=cd2X99V2eGE
+0:06 Godin Metropolis LTD Havana Burst HG EQ demo (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=k3K5yNcJ1lQ
+0:03 Godin Fairmount Concert Hall Natural HG EQ demo (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=lwphFw4_hcg
+0:06 Boucher HG-56 acoustic guitar demo (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=Ei5RItxEq9E
+4:49 Furch OM22TSW-C-DB SGI #72800 (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=IgnCuRKlP5o
+1:17 Furch G25CR-C (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=d_8bqZ5wBUI
+2:02 Furch *SGI* D22TSR (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=v73zN2V5Rhw
+2:09 Furch OM34TSR-DB B2 (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=mT_uy6P8CQk
+0:06 La Patrie Etude (BH) (Classical Guitar) by Corey Heuvel
+0:06 Study No. 6 in D (Classical Guitar) by Fernando Sor
+
+Solo Video
+https://youtube.com/watch?v=ishutnt_64o
+0:06 Breedlove Discovery Concert CE (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=1xUnFelTIIk
+2:14 Stonebridge OM35ASR-DB (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=D9DKuTAIz9Y
+1:15 Norman ST40 Parlor Burnt Umber (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=gFQGuitnugY
+1:10 Norman B15 Dark Almond (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=yC1VcScR93U
+1:07 Norman ST68 (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=7V3E_Yc28BY
+1:03 Norman B20 Burnt Umber (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=4FuSiImdfl8
+1:18 Norman ST40 CW GT Presys (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=HjttyGWp630
+1:29 Norman ST68 CW (BH) by Corey Heuvel
+
+Solo Video
+https://youtube.com/watch?v=QyBV1PpvcHc
+1:05 Stonebridge D22SR (BH) by Corey Heuvel
+
+Solo Video 
+https://youtu.be/mG_ZcHn5-vo?si=yxqdfRckULJMvYB8
+0:05 Godin Passion RG-3 Indigo Burst RN (BH) by Corey Heuvel
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
@@ -952,12 +1073,12 @@ https://youtu.be/RipA8bRdIbI
 54:51 Ohio by Crosby, Stills, Nash & Young
 1:00:10 Way to the Sea by Corey Heuvel
 1:07:01 Favorite chord in DADGAD
-1:07:31 Ball Peen Hammer by Chris Whitley
+1:07:31 Ball Peen Hammer (M) by Chris Whitley
 1:13:06 Somebody to Love by Queen
 1:19:31 Money by Pink Floyd
 1:26:09 Iris by The Goo Goo Dolls
 1:31:04 Ordinary Girl by Corey Heuvel
-1:37:32 This Flight Tonight by Joni Mitchell
+1:37:32 This Flight Tonight (M) by Joni Mitchell
 
 Mandolin
 1:42:58 Rise (Mandolin) by Eddie Vedder
@@ -971,7 +1092,7 @@ Acoustic Guitar
 2:19:35 Helplessly Hoping by Crosby, Stills & Nash
 2:22:38 Before You Accuse Me by Eric Clapton/Bo Diddley
 2:28:53 Castles Made of Sand by Jimi Hendrix
-2:33:53 Until the End by Corey Heuvel
+2:33:53 Until the End (M) by Corey Heuvel
 2:41:46 Everybody Wants To Rule The World by Tears For Fears
 2:46:12 Moondance by Van Morrison
 2:52:29 All Along the Watchtower by Bob Dylan/Jimi Hendrix
@@ -1020,7 +1141,7 @@ https://youtu.be/RfYn2ozzN_c
 1:40:04 Fake Plastic Trees by Radiohead
 1:46:34 Little Wing by Jimi Hendrix
 1:52:03 Somebody That I Used To Know by Goyte
-1:58:01 Soul Embers by Corey Heuvel
+1:58:01 Soul Embers (M) by Corey Heuvel
 2:05:33 Beast Of Burden by The Rolling Stones
 2:11:17 Fall to Pieces by Velvet Revolver
 2:18:04 You Got It by Roy Orbison
@@ -1052,7 +1173,7 @@ Mandolin
 55:37 Fool in the Rain by Led Zeppelin
 1:01:34 Black & Gold by Sam Sparro
 1:09:55 Money by Pink Floyd
-1:14:03 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:14:03 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:16:58 Carolina in my Mind by James Taylor
 1:21:29 Lonely Boy by The Black Keys
 1:28:10 Until the End by Corey Heuvel
@@ -1085,7 +1206,7 @@ https://youtu.be/6r4e55Yo27A
 38:27 Giving Up by Corey Heuvel
 44:50 No Diggity by Blackstreet
 50:33 The Way You Make Me Feel by Michael Jackson
-56:34 Don't Let It Bring You Down by Neil Young
+56:34 Don't Let It Bring You Down (M) by Neil Young
 1:01:24 Starlight by Muse
 1:06:56 That's the Way by Led Zeppelin
 1:14:26 Crimson Fools by Corey Heuvel
@@ -1120,7 +1241,7 @@ https://youtu.be/9zUVfKZrSGs
 31:06 Drive by Incubus
 38:14 At the Creek by Corey Heuvel
 46:36 Under the Bridge by Red Hot Chili Peppers
-52:02 Don't Let It Bring You Down by Neil Young
+52:02 Don't Let It Bring You Down (M) by Neil Young
 57:25 Crazy On You by Heart
 1:02:56 Suit & Tie by Justin Timberlake ft. JAY-Z
 1:09:34 Little Black Submarines by The Black Keys
@@ -1129,7 +1250,7 @@ https://youtu.be/9zUVfKZrSGs
 1:23:11 Starbird by Corey Heuvel
 1:28:44 My Stupid Mouth by John Mayer
 1:33:30 Crossroads by Cream/Robert Johnson
-1:38:30 Blue Crystal Fire by Robbie Basho/Arborea
+1:38:30 Blue Crystal Fire (M) by Robbie Basho/Arborea
 1:46:01 Empty Arms by Stevie Ray Vaughan
 1:50:06 The Night They Drove Old Dixie Down by The Band
 
@@ -1141,7 +1262,7 @@ Electric guitar
 1:57:00 Whole Lotta Love (Electric riff) by Led Zeppelin
 1:57:34 Pride and Joy (Electric riff) by Stevie Ray Vaughan
 1:58:13 Texas Flood (Electric riff) by Stevie Ray Vaughan
-1:59:11 Wish You Were Here (I)(Electric riff) by Incubus
+1:59:11 Wish You Were Here (I) (Electric riff) by Incubus
 2:00:06 Nothing Else Matters (Electric riff) by Metallica
 2:00:41 Hallelujah (Electric riff) by Jeff Buckley/Leonard Cohen
 2:01:33 Satch Boogie (Electric riff) by Joe Satriani
@@ -1183,7 +1304,7 @@ https://youtu.be/mH3c9W8vKbc
 
 Mandolin
 55:07 Rise (Mandolin) by Eddie Vedder
-58:13 Battle of Evermore (Mandolin)(Partial) by Led Zeppelin
+58:13 Battle of Evermore (Mandolin) (Partial) by Led Zeppelin
 
 Acoustic Guitar
 1:01:07 Can't Stop by Red Hot Chili Peppers
@@ -1211,7 +1332,7 @@ Acoustic Guitar
 
 Livestream 32
 https://youtu.be/jDGy1_nMmbk
-3:49 Instrumental/Improv by Corey Heuvel
+3:49 Instrumental/Improv (M) by Corey Heuvel
 10:44 Crazy by Gnarls Barkley
 16:03 Good Love Is On the Way by John Mayer
 21:09 Solsbury Hill by Peter Gabriel
@@ -1270,7 +1391,7 @@ https://youtu.be/Oc4W2nrPzJU
 1:56:45 Mother Divine by Corey Heuvel
 2:03:11 Love Her Madly by The Doors
 2:07:23 Tips on learning strumming
-2:10:42 Hazey Jane I by Nick Drake
+2:10:42 Hazey Jane I (M) by Nick Drake
 2:16:31 Tell Me Why by Neil Young
 2:20:57 Morning Theft by Jeff Buckley
 2:25:04 Starbird by Corey Heuvel
@@ -1372,10 +1493,10 @@ https://youtu.be/bszf3Megxhc
 1:52:03 Blackbird by The Beatles
 1:56:16 Giving Up by Corey Heuvel
 2:02:03 Suit & Tie by Justin Timberlake ft. JAY-Z
-2:08:57 Carolina in my Mind by James Taylor 
+2:08:57 Carolina in my Mind by James Taylor
 2:13:30 Love Struck Baby by Stevie Ray Vaughan
 2:17:04 While My Guitar Gently Weeps by The Beatles/Eric Clapton/The Jeff Healey Band
-2:22:18 Fly by Nick Drake
+2:22:18 Fly (M) by Nick Drake
 2:26:23 Grace by Jeff Buckley
 2:33:07 Starbird by Corey Heuvel
 2:38:35 Don't You Worry 'Bout A Thing by Stevie Wonder
@@ -1411,7 +1532,7 @@ https://youtu.be/mwrkFoGJsqU
 2:15:18 Heart-Shaped Box by Nirvana
 2:23:00 Angeles by Elliott Smith
 2:27:44 Night Moves by Bob Seger
-2:35:34 From The Morning by Nick Drake
+2:35:34 From The Morning (M) by Nick Drake
 2:40:13 The Island by Pendulum
 2:45:48 Can't Find My Way Home by Blind Faith
 2:50:06 My My, Hey Hey (Out of the Blue) by Neil Young
@@ -1430,9 +1551,9 @@ https://youtu.be/gSqP0YvvvNY
 50:41 (Sittin' On) the Dock of the Bay by Otis Redding
 54:57 Bold as Love by Jimi Hendrix
 59:33 Drive by Incubus
-1:07:45 Until the End by Corey Heuvel
-1:15:09 People's Parties by Joni Mitchell
-1:17:45 Cactus Tree by Joni Mitchell
+1:07:45 Until the End (M) by Corey Heuvel
+1:15:09 People's Parties (M) by Joni Mitchell
+1:17:45 Cactus Tree (M) by Joni Mitchell
 1:24:50 If It's Wrong (It's Alright) by Corey Heuvel
 1:30:05 Pride and Joy by Stevie Ray Vaughan
 1:35:43 Never Going Back Again by Fleetwood Mac/Lindsey Buckingham
@@ -1440,12 +1561,12 @@ https://youtu.be/gSqP0YvvvNY
 1:46:42 Mr. Brightside by The Killers
 1:51:03 The Simpson's Theme by Danny Elfman
 1:52:09 Crazy by Gnarls Barkley/Ray LaMontagne
-1:57:55 Crimson Fools by Corey Heuvel
+1:57:55 Crimson Fools (M) by Corey Heuvel
 2:05:05 The strings being used
 2:05:25 People Are Strange by The Doors
 2:07:43 Black & Gold by Sam Sparro
 2:13:55 Improvisation Tips
-2:17:12 Mother Divine by Corey Heuvel
+2:17:12 Mother Divine (M) by Corey Heuvel
 2:23:23 Red House by Jimi Hendrix
 2:29:03 Something Like Olivia by John Mayer
 2:34:50 God Knows (I Love You Madly) by Corey Heuvel
@@ -1457,68 +1578,68 @@ https://youtu.be/gSqP0YvvvNY
 
 Livestream 39
 https://youtu.be/LmchfAzW9AM
-4:58 Vultures by John Mayer
-10:21 Panama (Partial) by Van Halen
-13:48 Morning Wish by Corey Heuvel
-22:18 Babe I'm Gonna Leave You by Led Zeppelin/Anne Bredon
-30:42 Ain't Talkin' 'Bout Love (Partial) by Van Halen
-31:48 Layla (Unplugged) by Eric Clapton
-37:19 Hot for Teacher (Partial) by Van Halen
-40:27 Time Always Tells by Corey Heuvel
-50:22 Killer Queen by Queen
-54:25 Dance the Night Away (Partial) by Van Halen
-56:15 Helplessly Hoping by Crosby, Stills & Nash
-1:02:35 Cherry Wine by Hozier
-1:07:52 Starbird by Corey Heuvel
-1:14:37 Canned Heat by Jamiroquai
-1:22:43 Going Up The Country by Canned Heat
-1:27:29 Life's Been Good by Joe Walsh
-1:35:09 Kaijie by Corey Heuvel
-1:41:32 Eleanor Rigby by The Beatles
-1:49:19 Finish What Ya Started by Van Halen
-1:54:41 Crazy by Gnarls Barkley
-1:59:53 Old Man by Neil Young
-2:05:04 At the Creek by Corey Heuvel
-2:12:39 Circle Game by Joni Mitchell
-2:19:26 No Diggity by Blackstreet
-2:24:17 Ice Cream Man by Van Halen/John Brim
-2:27:28 Hey Joe by Jimi Hendrix/Billy Roberts
-2:33:59 Fugitive by David Gray
-2:39:53 Until the End by Corey Heuvel
-2:46:05 Satisfied Mind by Jeff Buckley/Porter Wagoner/Red Hays
-2:51:25 Ordinary Girl by Corey Heuvel
-2:56:42 Voodoo Child (Slight Return) by Jimi Hendrix
+4:58 Vultures (MDT) by John Mayer
+10:21 Panama (Partial) (MDT) by Van Halen
+13:48 Morning Wish (MDT) by Corey Heuvel
+22:18 Babe I'm Gonna Leave You (MDT) by Led Zeppelin/Anne Bredon
+30:42 Ain't Talkin' 'Bout Love (Partial) (MDT) by Van Halen
+31:48 Layla (Unplugged) (MDT) by Eric Clapton
+37:19 Hot for Teacher (Partial) (MDT) by Van Halen
+40:27 Time Always Tells (MDT) by Corey Heuvel
+50:22 Killer Queen (MDT) by Queen
+54:25 Dance the Night Away (Partial) (MDT) by Van Halen
+56:15 Helplessly Hoping (MDT) by Crosby, Stills & Nash
+1:02:35 Cherry Wine (MDT) by Hozier
+1:07:52 Starbird (MDT) by Corey Heuvel
+1:14:37 Canned Heat (MDT) by Jamiroquai
+1:22:43 Going Up The Country (MDT) by Canned Heat
+1:27:29 Life's Been Good (MDT) by Joe Walsh
+1:35:09 Kaijie (MDT) by Corey Heuvel
+1:41:32 Eleanor Rigby (MDT) by The Beatles
+1:49:19 Finish What Ya Started (MDT) by Van Halen
+1:54:41 Crazy (MDT) by Gnarls Barkley
+1:59:53 Old Man (MDT) by Neil Young
+2:05:04 At the Creek (MDT) by Corey Heuvel
+2:12:39 Circle Game (MDT) by Joni Mitchell
+2:19:26 No Diggity (MDT) by Blackstreet
+2:24:17 Ice Cream Man (MDT) by Van Halen/John Brim
+2:27:28 Hey Joe (MDT) by Jimi Hendrix/Billy Roberts
+2:33:59 Fugitive (MDT) by David Gray
+2:39:53 Until the End (MDT) by Corey Heuvel
+2:46:05   by Jeff Buckley/Porter Wagoner/Red Hays
+2:51:25 Ordinary Girl (MDT) by Corey Heuvel
+2:56:42 Voodoo Child (Slight Return) (MDT) by Jimi Hendrix
 
 Livestream 40
 https://youtu.be/AraZ934iGwQ
-3:14 Blue on Black by Kenny Wayne Shepherd
-11:33 Starbird by Corey Heuvel
-20:17 Green River by Creedence Clearwater Revival
-25:04 Fall to Pieces by Velvet Revolver
-30:27 If It's Wrong (It's Alright) by Corey Heuvel
-38:45 Catfish Blues by Robert Petway
-45:56 Human Nature by Michael Jackson
-53:19 Black Star by Radiohead
-1:00:49 Queenstown by Corey Heuvel
-1:06:44 Empty Arms by Stevie Ray Vaughan
-1:14:08 Ramble On by Led Zeppelin
-1:19:47 Blues Lesson by Corey Heuvel
-1:23:42 Hereafter by Corey Heuvel
-1:29:43 Eyes Wider Than Before by Scott Matthews
-1:35:26 Every Little Thing She Does Is Magic by The Police
-1:41:28 Money by Pink Floyd
+3:14 Blue on Black (NST) by Kenny Wayne Shepherd
+11:33 Starbird (MDT) by Corey Heuvel
+20:17 Green River (NST) by Creedence Clearwater Revival
+25:04 Fall to Pieces (NST) by Velvet Revolver
+30:27 If It's Wrong (It's Alright) (MDT) by Corey Heuvel
+38:45 Catfish Blues (NST) by Robert Petway
+45:56 Human Nature (MDT) by Michael Jackson
+53:19 Black Star (MDT) by Radiohead
+1:00:49 Queenstown (NST) by Corey Heuvel
+1:06:44 Empty Arms (MDT) by Stevie Ray Vaughan
+1:14:08 Ramble On (NST) by Led Zeppelin
+1:19:47 Blues Lesson (MDT) by Corey Heuvel
+1:23:42 Hereafter (MDT) by Corey Heuvel
+1:29:43 Eyes Wider Than Before (M) by Scott Matthews
+1:35:26 Every Little Thing She Does Is Magic (MDT) by The Police
+1:41:28 Money (MDT) by Pink Floyd
 
 Electric Guitar
 *All either riffs, improv, or partial songs
 1:48:36 Blues-Rock Improv
 1:49:17 Hot for Teacher (Electric riff) by Van Halen
 1:50:17 B.B. King Inspired Improv
-1:50:55 Hammer to Fall (Electric riff) by Queen
-1:51:16 Tie your mother down (Electric riff) by Queen
+1:50:55 Hammer To Fall (Electric riff) by Queen
+1:51:16 Tie Your Mother Down (Electric riff) by Queen
 1:51:54 Lithium (Electric riff) by Nirvana
 1:52:31 Shine On You Crazy Diamond (Electric riff) by Pink Floyd
-1:53:34 Back in Black (Electric riff) by AC/DC
-1:53:57 Welcome to the Jungle (Electric riff) by Guns 'N Roses
+1:53:34 Back In Black (Electric riff) by AC/DC
+1:53:57 Welcome To The Jungle (Electric riff) by Guns 'N Roses
 1:55:08 Alright Now (Electric riff) by Free
 1:55:50 Lenny (Electric riff) by Stevie Ray Vaughan
 1:57:25 Seven Nation Army (Electric riff) by The White Stripes
@@ -1527,7 +1648,7 @@ Electric Guitar
 1:59:42 War Pigs (Electric riff) by Black Sabbath
 2:00:37 Miserlou (Electric riff) by Dick Dale
 2:01:15 Personal Jesus (Electric riff) by Depeche Mode
-2:01:29 Joker and the Thief (Electric riff) by Wolfmother
+2:01:29 Joker And The Thief (Electric riff) by Wolfmother
 2:01:54 Tush (Electric riff) by ZZ Top
 2:03:06 Won't Get Fooled Again (Electric riff) by The Who
 2:03:35 Enter Sandman (Electric riff) by Metallica
@@ -1536,68 +1657,68 @@ Electric Guitar
 2:06:04 Blues-Rock Improv
 
 Acoustic Guitar
-2:09:43 Way to the Sea by Corey Heuvel
-2:15:43 Magic Carpet Ride by Steppenwolf
-2:22:11 Sage Trees by Corey Heuvel
-2:29:08 Last Goodbye by Jeff Buckley
-2:35:18 Until the End by Corey Heuvel
-2:41:57 Dani California by Red Hot Chili Peppers
-2:48:01 Do It Again by Steely Dan
-2:55:02 Ordinary Girl by Corey Heuvel
+2:09:43 Way to the Sea (NST) by Corey Heuvel
+2:15:43 Magic Carpet Ride (NST) by Steppenwolf
+2:22:11 Sage Trees (NST) by Corey Heuvel
+2:29:08 Last Goodbye (NST) by Jeff Buckley
+2:35:18 Until the End (NST) by Corey Heuvel
+2:41:57 Dani California (MDT) by Red Hot Chili Peppers
+2:48:01 Do It Again (MDT) by Steely Dan
+2:55:02 Ordinary Girl (MDT) by Corey Heuvel
 
 Livestream 41
 https://youtu.be/RLZoln3RATs
-4:26 You Are the Best Thing by Ray LaMontagne
-11:03 Way to the Sea by Corey Heuvel
-17:51 Pride and Joy by Stevie Ray Vaughan
-25:24 May You Never by John Martyn
-31:38 Time Always Tells by Corey Heuvel
-37:55 Lonely Boy by The Black Keys
-45:05 Stones In My Passway by Robert Johnson
-51:53 Wondering Where The Lions Are by Bruce Cockburn
-59:56 Hole Hearted by Extreme
-1:05:53 Mother Divine by Corey Heuvel
-1:13:41 Dreams by Fleetwood Mac
-1:22:01 Suit & Tie by Justin Timberlake ft. JAY-Z
-1:28:44 Solsbury Hill by Peter Gabriel
-1:35:35 Time in a Bottle by Jim Croce
-1:39:48 Like a Stone by Audioslave
+4:26 You Are the Best Thing (MDT) by Ray LaMontagne
+11:03 Way to the Sea (NST) by Corey Heuvel
+17:51 Pride and Joy (NST) by Stevie Ray Vaughan
+25:24 May You Never (NST) by John Martyn
+31:38 Time Always Tells (NST) by Corey Heuvel
+37:55 Lonely Boy (NST) by The Black Keys
+45:05 Stones In My Passway (M) by Robert Johnson
+51:53 Wondering Where The Lions Are (MDT) by Bruce Cockburn
+59:56 Hole Hearted (MDT) by Extreme
+1:05:53 Mother Divine (M) by Corey Heuvel
+1:13:41 Dreams (M) by Fleetwood Mac
+1:22:01 Suit & Tie (MDT) by Justin Timberlake ft. JAY-Z
+1:28:44 Solsbury Hill (MDT) by Peter Gabriel
+1:35:35 Time in a Bottle (MDT) by Jim Croce
+1:39:48 Like a Stone (MDT) by Audioslave
 
 Mandolin
 1:46:29 Rise (Mandolin) by Eddie Vedder
 
 Acoustic guitar
-1:50:52 I Don't Need No Doctor by John Mayer/Nick Ashford
-1:59:01 The Wind Cries Mary by Jimi Hendrix
-2:04:06 Phone Call from Leavenworth by Chris Whitley
-2:10:41 Neon by John Mayer
-2:18:54 Before You Accuse Me by Eric Clapton/Bo Diddley
-2:24:22 Until the End by Corey Heuvel
-2:31:41 Dear Prudence by The Beatles
-2:36:53 That's the Way by Led Zeppelin
-2:42:44 Moondance by Van Morrison
-2:48:56 Superstition by Stevie Wonder
-2:56:17 Ordinary Girl by Corey Heuvel
+1:50:52 I Don't Need No Doctor (NST) by John Mayer/Nick Ashford
+1:59:01 The Wind Cries Mary (NST) by Jimi Hendrix
+2:04:06 Phone Call from Leavenworth (NST) by Chris Whitley
+2:10:41 Neon (NST) by John Mayer
+2:18:54 Before You Accuse Me (NST) by Eric Clapton/Bo Diddley
+2:24:22 Until the End (MDT) by Corey Heuvel
+2:31:41 Dear Prudence (MDT) by The Beatles
+2:36:53 That's the Way (MDT) by Led Zeppelin
+2:42:44 Moondance (NST) by Van Morrison
+2:48:56 Superstition (NST) by Stevie Wonder
+2:56:17 Ordinary Girl (NST) by Corey Heuvel
 
 Livestream 42
 https://youtu.be/T6ydeqXOIvk
-3:44 Midnight Rider by Allman Brothers Band
+3:44 Midnight Rider (SAS) by Allman Brothers Band
 9:54 Quick Metal Style Riff by Corey Heuvel
 10:24 Starbird by Corey Heuvel
-18:24 Over the Hills and Far Away by Led Zeppelin
+18:24 Over the Hills and Far Away (DX1R) by Led Zeppelin
 26:06 If It's Wrong (It's Alright) by Corey Heuvel
 33:30 Breathe (In the Air) by Pink Floyd
 35:25 Time by Pink Floyd
-43:24 The Past Recedes by John Frusciante
+43:24 The Past Recedes (SAS) by John Frusciante
 51:50 Giving Up by Corey Heuvel
-59:21 Nutshell by Alice In Chains
+59:21 Nutshell (SAS) by Alice In Chains
 1:05:29 Tightrope by Stevie Ray Vaughan
 1:13:39 God Knows (I Love You Madly) by Corey Heuvel
-1:20:13 Just Like Heaven by The Cure
+1:20:13 Just Like Heaven (SAS) by The Cure
 1:27:24 Hereafter by Corey Heuvel
 1:32:30 Every Teardrop is a Waterfall by Coldplay
 1:38:15 Little Black Submarines by The Black Keys
-1:44:03 Going to California by Led Zeppelin
+1:44:03 Going to California (DX1R) by Led Zeppelin
 1:50:02 Killer Queen by Queen
 1:58:55 Crazy by Gnarls Barkley
 
@@ -1607,10 +1728,10 @@ Electric Guitar
 Acoustic Guitar
 2:11:12 Kiss from a Rose by Seal
 2:17:15 Can't Stop (Partial) by Red Hot Chili Peppers
-2:17:26 May this be Love by Jimi Hendrix
+2:17:26 May This Be Love by Jimi Hendrix
 2:21:30 Crossroads by Cream/Robert Johnson
-2:26:19 Patience by Chris Cornell/Guns 'N Roses
-2:33:51 Hazey Jane I by Nick Drake
+2:26:19 Patience (SAS) by Chris Cornell/Guns 'N Roses
+2:33:51 Hazey Jane I (M) by Nick Drake
 2:40:25 Thriller by Michael Jackson
 2:46:17 Lover, You Should've Come Over by Jeff Buckley
 2:55:00 Ordinary Girl by Corey Heuvel
@@ -1619,13 +1740,13 @@ Acoustic Guitar
 Livestream 43
 https://youtu.be/RCraRcpxmDo
 4:20 Eleanor Rigby by The Beatles
-14:48 Until the End by Corey Heuvel
-22:52 Before You Accuse Me by Eric Clapton/Bo Diddley
+14:48 Until the End (OOM) by Corey Heuvel
+22:52 Before You Accuse Me (OOM) by Eric Clapton/Bo Diddley
 28:40 At the Creek by Corey Heuvel
-35:58 You and Me by Neil Young
+35:58 You and Me (OOM) by Neil Young
 42:04 The Way You Make Me Feel by Michael Jackson
-47:54 Riveria Paradise (Partial) by Stevie Ray Vaughan
-48:51 Way to the Sea by Corey Heuvel
+47:54 Riveria Paradise (Partial) (OOM) by Stevie Ray Vaughan
+48:51 Way to the Sea (OOM) by Corey Heuvel
 55:18 Big Love by Fleetwood Mac
 59:38 Blossom by James Taylor
 1:05:59 Crimson Fools by Corey Heuvel
@@ -1638,13 +1759,13 @@ Classical Guitar
 1:35:42 Prelude in E major BWV 1006a (Classical Guitar) by Johann Sebastian Bach
 
 Acoustic Guitar
-1:44:39 In Your Eyes by Peter Gabriel
+1:44:39 In Your Eyes (OOM) by Peter Gabriel
 1:51:00 Pinball Wizard by The Who
 1:56:35 Time Always Tells by Corey Heuvel
 2:02:12 Soldier's Eyes by Jack Savoretti
 2:06:19 Come On In My Kitchen by Robert Johnson
 2:10:26 Little Wing by Jimi Hendrix
-2:15:54 Into Light by Corey Heuvel
+2:15:54 Into Light (OOM) by Corey Heuvel
 2:22:05 Money by Pink Floyd
 2:28:52 Into the Mystic by Van Morrison
 2:34:32 Dust in a Baggie by Billy Strings
@@ -1659,8 +1780,8 @@ Acoustic Guitar
 Livestream 44
 https://youtu.be/CoQ0bS1d7uo
 3:55 Over The Hill improv
-6:35 Over The Hill by John Martyn
-13:17 Morning Wish by Corey Heuvel
+6:35 Over The Hill (OOM) by John Martyn
+13:17 Morning Wish (OOM) by Corey Heuvel
 22:14 Good Love Is On the Way by John Mayer
 29:18 Beautiful Slide by Corey Heuvel
 38:08 Sugar Man by Rodriguez
@@ -1672,17 +1793,17 @@ https://youtu.be/CoQ0bS1d7uo
 1:06:06 Grace by Jeff Buckley
 1:16:19 Sage Trees by Corey Heuvel
 1:25:08 Big Yellow Taxi Improv
-1:26:06 Big Yellow Taxi by Joni Mitchell
-1:33:25 Song For George by Eric Johnson
-1:35:21 Ohio by Crosby, Stills, Nash & Young
-1:41:30 Between the Horizons by Corey Heuvel
+1:26:06 Big Yellow Taxi (OOM) by Joni Mitchell
+1:33:25 Song For George (OOM) by Eric Johnson
+1:35:21 Ohio (OOM) by Crosby, Stills, Nash & Young
+1:41:30 Between the Horizons (OOM) by Corey Heuvel
 1:47:25 Treetop Flyer by Stephen Stills
 1:53:49 Solsbury Hill by Peter Gabriel
 1:59:19 Crazy by Gnarls Barkley/Ray LaMontagne
 2:07:09 Giving Up by Corey Heuvel
 2:12:52 Deep River Blues by Doc Watson
 2:17:14 Castles Made of Sand by Jimi Hendrix
-2:22:13 Until the End by Corey Heuvel
+2:22:13 Until the End (OOM) by Corey Heuvel
 2:29:35 Bad Penny by Rory Gallagher
 2:36:19 L.A. Woman by The Doors
 2:44:28 Enough To Leave by Billy Strings
@@ -1693,11 +1814,11 @@ https://youtu.be/CoQ0bS1d7uo
 Livestream 45
 https://youtu.be/L1VngMqyXo4
 3:21 At the Creek by Corey Heuvel
-12:07 Slide by The Goo Goo Dolls
-18:45 Time Always Tells by Corey Heuvel
-27:29 Let's Go Crazy riff by Prince
-29:21 Can't Find My Way Home by Blind Faith
-35:09 Over the Hills and Far Away by Led Zeppelin
+12:07 Slide (V) by The Goo Goo Dolls
+18:45 Time Always Tells (V) by Corey Heuvel
+27:29 Let's Go Crazy riff (V) by Prince
+29:21 Can't Find My Way Home (V) by Blind Faith
+35:09 Over the Hills and Far Away (V) by Led Zeppelin
 42:55 Moondance by Van Morrison
 51:08 Crimson Fools by Corey Heuvel
 1:00:27 Wild World by Yusuf / Cat Stevens
@@ -1714,7 +1835,7 @@ https://youtu.be/L1VngMqyXo4
 2:04:32 Neon by John Mayer
 2:12:22 Vincent by Don McLean
 2:17:42 Pride and Joy by Stevie Ray Vaughan
-2:24:45 Until the End by Corey Heuvel
+2:24:45 Until the End (V) by Corey Heuvel
 2:32:06 Hymne à l'amour by Édith Piaf/Jeff Buckley
 2:37:04 Dust in a Baggie by Billy Strings
 2:40:23 Starbird by Corey Heuvel
@@ -1725,14 +1846,14 @@ https://youtu.be/L1VngMqyXo4
 Livestream 46
 https://youtu.be/UvL7GFjtrj0
 0:06 Intro “Jhana” by Corey Heuvel
-7:10 Doin' Time by Sublime
-16:50 Into Light by Corey Heuvel
+7:10 Doin' Time (B) by Sublime
+16:50 Into Light (B) by Corey Heuvel
 25:20 Before You Accuse Me by Eric Clapton/Bo Diddley
 30:43 Last Goodbye by Jeff Buckley
 39:11 Song For George by Eric Johnson
 41:09 Ohio by Crosby, Stills, Nash & Young
 48:21 Starbird by Corey Heuvel
-54:55 Kiss from a Rose by Seal
+54:55 Kiss from a Rose (B) by Seal
 1:01:43 Blackbird by The Beatles
 1:05:08 Lenny (Partial) by Stevie Ray Vaughan
 1:08:38 Do It Again by Steely Dan
@@ -1740,7 +1861,7 @@ https://youtu.be/UvL7GFjtrj0
 1:21:26 Out On The Western Plain by Rory Gallagher
 1:27:56 Way to the Sea by Corey Heuvel
 1:32:53 Money by Pink Floyd
-1:36:58 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:36:58 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:40:38 Deuces are Wild by Aerosmith
 1:47:35 Time Always Tells by Corey Heuvel
 1:54:49 Palm Muting Lesson
@@ -1749,7 +1870,7 @@ https://youtu.be/UvL7GFjtrj0
 1:59:28 Virtual Insanity by Jamiroquai
 2:07:23 I Won't Back Down by Tom Petty
 2:12:43 Crazy by Gnarls Barkley
-2:19:15 Until the End by Corey Heuvel
+2:19:15 Until the End (B) by Corey Heuvel
 2:32:33 The Wind Cries Mary by Jimi Hendrix
 2:38:12 Drops of Jupiter (Tell Me) by Train
 2:43:06 Blues Improv
@@ -1799,7 +1920,7 @@ Electric Guitar
 2:20:52 Mississippi Queen (Electric riff) by Mountain
 2:21:29 Sweet Child O'Mine (Electric riff) by Guns 'N Roses
 2:22:00 Cowboys from Hell (Electric riff) by Pantera
-2:22:53 Bad To The Bone (w/ slide) (Electric riff) by George Thorogood & The Destroyers
+2:22:53 Bad To The Bone (Blues Slide) (Electric riff) by George Thorogood & The Destroyers
 2:23:30 Voodoo Child (Slight Return) (Electric riff) by Jimi Hendrix
 2:23:45 Pride and Joy (Electric riff) by Stevie Ray Vaughan
 2:24:28 Suize Q (Electric riff) by Creedence Clearwater Revival
@@ -1813,7 +1934,7 @@ Electric Guitar
 2:30:41 Heartbreaker (Electric riff) by Led Zeppelin
 2:31:20 Rocky Mountain way (Electric riff) by The Eagles
 2:31:59 More Than a Feeling (Electric riff) by Boston
-2:32:47 Black dog (Electric riff) by Led Zeppelin
+2:32:47 Black Dog (Electric riff) by Led Zeppelin
 2:33:35 One Step Closer (Electric riff) by Linkin Park
 2:34:26 Bad Penny (Electric riff) by Rory Gallagher
 2:35:17 Sultans of Swing (Electric riff) by Dire Straits
@@ -1839,7 +1960,7 @@ https://youtu.be/bVTlDNPzTn4
 52:58 Jet Airliner by Steve Miller Band
 59:35 Have a Cigar by Pink Floyd
 1:08:08 Otherside by Red Hot Chili Peppers
-1:13:14 May this be Love by Jimi Hendrix
+1:13:14 May This Be Love by Jimi Hendrix
 1:22:13 Crazy by Gnarls Barkley/Ray LaMontagne
 1:28:30 Into Light by Corey Heuvel
 1:38:09 Parchman Farm Blues by Jeff Buckley/Bukka White
@@ -1910,8 +2031,8 @@ https://youtu.be/WGGj7qyf4pA
 1:16:34 Big Love by Fleetwood Mac
 1:21:36 Ordinary Girl by Corey Heuvel
 1:26:22 Castles Made of Sand by Jimi Hendrix
-1:31:16 Time in a Bottle by Jim Croce
-1:35:10 River Man by Nick Drake
+1:31:16 Time in a Bottle (M) by Jim Croce
+1:35:10 River Man (M) by Nick Drake
 1:45:01 The Cave by Mumford & Sons
 1:52:36 Virtual Insanity by Jamiroquai
 
@@ -2005,8 +2126,8 @@ https://youtu.be/9mwYBbDX0dY
 49:20 Fields Of Gold by Sting
 55:50 Way to the Sea by Corey Heuvel
 1:02:22 Dani California by Red Hot Chili Peppers
-1:10:08 Fly by Nick Drake
-1:14:39 Don't Let It Bring You Down by Neil Young
+1:10:08 Fly (M) by Nick Drake
+1:14:39 Don't Let It Bring You Down (OOM) by Neil Young
 1:20:19 Patience by Chris Cornell/Guns 'N Roses
 1:26:20 Giving Up by Corey Heuvel
 1:33:30 Human Nature by Michael Jackson
@@ -2104,7 +2225,7 @@ https://youtu.be/LuQ78Y2Fiwo
 8:10 Walking On The Moon by The Police
 16:04 Eleanor Rigby by The Beatles
 23:59 Until the End by Corey Heuvel
-31:45 Stones In My Passway by Robert Johnson
+31:45 Stones In My Passway (M) by Robert Johnson
 39:50 A Thousand Miles by Vanessa Carlton
 45:17 Belief by John Mayer
 55:05 Out of the Mist by Corey Heuvel
@@ -2115,7 +2236,7 @@ Classical Guitar
 
 Acoustic Guitar
 1:13:06 Money by Pink Floyd
-1:19:30 God Knows (I Love You Madly) by Corey Heuvel
+1:19:30 God Knows (I Love You Madly) (M) by Corey Heuvel
 1:28:06 Between the Bars by Elliott Smith
 1:32:01 Thunder Road by Bruce Springsteen
 1:37:46 Lonely Boy by The Black Keys
@@ -2143,11 +2264,11 @@ https://youtu.be/KLIWP_nbaXs
 0:10 Intro “Beautiful Slide” by Corey Heuvel
 
 Rein Rutnik's Set
-7:26 Nobody Knows When You're Down and Out (Rein Rutnik Performance) by Jimmie Cox/Eric Clapton
-13:00 Sleepy Afternoon (Rein Rutnik Performance) by Rein Rutnik
-17:39 Big Bad Bill (Is Sweet William Now) (Rein Rutnik Performance) by Milton Ager & Jack Yellen
-21:39 I'm Satisfied (Rein Rutnik Performance) by Mississippi John Hurt
-26:12 Fox Chase & Lost John (Rein Rutnik Performance)(H) by Joe Filisko
+7:26 Nobody Knows When You're Down and Out (Rein Rutnik Performance) (V) by Jimmie Cox/Eric Clapton
+13:00 Sleepy Afternoon (Rein Rutnik Performance) (V) by Rein Rutnik
+17:39 Big Bad Bill (Is Sweet William Now) (Rein Rutnik Performance) (V) by Milton Ager & Jack Yellen
+21:39 I'm Satisfied (Rein Rutnik Performance) (V) by Mississippi John Hurt
+26:12 Fox Chase & Lost John (Rein Rutnik Performance) (H) by Joe Filisko
 32:26 Before You Accuse Me (Rein Rutnik Performance) by Eric Clapton/Bo Diddley
 
 Corey Heuvel's Set
@@ -2202,7 +2323,7 @@ Acoustic Guitar
 1:11:12 Grace by Jeff Buckley
 1:21:48 I Don't Need No Doctor by John Mayer/Nick Ashford
 1:29:10 Queenstown by Corey Heuvel
-1:34:51 Cello Song by Nick Drake
+1:34:51 Cello Song (M) by Nick Drake
 1:41:10 Until the End by Corey Heuvel
 
 Classical Guitar
@@ -2242,7 +2363,7 @@ https://youtu.be/Q4p-jIfkQpM
 41:15 Take It Easy by The Eagles
 46:34 Crazy On You by Heart
 52:31 Virtual Insanity by Jamiroquai
-57:28 Wonderwall (Chords) by Oasis
+57:28 Wonderwall (Chords) by Ryan Adams/Oasis
 57:53 Wonderwall by Ryan Adams/Oasis
 1:02:32 God Knows (I Love You Madly) by Corey Heuvel
 
@@ -2268,7 +2389,7 @@ Acoustic Guitar
 2:14:00 Cherry Wine by Hozier
 2:18:38 The Wind Cries Mary by Jimi Hendrix
 2:23:03 No Whining (No Complaining) by Corey Heuvel
-2:29:47 Place To Be by Nick Drake
+2:29:47 Place To Be (M) by Nick Drake
 2:33:58 Black & Gold by Sam Sparro
 2:39:29 Send Me on my Way (Partial) by Rusted Root
 2:40:51 Starbird by Corey Heuvel
@@ -2327,8 +2448,8 @@ https://youtu.be/qfsm5R2EeOU
 1:02:44 Ordinary Girl (Partial) by Corey Heuvel
 1:04:54 Eternal Life by Jeff Buckley
 1:10:47 Life's Been Good by Joe Walsh
-1:18:16 Fields Of Gold by Sting
-1:24:00 Mother Divine by Corey Heuvel
+1:18:16 Fields Of Gold (M) by Sting
+1:24:00 Mother Divine (M) by Corey Heuvel
 1:29:50 Keep Your Head Up by Ben Howard
 1:35:08 Blackbird by The Beatles
 1:40:16 All Along the Watchtower by Bob Dylan/Jimi Hendrix
@@ -2336,7 +2457,7 @@ https://youtu.be/qfsm5R2EeOU
 1:54:14 Big Yellow Taxi by Joni Mitchell
 2:03:45 Do It Again by Steely Dan
 2:13:25 Starbird by Corey Heuvel
-2:21:16 Going to California by Led Zeppelin
+2:21:16 Going to California (M) by Led Zeppelin
 2:26:16 Hey Joe by Jimi Hendrix
 2:34:22 Yellow by Coldplay
 2:39:10 Crazy by Gnarls Barkley
@@ -2383,7 +2504,7 @@ Livestream 62
 https://youtu.be/xMTVh9YaaVc
 0:06 Intro “Out of the Mist” by Corey Heuvel
 6:46 Morning Wish by Corey Heuvel
-15:14 Going To The Country by Bruce Cockburn
+15:14 Going To The Country (M) by Bruce Cockburn
 20:33 Like a Rolling Stone by Bob Dylan
 29:10 Sour Girl by Stone Temple Pilots
 36:22 Until the End by Corey Heuvel
@@ -2396,7 +2517,7 @@ https://youtu.be/xMTVh9YaaVc
 1:10:50 Neon by John Mayer
 1:20:11 Beautiful Slide by Corey Heuvel
 1:25:49 Never Going Back Again by Fleetwood Mac
-1:29:23 Don't Let It Bring You Down by Neil Young
+1:29:23 Don't Let It Bring You Down (DX1R) by Neil Young
 1:33:07 No Diggity by Blackstreet
 1:40:11 Ride Wit Me by Nelly
 1:46:09 Eyes Wider Than Before by Scott Matthews
@@ -2429,7 +2550,7 @@ https://youtu.be/bCz3cavBkog
 58:52 Way to the Sea by Corey Heuvel
 1:06:37 Drive by Incubus
 1:13:42 Before You Accuse Me by Eric Clapton/Bo Diddley
-1:19:38 Giving Up by Corey Heuvel
+1:19:38 Giving Up (M) by Corey Heuvel
 1:25:38 Do It Again by Steely Dan
 1:34:21 Simple Man by Lynyrd Skynyrd
 1:40:34 Moondance by Van Morrison
@@ -2445,7 +2566,7 @@ Acoustic Guitar
 2:04:36 Dust in a Baggie by Billy Strings
 2:08:14 The Wind Cries Mary by Jimi Hendrix
 2:13:54 Until the End by Corey Heuvel
-2:20:47 Things Behind The Sun by Nick Drake
+2:20:47 Things Behind The Sun (M) by Nick Drake
 2:25:32 Tightrope by Stevie Ray Vaughan
 2:31:14 Have a Cigar by Pink Floyd
 2:38:06 Mother Divine by Corey Heuvel
@@ -2463,7 +2584,7 @@ https://youtu.be/Qih3Nx18Yas
 26:42 Higher Ground by Stevie Wonder
 36:37 Castles Made of Sand by Jimi Hendrix
 42:09 Time Always Tells by Corey Heuvel
-48:13 Don't Let It Bring You Down by Neil Young
+48:13 Don't Let It Bring You Down (DX1R) by Neil Young
 53:25 Kiss from a Rose by Seal
 59:26 Behind Blue Eyes by The Who
 1:05:47 That's the Way by Led Zeppelin
@@ -2482,7 +2603,7 @@ https://youtu.be/Qih3Nx18Yas
 2:23:27 Fall to Pieces by Velvet Revolver
 2:31:26 Nice to Know You by Incubus
 2:37:15 Money by Pink Floyd
-2:41:23 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+2:41:23 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 2:44:09 Starbird by Corey Heuvel
 2:49:42 Empty Arms by Stevie Ray Vaughan
 2:53:34 Voodoo Child (Slight Return) by Jimi Hendrix
@@ -2534,7 +2655,7 @@ https://youtu.be/gu7ChqD4Qm4
 48:18 The Island by Pendulum
 54:15 Nights In White Satin by The Moody Blues
 1:03:20 Morning Wish by Corey Heuvel
-1:11:18 Folsom Prison Blues by Johnny Cash
+1:11:18 Folsom Prison Blues (M) by Johnny Cash
 1:17:22 Song For George by Eric Johnson
 1:19:18 Ohio by Crosby, Stills, Nash & Young
 1:25:30 Both Sides Now by Joni Mitchell
@@ -2547,8 +2668,8 @@ https://youtu.be/gu7ChqD4Qm4
 2:09:15 No Rain by Blind Melon
 2:15:08 Lágrima by Francisco Tárrega
 2:15:47 Starbird by Corey Heuvel
-2:22:28 Them Bones by Alice In Chains
-2:25:16 Down In A Hole by Alice In Chains
+2:22:28 Them Bones (M) by Alice In Chains
+2:25:16 Down In A Hole (M) by Alice In Chains
 2:32:19 Valerie by Amy Winehouse
 2:38:00 No Whining (No Complaining) by Corey Heuvel
 2:43:45 Crazy by Gnarls Barkley
@@ -2563,7 +2684,7 @@ https://youtu.be/Xp03EMAOTCg
 8:12 Fly Like An Eagle by Steve Miller Band
 15:31 Way to the Sea by Corey Heuvel
 21:29 Don't You Worry 'Bout A Thing by Stevie Wonder
-27:31 Hemorrhage (In My Hands) by Fuel
+27:31 Hemorrhage (In My Hands) (M) by Fuel
 33:00 If It's Wrong (It's Alright) by Corey Heuvel
 39:18 Breathe (In the Air) by Pink Floyd
 41:16 Time by Pink Floyd
@@ -2578,10 +2699,10 @@ https://youtu.be/Xp03EMAOTCg
 1:40:25 Crazy by Gnarls Barkley
 1:45:33 Heroes by David Bowie
 1:50:58 Let It Be Me by Ray LaMontagne
-1:56:50 Stones In My Passway by Robert Johnson
+1:56:50 Stones In My Passway (M) by Robert Johnson
 2:02:02 God Knows (I Love You Madly) by Corey Heuvel
 2:06:42 Neon by John Mayer
-2:13:59 Little Wing by Jimi Hendrix
+2:13:59 Little Wing (M) by Jimi Hendrix
 2:19:05 Until the End by Corey Heuvel
 2:25:37 Moondance by Van Morrison
 2:32:41 Helplessly Hoping by Crosby, Stills & Nash
@@ -2600,7 +2721,7 @@ https://youtu.be/2YwudKYPIeE
 17:04 Money by Pink Floyd
 23:43 Wondering Where The Lions Are by Bruce Cockburn
 35:08 Before You Accuse Me by Eric Clapton/Bo Diddley
-41:47 Giving Up by Corey Heuvel
+41:47 Giving Up (M) by Corey Heuvel
 48:00 Under the Bridge by Red Hot Chili Peppers
 54:23 Old Pine by Ben Howard
 1:01:23 She Talks To Angels by The Black Crowes
@@ -2633,7 +2754,7 @@ https://youtu.be/PPq9uuigSs0
 16:18 Solsbury Hill by Peter Gabriel
 21:43 Scuttle Buttin' (Partial) by Stevie Ray Vaughan
 24:35 Why Georgia by John Mayer
-31:34 Catfish Blues by Robert Petway/Jimi Hendrix
+31:34 Catfish Blues (M) by Robert Petway/Jimi Hendrix
 39:06 Never Going Back Again by Fleetwood Mac
 42:41 Way to the Sea by Corey Heuvel
 50:27 Over The Hill by John Martyn
@@ -2664,7 +2785,7 @@ https://youtu.be/PPq9uuigSs0
 Livestream 70
 https://youtu.be/Y473wJBI_Y8
 0:08 Intro “Tension” by Corey Heuvel
-6:26 Tell Me Why by Neil Young
+6:26 Tell Me Why (M) by Neil Young
 10:45 At the Creek by Corey Heuvel
 19:39 I Don't Need No Doctor by John Mayer/Nick Ashford
 26:23 Glenn Tipton by Sun Kil Moon
@@ -2674,13 +2795,13 @@ https://youtu.be/Y473wJBI_Y8
 53:05 Spanish Castle Magic by Jimi Hendrix
 59:53 Doin' Time by Sublime
 1:09:03 Solsbury Hill by Peter Gabriel
-1:15:53 God Knows (I Love You Madly) by Corey Heuvel
+1:15:53 God Knows (I Love You Madly) (M) by Corey Heuvel
 1:21:42 Old Man by Neil Young
 1:26:32 Money by Pink Floyd
 1:32:47 Street Spirit (Fade Out) by Radiohead
 1:38:57 Snow by Red Hot Chili Peppers
 1:47:31 What I'm About to Do by Corey Heuvel
-1:53:51 Can't Find My Way Home by Blind Faith
+1:53:51 Can't Find My Way Home (M) by Blind Faith
 1:58:58 Simple Twist of Fate by Bob Dylan
 2:05:23 If It's Wrong (It's Alright) by Corey Heuvel
 2:10:19 The Simpson's Theme by Danny Elfman
@@ -2699,7 +2820,7 @@ https://youtu.be/Y473wJBI_Y8
 Livestream 71
 https://youtu.be/sfTsmIo6Ybo
 0:12 Intro “Soul Embers” by Corey Heuvel
-9:24 Going To The Country by Bruce Cockburn
+9:24 Going To The Country (M) by Bruce Cockburn
 16:29 Way to the Sea by Corey Heuvel
 22:43 Fly Like An Eagle by Steve Miller Band
 30:25 Ramble On by Led Zeppelin
@@ -2707,7 +2828,7 @@ https://youtu.be/sfTsmIo6Ybo
 46:17 Solsbury Hill by Peter Gabriel
 51:15 New Sensation (Partial) by INXS
 53:13 Suit & Tie by Justin Timberlake ft. JAY-Z
-1:00:05 The Needle and the Damage Done by Neil Young
+1:00:05 The Needle and the Damage Done (M) by Neil Young
 1:02:51 Crazy by Gnarls Barkley
 1:07:51 Over the Hills and Far Away by Led Zeppelin
 1:14:17 Into Light by Corey Heuvel
@@ -2758,7 +2879,7 @@ https://youtu.be/4MsSeM9AR60
 1:07:38 Night Moves by Bob Seger
 1:14:27 Wish You Were Here by Pink Floyd
 1:18:57 Eleanor Rigby by The Beatles
-1:26:21 Little Black Submarines by The Black Keys
+1:26:21 Little Black Submarines (M) by The Black Keys
 1:31:26 Everlong by Foo Fighters
 1:37:46 Dust in the Wind by Kansas
 1:41:28 No Diggity by Blackstreet
@@ -2806,7 +2927,7 @@ https://youtu.be/__nszU6iOlM
 2:03:01 Evers by Corey Heuvel
 2:08:35 Semi-Charmed Life by Third Eye Blind
 2:14:14 Santeria by Sublime
-2:18:58 River Man by Nick Drake
+2:18:58 River Man (M) by Nick Drake
 2:24:53 What I'm About to Do by Corey Heuvel
 2:31:09 Valerie by Amy Winehouse
 2:37:48 Until the End by Corey Heuvel
@@ -2828,7 +2949,7 @@ https://youtu.be/WQ8mpI5z7z4
 43:49 Old Man by Neil Young
 47:49 Learning to Fly by Tom Petty
 51:44 Blue on Black by Kenny Wayne Shepherd
-58:31 Giving Up by Corey Heuvel
+58:31 Giving Up (M) by Corey Heuvel
 1:05:03 Snow (Hey Oh) by Red Hot Chili Peppers
 1:11:49 Hand in My Pocket by Alanis Morissette
 1:17:53 Mother Divine by Corey Heuvel
@@ -2845,9 +2966,9 @@ Classical Guitar
 
 Acoustic Guitar
 1:50:52 What I'm About to Do by Corey Heuvel
-1:56:00 Little Wing by Jimi Hendrix
+1:56:00 Little Wing (M) by Jimi Hendrix
 2:00:26 Pink Moon Improv
-2:01:15 Pink Moon by Nick Drake
+2:01:15 Pink Moon (DX1R) by Nick Drake
 2:06:13 Into Light by Corey Heuvel
 2:11:44 Glory Days by Bruce Springsteen
 2:16:52 Both Sides Now by Joni Mitchell
@@ -2865,7 +2986,7 @@ Livestream 75
 https://youtu.be/uLKs6770MzM
 0:09 Intro “Sleepless” by Corey Heuvel
 7:44 Dream Song by Scott Matthews
-18:05 On My Skin by Corey Heuvel
+18:05 On My Skin (DX1R) by Corey Heuvel
 24:35 Doin' Time by Sublime
 31:46 Solsbury Hill by Peter Gabriel
 37:19 Good Love Is On the Way by John Mayer
@@ -2875,8 +2996,8 @@ https://youtu.be/uLKs6770MzM
 58:47 Learn to Fly by Foo Fighters
 1:03:27 The Wind Cries Mary by Jimi Hendrix
 1:08:37 Way to the Sea by Corey Heuvel
-1:14:25 Pink Moon by Nick Drake
-1:16:28 Hazey Jane I by Nick Drake
+1:14:25 Pink Moon (DX1R) by Nick Drake
+1:16:28 Hazey Jane I (DX1R) by Nick Drake
 1:22:09 Slow Dancing in a Burning Room by John Mayer
 1:27:14 Superstition by Stevie Wonder
 1:35:49 The Island by Pendulum
@@ -2889,7 +3010,7 @@ https://youtu.be/uLKs6770MzM
 2:09:12 Fake Plastic Trees by Radiohead
 2:14:52 Crimson Fools by Corey Heuvel
 2:22:01 Drive by Incubus
-2:26:46 Down In A Hole by Alice In Chains
+2:26:46 Down In A Hole (M) by Alice In Chains
 2:33:54 Until the End by Corey Heuvel
 2:39:53 Song For George by Eric Johnson
 2:41:48 Ohio by Crosby, Stills, Nash & Young
@@ -2924,8 +3045,8 @@ https://youtu.be/ERjisFF12Vk
 1:54:44 Hymne à l'amour by Édith Piaf/Jeff Buckley
 1:59:43 Queenstown by Corey Heuvel
 2:04:55 Higher Love (Partial) by Steve Winwood
-2:06:39 Can't Find My Way Home by Blind Faith
-2:11:08 Catfish Blues by Robert Petway/Jimi Hendrix
+2:06:39 Can't Find My Way Home (M) by Blind Faith
+2:11:08 Catfish Blues (M) by Robert Petway/Jimi Hendrix
 2:16:53 What I'm About to Do by Corey Heuvel
 2:22:21 Improv
 2:24:44 I'll Be by Edwin McCain
@@ -2952,16 +3073,16 @@ https://youtu.be/q0SOrSxKE90
 57:02 Crazy by Gnarls Barkley
 1:02:12 God Knows Improv
 1:03:33 God Knows (I Love You Madly) by Corey Heuvel
-1:09:18 Down In A Hole by Alice In Chains
+1:09:18 Down In A Hole (M) by Alice In Chains
 1:16:22 I Don't Need No Doctor by John Mayer/Nick Ashford
 1:22:09 Why Georgia by John Mayer
 1:27:58 Into the Mystic by Van Morrison
 1:32:39 Dust in a Baggie by Billy Strings
 1:38:04 A Still and Silent Mountain by Corey Heuvel
 1:45:00 Money by Pink Floyd
-1:49:05 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:49:05 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:52:33 Angeles by Elliott Smith
-1:56:09 No Whining (No Complaining) by Corey Heuvel
+1:56:09 No Whining (No Complaining) (M) by Corey Heuvel
 2:01:03 Johnny B. Goode by Chuck Berry
 2:04:56 Lookin' Out My Back Door by Creedence Clearwater Revival
 2:07:46 Do It Again by Steely Dan
@@ -3041,8 +3162,8 @@ https://youtu.be/9-UHTEmE9UU
 2:13:18 Plush by Stone Temple Pilots
 2:19:58 Mother Divine by Corey Heuvel
 2:24:33 Hand in My Pocket by Alanis Morissette
-2:31:30 Hear My Train a Comin' by Jimi Hendrix
-2:37:24 From The Morning by Nick Drake
+2:31:30 Hear My Train a Comin' (M) by Jimi Hendrix
+2:37:24 From The Morning (DX1R) by Nick Drake
 2:43:27 Starbird by Corey Heuvel
 2:48:34 Old Man by Neil Young
 2:52:26 Pride and Joy by Stevie Ray Vaughan
@@ -3058,10 +3179,10 @@ https://youtu.be/x048oootisY
 21:57 Solsbury Hill by Peter Gabriel
 27:52 Jeremy by Pearl Jam
 34:16 Way to the Sea by Corey Heuvel
-41:58 Stones In My Passway by Robert Johnson
+41:58 Stones In My Passway (M) by Robert Johnson
 47:27 Everybody Wants To Rule The World by Tears For Fears
 52:37 Something Like Olivia by John Mayer
-59:47 Strange Meeting II by Nick Drake
+59:47 Strange Meeting II (M) by Nick Drake
 1:06:53 Crimson Fools by Corey Heuvel
 1:14:22 Over The Hill by John Martyn
 1:20:01 Hand in My Pocket by Alanis Morissette
@@ -3069,16 +3190,16 @@ https://youtu.be/x048oootisY
 1:31:01 Big Love by Fleetwood Mac
 1:34:32 Lover, You Should've Come Over by Jeff Buckley
 1:41:17 Money by Pink Floyd
-1:49:04 Giving Up by Corey Heuvel
+1:49:04 Giving Up (M) by Corey Heuvel
 1:55:23 Touch of Grey by Grateful Dead
 2:01:18 Black Hole Sun by Soundgarden
-2:06:56 Don't Let It Bring You Down by Neil Young
+2:06:56 Don't Let It Bring You Down (DX1R) by Neil Young
 2:11:24 Wondering Where The Lions Are by Bruce Cockburn
 2:16:35 Suit & Tie by Justin Timberlake ft. JAY-Z
 2:23:14 Michelle (Instrumental) by The Beatles
 2:24:20 God Knows (I Love You Madly) by Corey Heuvel
 2:28:26 Aussie Accent
-2:29:13 Tush by ZZ Top
+2:29:13 Tush (M) by ZZ Top
 2:32:41 Until the End by Corey Heuvel
 2:38:37 Send My Love (To Your New Lover) by Adele
 2:43:43 Virtual Insanity by Jamiroquai
@@ -3106,7 +3227,7 @@ https://youtu.be/0vseNNLzOWY
 1:27:40 Lithium by Nirvana
 1:33:54 Nutshell by Alice In Chains
 1:38:28 Plush by Stone Temple Pilots
-1:44:22 Little Wing by Jimi Hendrix
+1:44:22 Little Wing (M) by Jimi Hendrix
 1:48:20 Into Light by Corey Heuvel
 1:54:00 Crazy by Gnarls Barkley
 
@@ -3136,8 +3257,8 @@ Electric Guitar
 Acoustic Guitar
 2:18:00 Michelle (Instrumental) by The Beatles
 2:19:10 What I'm About to Do by Corey Heuvel
-2:25:00 Pink Moon by Nick Drake
-2:27:04 Place To Be by Nick Drake
+2:25:00 Pink Moon (DX1R) by Nick Drake
+2:27:04 Place To Be (DX1R) by Nick Drake
 2:31:29 Until the End by Corey Heuvel
 2:38:12 All Along the Watchtower by Bob Dylan/Jimi Hendrix
 2:44:23 Starbird by Corey Heuvel
@@ -3167,7 +3288,7 @@ https://youtu.be/T_2aqBkmeUc
 1:46:54 Michelle (Instrumental) by The Beatles
 1:48:21 Killer Queen by Queen
 1:51:08 God Knows (I Love You Madly) by Corey Heuvel
-1:55:56 Catfish Blues by Robert Petway/Jimi Hendrix
+1:55:56 Catfish Blues (M) by Robert Petway/Jimi Hendrix
 2:01:32 Sour Girl by Stone Temple Pilots
 2:07:07 Cello Song by Nick Drake
 2:11:58 Kaijie by Corey Heuvel
@@ -3204,7 +3325,7 @@ https://youtu.be/_7xQAOqGbk4
 1:34:02 Into Light by Corey Heuvel
 1:40:25 That's the Way by Led Zeppelin
 1:47:37 Time in a Bottle by Jim Croce
-1:51:12 Can't Find My Way Home by Blind Faith
+1:51:12 Can't Find My Way Home (M) by Blind Faith
 1:55:49 What I'm About to Do by Corey Heuvel
 2:01:04 Simple Man by Lynyrd Skynyrd
 2:08:30 Grace by Jeff Buckley
@@ -3222,7 +3343,7 @@ https://youtu.be/_7xQAOqGbk4
 Livestream 84
 https://youtu.be/GqfNqQlrL8A
 0:06 Intro “Grace” by Corey Heuvel
-8:09 Time Always Tells by Corey Heuvel
+8:09 Time Always Tells (M) by Corey Heuvel
 14:25 Before You Accuse Me by Eric Clapton/Bo Diddley
 19:17 If It's Wrong (It's Alright) by Corey Heuvel
 25:35 Lookin' Out My Back Door by Creedence Clearwater Revival
@@ -3237,9 +3358,9 @@ https://youtu.be/GqfNqQlrL8A
 1:10:35 Flowers Field by Corey Heuvel
 1:11:53 Queenstown by Corey Heuvel
 1:16:45 Stop This Train by John Mayer
-1:22:02 Giving Up by Corey Heuvel
+1:22:02 Giving Up (M) by Corey Heuvel
 1:27:42 Voodoo Child (Slight Return) by Jimi Hendrix
-1:36:03 Three Hours by Nick Drake
+1:36:03 Three Hours (DX1R) by Nick Drake
 1:44:16 Creep by Radiohead
 1:48:48 What I'm About to Do by Corey Heuvel
 1:53:39 Good Love Is On the Way by John Mayer
@@ -3260,7 +3381,7 @@ https://youtu.be/GqfNqQlrL8A
 Livestream 85
 https://youtu.be/U1AhJr6L5SU
 0:09 Intro “Grace” by Corey Heuvel
-8:58 At the Creek by Corey Heuvel
+8:58 At the Creek (M) by Corey Heuvel
 17:16 Starlight by Muse
 22:12 What I'm About to Do by Corey Heuvel
 27:33 Pinball Wizard by The Who
@@ -3274,17 +3395,17 @@ https://youtu.be/U1AhJr6L5SU
 1:15:33 Michelle (Instrumental) by The Beatles
 1:16:49 God Knows (I Love You Madly) by Corey Heuvel
 1:22:12 May You Never by John Martyn
-1:27:13 Black Mountain Side by Led Zeppelin
-1:29:19 Until the End by Corey Heuvel
+1:27:13 Black Mountain Side (M) by Led Zeppelin
+1:29:19 Until the End (M) by Corey Heuvel
 1:36:14 Vincent by Don McLean
 1:41:57 I Shot The Sheriff by Bob Marley/Eric Clapton/Bob Marley & The Wailers
 1:49:09 Money by Pink Floyd
-1:53:27 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:53:27 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:56:13 Way to the Sea by Corey Heuvel
 2:01:13 Harvest Moon by Neil Young
-2:06:55 Hand in My Pocket by Alanis Morissette
-2:13:00 Mother Divine by Corey Heuvel
-2:17:34 Going to California by Led Zeppelin
+2:06:55 Hand in My Pocket (M) by Alanis Morissette
+2:13:00 Mother Divine (M) by Corey Heuvel
+2:17:34 Going to California (M) by Led Zeppelin
 2:22:18 Dust in a Baggie by Billy Strings
 2:25:32 Crossroads by Cream/Robert Johnson
 2:29:04 Crazy by Gnarls Barkley
@@ -3321,17 +3442,17 @@ https://youtu.be/DqQEPSThDlg
 1:53:18 Slow Dancing in a Burning Room by John Mayer
 1:58:03 Suit & Tie by Justin Timberlake ft. JAY-Z
 2:04:11 Karma Police by Radiohead
-2:10:07 Pray for the Moon by Corey Heuvel
+2:10:07 Pray for the Moon (M) by Corey Heuvel
 2:15:32 Lonely Boy by The Black Keys
 2:20:49 Time Always Tells by Corey Heuvel
 2:25:44 Deep River Blues by Doc Watson
 2:30:44 Into Light by Corey Heuvel
 2:36:15 The Way You Make Me Feel by Michael Jackson
 2:40:17 Pride and Joy by Stevie Ray Vaughan
-2:45:42 Starbird by Corey Heuvel
-2:51:24 Do It Again by Steely Dan
-2:58:28 Ordinary Girl by Corey Heuvel
-3:03:55 Voodoo Child (Slight Return) by Jimi Hendrix
+2:45:42 Starbird (M) by Corey Heuvel
+2:51:24 Do It Again (M) by Steely Dan
+2:58:28 Ordinary Girl (M) by Corey Heuvel
+3:03:55 Voodoo Child (Slight Return) (M) by Jimi Hendrix
 3:10:08 Outro “Jhana” by Corey Heuvel
 
 Livestream 87
@@ -3387,7 +3508,7 @@ https://youtu.be/vqOBj04MFrw
 1:07:26 Valerie by Amy Winehouse
 1:13:59 God Knows (I Love You Madly) by Corey Heuvel
 1:18:15 Everlong by Foo Fighters
-1:24:20 Like a Stone by Audioslave
+1:24:20 Like a Stone (M) by Audioslave
 1:30:32 What I'm About to Do by Corey Heuvel
 1:36:51 Fields Of Gold by Sting/Eva Cassidy
 1:43:05 You Got It by Roy Orbison
@@ -3395,7 +3516,7 @@ https://youtu.be/vqOBj04MFrw
 1:53:42 Have a Cigar by Pink Floyd
 1:59:39 River Man by Nick Drake
 2:04:47 Mother Divine by Corey Heuvel
-2:10:45 Breaking the Girl by Red Hot Chili Peppers
+2:10:45 Breaking the Girl (M) by Red Hot Chili Peppers
 2:17:57 Virtual Insanity by Jamiroquai
 2:22:57 Time in a Bottle by Jim Croce
 2:26:48 Until the End by Corey Heuvel
@@ -3418,7 +3539,7 @@ https://youtu.be/j9CL1ydfDSI
 46:05 Before You Accuse Me by Eric Clapton/Bo Diddley
 50:27 Way to the Sea by Corey Heuvel
 55:34 Money by Pink Floyd
-1:02:07 Hole Hearted by Extreme
+1:02:07 Hole Hearted (M) by Extreme
 1:07:55 Flowers Field by Corey Heuvel
 1:09:11 Queenstown by Corey Heuvel
 1:13:56 Lonely Boy by The Black Keys
@@ -3432,8 +3553,8 @@ https://youtu.be/j9CL1ydfDSI
 1:53:10 Giving Up by Corey Heuvel
 1:58:37 Castles Made of Sand by Jimi Hendrix
 2:02:57 Hunger Strike by Temple Of The Dog
-2:07:57 Can't Find My Way Home by Blind Faith
-2:13:00 In Your Atmosphere by John Mayer
+2:07:57 Can't Find My Way Home (M) by Blind Faith
+2:13:00 In Your Atmosphere (DX1R) by John Mayer
 2:19:59 Time Always Tells by Corey Heuvel
 2:28:57 Big Yellow Taxi by Joni Mitchell
 2:35:45 Little Martha by Allman Brothers Band
@@ -3458,11 +3579,11 @@ https://youtu.be/S0H-UbV9G48
 59:57 Sage Trees by Corey Heuvel
 1:07:18 Crossroads by Cream/Robert Johnson
 1:10:53 Green River by Creedence Clearwater Revival
-1:15:26 Midnight Rider by Allman Brothers Band
+1:15:26 Midnight Rider (M) by Allman Brothers Band
 1:22:02 Dark Horse by Amanda Marshall
 1:29:18 Between the Horizons by Corey Heuvel
 1:35:28 Red House by Jimi Hendrix
-1:42:06 No Rain by Blind Melon
+1:42:06 No Rain (M) by Blind Melon
 1:47:15 Into Light by Corey Heuvel
 1:53:10 Black Star by Radiohead
 1:58:45 Going to California by Led Zeppelin
@@ -3490,19 +3611,19 @@ https://youtu.be/yiFNZvisSQw
 52:54 Solsbury Hill by Peter Gabriel
 59:36 Giving Up by Corey Heuvel
 1:06:06 Crazy by Gnarls Barkley
-1:12:45 Don't Let It Bring You Down by Neil Young
+1:12:45 Don't Let It Bring You Down (DX1R) by Neil Young
 1:17:48 Fire and Rain by James Taylor
 1:22:20 What I'm About to Do by Corey Heuvel
 1:28:01 Paranoid Android by Radiohead
 1:35:45 Cherry Wine by Hozier
-1:42:01 Little Wing by Jimi Hendrix
-1:46:23 Down In A Hole by Alice In Chains
+1:42:01 Little Wing (M) by Jimi Hendrix
+1:46:23 Down In A Hole (M) by Alice In Chains
 1:54:59 Evers by Corey Heuvel
 2:01:53 Pride and Joy by Stevie Ray Vaughan
 2:07:29 Pinball Wizard by The Who
 2:12:04 Good Love Is On the Way by John Mayer
 2:17:16 Rollin' and Tumblin' by Hambone Willie Newbern/Muddy Waters/Cream
-2:24:15 The Past Recedes by John Frusciante
+2:24:15 The Past Recedes (M) by John Frusciante
 2:28:51 Song For George by Eric Johnson
 2:30:46 Ohio by Crosby, Stills, Nash & Young
 2:35:21 Mother Divine by Corey Heuvel
@@ -3555,7 +3676,7 @@ https://youtu.be/lmyOp2MHwCY
 15:26 Solsbury Hill by Peter Gabriel
 21:11 Vultures by John Mayer
 27:26 At the Creek by Corey Heuvel
-34:46 Before You Accuse Me by Eric Clapton/Bo Diddley
+34:46 Before You Accuse Me (M) by Eric Clapton/Bo Diddley
 39:17 Glory Days by Bruce Springsteen
 44:47 Crimson Fools by Corey Heuvel
 51:41 Dance Monkey by Tones And I
@@ -3600,12 +3721,12 @@ https://youtu.be/JpKnYI_-2OA
 1:16:42 Sleepless by Corey Heuvel
 1:22:44 While My Guitar Gently Weeps by The Beatles
 1:28:51 That Song by Big Wreck
-1:35:28 Breaking the Girl by Red Hot Chili Peppers
+1:35:28 Breaking the Girl (M) by Red Hot Chili Peppers
 1:41:22 Slow Dancing in a Burning Room by John Mayer
 1:47:31 Morning Wish by Corey Heuvel
 1:53:41 Drive by Incubus
 1:58:29 Lover, You Should've Come Over by Jeff Buckley
-2:13:51 Can't Find My Way Home by Blind Faith
+2:13:51 Can't Find My Way Home (M) by Blind Faith
 2:18:27 No Whining (No Complaining) by Corey Heuvel
 2:25:04 Cello Suite No. 1 in G Major BMV 1007 (Prelude) by Johann Sebastian Bach
 2:27:34 Heroes by David Bowie
@@ -3623,7 +3744,7 @@ https://youtu.be/y83VDXWJbQE
 0:05 Intro “Out of the Mist” by Corey Heuvel
 8:52 What I'm About to Do by Corey Heuvel
 18:12 Doin' Time by Sublime
-24:25 Midnight Rider by Allman Brothers Band
+24:25 Midnight Rider (M) by Allman Brothers Band
 31:10 Way to the Sea by Corey Heuvel
 37:28 L.A. Woman by The Doors
 45:43 I Don't Need No Doctor by John Mayer/Nick Ashford
@@ -3641,9 +3762,9 @@ https://youtu.be/y83VDXWJbQE
 1:56:40 At the Creek by Corey Heuvel
 2:03:15 Cold Shot by Stevie Ray Vaughan
 2:08:20 Wish You Were Here (I) by Incubus
-2:13:02 Down In A Hole by Alice In Chains
+2:13:02 Down In A Hole (M) by Alice In Chains
 2:20:21 Into Light by Corey Heuvel
-2:26:58 Sugar Mountain by Neil Young
+2:26:58 Sugar Mountain (DX1R) by Neil Young
 2:32:58 God Knows (I Love You Madly) by Corey Heuvel
 2:37:33 Crazy by Gnarls Barkley
 2:42:44 Superstition by Stevie Wonder
@@ -3664,7 +3785,7 @@ https://youtu.be/HTJSoHhm7aY
 57:21 Helplessly Hoping by Crosby, Stills & Nash
 1:01:43 River Man by Nick Drake
 1:07:41 Beautiful Slide by Corey Heuvel
-1:14:18 No Rain by Blind Melon
+1:14:18 No Rain (M) by Blind Melon
 1:18:22 Moondance by Van Morrison
 1:25:39 Going to California by Led Zeppelin
 1:30:16 Money by Pink Floyd
@@ -3712,7 +3833,7 @@ https://youtu.be/exm9X0zIDaA
 1:31:38 Have a Cigar by Pink Floyd
 1:37:40 Sour Girl by Stone Temple Pilots
 1:43:00 I Shot The Sheriff by Bob Marley/Eric Clapton/Bob Marley & The Wailers
-1:52:00 Little Wing by Jimi Hendrix
+1:52:00 Little Wing (M) by Jimi Hendrix
 1:57:31 Evers by Corey Heuvel
 2:05:43 Virtual Insanity by Jamiroquai
 2:10:10 Nutshell by Alice In Chains
@@ -3751,8 +3872,8 @@ https://youtu.be/aiAhYDQQdUo
 1:54:19 New Sensation (Partial) by INXS
 1:55:28 Rebel Rebel by David Bowie
 2:00:01 Over the Hills and Far Away by Led Zeppelin
-2:07:10 No Whining (No Complaining) by Corey Heuvel
-2:12:08 You've Got To Hide Your Love Away by The Beatles
+2:07:10 No Whining (No Complaining) (M) by Corey Heuvel
+2:12:08 You've Got To Hide Your Love Away (M) by The Beatles
 2:17:00 Big Yellow Taxi by Joni Mitchell
 2:24:08 Mother Divine by Corey Heuvel
 2:28:57 God Knows (I Love You Madly) by Corey Heuvel
@@ -3822,7 +3943,7 @@ https://youtu.be/GDMlH7bT0FA
 1:39:05 Sweet Thing by Van Morrison
 1:45:40 Hey Joe by Jimi Hendrix
 1:50:50 Life by the Drop by Stevie Ray Vaughan
-1:54:35 Down In A Hole by Alice In Chains
+1:54:35 Down In A Hole (M) by Alice In Chains
 
 Electric Guitar
 2:02:39 Blues-Rock Improv
@@ -3846,10 +3967,10 @@ https://youtu.be/3iWYcnMuVzc
 0:12 Intro “Out of the Mist” by Corey Heuvel
 7:58 What I'm About to Do by Corey Heuvel
 16:33 Money by Pink Floyd
-20:39 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+20:39 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 25:21 Take A Picture by Filter
 28:33 Time Always Tells by Corey Heuvel
-37:04 Catfish Blues by Robert Petway/Jimi Hendrix
+37:04 Catfish Blues (M) by Robert Petway/Jimi Hendrix
 42:54 Helpless by Crosby, Stills, Nash & Young
 48:57 Dream Song by Scott Matthews
 55:14 At the Creek by Corey Heuvel
@@ -3955,7 +4076,7 @@ https://youtu.be/h3nHBsoSZYA
 1:53:23 What I'm About to Do by Corey Heuvel
 1:59:10 Crazy by Gnarls Barkley
 2:04:06 Layla (Unplugged) by Eric Clapton
-2:10:32 No Whining (No Complaining) by Corey Heuvel
+2:10:32 No Whining (No Complaining) (M) by Corey Heuvel
 2:16:46 Street Spirit (Fade Out) by Radiohead
 2:21:26 Virtual Insanity by Jamiroquai
 2:26:20 Mother Divine by Corey Heuvel
@@ -4018,7 +4139,7 @@ https://youtu.be/pVDmEFQX16c
 53:48 The Night They Drove Old Dixie Down by The Band
 59:06 Heroes by David Bowie
 1:04:40 A Still and Silent Mountain by Corey Heuvel
-1:11:53 Little Wing by Jimi Hendrix
+1:11:53 Little Wing (M) by Jimi Hendrix
 1:16:17 No Diggity by Blackstreet
 1:22:32 L.A. Woman by The Doors
 1:31:43 Sour Girl by Stone Temple Pilots
@@ -4034,7 +4155,7 @@ https://youtu.be/pVDmEFQX16c
 2:24:58 (Nice Dream) by Radiohead
 2:29:34 Hand in My Pocket by Alanis Morissette
 2:36:08 Until the End by Corey Heuvel
-2:42:23 Down In A Hole by Alice In Chains
+2:42:23 Down In A Hole (M) by Alice In Chains
 2:48:51 What I'm About to Do by Corey Heuvel
 2:53:44 Do It Again by Steely Dan
 3:00:56 Ordinary Girl by Corey Heuvel
@@ -4069,7 +4190,7 @@ https://youtu.be/Bs2mSVV4b38
 2:26:58 What I'm About to Do by Corey Heuvel
 2:32:24 Surely (I Love You) by Colin James
 2:36:23 Money by Pink Floyd
-2:40:25 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+2:40:25 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 2:43:57 Starbird by Corey Heuvel
 2:48:25 Do It Again by Steely Dan
 2:55:28 Ordinary Girl by Corey Heuvel
@@ -4082,7 +4203,7 @@ https://youtu.be/JNbwlKX5IJE
 7:34 What I'm About to Do by Corey Heuvel
 15:44 Vultures by John Mayer
 20:58 Over the Hills and Far Away by Led Zeppelin
-28:07 Can't Find My Way Home by Blind Faith
+28:07 Can't Find My Way Home (M) by Blind Faith
 38:30 Lonely Boy by The Black Keys
 45:50 Giving Up by Corey Heuvel
 50:59 Breathe (In the Air) by Pink Floyd
@@ -4104,7 +4225,7 @@ https://youtu.be/JNbwlKX5IJE
 2:08:44 A Thousand Miles by Vanessa Carlton
 2:13:00 God Knows (I Love You Madly) by Corey Heuvel
 2:17:26 Moondance by Van Morrison
-2:25:19 Desire by U2
+2:25:19 Desire (M) by U2
 2:28:59 Out On The Western Plain by Rory Gallagher
 2:34:15 Until the End by Corey Heuvel
 2:41:33 Funky Monks (Partial) by Red Hot Chili Peppers
@@ -4138,7 +4259,7 @@ https://youtu.be/2vn_PYw-W6o
 1:49:47 Plush by Stone Temple Pilots
 1:57:38 Lover, You Should've Come Over by Jeff Buckley
 2:04:44 Michelle by The Beatles
-2:09:00 Fall to Pieces by Velvet Revolver
+2:09:00 Fall to Pieces (M) by Velvet Revolver
 2:13:33 Killer Queen by Queen
 2:17:40 Time Always Tells by Corey Heuvel
 2:22:15 Virtual Insanity by Jamiroquai
@@ -4160,7 +4281,7 @@ https://youtu.be/seLDpNLZFDU
 30:41 Learn to Fly by Foo Fighters
 36:34 At the Creek by Corey Heuvel
 44:27 Mama, I'm Coming Home by Ozzy Osbourne
-50:22 No Rain by Blind Melon
+50:22 No Rain (M) by Blind Melon
 55:56 While My Guitar Gently Weeps by The Beatles
 1:02:15 Shiver by Coldplay
 1:08:45 I Don't Need No Doctor by John Mayer
@@ -4172,10 +4293,10 @@ https://youtu.be/seLDpNLZFDU
 1:44:39 God Knows (I Love You Madly) by Corey Heuvel
 1:48:38 Money by Pink Floyd
 1:54:28 Everlong by Foo Fighters
-2:01:42 Breaking the Girl by Red Hot Chili Peppers
+2:01:42 Breaking the Girl (M) by Red Hot Chili Peppers
 2:09:03 Into Light by Corey Heuvel
-2:17:04 Down by the River by Neil Young
-2:22:34 Little Wing by Jimi Hendrix
+2:17:04 Down by the River (M) by Neil Young
+2:22:34 Little Wing (M) by Jimi Hendrix
 2:27:03 My Hero by Foo Fighters
 2:32:48 Until the End by Corey Heuvel
 2:38:53 No Diggity by Blackstreet
@@ -4209,7 +4330,7 @@ https://youtu.be/7ub_S5Kx-wA
 1:39:13 Slow Dancing in a Burning Room by John Mayer
 1:45:09 Heroes by David Bowie
 1:49:40 Bobcaygeon by The Tragically Hip
-1:55:17 No Whining (No Complaining) by Corey Heuvel
+1:55:17 No Whining (No Complaining) (M) by Corey Heuvel
 2:00:23 Old Man by Neil Young
 2:05:04 Dust in a Baggie by Billy Strings
 2:09:16 Michelle by The Beatles
@@ -4234,7 +4355,7 @@ https://youtu.be/s6H9GdbDwbQ
 29:25 Crossroads by Cream/Robert Johnson
 36:11 Have You Ever Seen The Rain by Creedence Clearwater Revival
 42:23 Morning Wish by Corey Heuvel
-48:47 Catfish Blues by Robert Petway/Jimi Hendrix
+48:47 Catfish Blues (M) by Robert Petway/Jimi Hendrix
 54:56 Babe I'm Gonna Leave You by Led Zeppelin
 1:03:02 Angel from Montgomery by John Prine
 1:08:03 Valerie by Amy Winehouse
@@ -4269,7 +4390,7 @@ https://youtu.be/YAxlXf4Ftt0
 35:56 Way to the Sea by Corey Heuvel
 41:16 Everybody Wants To Rule The World by Tears For Fears
 47:55 Crazy by Gnarls Barkley
-56:05 Tell Me Why by Neil Young
+56:05 Tell Me Why (DX1R) by Neil Young
 59:51 Nights In White Satin by The Moody Blues
 1:08:46 Evers by Corey Heuvel
 1:15:34 Ramble On by Led Zeppelin
@@ -4281,7 +4402,7 @@ https://youtu.be/YAxlXf4Ftt0
 1:49:01 I Won't Back Down by Tom Petty
 1:53:01 Kaijie by Corey Heuvel
 1:57:47 Morning Theft by Jeff Buckley
-2:02:46 Fruit Tree by Nick Drake
+2:02:46 Fruit Tree (M) by Nick Drake
 2:09:45 Giving Up by Corey Heuvel
 2:14:32 No Diggity by Blackstreet
 2:19:45 Hey Joe by Jimi Hendrix
@@ -4309,8 +4430,8 @@ https://youtu.be/KoChozPGk7c
 48:47 Most impressive acoustic guitarists Corey knows
 50:59 Dust in the Wind (Partial) by Kansas
 52:24 I Got a Woman by Ray Charles
-58:08 Can't Find My Way Home by Blind Faith
-1:04:10 Pray for the Moon by Corey Heuvel
+58:08 Can't Find My Way Home (M) by Blind Faith
+1:04:10 Pray for the Moon (DX1R) by Corey Heuvel
 1:09:59 Blue on Black by Kenny Wayne Shepherd
 1:16:06 The Boy with the Thorn in His Side by The Smiths/Jeff Buckley/Scott Matthews
 1:21:24 Hand in My Pocket by Alanis Morissette
@@ -4352,9 +4473,9 @@ https://youtu.be/PvNuNSk9iPM
 1:26:43 Jumper by Third Eye Blind
 1:32:14 People Are Strange by The Doors
 1:37:45 Let It Be Me by Ray LaMontagne
-1:44:06 No Whining (No Complaining) by Corey Heuvel
+1:44:06 No Whining (No Complaining) (M) by Corey Heuvel
 1:50:04 Subterranean Homesick Alien by Radiohead
-1:55:31 Stones In My Passway by Robert Johnson
+1:55:31 Stones In My Passway (M) by Robert Johnson
 2:01:05 I Know It's Over (Partial) by The Smiths/Jeff Buckley
 2:06:05 Song For George by Eric Johnson
 2:08:03 Ohio by Crosby, Stills, Nash & Young
@@ -4395,7 +4516,7 @@ https://youtu.be/7Yc3utlluNc
 2:05:09 Nobody's Fault But My Own by Beck
 2:10:20 Crazy by Gnarls Barkley
 2:15:37 Giving Up by Corey Heuvel
-2:20:25 Little Wing by Jimi Hendrix
+2:20:25 Little Wing (M) by Jimi Hendrix
 2:24:33 Band On The Run by Wings/Paul McCartney
 2:31:08 Until the End by Corey Heuvel
 2:37:19 Hideaway by Kiesza
@@ -4413,7 +4534,7 @@ https://youtu.be/h_KbDQybQmE
 22:20 Solsbury Hill by Peter Gabriel
 30:25 I Don't Need No Doctor by John Mayer/Ray Charles
 34:38 The Trooper (Partial) by Iron Maiden
-36:18 On My Skin by Corey Heuvel
+36:18 On My Skin (M) by Corey Heuvel
 42:03 Layla (Unplugged) by Eric Clapton
 47:32 Sir Duke by Stevie Wonder
 53:10 Pride and Joy by Stevie Ray Vaughan
@@ -4421,8 +4542,8 @@ https://youtu.be/h_KbDQybQmE
 1:05:37 Sultans of Swing by Dire Straits
 
 12-String Guitar
-1:13:36 More Than a Feeling (Partial) (12/twelve String) by Boston
-1:14:05 Out of Tune 12-String for Jim (12/twelve String) by Corey Heuvel
+1:13:36 More Than a Feeling (Partial) (12/Twelve-String) by Boston
+1:14:05 Out of Tune 12-String for Jim (12/Twelve-String) by Corey Heuvel
 
 Acoustic Guitar
 1:15:47 38 Years Old by The Tragically Hip
@@ -4470,11 +4591,11 @@ https://youtu.be/ZQkl5zQvwvI
 2:10:18 In Your Eyes by Peter Gabriel
 2:16:56 Giving Up by Corey Heuvel
 2:22:04 Tightrope by Stevie Ray Vaughan
-2:29:19 Finish What Ya Started by Van Halen
+2:29:19 Finish What Ya Started (M) by Van Halen
 2:34:12 What I'm About to Do by Corey Heuvel
 2:39:22 Hand in My Pocket by Alanis Morissette
 2:44:48 Starbird by Corey Heuvel
-2:50:27 Hear My Train a Comin' by Jimi Hendrix
+2:50:27 Hear My Train a Comin' (M) by Jimi Hendrix
 2:56:13 Ordinary Girl by Corey Heuvel
 3:01:48 Outro “Jhana” by Corey Heuvel
 
@@ -4498,7 +4619,7 @@ https://youtu.be/EAYQjuMqF1U
 1:25:42 What I'm About to Do by Corey Heuvel
 1:31:47 Helplessly Hoping by Crosby, Stills & Nash
 1:36:02 Lookin' Out My Back Door by Creedence Clearwater Revival
-1:40:53 Down by the River by Neil Young
+1:40:53 Down by the River (M) by Neil Young
 1:50:59 Moondance by Van Morrison
 1:57:14 Bliss from Within by Corey Heuvel
 2:04:20 Corey's songwriting tips
@@ -4566,14 +4687,14 @@ https://youtu.be/Yr3DnVxJbnA
 42:47 Blue on Black by Kenny Wayne Shepherd
 51:40 Warning by Incubus
 56:50 L.A. Woman by The Doors
-1:06:09 No Whining (No Complaining) by Corey Heuvel
+1:06:09 No Whining (No Complaining) (M) by Corey Heuvel
 1:13:01 Sharp Dressed Man (Partial) by ZZ Top
 1:13:19 Tush (Partial) by ZZ Top
 1:13:54 Run To You (Partial) by Bryan Adams
 1:14:52 Superstition by Stevie Wonder
 1:21:30 Helpless by Crosby, Stills, Nash & Young
 1:28:17 Money by Pink Floyd
-1:32:37 Sweet Dreams (Are Made of This) by Eurythmics, Annie Lennox, Dave Stewart
+1:32:37 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 
 Classical Guitar
 1:36:13 Bouree in E Minor (Partial) by Johann Sebastian Bach
@@ -4588,7 +4709,7 @@ Acoustic Guitar
 2:01:57 At the Creek by Corey Heuvel
 2:08:53 Eleanor Rigby by The Beatles
 2:15:44 Plush by Stone Temple Pilots
-2:22:32 I'm Cryin' by Stevie Ray Vaughan
+2:22:32 I'm Cryin' (M) by Stevie Ray Vaughan
 2:27:30 Killer Queen by Queen
 2:31:18 Into Light by Corey Heuvel
 2:37:01 Grace by Jeff Buckley
@@ -4647,8 +4768,8 @@ https://youtu.be/5Y_XA4lXk_8
 40:58 Baby, I Love Your Way (Partial) by Peter Frampton
 41:41 Hey Joe by Jimi Hendrix
 48:04 Just a Phase by Incubus
-54:54 Down by the River by Neil Young
-1:03:55 Like a Stone by Audioslave
+54:54 Down by the River (M) by Neil Young
+1:03:55 Like a Stone (M) by Audioslave
 1:09:41 Heroes by David Bowie
 1:14:23 Snow (Hey Oh) by Red Hot Chili Peppers
 1:19:32 No Diggity by Blackstreet
@@ -4747,24 +4868,24 @@ https://youtu.be/ebv-JlkIPUY
 4:07 What I'm About to Do by Corey Heuvel 
 13:22 Neon by John Mayer 
 22:14 Eleanor Rigby by The Beatles
-31:45 Pink Moon by Nick Drake
+31:45 Pink Moon (DX1R) by Nick Drake
 36:32 Giving Up by Corey Heuvel
 42:06 Everybody Wants To Rule The World by Tears For Fears
 47:04 Fire and Rain by James Taylor
 52:38 (Nice Dream) by Radiohead 
 58:41 Bold as Love by Jimi Hendrix 
 1:04:26 Ramblin' Man by Allman Brothers Band
-1:13:21 No Whining (No Complaining) by Corey Heuvel
+1:13:21 No Whining (No Complaining) (M) by Corey Heuvel
 1:18:58 My Sweet Lord by George Harrison 
 1:24:42 Cold Shot by Stevie Ray Vaughan 
 1:30:58 Way to the Sea by Corey Heuvel
 1:38:49 Corey's favorite chord progression to solo over 
 1:38:56 Money by Pink Floyd
-1:43:10 Sweet Dreams (Are Made of This) by Eurythmics
+1:43:10 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:46:52 Hysteria by Muse
 1:53:01 Operator (That's Not the Way It Feels) by Jim Croce
 1:57:55 Pride and Joy by Stevie Ray Vaughan 
-2:03:48 Down In A Hole by Alice In Chains 
+2:03:48 Down In A Hole (M) by Alice In Chains 
 2:10:58 Sex on Fire (Partial) by Kings of Leon 
 2:12:20 Starbird by Corey Heuvel
 2:18:25 1979 by The Smashing Pumpkins 
@@ -4824,7 +4945,7 @@ https://youtu.be/bEBVkT9SWFY
 36:21 Crimson Fools by Corey Heuvel
 43:25 Money by Pink Floyd
 48:58 Explanation of my website and how to use it. Available on Corey’s Patreon page.
-51:05 Nobody’s Fault But My Own by Beck
+51:05 Nobody’s Fault But My Own (DX1R) by Beck
 55:51 Train in Vain (Stand by Me) by The Clash
 1:01:07 Ohio by Crosby, Stills, Nash & Young
 1:06:21 Manic Depression by Jimi Hendrix
@@ -4843,7 +4964,7 @@ https://youtu.be/bEBVkT9SWFY
 2:28:14 Semi-Charmed Life by Third Eye Blind
 2:33:31 In Your Eyes by Peter Gabriel
 2:40:45 All Along the Watchtower by Bob Dylan/Jimi Hendrix 
-2:50:46 Into Light by Corey Heuvel
+2:50:46 Into Light (DX1R) by Corey Heuvel
 2:56:25 Kashmir (Partial) by Led Zeppelin
 2:57:22 Do It Again by Steely Dan
 3:03:17 Ordinary Girl by Corey Heuvel
@@ -4868,7 +4989,7 @@ https://youtu.be/6Yy57i8sR0s
 1:26:55 Giving Up by Corey Heuvel
 1:31:47 No Diggity by Blackstreet 
 1:37:22 Helplessly Hoping by Crosby, Stills & Nash
-1:42:31 Cello Song by Nick Drake
+1:42:31 Cello Song (M) by Nick Drake
 1:48:16 Black Star by Radiohead
 1:52:52 Have a Cigar by Pink Floyd
 2:00:39 Interstate Love Song by Stone Temple Pilots
@@ -4892,9 +5013,9 @@ https://youtu.be/Qh8m_ldN2zw
 24:39 Valerie by Amy Winehouse 
 32:06 Crazy On You by Heart
 39:31 Killer Queen by Queen
-44:25 No Whining (No Complaining) by Corey Heuvel
+44:25 No Whining (No Complaining) (M) by Corey Heuvel
 50:07 Sugar Mountain by Neil Young
-57:14 (Sittin’ On) the Dock of the Bay by Otis Redding
+57:14 (Sittin' On) the Dock of the Bay by Otis Redding
 1:02:09 River Man by Nick Drake
 1:08:43 Way to the Sea by Corey Heuvel
 1:14:40 Parachutes by Coldplay
@@ -4903,8 +5024,8 @@ https://youtu.be/Qh8m_ldN2zw
 1:30:23 The Way Young Lovers Do Van Morrison/Jeff Buckley
 1:39:16 Nobody’s Fault But My Own by Beck
 1:44:18 Money by Pink Floyd
-1:48:25 Sweet Dreams (Are Made of This) by Eurythmics 
-1:52:15 Into Light by Corey Heuvel
+1:48:25 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
+1:52:15 Into Light (DX1R) by Corey Heuvel
 1:58:44 Lithium by Nirvana
 2:03:46 Rock N' Roll Duty (Partial) by Kim Mitchell
 2:05:25 Castles Made of Sand by Jimi Hendrix
@@ -4998,11 +5119,11 @@ https://youtu.be/9sCm4eY4VKg
 29:09 Reelin’ In The Years by Steely Dan
 36:25 What I’m About to Do by Corey Heuvel
 42:49 Alive by Pearl Jam
-47:54 Lola by The Kinks
+47:54 Lola (M) by The Kinks
 53:20 Midnight Rider by Allman Brothers Band
 58:40 Time Always Tells by Corey Heuvel
-1:05:14 Planet Caravan by Black Sabbath
-1:09:11 Heart of Gold by Neil Young
+1:05:14 Planet Caravan (M) by Black Sabbath
+1:09:11 Heart of Gold (M) by Neil Young
 1:14:04 Layla (Unplugged) by Eric Clapton
 1:21:53 Flowers Field by Corey Heuvel
 1:23:12 Queenstown by Corey Heuvel
@@ -5037,13 +5158,13 @@ https://youtu.be/skPtRNli5KY
 33:27 Why Georgia by John Mayer
 39:09 If It’s Wrong (It’s Alright) by Corey Heuvel
 45:38 I Got a Woman by Ray Charles
-50:24 To Be With You by Mr. Big
-55:50 Down In A Hole by Alice In Chains
+50:24 To Be With You (M) by Mr. Big
+55:50 Down In A Hole (M) by Alice In Chains
 1:03:21 The Needle and the Damage Done by Neil Young
 1:07:15 God Knows (I Love You Madly) by Corey Heuvel
 1:11:52 Money by Pink Floyd
 1:18:05 Human Nature by Michael Jackson
-1:23:25 Can’t Find My Way Home by Blind Faith
+1:23:25 Can’t Find My Way Home (M) by Blind Faith
 1:29:18 Solsbury Hill by Peter Gabriel
 1:34:50 Giving Up by Corey Heuvel
 1:39:42 Before You Accuse Me by Eric Clapton/Bo Diddley
@@ -5076,11 +5197,11 @@ https://youtu.be/ShAGixH0AfU
 53:18 Keep Your Head Up by Ben Howard
 1:01:17 Everlong by Foo Fighters
 1:07:11 Time Always Tells by Corey Heuvel
-1:13:20 Fall to Pieces by Velvet Revolver
-1:17:52 Catfish Blues by Robert Petway/Jimi Hendrix
+1:13:20 Fall to Pieces (M) by Velvet Revolver
+1:17:52 Catfish Blues (M) by Robert Petway/Jimi Hendrix
 1:24:11 Fire and Rain by James Taylor
-1:28:57 Inspector Gadget Theme by Shuki Levy/Haim Saban
-1:29:59 Tell Me Why by Neil Young
+1:28:57 Inspector Gadget Theme (DX1R) by Shuki Levy/Haim Saban
+1:29:59 Tell Me Why (DX1R) by Neil Young
 1:36:45 Drive by Incubus
 1:43:00 Starbird by Corey Heuvel
 1:51:19 What I Got by Sublime
@@ -5107,7 +5228,7 @@ https://youtu.be/dWIijDnVkho
 17:39 Blues Improv by Corey Heuvel
 19:37 Song For George by Eric Johnson
 21:35 Ohio by Crosby, Stills, Nash & Young
-27:47 Phone Call from Leavenworth by Chris Whitley
+27:47 Phone Call from Leavenworth (w/ Blues Slide) by Chris Whitley
 35:11 No One Knows by Queens of the Stone Age
 40:55 Evers by Corey Heuvel
 47:43 Shiver by Coldplay
@@ -5123,7 +5244,7 @@ https://youtu.be/dWIijDnVkho
 1:42:33 Hey You by Pink Floyd
 1:47:03 Is There Anybody Out There? by Pink Floyd
 1:50:38 1979 by The Smashing Pumpkins
-1:56:23 Into Light by Corey Heuvel
+1:56:23 Into Light (DX1R) by Corey Heuvel
 2:02:17 Castles Made of Sand by Jimi Hendrix
 2:07:23 Time in a Bottle by Jim Croce
 2:10:01 Under the Bridge by Red Hot Chili Peppers
@@ -5146,12 +5267,12 @@ https://youtu.be/yN7gKYOObcE
 24:15 Morning Wish by Corey Heuvel
 31:12 Crimson Fools by Corey Heuvel
 39:08 The New by Corey Heuvel
-46:20 My Favorite Obsession by Corey Heuvel
+46:20 My Favorite Obsession (DX1R) by Corey Heuvel
 52:55 Evers by Corey Heuvel
 1:01:38 Beautiful Slide by Corey Heuvel
 1:08:37 Sage Trees by Corey Heuvel
 1:15:55 If It’s Wrong (It’s Alright) by Corey Heuvel
-1:22:23 No Whining (No Complaining) by Corey Heuvel
+1:22:23 No Whining (No Complaining) (M) by Corey Heuvel
 1:28:01 Bliss from Within by Corey Heuvel
 1:32:48 Soul Embers by Corey Heuvel
 1:40:20 What I’m About to Do by Corey Heuvel
@@ -5161,7 +5282,7 @@ https://youtu.be/yN7gKYOObcE
 2:01:30 Into Light by Corey Heuvel
 2:07:59 Mother Divine by Corey Heuvel
 2:13:02 Giving Up by Corey Heuvel
-2:17:42 Flowers Field by Corey Heuvel
+2:17:42 Flowers Field (DX1R) by Corey Heuvel
 2:19:16 Way to the Sea by Corey Heuvel
 2:23:58 Time Always Tells by Corey Heuvel
 2:29:41 Until the End by Corey Heuvel
@@ -5197,7 +5318,7 @@ https://youtu.be/HQCt4rx-y8Q
 2:01:10 Crazy On You by Heart
 2:06:02 Suit & Tie by Justin Timberlake ft. JAY-Z
 2:12:41 Tears in Heaven by Eric Clapton
-2:18:15 Breaking the Girl by Red Hot Chili Peppers
+2:18:15 Breaking the Girl (M) by Red Hot Chili Peppers
 2:24:29 God Knows (I Love You Madly) by Corey Heuvel
 2:28:31 Little Wing by Jimi Hendrix
 2:32:17 Dance Monkey by Tones And I
@@ -5228,10 +5349,10 @@ https://youtu.be/Lpcd7ALm6r4
 1:19:46 Time Always Tells by Corey Heuvel
 1:25:22 Castles Made of Sand by Jimi Hendrix
 1:29:54 Band On The Run by Wings
-1:37:59 Hereafter by Corey Heuvel
-1:42:15 Home Again by Corey Heuvel
+1:37:59 Hereafter (SGI) by Corey Heuvel
+1:42:15 Home Again (SGI) by Corey Heuvel
 1:48:01 All Apologies by Nirvana
-1:51:53 Kiss from a Rose by Seal
+1:51:53 Kiss from a Rose (DX1R) by Seal
 1:57:15 Have a Cigar by Pink Floyd
 2:03:57 Little Black Submarines by The Black Keys
 2:08:25 What I’m About to Do by Corey Heuvel
@@ -5265,9 +5386,9 @@ https://youtu.be/wSBFKylNQjU
 1:23:37 Until the End by Corey Heuvel
 1:32:22 Lost Highway by Hank Williams/Jeff Buckley
 1:38:27 Time Has Told Me by Nick Drake
-1:44:37 Reverie by Corey Heuvel
-1:48:04 Evers by Corey Heuvel
-1:54:30 Big Yellow Taxi by Joni Mitchell
+1:44:37 Reverie (SGI) by Corey Heuvel
+1:48:04 Evers (SGI) by Corey Heuvel
+1:54:30 Big Yellow Taxi (SGI) by Joni Mitchell
 2:01:47 Crazy In Love by Beyoncé, JAY-Z
 2:07:48 Dancing In the Dark by Bruce Springsteen
 2:13:26 Moondance by Van Morrison
@@ -5297,17 +5418,17 @@ https://youtu.be/9RNVOwRTSwc
 46:48 That’s the Way by Led Zeppelin
 54:13 No One Knows by Queens of the Stone Age
 1:01:11 Virtual Insanity by Jamiroquai
-1:06:46 Stones In My Passway by Robert Johnson
+1:06:46 Stones In My Passway (M) by Robert Johnson
 1:13:34 Into Light by Corey Heuvel
 1:21:03 Stop This Train by John Mayer
-1:26:35 Let It Down by George Harrison
-1:32:09 Memories by Corey Heuvel
-1:36:33 Hidden in Stone by Corey Heuvel
+1:26:35 Let It Down (M) by George Harrison
+1:32:09 Memories (SGI) by Corey Heuvel
+1:36:33 Hidden in Stone (SGI) by Corey Heuvel
 1:42:37 Hymne à l'amour by Édith Piaf
-1:47:26 Which Will by Nick Drake
+1:47:26 Which Will (DX1R) by Nick Drake
 1:51:37 Time Always Tells by Corey Heuvel
 1:58:31 Money by Pink Floyd
-2:02:38 Sweet Dreams (Are Made of This) by Eurythmics
+2:02:38 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 2:05:49 Ohio by Crosby, Stills, Nash & Young
 2:11:22 Black & Gold by Sam Sparro
 2:17:25 Last Goodbye by Jeff Buckley
@@ -5315,7 +5436,7 @@ https://youtu.be/9RNVOwRTSwc
 2:31:29 Castles Made of Sand by Jimi Hendrix
 2:35:29 Crazy by Gnarls Barkley
 2:40:08 Starbird by Corey Heuvel
-2:45:30 Angie by The Rolling Stones 
+2:45:30 Angie (M) by The Rolling Stones 
 2:51:02 Pride and Joy by Stevie Ray Vaughan
 2:55:21 Ordinary Girl by Corey Heuvel
 2:59:28 Do It Again by Steely Dan
@@ -5333,15 +5454,15 @@ https://youtu.be/vRD0K6kl3Qs
 40:16 Lucky Man by The Verve 
 43:29 Dear Mr. Fantasy by Traffic
 49:09 Learn to Fly by Foo Fighters 
-55:27 (Sittin’ On) the Dock of the Bay by Otis Redding
+55:27 (Sittin' On) the Dock of the Bay by Otis Redding
 58:26 Little Wing by Jimi Hendrix
-1:03:36 Come On In My Kitchen by Robert Johnson
+1:03:36 Come On In My Kitchen (M) by Robert Johnson
 1:08:32 Time Always Tells by Corey Heuvel
 1:15:50 Dust in the Wind by Kansas
 1:20:28 Sour Girl by Stone Temple Pilots
 1:26:09 3AM by Matchbox Twenty
 1:31:34 E-flat Mixolydian Mode 
-1:33:02 The Longest November by Corey Heuvel
+1:33:02 The Longest November (SGI) by Corey Heuvel
 1:38:02 Lonely Boy by The Black Keys
 1:43:28 No Diggity by Blackstreet
 1:50:33 Mother Divine by Corey Heuvel
@@ -5351,8 +5472,8 @@ https://youtu.be/vRD0K6kl3Qs
 2:12:44 You’ve Got To Hide Your Love Away by The Beatles
 2:16:41 Hey Joe by Jimi Hendrix
 2:23:07 A Still and Silent Mountain by Corey Heuvel
-2:31:28 Down by the River by Neil Young
-2:37:33 Brain Damage by Pink Floyd
+2:31:28 Down by the River (M) by Neil Young
+2:37:33 Brain Damage (M) by Pink Floyd
 2:41:27 Dream Brother by Jeff Buckley
 2:47:09 Animals (Partial) by Nickelback 
 2:48:50 L.A. Woman by The Doors
@@ -5370,16 +5491,16 @@ https://youtu.be/rHhhcP4jGD8
 28:22 God Knows (I Love You Madly) by Corey Heuvel
 33:01 Crazy by Gnarls Barkley
 38:23 Under the Bridge by Red Hot Chili Peppers
-44:15 There She Goes by The La’s 
+44:15 There She Goes by The La's 
 48:12 Iris by The Goo Goo Dolls
 52:33 Giving Up by Corey Heuvel
 57:41 Interstate Love Song by Stone Temple Pilots
 1:02:33 I Won’t Back Down by Tom Petty/Johnny Cash
 1:08:25 The Wind Cries Mary by Jimi Hendrix
-1:14:23 Study in E Minor by Corey Heuvel
+1:14:23 Study in E Minor (SGI) by Corey Heuvel
 1:20:18 Dance Monkey by Tones And I
 1:24:31 Shine (Partial) by Collective Soul
-1:25:58 Finish What Ya Started by Van Halen
+1:25:58 Finish What Ya Started (M) by Van Halen
 1:31:11 Into Light by Corey Heuvel
 1:38:56 Morning Wish by Corey Heuvel
 1:44:28 Hand in My Pocket by Alanis Morissette
@@ -5387,7 +5508,7 @@ https://youtu.be/rHhhcP4jGD8
 1:53:48 Until the End by Corey Heuvel
 1:59:57 Out On The Western Plain by Rory Gallagher
 2:07:42 L.A. Woman by The Doors
-2:16:12 Let It Down by George Harrison
+2:16:12 Let It Down (M) by George Harrison
 2:23:13 Cemetery Gates by Pantera
 2:30:44 Hey You by Pink Floyd
 2:36:10 Bold as Love by Jimi Hendrix
@@ -5403,13 +5524,13 @@ https://youtu.be/IJmsYXQl5dA
 0:11 Intro “Giving Up” by Corey Heuvel
 9:01 What I’m About to Do by Corey Heuvel
 16:15 Doin’ Time by Sublime
-23:54 Never Going Back Again by Fleetwood Mac
+23:54 Never Going Back Again (SGI) by Fleetwood Mac
 27:00 Pride and Joy by Stevie Ray Vaughan
 32:52 Here Comes The Sun by The Beatles
 36:44 The Logical Song by Supertramp 
 43:03 Snow (Hey Oh) by Red Hot Chili Peppers
-49:14 Down In A Hole by Alice In Chains
-56:58 I Still Haven't Found What I'm Looking For by U2
+49:14 Down In A Hole (M) by Alice In Chains
+56:58 I Still Haven't Found What I'm Looking For (SGI) by U2
 1:03:56 God Knows (I Love You Madly) by Corey Heuvel 
 1:08:46 That’s Life by Frank Sinatra 
 1:13:20 Old Man by Neil Young
@@ -5422,7 +5543,7 @@ https://youtu.be/IJmsYXQl5dA
 1:55:51 Black Hole Sun by Soundgarden
 2:03:34 Planet Caravan by Black Sabbath
 2:09:25 That Song by Big Wreck
-2:18:32 Kiss from a Rose by Seal
+2:18:32 Kiss from a Rose (SGI) by Seal
 2:23:24 Have a Cigar by Pink Floyd
 2:29:59 Spanish Castle Magic by Jimi Hendrix
 2:34:19 Starbird by Corey Heuvel
@@ -5442,7 +5563,7 @@ https://youtu.be/_KscIFUrM14
 31:26 Giving Up by Corey Heuvel
 36:28 Night Moves by Bob Seger
 44:36 Lonely Boy by The Black Keys
-50:57 Mama, I’m Coming Home by Ozzy Osbourne
+50:57 Mama, I’m Coming Home (SGI) by Ozzy Osbourne
 1:01:46 The Night They Drove Old Dixie Down by The Band
 1:08:03 Way to the Sea by Corey Heuvel
 1:13:04 The Island by Pendulum
@@ -5450,7 +5571,7 @@ https://youtu.be/_KscIFUrM14
 1:24:06 Pinball Wizard by The Who
 1:26:59 Lookin' Out My Back Door by Creedence Clearwater Revival
 1:30:07 Blues lick
-1:30:28 No Whining (No Complaining) by Corey Heuvel
+1:30:28 No Whining (No Complaining) (M) by Corey Heuvel
 1:37:42 Hysteria by Muse
 1:43:13 Money by Pink Floyd
 1:49:14 Glory Days by Bruce Springsteen
@@ -5474,7 +5595,7 @@ Livestream 146
 https://youtu.be/8jK6wYjrnw4
 0:00 Intro
 3:58 At the Creek by Corey Heuvel
-11:42 Old Pine by Ben Howard
+11:42 Old Pine (M) by Ben Howard
 18:40 Crossroads by Cream/Eric Clapton
 24:58 Cause We’ve Ended as Lovers by Jeff Beck
 27:09 No One Knows by Queens of the Stone Age
@@ -5494,7 +5615,7 @@ https://youtu.be/8jK6wYjrnw4
 1:38:03 Breathe (In the Air) by Pink Floyd
 1:40:07 Time by Pink Floyd
 1:45:28 Don't You Worry 'Bout A Thing by Stevie Wonder
-1:49:53 Angeles by Elliot Smith
+1:49:53 Angeles by Elliott Smith
 1:53:35 Drive by Incubus
 1:57:33 So Real by Jeff Buckley
 2:03:39 Life’s Been Good by Joe Walsh
@@ -5519,7 +5640,7 @@ https://youtu.be/sXKeY6LpR9g
 40:43 Time Always Tells by Corey Heuvel
 48:54 Sir Duke by Stevie Wonder
 56:09 Ziggy Stardust by David Bowie
-1:05:51 Riptide by Vance Joy
+1:05:51 Riptide (M) by Vance Joy
 1:11:45 Lookin’ Out My Back Door by Creedence Clearwater Revival
 1:19:12 When I’m Up - I Can't Get Down by Great Big Sea
 1:26:52 Hey Joe by Jimi Hendrix/Billy Roberts
@@ -5542,15 +5663,15 @@ https://youtu.be/sXKeY6LpR9g
 Livestream 148
 https://youtu.be/ARCgeQF6tRg
 0:07 Intro “Soul Embers” by Corey Heuvel
-10:44 Morning Wish by Corey Heuvel
+10:44 Morning Wish (SGI) by Corey Heuvel
 17:27 White Winter Hymnal (Partial) by Fleet Foxes 
 18:36 Lonely Boy by The Black Keys
 24:25 Cold Shot by Stevie Ray Vaughan
 31:35 Blue on Black by Kenny Wayne Shepherd
-45:11 Can’t Find My Way Home by Blind Faith 
+45:11 Can’t Find My Way Home (M) by Blind Faith 
 52:06 What I’m About to Do by Corey Heuvel
 59:52 Limelight by Rush
-1:06:02 Don’t Let It Bring You Down by Neil Young
+1:06:02 Don’t Let It Bring You Down (SGI) by Neil Young
 1:09:36 Suit & Tie by Justin Timberlake ft. JAY-Z
 1:19:00 Paranoid Android by Radiohead
 1:25:04 Corey’s favorite movies and TV shows
@@ -5559,13 +5680,13 @@ https://youtu.be/ARCgeQF6tRg
 1:39:20 Grace by Jeff Buckley
 1:47:35 Mama, I’m Coming Home by Ozzy Osbourne
 1:54:04 L.A. Woman by The Doors
-2:03:42 Until the End by Corey Heuvel
+2:03:42 Until the End (SGI) by Corey Heuvel
 2:09:28 Trouble by Ray LaMontagne
 2:14:05 That’s Life by Frank Sinatra
 2:18:20 Neon by John Mayer
 2:25:30 Fast Car by Tracy Chapman
 2:31:20 Ramble On by Led Zeppelin
-2:36:55 Into Light by Corey Heuvel
+2:36:55 Into Light (DX1R) by Corey Heuvel
 2:43:08 Moondance by Van Morrison/Michael Bublé
 2:49:38 Cemetery Gates by Pantera
 2:57:25 Ordinary Girl by Corey Heuvel
@@ -5575,7 +5696,7 @@ https://youtu.be/ARCgeQF6tRg
 Livestream 149
 https://www.youtube.com/live/CqHIgye4I8s?feature=share
 0:07 Intro “Soul Embers” by Corey Heuvel
-10:38 At the Creek by Corey Heuvel
+10:38 At the Creek (SGI) by Corey Heuvel
 19:26 Virtual Insanity by Jamiroquai 
 24:46 The Way You Make Me Feel by Michael Jackson
 32:12 Dani California by Red Hot Chili Peppers
@@ -5587,14 +5708,14 @@ https://www.youtube.com/live/CqHIgye4I8s?feature=share
 1:08:51 The Middle by Jimmy Eat World
 1:16:52 Giving Up by Corey Heuvel
 1:22:53 1979 by The Smashing Pumpkins
-1:29:29 Ohio by Crosby, Stills, Nash & Young
+1:29:29 Ohio (DX1R) by Crosby, Stills, Nash & Young
 1:34:36 Diary of a Madman by Ozzy Osbourne
 1:41:49 Here Comes The Sun by The Beatles
 1:45:51 Over the Hills and Far Away by Led Zeppelin
 1:52:10 Street Spirit (Fade Out) by Radiohead
 1:56:55 Dancing In the Dark by Bruce Springsteen
 2:01:44 God Knows (I Love You Madly) by Corey Heuvel
-2:06:49 No Whining (No Complaining) by Corey Heuvel
+2:06:49 No Whining (No Complaining) (M) by Corey Heuvel
 2:11:53 Nights In White Satin by The Moody Blues
 2:17:38 Pride and Joy by Stevie Ray Vaughan
 2:22:51 You Got It by Roy Orbison
@@ -5622,7 +5743,7 @@ https://www.youtube.com/live/GpaZbjokFec?feature=share
 1:18:53 Something by The Beatles
 1:23:24 Giving Up by Corey Heuvel
 1:29:14 Castles Made of Sand by Jimi Hendrix
-1:34:51 Road by Nick Drake
+1:34:51 Road (M) by Nick Drake
 
 Classical Guitar
 1:38:26 Teardrop (Classical Guitar) by Massive Attack
@@ -5636,7 +5757,7 @@ Mandolin
 1:56:15 Rise (Mandolin) by Eddie Vedder
 
 Acoustic Guitar
-2:00:29 Don’t Let It Bring You Down by Neil Young
+2:00:29 Don’t Let It Bring You Down (DX1R) by Neil Young
 2:04:26 High and Dry by Radiohead
 2:10:40 The Logical Song by Supertramp
 2:16:21 Lover, You Should've Come Over by Jeff Buckley
@@ -5644,7 +5765,7 @@ Acoustic Guitar
 2:32:05 That’s Life by Frank Sinatra 
 2:37:10 Starbird by Corey Heuvel
 2:44:20 No Diggity by Blackstreet
-2:49:43 Mama, I'm Coming Home by Ozzy Osbourne 
+2:49:43 Mama, I'm Coming Home (SGI) by Ozzy Osbourne 
 2:54:35 Couldn't Stand the Weather by Stevie Ray Vaughan
 3:00:46 Ordinary Girl by Corey Heuvel
 3:04:52 Voodoo Child (Slight Return) by Jimi Hendrix
@@ -5656,10 +5777,10 @@ https://www.youtube.com/live/FHa2vjbViJo?feature=share
 14:18 Everything In Its Right Place by Radiohead
 17:41 Hey Joe by Jimi Hendrix
 24:33 While My Guitar Gently Weeps by The Beatles
-31:18 Ballad Of Big Nothing by Elliott Smith
+31:18 Ballad Of Big Nothing (DX1R) by Elliott Smith
 35:28 Lookin' Out My Back Door by Creedence Clearwater Revival
 40:13 If It’s Wrong (It’s Alright) by Corey Heuvel
-44:37 (Sittin’ On) the Dock of the Bay by Otis Redding
+44:37 (Sittin' On) the Dock of the Bay by Otis Redding
 48:18 The Way You Make Me Feel by Corey Heuvel
 53:55 Natural Blues by Moby
 53:55 Trouble So Hard by Vera Hall
@@ -5674,14 +5795,14 @@ Acoustic Guitar
 1:23:53 Three Little Birds by Bob Marley
 1:28:30 Suit & Tie by Justin Timberlake ft. JAY-Z
 1:35:42 Song To the Siren by Tim Buckley/John Frusciante
-1:39:54 Evers by Corey Heuvel
+1:39:54 Evers (SGI) by Corey Heuvel
 1:46:10 Lonely Boy by The Black Keys
 1:52:51 Snow by Red Hot Chili Peppers
 1:58:18 Interstate Love Song by Stone Temple Pilots
 2:02:04 Crazy by Gnarls Barkley 
 2:07:49 Dark Horse by Amanda Marshall 
-2:14:51 Flowers Field by Corey Heuvel
-2:16:10 Queenstown by Corey Heuvel
+2:14:51 Flowers Field (SGI) by Corey Heuvel
+2:16:10 Queenstown (SGI) by Corey Heuvel
 2:20:48 No One Knows by Queens of the Stone Age
 2:25:44 L.A. Woman by The Doors
 2:34:41 Cemetery Gates by Pantera
@@ -5705,7 +5826,7 @@ https://www.youtube.com/live/s-v4qoUK0tU?feature=share
 58:02 Crazy On You by Heart
 1:03:21 Empty Arms by Stevie Ray Vaughan
 1:07:12 Something Like Olivia by John Mayer
-1:12:06 Until the End by Corey Heuvel
+1:12:06 Until the End (SGI) by Corey Heuvel
 1:19:08 Old Man by Neil Young
 1:23:55 Kiss Me by Sixpence None The Richer
 1:27:59 You Are the Best Thing by Ray LaMontagne
@@ -5718,7 +5839,7 @@ https://www.youtube.com/live/s-v4qoUK0tU?feature=share
 2:02:21 I’ll Be by Edwin McCain
 2:07:04 Hey, Hey, What Can I Do by Led Zeppelin
 2:11:38 Here Comes The Sun by The Beatles
-2:16:15 Into Light by Corey Heuvel
+2:16:15 Into Light (DX1R) by Corey Heuvel
 2:23:11 Time in a Bottle by Jim Croce
 2:27:11 Hideaway by Kiesza
 2:32:26 Starbird by Corey Heuvel
@@ -5745,17 +5866,17 @@ https://www.youtube.com/live/jomOdvKXNa4?feature=share
 1:10:08 Glory Days by Bruce Springsteen
 1:16:10 Hey You by Pink Floyd
 1:22:25 Eleanor Rigby by The Beatles
-1:29:54 Last Goodbye by Jeff Buckley
-1:35:38 Parchman Farm Blues by Jeff Buckley/Bukka White 
-1:40:47 At the Creek by Corey Heuvel
+1:29:54 Last Goodbye (SGI) by Jeff Buckley
+1:35:38 Parchman Farm Blues (M) by Jeff Buckley/Bukka White 
+1:40:47 At the Creek (SGI) by Corey Heuvel
 1:47:44 Big Love by Fleetwood Mac
 1:52:38 The Crush of Love (Partial) by Joe Satriani
 1:53:28 Under the Bridge by Red Hot Chili Peppers
-1:59:01 Don’t Let It Bring You Down by Neil Young
+1:59:01 Don’t Let It Bring You Down (DX1R) by Neil Young
 2:02:28 Little Wing by Jimi Hendrix
 2:09:13 Time Always Tells by Corey Heuvel
 2:16:21 Simple Man by Lynyrd Skynyrd
-2:23:25 Them Bones by Alice In Chains
+2:23:25 Them Bones (M) by Alice In Chains
 2:27:38 What I’m About to Do by Corey Heuvel 
 2:33:10 Virtual Insanity by Jamiroquai
 2:38:10 Hallelujah by Jeff Buckley/Leonard Cohen
@@ -5778,11 +5899,11 @@ https://www.youtube.com/live/QLLYLiTUyDY?feature=share
 48:19 Shiver by Coldplay
 57:58 Helplessly Hoping by Crosby, Stills & Nash
 1:02:02 Money by Pink Floyd
-1:06:11 Sweet Dreams (Are Made of This) by Eurythmics
+1:06:11 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 1:13:10 Way to the Sea by Corey Heuvel
 1:20:37 Wondering Where The Lions Are by Bruce Cockburn
 1:26:26 I Shot The Sheriff by Bob Marley 
-1:34:29 Nobody’s Fault But My Own by Beck
+1:34:29 Nobody’s Fault But My Own (DX1R) by Beck
 1:40:35 Over the Hills and Far Away by Led Zeppelin
 1:46:43 Morning Wish by Corey Heuvel
 1:54:35 Big Yellow Taxi by Joni Mitchell 
@@ -5802,35 +5923,35 @@ https://www.youtube.com/live/QLLYLiTUyDY?feature=share
 Livestream 155
 https://www.youtube.com/live/v56fDp25FcM?feature=share
 0:11 Intro “Reverie” by Corey Heuvel
-9:04 At the Creek by Corey Heuvel
+9:04 At the Creek (SGI) by Corey Heuvel
 18:20 Fugue in G Minor, BMV 1000 (Partial) by Johann Sebastian Bach
 19:12 Für Elise (Partial) by Ludwig Van Beethoven
 19:40 Before You Accuse Me by Eric Clapton/Bo Diddley 
 26:19 While My Guitar Gently Weeps by The Beatles
 31:51 That’s Life by Frank Sinatra
-36:25 Crimson Fools by Corey Heuvel
+36:25 Crimson Fools (SGI) by Corey Heuvel
 42:38 Night Moves by Bob Seger
 49:58 Red House by Jimi Hendrix
 55:09 No One Knows by Queens of the Stone Age
 1:00:07 Have a Cigar by Pink Floyd
-1:09:50 Mother Divine by Corey Heuvel 
+1:09:50 Mother Divine (SGI) by Corey Heuvel 
 1:14:36 All Along the Watchtower by Bob Dylan/Jimi Hendrix
 1:21:00 Angeles by Elliott Smith
-1:24:02 Between the Bars by Elliott Smith
+1:24:02 Between the Bars (DX1R) by Elliott Smith
 1:27:28 Thirteen by Big Star/Elliott Smith
 1:31:35 Real World by Matchbox Twenty
-1:36:08 Hand in My Pocket by Alanis Morissette
+1:36:08 Hand in My Pocket (SGI) by Alanis Morissette
 1:42:14 God Knows (I Love You Madly) by Corey Heuvel
 1:45:48 What I’m About to Do by Corey Heuvel
 1:52:10 The Logical Song by Supertramp
-1:57:12 Helpless by Crosby, Stills, Nash & Young
+1:57:12 Helpless (DX1R) by Crosby, Stills, Nash & Young
 2:02:30 Beast Of Burden by The Rolling Stones
 2:07:42 If I Had A Boat by Lyle Lovett 
 2:12:43 Bliss from Within by Corey Heuvel
-2:17:12 To Be With You by Mr. Big
+2:17:12 To Be With You (DX1R) by Mr. Big
 2:20:52 Semi-Charmed Life by Third Eye Blind
 2:26:05 Everlong by Foo Fighters
-2:31:57 Into Light by Corey Heuvel
+2:31:57 Into Light (DX1R) by Corey Heuvel
 2:38:13 Canned Heat by Jamiroquai
 2:42:54 Pride and Joy by Stevie Ray Vaughan
 2:47:37 Superstition by Stevie Wonder
@@ -5850,23 +5971,23 @@ https://www.youtube.com/live/r4JaTRrhap8?feature=share
 40:24 April Come She Will by Simon & Garfunkel
 43:18 Crazy by Gnarls Barkley 
 48:58 Three Little Birds by Bob Marley 
-55:59 Carry Me Ohio by Sun Kil Moon
+55:59 Carry Me Ohio (SGI) by Sun Kil Moon
 1:03:58 Giving Up by Corey Heuvel
-1:10:07 That’s the Way by Led Zeppelin
+1:10:07 That’s the Way (SGI) by Led Zeppelin
 1:15:51 Catfish Blues by Robert Petway/Jimi Hendrix
 1:22:28 Breathe (In the Air) by Pink Floyd
 1:24:28 Time by Pink Floyd
-1:30:27 Salvador Sanchez by Sun Kil Moon 
-1:36:05 Flowers Field by Corey Heuvel
-1:37:25 Queenstown by Corey Heuvel
-1:42:14 Down by the River by Neil Young
+1:30:27 Salvador Sanchez (M) by Sun Kil Moon 
+1:36:05 Flowers Field (SGI) by Corey Heuvel
+1:37:25 Queenstown (SGI) by Corey Heuvel
+1:42:14 Down by the River (DX1R) by Neil Young
 1:49:43 Give A Little Bit by Supertramp
 1:56:30 Life by the Drop by Stevie Ray Vaughan
 1:59:28 Grace by Jeff Buckley
-2:07:53 Mother Divine by Corey Heuvel
+2:07:53 Mother Divine (SGI) by Corey Heuvel
 2:12:48 Neon by John Mayer
 2:20:47 Heart-Shaped Box by Nirvana
-2:27:43 Mama, I’m Coming Home by Ozzy Osbourne 
+2:27:43 Mama, I’m Coming Home (SGI) by Ozzy Osbourne 
 2:34:44 Starbird by Corey Heuvel
 2:41:39 Money for Nothing by Dire Straits
 2:47:46 Killer Queen by Queen
@@ -5895,12 +6016,12 @@ https://www.youtube.com/live/Kj7ILSIRVbQ?feature=share
 1:24:43 Mojo Pin by Jeff Buckley
 1:31:34 What I’m About to Do by Corey Heuvel 
 1:38:38 Fire and Rain by James Taylor
-1:44:40 Old Pine by Ben Howard
-1:51:54 Breaking the Girl by Red Hot Chili Peppers
+1:44:40 Old Pine (SGI) by Ben Howard
+1:51:54 Breaking the Girl (M) by Red Hot Chili Peppers
 1:59:17 Virtual Insanity by Jamiroquai
 2:05:14 Until the End by Corey Heuvel
 2:10:53 Ahead By A Century by The Tragically Hip
-2:16:02 Paint It, Black by The Rolling Stones
+2:16:02 Paint It, Black (SGI) by The Rolling Stones
 2:20:58 I Shot The Sheriff by Bob Marley
 2:28:22 I Don’t Trust Myself (With Loving You) by John Mayer
 2:33:43 Starbird by Corey Heuvel
@@ -5915,24 +6036,24 @@ https://www.youtube.com/live/2xkUDe5ZndE?feature=share
 0:13 Intro “Out of the Mist” by Corey Heuvel 
 6:44 What I’m About to Do by Corey Heuvel
 14:43 Fly Like An Eagle by Steve Miller Band
-23:05 Can’t Find My Way Home by Blind Faith
+23:05 Can’t Find My Way Home (M) by Blind Faith
 27:52 Heroes by David Bowie
 34:43 Couldn’t Stand the Weather by Stevie Ray Vaughan
 43:06 Night Moves by Bob Seger
-51:09 In Your Atmosphere by John Mayer
+51:09 In Your Atmosphere (SGI) by John Mayer
 59:02 Here Comes The Sun by The Beatles
 1:03:07 The Island by Pendulum
 1:08:22 Love Me Two Times by The Doors
 1:12:24 Ordinary Girl by Corey Heuvel
 1:17:15 No Diggity by Blackstreet 
-1:23:35 Bring It on Home by Led Zeppelin/Sonny Boy Williamson II
+1:23:35 Bring It on Home (M) by Led Zeppelin/Sonny Boy Williamson II
 1:29:07 Hysteria by Muse
 1:34:14 (Nice Dream) by Radiohead
 1:39:34 Sir Duke by Stevie Wonder
 1:45:43 Snow (Hey Oh) by Red Hot Chili Peppers
 1:55:12 Time in a Bottle by Jim Croce
-1:59:14 Down In A Hole by Alice In Chains
-2:06:51 Tell Me Why by Neil Young
+1:59:14 Down In A Hole (M) by Alice In Chains
+2:06:51 Tell Me Why (DX1R) by Neil Young
 2:10:09 Giving Up by Corey Heuvel
 2:15:00 Dust in a Baggie by Billy Strings
 2:19:35 Reelin’ In The Years by Steely Dan
@@ -5948,7 +6069,7 @@ https://www.youtube.com/live/2xkUDe5ZndE?feature=share
 Livestream 159
 https://www.youtube.com/live/BvCyN3QU46c?feature=share
 0:15 Intro “Out of the Mist” by Corey Heuvel
-8:06 Morning Wish by Corey Heuvel
+8:06 Morning Wish (SGI) by Corey Heuvel
 17:53 Doin’ Time by Sublime
 25:01 Lonely Boy by The Black Keys
 31:42 Plush by Stone Temple Pilots
@@ -5957,16 +6078,16 @@ https://www.youtube.com/live/BvCyN3QU46c?feature=share
 48:54 In Your Eyes by Peter Gabriel
 55:42 Slow Dancing in a Burning Room by John Mayer
 1:00:40 That’s Life by Frank Sinatra 
-1:05:21 Burn One Down by Ben Harper
-1:10:20 Until the End by Corey Heuvel
+1:05:21 Burn One Down (DX1R) by Ben Harper
+1:10:20 Until the End (SGI) by Corey Heuvel
 1:16:05 Midnight Rider by Allman Brothers Band
-1:21:00 No Rain by Blind Melon
+1:21:00 No Rain (M) by Blind Melon
 1:24:58 Crazy by Gnarls Barkley 
 1:30:25 People Are Strange by The Doors
-1:34:52 Hand in My Pocket by Alanis Morissette
+1:34:52 Hand in My Pocket (SGI) by Alanis Morissette
 1:40:36 Under the Bridge by Red Hot Chili Peppers
 1:45:47 Suit & Tie by Justin Timberlake ft. JAY-Z
-1:51:56 My My, Hey Hey (Out of the Blue) by Neil Young
+1:51:56 My My, Hey Hey (Out of the Blue) (DX1R) by Neil Young
 1:57:24 Til I Am Myself Again by Blue Rodeo
 2:01:14 Going Up The Country by Canned Heat
 2:04:44 Ordinary Girl by Corey Heuvel
@@ -5974,7 +6095,7 @@ https://www.youtube.com/live/BvCyN3QU46c?feature=share
 2:15:47 Brain Damage by Pink Floyd
 2:18:55 Eclipse by Pink Floyd
 2:21:35 Creep by Radiohead
-2:26:12 Into Light by Corey Heuvel
+2:26:12 Into Light (DX1R) by Corey Heuvel
 2:31:57 Pride and Joy by Stevie Ray Vaughan
 2:36:52 Starbird by Corey Heuvel
 2:42:19 Tiny Dancer by Elton John
@@ -5996,10 +6117,10 @@ https://www.youtube.com/live/jyGZgv6rFqo?feature=share
 55:43 Queen of California by John Mayer
 59:50 Crazy In Love by Beyoncé, JAY-Z
 1:03:53 Send My Love (To Your New Lover) by Adele
-1:08:44 Evers by Corey Heuvel
+1:08:44 Evers (SGI) by Corey Heuvel
 1:15:19 Jeremy by Pearl Jam
 1:21:51 Black Star by Radiohead
-1:27:26 Fruit Tree by Nick Drake
+1:27:26 Fruit Tree (M) by Nick Drake
 1:34:19 Castles Made of Sand by Jimi Hendrix
 1:38:57 Hemorrhage (In My Hands) by Fuel
 1:43:41 Cherry Wine by Hozier
@@ -6008,7 +6129,7 @@ https://www.youtube.com/live/jyGZgv6rFqo?feature=share
 1:56:58 Breathe (In the Air) by Pink Floyd
 1:58:59 Time by Pink Floyd
 2:04:38 Giving Up by Corey Heuvel
-2:11:42 I Never Asked to Be Your Mountain by Tim Buckley
+2:11:42 I Never Asked to Be Your Mountain (SGI) by Tim Buckley
 2:18:47 Night Moves by Bob Seger
 2:25:41 Virtual Insanity by Jamiroquai
 2:30:03 Starbird by Corey Heuvel
@@ -6022,7 +6143,7 @@ https://www.youtube.com/live/jyGZgv6rFqo?feature=share
 Livestream 161
 https://www.youtube.com/live/Mm_r2XHf7kw?feature=share
 0:09 Intro “Out of the Mist” by Corey Heuvel
-9:14 At the Creek by Corey Heuvel
+9:14 At the Creek (SGI) by Corey Heuvel
 15:50 Blue on Black by Kenny Wayne Shepherd
 25:45 Solsbury Hill by Peter Gabriel 
 31:20 No Diggity by Blackstreet 
@@ -6037,12 +6158,12 @@ https://www.youtube.com/live/Mm_r2XHf7kw?feature=share
 1:18:24 1979 by The Smashing Pumpkins
 1:24:03 Cello Song by Nick Drake
 1:28:59 Rise (Mandolin) by Eddie Vedder
-1:34:26 The Cave by Mumford & Sons
+1:34:26 The Cave (SGI) by Mumford & Sons
 1:40:46 Fugue in G Minor, BMV 1000 (Classical Guitar) by Johann Sebastian Bach 
 1:47:33 Human Nature by Michael Jackson 
 1:52:14 Interstate Love Song by Stone Temple Pilots
 1:56:29 Starbird by Corey Heuvel
-2:02:47 Ohio by Crosby, Stills, Nash & Young
+2:02:47 Ohio (DX1R) by Crosby, Stills, Nash & Young
 2:08:01 Let Down by Radiohead
 2:13:13 Fast Car by Tracy Chapman
 2:19:37 Moondance by Van Morrison 
@@ -6063,8 +6184,8 @@ https://www.youtube.com/live/1HkYscBWtp8?feature=share
 30:46 Behind Blue Eyes by The Who
 35:21 I Don’t Need No Doctor by John Mayer
 40:47 Crazy by Gnarls Barkley 
-47:16 Shine by Collective Soul
-55:41 Bring It on Home by Led Zeppelin/Sonny Boy Williamson II
+47:16 Shine (M) by Collective Soul
+55:41 Bring It on Home (M) by Led Zeppelin/Sonny Boy Williamson II
 1:01:37 Wish You Were Here (I) by Incubus
 1:07:07 Something by The Beatles
 1:12:16 If It’s Wrong (It’s Alright) by Corey Heuvel 
@@ -6079,7 +6200,7 @@ https://www.youtube.com/live/1HkYscBWtp8?feature=share
 2:03:03 God Knows (I Love You Madly) by Corey Heuvel
 2:07:38 Learn to Fly by Foo Fighters
 2:13:17 Both Sides Now by Joni Mitchell
-2:19:51 Mama, I’m Coming Home by Ozzy Osbourne 
+2:19:51 Mama, I’m Coming Home (SGI) by Ozzy Osbourne 
 2:25:21 That’s Life by Frank Sinatra 
 2:30:56 Starbird by Corey Heuvel 
 2:36:44 Cemetery Gates by Pantera
@@ -6092,13 +6213,13 @@ https://www.youtube.com/live/1HkYscBWtp8?feature=share
 Livestream 163
 https://www.youtube.com/live/KACYxeAmdCs?feature=share
 0:11 Intro “Out of the Mist” by Corey Heuvel
-10:46 On My Skin by Corey Heuvel
+10:46 On My Skin (DX1R) by Corey Heuvel
 20:02 Fly Like An Eagle by Steve Miller Band
 25:44 Pinball Wizard by The Who
 28:40 Lookin’ Out My Back Door by Creedence Clearwater Revival 
 32:31 Stop This Train by John Mayer
 37:32 Crossroads by Robert Johnson/Cream
-42:02 Hand in My Pocket by Alanis Morissette
+42:02 Hand in My Pocket (SGI) by Alanis Morissette
 47:54 Sour Girl by Stone Temple Pilots
 53:38 Big Love by Fleetwood Mac/Lindsey Buckingham 
 58:20 Shiver by Coldplay
@@ -6141,15 +6262,15 @@ https://www.youtube.com/live/c1H63fb1AJs?feature=share
 1:04:19 Giving Up by Corey Heuvel 
 1:09:43 Breathe (In the Air) by Pink Floyd
 1:11:42 Time by Pink Floyd
-1:16:55 I Still Haven’t Found What I’m Looking For by U2
+1:16:55 I Still Haven’t Found What I’m Looking For (SGI) by U2
 1:22:35 Can’t Stop by Red Hot Chili Peppers
 1:28:23 Up On Cripple Creek by The Band
 1:33:39 Going to California by Led Zeppelin
-1:39:44 Pink Moon by Nick Drake
+1:39:44 Pink Moon (DX1R) by Nick Drake
 1:42:54 Virtual Insanity by Jamiroquai
 1:48:10 Let Down by Radiohead
 1:54:15 Time in a Bottle by Jim Croce
-1:58:22 Until the End by Corey Heuvel
+1:58:22 Until the End (SGI) by Corey Heuvel
 2:04:24 Moondance by Van Morrison
 2:10:35 Night Moves by Bob Seger
 2:17:14 Life by the Drop by Stevie Ray Vaughan
@@ -6178,15 +6299,15 @@ https://www.youtube.com/live/il7d9PknEmQ?feature=share
 1:01:14 L.A. Woman by The Doors
 1:10:32 God Knows (I Love You Madly) by Corey Heuvel
 1:16:18 Freewill by Rush
-1:23:54 I Still Haven’t Found What I’m Looking For by U2
+1:23:54 I Still Haven’t Found What I’m Looking For (SGI) by U2
 1:30:07 Under the Bridge by Red Hot Chili Peppers
-1:37:14 Hand in My Pocket by Alanis Morissette
-1:44:31 Mother Divine by Corey Heuvel
+1:37:14 Hand in My Pocket (SGI) by Alanis Morissette
+1:44:31 Mother Divine (SGI) by Corey Heuvel
 1:49:40 Over the Hills and Far Away by Led Zeppelin
 1:55:04 Virtual Insanity by Jamiroquai
-1:59:51 Little Wing by Jimi Hendrix
-2:05:10 Both Sides Now by Joni Mitchell
-2:10:33 Until the End by Corey Heuvel 
+1:59:51 Little Wing (M) by Jimi Hendrix
+2:05:10 Both Sides Now (SGI) by Joni Mitchell
+2:10:33 Until the End (SGI) by Corey Heuvel 
 2:16:32 Lover, You Should’ve Come Over by Jeff Buckley
 2:24:39 Night Moves by Bob Seger
 2:31:20 Pride and Joy by Stevie Ray Vaughan
@@ -6199,3 +6320,942 @@ https://www.youtube.com/live/il7d9PknEmQ?feature=share
 3:07:03 Do It Again by Steely Dan
 3:15:36 Voodoo Child (Slight Return) by Jimi Hendrix 
 3:24:44 Outro “Jhana” by Corey Heuvel
+
+Livestream 1 (Audio Issues)
+https://www.youtube.com/watch?v=uUJq2ppfAyg
+1:17 Lonely Boy by The Black Keys
+7:08 Solsbury Hill by Peter Gabriel 
+13:11 All Along the Watchtower by Bob Dylan/Jimi Hendrix 
+18:03 Cowboys from Hell (Partial) by Pantera
+19:17 Superstition by Stevie Wonder 
+26:34 Crazy by Gnarls Barkley
+32:29 Lover, You Should've Come Over by Jeff Buckley
+40:28 Vultures by John Mayer
+47:03 Tears in Heaven by Eric Clapton 
+52:47 Ordinary Girl by Corey Heuvel 
+58:15 Time in a Bottle by Jim Croce
+1:01:29 Money by Pink Floyd 
+1:09:44 Voodoo Child (Slight Return) by Jimi Hendrix
+1:17:04 That's the Way by Led Zeppelin
+1:24:32 Glory Days by Bruce Springsteen
+1:29:27 Improv
+1:31:04 Big Yellow Taxi by Joni Mitchell
+1:40:09 Do It Again by Steely Dan
+1:46:47 Under the Bridge by Red Hot Chili Peppers
+1:53:16 The Way You Make Me Feel by Michael Jackson 
+1:58:10 Grace by Jeff Buckley 
+2:05:33 Killer Queen by Queen
+2:08:22 Pride and Joy by Stevie Ray Vaughan
+2:16:06 The Wind Cries Mary by Jimi Hendrix
+2:19:21 Little Wing by Jimi Hendrix
+2:24:07 Moondance by Van Morrison
+
+Livestream 2 (Audio Issues)
+https://www.youtube.com/watch?v=qRamT--Qvh4
+2:06 Fly Like An Eagle by Steve Miller Band 
+8:26 Eleanor Rigby by The Beatles
+16:48 Life by the Drop by Stevie Ray Vaughan 
+22:21 Crazy On You by Heart
+27:10 Castles Made of Sand (Partial) by Jimi Hendrix
+28:08 Drive by Incubus 
+37:18 Old Man by Neil Young 
+42:08 Hey Joe by Jimi Hendrix 
+46:52 Human Nature by Michael Jackson
+51:58 Ordinary Girl by Corey Heuvel
+57:56 In Your Eyes by Peter Gabriel
+
+Livestream 2 (Cont.) (Audio Issues)
+https://www.youtube.com/watch?v=gzOWoVXQdgU
+0:37 Super Mario Bros. Main Theme by Koji Kondo
+2:07 Superstition by Stevie Wonder
+8:46 Black Dog (Partial) by Led Zeppelin 
+10:39 Sweet Child O'Mine (Partial) by Guns 'N Roses
+11:34 Life in the Fast Lane (Partial) by The Eagles 
+12:49 Tush (Partial) by ZZ Top 
+12:55 Sharp Dressed Man (Partial) by ZZ Top 
+13:06 Run To You (Partial) by Bryan Adams 
+13:49 Neon by John Mayer 
+24:07 Simple Man by Lynyrd Skynyrd
+29:26 Wanted Dead Or Alive (Partial) by Bon Jovi 
+31:09 Creep by Radiohead 
+36:27 Pride and Joy by Stevie Ray Vaughan
+41:42 Crossroads by Cream/Robert Johnson
+48:04 Crazy by Gnarls Barkley
+54:15 Canned Heat by Jamiroquai
+59:23 Money by Pink Floyd 
+1:03:50 The Way You Make Me Feel by Michael Jackson 
+1:09:16 Sultans of Swing by Dire Straits
+1:19:19 Glass by Incubus 
+1:24:41 Last Goodbye by Jeff Buckley 
+1:31:32 Before You Accuse Me by Eric Clapton/Bo Diddley
+1:37:06 Scuttle Buttin' (Partial) by Stevie Ray Vaughan
+1:38:16 Let It Be Me by Ray LaMontagne
+1:43:06 Blues 
+1:44:20 Do It Again by Steely Dan
+1:50:44 Solsbury Hill by Peter Gabriel
+1:56:14 Voodoo Child (Slight Return) by Jimi Hendrix
+
+Livestream 3 (Audio Issues)
+https://www.youtube.com/watch?v=9gkOvE2nTlM
+2:16 Vultures by John Mayer
+7:29 Life by the Drop by Stevie Ray Vaughan
+11:07 3AM by Matchbox Twenty
+17:20 Into the Mystic by Van Morrison
+21:33 The Boy with the Thorn in His Side by The Smiths
+28:14 You Are the Best Thing by Ray LaMontagne
+33:12 Over the Hills and Far Away by Led Zeppelin
+39:48 Poison Girl by Chris Whitley 
+44:29 Hand in My Pocket by Alanis Morissette
+50:53 That's Life by Frank Sinatra
+57:34 All Along the Watchtower by Bob Dylan/Jimi Hendrix
+1:07:14 Hey Hey by Eric Clapton/Big Bill Broonzy
+
+Guitar & Harmonica
+1:11:49 Crossing Over/Tree of Life (Medley) (Rein Rutnik Performance) by Grant Dermody 
+1:16:32 Rollin' and Tumblin' (Rein Rutnik Performance) by Hambone Willie Newbern/Muddy Waters/Cream
+
+1:23:54 Ordinary Girl by Corey Heuvel 
+1:29:39 Walkin' On The Sun by Smash Mouth
+1:35:24 Into Light by Corey Heuvel 
+1:41:04 Lonely Boy by The Black Keys 
+1:46:26 Take A Picture by Filter 
+1:51:32 Semi-Charmed Life by Third Eye Blind
+1:55:58 Hysteria by Muse
+1:57:50 Layla (Unplugged) by Eric Clapton
+2:02:00 Smells Like Teen Spirit (Partial) by Nirvana
+2:02:34 Suit & Tie by Justin Timberlake ft. JAY-Z
+2:08:39 Killer Queen by Queen 
+2:11:29 Pride and Joy by Stevie Ray Vaughan 
+2:16:36 Little Wing by Jimi Hendrix 
+2:20:42 The Way You Make Me Feel by Michael Jackson
+2:25:18 Crazy by Gnarls Barkley
+2:30:14 Thirteen by Big Star/Elliott Smith
+2:33:42 Everlong by Foo Fighters
+2:40:19 Dream Brother by Jeff Buckley
+2:45:36 Wish You Were Here (I) by Incubus
+
+Livestream 4 (Audio Issues)
+https://www.youtube.com/watch?v=nCRWhvGFWUE
+2:10 Fly Like An Eagle by Steve Miller Band
+8:03 Slide by The Goo Goo Dolls
+13:37 Money by Pink Floyd
+18:00 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
+21:51 The Weight by The Band
+27:23 Drive by Incubus 
+32:17 Crazy On You by Heart
+38:07 Before You Accuse Me by Eric Clapton/Bo Diddley
+42:53 Wish You Were Here by Pink Floyd
+47:41 Paranoid Android by Radiohead
+53:04 Society by Eddie Vedder
+57:41 Learn to Fly by Foo Fighters 
+1:01:36 Ramble On (Partial) by Led Zeppelin
+1:02:21 Good Love Is On the Way (Partial) by John Mayer
+1:03:12 Superstition by Stevie Wonder
+1:10:09 Ordinary Girl by Corey Heuvel
+1:15:06 The Wind Cries Mary by Jimi Hendrix
+1:20:18 Crazy by Gnarls Barkley 
+1:27:06 Bliss from Within by Corey Heuvel
+1:31:10 In Your Eyes by Peter Gabriel
+1:36:42 Lonely Boy by The Black Keys
+1:41:37 Plush by Stone Temple Pilots
+1:48:12 Killer Queen by Queen 
+1:51:34 Blackbird by The Beatles
+1:55:47 Parchman Farm Blues by Jeff Buckley/Bukka White
+1:59:43 Big Yellow Taxi by Joni Mitchell
+2:07:44 Dream Song by Scott Matthews
+2:12:48 Black Mountain Side (Partial) by Led Zeppelin 
+2:14:38 Kiss from a Rose by Seal
+2:19:31 Once I Was by Tim Buckley 
+2:24:58 Neon by John Mayer 
+2:33:10 Solsbury Hill by Peter Gabriel
+2:37:58 Until the End by Corey Heuvel 
+2:43:40 Song For George by Eric Johnson                                              
+2:45:09 Ohio by Crosby, Stills, Nash & Young
+
+Classical Guitar                                       
+2:50:04 Adelita (Classical Guitar) by Francisco Tárrega
+2:52:01 Claire De Lune (Classical Guitar) by Claude Debussy
+
+Acoustic Guitar
+2:54:29 Voodoo Child (Slight Return) by Jimi Hendrix
+
+Livestream 5 (Audio Issues)
+https://www.youtube.com/watch?v=lfNvWAOnwQw
+2:12 Walking On The Moon by The Police
+9:16 Take It Easy by The Eagles
+14:51 Between the Bars by Elliott Smith
+15:26 Little Wing by Jimi Hendrix 
+20:49 Big Love by Fleetwood Mac
+24:39 Crazy by Gnarls Barkley 
+31:12 Cello Song by Nick Drake
+34:36 Alive by Pearl Jam
+41:11 Black Dog (Partial) by Led Zeppelin
+41:35 Day Is Done (Partial) by Nick Drake
+42:23 River Man by Nick Drake 
+45:12 Eleanor Rigby by The Beatles
+56:29 The Wasp and the Jar by Scott Matthews
+1:01:12 Time in a Bottle by Jim Croce
+1:04:22 Sweet Home Alabama (Partial) by Lynyrd Skynyrd
+1:05:20 Over the Hills and Far Away by Led Zeppelin
+1:10:35 To Be With You (Partial) by Mr. Big
+1:11:30 Wish You Were Here by Pink Floyd
+1:15:09 Ordinary Girl by Corey Heuvel
+1:19:53 Lover, You Should've Come Over by Jeff Buckley
+1:27:28 Do It Again by Steely Dan
+1:33:02 Simple Man by Lynyrd Skynyrd
+1:39:20 Back To You by Bryan Adams
+1:44:12 No Such Thing by John Mayer
+1:47:53 Miserlou (Partial) by Dick Dale
+
+Electric Guitar 
+*All Either Riffs, Improv, or Partial Songs
+1:50:26 Blues
+1:51:58 La Grange (Electric riff) by ZZ Top
+1:52:20 Life in the Fast Lane (Electric riff) by The Eagles
+1:52:58 Texas Flood (Electric riff) by Stevie Ray Vaughan
+1:53:31 Couldn't Stand the Weather (Electric riff) by Stevie Ray Vaughan
+1:54:11 Castles Made of Sand (Electric riff) by Jimi Hendrix
+1:54:53 Eruption (Electric riff) by Van Halen
+1:55:35 Layla (Electric riff) by Eric Clapton 
+1:55:58 Crazy Train (Electric riff) by Ozzy Osbourne
+1:56:34 Cocaine (Electric riff) by Eric Clapton 
+1:56:44 Billie Jean (Electric riff) by Michael Jackson 
+1:57:36 Mr. Brightside (Electric riff) by The Killers 
+1:57:58 Back In Black (Electric riff) by AC/DC
+1:58:22 Scuttle Buttin' (Electric riff) by Stevie Ray Vaughan
+1:58:51 Carry on Wayward Son (Electric riff) by Kansas
+1:59:27 Rude Mood (Electric riff) by Stevie Ray Vaughan 
+1:59:52 Can't Stop (Electric riff) by Red Hot Chili Peppers
+2:00:20 Satch Boogie (Electric Song) by Joe Satriani
+2:00:59 Sultans of Swing (Electric riff) by Dire Straits
+2:01:25 Oye Como Va (Electric riff) by Santana
+2:02:00 Hey Joe (Electric riff) by Jimi Hendrix/Billy Roberts
+2:02:25 The Heart of Life (Electric riff) by John Mayer 
+2:02:53 Cowboys from Hell (Electric riff) by Pantera
+2:03:24 I Don't Need No Doctor (Electric riff) by John Mayer/Nick Ashford
+2:03:45 Smoke on the Water (Electric riff) by Deep Purple
+2:04:11 (I Can't Get No) Satisfaction (Electric riff) by The Rolling Stones 
+2:04:50 Autumn Leaves (Electric riff) by Joseph Kosma/Jacques Prevert 
+2:05:13 D'yer Mak'er (Electric riff) by Led Zeppelin
+
+Acoustic Guitar  
+2:06:50 Until the End by Corey Heuvel
+2:12:18 Smoke on the Water (Partial) by Deep Purple
+2:13:05 Pride and Joy by Stevie Ray Vaughan
+2:17:49 Suit & Tie by Justin Timberlake ft. JAY-Z
+2:25:22 Day Tripper (Partial) by The Beatles
+2:26:51 Moondance by Van Morrison
+2:33:52 New Orleans Is Sinking (Partial) by The Tragically Hip
+2:34:15 You Make My Dreams (Come True) (Partial) by Daryl Hall and John Oates 
+2:35:28 Everybody Wants To Rule The World by Tears For Fears
+2:39:17 Lost Highway by Hank Williams/Leon Payne/Jeff Buckley
+2:43:31 Inspector Gadget Theme by Shuki Levy/Haim Saban
+2:44:06 The Simpson's Theme by Danny Elfman
+2:44:59 Push (Partial) by Moist
+2:46:14 Latest self written melody 
+2:47:10 Ramble On (Partial) by Led Zeppelin
+2:48:21 Superstition by Stevie Wonder 
+2:56:11 Satisfied Mind by Jeff Buckley/Porter Wagoner/Red Hays
+
+
+Livestream 6 (Audio Issues)
+https://www.youtube.com/watch?v=uQLC-GCPpV0
+2:29 My Sweet Lord by George Harrison 
+8:51 Time Always Tells by Corey Heuvel 
+16:28 Why Georgia by John Mayer
+22:27 Crazy by Gnarls Barkley
+27:47 Ordinary Girl by Corey Heuvel
+35:10 Pride and Joy by Stevie Ray Vaughan
+42:02 Giving Up by Corey Heuvel
+46:38 Ain't No Sunshine by Bill Withers 
+49:14 Castles Made of Sand by Jimi Hendrix
+54:33 Voodoo Child (Slight Return) by Jimi Hendrix
+1:01:44 No Diggity by Blackstreet
+1:08:18 Ramble On by Led Zeppelin 
+1:13:38 Superstition by Stevie Wonder 
+1:20:53 I Don't Need No Doctor by John Mayer
+1:21:04 Pinball Wizard by The Who
+1:26:18 Improv 
+1:27:40 Big Yellow Taxi by Joni Mitchell 
+1:33:38 Until the End by Corey Heuvel
+
+Livestream 6 (Cont.) (Audio Issues)
+https://www.youtube.com/watch?v=Yz6bDH9k1Fk
+4:01 Dreams by Fleetwood Mac
+9:49 Solsbury Hill by Peter Gabriel
+17:20 The Wind Cries Mary by Jimi Hendrix 
+22:20 Canned Heat by Jamiroquai
+29:52 Let It Down by George Harrison
+34:39 Plush by Stone Temple Pilots
+40:29 Life by the Drop by Stevie Ray Vaughan
+44:30 Dust in the Wind by Kansas
+48:27 The Longest November (Partial) by Corey Heuvel 
+50:23 Last Goodbye by Jeff Buckley 
+56:39 Sex & Candy by Marcy Playground 
+1:00:25 Summertime by George Gershwin 
+1:05:39 Little Wing by Jimi Hendrix 
+1:09:21 Before You Accuse Me by Eric Clapton/Bo Diddley
+1:15:25 Never Going Back Again by Fleetwood Mac
+1:18:33 The Way Young Lovers Do Van Morrison/Jeff Buckley
+1:25:34 Black Hole Sun by Soundgarden
+1:31:40 All Along the Watchtower by Bob Dylan/Jimi Hendrix
+1:37:55 Money by Pink Floyd
+
+Livestream 7 (Audio Issues)
+https://www.youtube.com/watch?v=F7kc9DzOJgk
+1:56 You've Got To Hide Your Love Away by The Beatles
+6:08 Lookin' Out My Back Door by Creedence Clearwater Revival
+9:28 Lonely Boy by The Black Keys
+16:10 Human Nature by Michael Jackson
+21:55 The Island by Pendulum
+27:44 Solsbury Hill by Peter Gabriel
+33:45 Song 2 (Partial) by Blur 
+34:13 Under the Bridge by Red Hot Chili Peppers
+38:45 Fast Car by Tracy Chapman
+45:12 Ordinary Girl by Corey Heuvel 
+50:59 A Thousand Miles by Vanessa Carlton
+55:30 I'm Gonna Be (500 Miles) by The Proclaimers 
+57:28 Ain't No Sunshine by Bill Withers 
+1:02:18 Blackbird by The Beatles
+1:06:41 Sitting, Waiting, Wishing by Jack Johnson 
+1:10:42 Do It Again by Steely Dan
+1:17:40 Hey Hey by Eric Clapton/Big Bill Broonzy
+1:22:23 Like a Rolling Stone by Bob Dylan
+1:29:56 Hey Joe by Jimi Hendrix
+1:34:32 Into Light by Corey Heuvel
+1:44:22 Street Spirit (Fade Out) by Radiohead
+1:45:37 Superstition by Stevie Wonder
+1:52:21 Everlong by Foo Fighters
+1:58:26 People Are Strange by The Doors 
+2:00:34 Pride and Joy by Stevie Ray Vaughan
+2:06:15 Like a Stone by Audioslave
+2:11:35 Yellow Ledbetter by Pearl Jam
+2:14:36 Castles Made of Sand by Jimi Hendrix
+2:19:44 Tush (Partial) by ZZ Top 
+2:19:50 Run To You (Partial) by Bryan Adams 
+2:20:40 Old Man by Neil Young
+2:25:14 Until the End by Corey Heuvel
+2:32:20 Walkin' On The Sun by Smash Mouth
+2:38:41 Here Comes The Sun (Partial) by The Beatles
+2:40:47 All Along the Watchtower by Bob Dylan/Jimi Hendrix
+2:46:04 Asturias (Leyenda) by Isaac Albéniz 
+2:47:03 Pavana by Francisco Tárrega
+2:48:36 Wish You Were Here by Pink Floyd
+2:51:49 Is There Anybody Out There? by Pink Floyd
+2:54:13 Song For George by Eric Johnson
+2:55:40 Ohio by Crosby, Stills, Nash & Young
+3:00:09 Mama, I'm Coming Home by Ozzy Osbourne
+3:01:32 Paranoid (Partial) by Black Sabbath
+3:01:40 War Pigs (Partial) by Black Sabbath
+3:01:53 Bouree In E Minor by Johann Sebastian Bach 
+3:02:36 Prelude in E major BWV 1006a by Johann Sebastian Bach
+3:08:00 Little Wing by Jimi Hendrix
+3:13:50 Wanted Dead Or Alive by Bon Jovi 
+3:14:46 Crazy by Gnarls Barkley 
+3:20:21 Satisfied Mind by Jeff Buckley/Porter Wagoner/Red Hays
+
+
+Livestream 8 (Audio Issues)
+https://www.youtube.com/watch?v=x3skjeOvXxo
+2:18 Vultures by John Mayer 
+7:20 Come As You Are by Nirvana
+9:24 1979 by The Smashing Pumpkins
+14:17 Every Breath You Take (Partial) by The Police
+15:24 Crash Into Me (Partial) by Dave Matthews Band
+15:47 Grace (Partial) by Jeff Buckley
+16:21 Crazy by Gnarls Barkley
+21:39 Rock Me Baby (Partial) by Jimi Hendrix
+22:40 Ordinary Girl by Corey Heuvel 
+28:05 I Won't Back Down by Tom Petty
+32:23 Fool in the Rain by Led Zeppelin
+39:42 Blue on Black by Kenny Wayne Shepherd
+45:07 Money by Pink Floyd
+52:10 The Way You Make Me Feel by Michael Jackson
+57:30 Never Going Back Again by Fleetwood Mac
+1:01:29 Heroes by David Bowie
+1:06:55 Voodoo Child (Slight Return) by Jimi Hendrix
+1:13:21 Angel from Montgomery by John Prine
+1:19:18 Like a Stone by Audioslave
+1:23:58 Baby, I Love Your Way (Partial) by Peter Gabriel 
+1:24:37 Solsbury Hill by Peter Gabriel
+1:29:34 Hallelujah by Jeff Buckley/Leonard Cohen
+1:36:11 Do It Again by Steely Dan
+
+Electric guitar 
+1:43:37 S.R.V (Electric riff) by Eric Johnson
+1:46:42 Scuttle Buttin' (Electric riff) by Stevie Ray Vaughan
+1:47:10 Kashmir (Electric riff) by Led Zeppelin
+1:47:50 Slow Jam improv
+1:50:35 Mary Had a Little Lamb (Electric riff) by Stevie Ray Vaughan/Buddy Guy
+1:53:15 Lenny (Electric riff) by Stevie Ray Vaughan
+1:54:12 Riveria Paradise (Electric riff) by Stevie Ray Vaughan
+1:54:32 For the Love of God (Electric riff) by Steve Vai
+1:54:54 Erotic Nightmares (Electric riff) by Steve Vai
+1:55:37 Little Wing (Electric riff) by Jimi Hendrix
+1:59:19 Red House (Electric riff) by Jimi Hendrix 
+2:01:07 Black Dog (Electric riff) by Led Zeppelin
+2:01:55 Rock and Roll (Electric riff) by Led Zeppelin 
+2:03:18 Whole Lotta Love (Electric riff) by Led Zeppelin 
+2:04:20 Ain't No Sunshine (Electric riff) by Bill Withers 
+2:05:32 Hey Joe (Electric riff) by Jimi Hendrix
+2:07:38 Cowboys from Hell (Electric riff) by Pantera
+2:08:19 Mouth for War (Electric riff) by Pantera
+2:08:59 Blues lick 
+2:09:11 Ain't Talkin' 'Bout Love (Electric riff) by Van Halen
+2:09:56 Guerrilla Radio (Electric riff) by Rage Against The Machine
+2:10:22 Bulls On Parade (Electric riff) by Rage Against The Machine 
+2:10:35 Money for Nothing (Electric riff) by Dire Straits
+2:11:10 Roxanne (Electric riff) by The Police 
+2:11:53 Good Love Is On the Way (Electric riff) by John Mayer
+
+Acoustic guitar 
+2:13:55 Behind Blue Eyes by The Who
+2:19:01 Old Time Rock & Rock by Bob Seger
+2:23:06 Tell Me Why by Neil Young
+2:28:58 You Got It by Roy Orbison
+2:33:51 Place To Be by Nick Drake
+2:37:29 Until the End by Corey Heuvel
+2:42:39 So Real by Jeff Buckley
+2:46:53 Pride and Joy by Stevie Ray Vaughan
+
+
+Livestream 10 (Audio Issues)
+https://www.youtube.com/watch?v=JOWxGQN4x5Y
+2:02 Eleanor Rigby by The Beatles
+10:12 Big Love by Fleetwood Mac
+13:38 Take It Easy by The Eagles 
+18:13 The Wind Cries Mary by Jimi Hendrix
+22:26 Gravity by John Mayer
+26:17 Beat It (Partial) by Michael Jackson/Eddie Van Halen
+27:14 Ramble On by Led Zeppelin
+33:34 Feeling Good (Partial) by Nina Simone
+33:58 Money by Pink Floyd
+42:18 Angel from Montgomery by John Prine
+46:29 Crazy by Gnarls Barkley 
+51:40 Explanation of Solo in Crazy
+52:16 Giant Steps (Partial) by John Coltrane 
+53:46 Interstate Love Song by Stone Temple Pilots
+58:50 Ordinary Girl by Corey Heuvel
+1:06:18 Belief by John Mayer
+1:11:30 Eternal Life by Jeff Buckley
+1:17:29 Lonely Boy by The Black Keys
+1:22:42 Angie by The Rolling Stones
+1:28:17 Tiny Dancer by Elton John
+1:33:35 That's the Way by Led Zeppelin
+1:39:56 Ohio by Crosby, Stills, Nash & Young
+1:45:06 It Ain't Me Babe by Bob Dylan
+1:50:49 Kiss Me by Sixpence None The Richer
+1:54:40 Wild World by Yusuf / Cat Stevens
+1:57:46 It’s Not Unusual (Partial) by Tom Jones
+1:58:54 Lookin' Out My Back Door by Creedence Clearwater Revival
+2:02:13 Rosanna (Partial) by Toto
+2:03:36 Spanish Castle Magic by Jimi Hendrix
+2:07:58 Breathe (In the Air) by Pink Floyd
+2:09:58 Time by Pink Floyd
+2:14:39 Never Going Back Again by Fleetwood Mac
+2:18:06 The Logical Song by Supertramp
+2:23:31 Everlong by Foo Fighters
+2:29:08 Black Hole Sun by Soundgarden
+2:35:58 Everybody Wants To Rule The World by Tears For Fears
+2:40:32 Empty Arms by Stevie Ray Vaughan
+2:46:35 If It's Wrong (It's Alright) by Corey Heuvel
+2:53:32 Higher Ground by Stevie Wonder
+
+
+Livestream 11 (Audio Issues)
+https://www.youtube.com/watch?v=lq5YJLgEDWI
+1:55 No Diggity by Blackstreet
+8:47 Solsbury Hill by Peter Gabriel
+14:00 Something Like Olivia by John Mayer
+19:03 Do It Again by Steely Dan
+25:34 Life by the Drop by Stevie Ray Vaughan
+29:21 Comfortably Numb by Pink Floyd
+35:28 The Way You Make Me Feel by Michael Jackson
+40:05 Rocky Mountain Way (Partial) by Joe Walsh 
+41:12 Life's Been Good (Partial) by Joe Walsh
+42:17 Ordinary Girl by Corey Heuvel
+48:01 Layla (Unplugged) by Eric Clapton
+57:11 My My, Hey Hey (Out of the Blue) by Neil Young
+1:01:29 Crazy by Gnarls Barkley
+1:06:13 In Your Eyes by Peter Gabriel
+1:13:04 Fast Car by Tracy Chapman
+1:18:49 Have You Ever Seen The Rain by Creedence Clearwater Revival
+1:23:42 Slide by The Goo Goo Dolls
+1:28:34 Slow Dancing in a Burning Room by John Mayer
+1:34:08 Into Light by Corey Heuvel
+1:39:18 Hyper picking tips (Dust in the wind - Kansas)
+1:40:40 Fool in the Rain by Led Zeppelin
+1:47:00 While My Guitar Gently Weeps by The Beatles
+1:53:09 Barracuda (Partial) by Heart
+1:54:29 Space Oddity by David Bowie
+2:02:49 Into the Mystic by Van Morrison
+2:07:56 Superstition by Stevie Wonder
+2:14:45 Skinny Love by Bon Iver/Birdy 
+2:19:24 Lover, You Should've Come Over by Jeff Buckley
+2:25:32 Riders on the Storm (Partial) by The Doors 
+2:27:48 Pride and Joy by Stevie Ray Vaughan
+2:34:44 Heart-Shaped Box by Nirvana
+2:40:39 Canarios by Gaspar Sanz
+2:42:23 Jeremy (Partial) by Pearl Jam
+2:43:06 Paint It, Black by The Rolling Stones
+2:43:43 Let's Go Crazy (Partial) by Prince 
+2:44:45 I Still Haven't Found What I'm Looking For by U2
+2:49:34 Valerie by Amy Winehouse
+2:55:19 Moondance by Van Morrison
+
+
+Livestream 12 (Audio Issues)
+https://www.youtube.com/watch?v=B5AJb0_vLS4
+1:47 Tell Me by Stevie Ray Vaughan 
+6:18 3AM by Matchbox Twenty 
+11:48 Stop This Train by John Mayer
+17:49 One Of These Things First by Nick Drake
+23:38 1979 by The Smashing Pumpkins
+30:03 Pride and Joy by Stevie Ray Vaughan
+39:47 Killer Queen by Queen
+43:50 Solsbury Hill by Peter Gabriel
+49:07 Have a Cigar by Pink Floyd 
+54:24 Spanish Castle Magic by Jimi Hendrix
+58:25 Ordinary Girl by Corey Heuvel
+1:04:24 Black Star by Radiohead
+1:10:08 Neon by John Mayer 
+1:19:33 That's the Way by Led Zeppelin
+
+Guitar & Harmonica 
+1:26:18 Rollin' and Tumblin' (Rein Rutnik Performance) by Hambone Willie Newbern/Muddy Waters/Cream
+1:31:02 Dear Mr. Fantasy (Rein Rutnik Performance) by Traffic
+1:36:02 Ice Water Blues (Rein Rutnik Performance) by Deford Bailey
+1:38:24 Before You Accuse Me (Rein Rutnik Performance) by Eric Clapton/Bo Diddley
+
+Acoustic Guitar
+1:44:40 Cactus Tree by Joni Mitchell 
+1:49:47 Harmonics
+1:50:52 Ohio by Crosby, Stills, Nash & Young
+1:55:08 Voodoo Child (Slight Return) by Jimi Hendrix
+2:01:17 L.A. Woman by The Doors
+2:07:58 Something by The Beatles
+2:11:45 Crazy by Gnarls Barkley
+2:17:01 Bliss from Within by Corey Heuvel 
+2:20:58 Roxanne by The Police
+2:23:21 Nights In White Satin by The Moody Blues
+2:30:28 Do It Again by Steely Dan
+2:37:58 Time in a Bottle by Jim Croce
+2:40:46 Life by the Drop by Stevie Ray Vaughan/Doyle Bramhall
+2:44:15 All These Things That I've Done by The Killers
+2:50:24 Little Wing by Jimi Hendrix
+2:54:55 Money by Pink Floyd
+
+Livestream 13 (Audio Issues)
+https://www.youtube.com/watch?v=kQ22XhKN3Jw
+2:45 Tell Me Why by Neil Young
+7:09 Recuerdos De la Alhambra (Partial) by Francisco Tárrega 
+8:44 Walking On The Moon by The Police
+14:44 Crazy by Gnarls Barkley
+22:27 Hey Joe by Jimi Hendrix
+29:19 Ordinary Girl by Corey Heuvel
+34:23 Behind Blue Eyes by The Who
+39:30 Texas Flood by Stevie Ray Vaughan
+45:08 Paranoid Android by Radiohead
+51:26 Riptide by Vance Joy
+56:30 Midnight Rider by Allman Brothers Band
+1:01:43 Dancing In the Dark by Bruce Springsteen
+1:06:58 Thriller by Michael Jackson 
+1:12:29 Til I Am Myself Again by Blue Rodeo
+1:17:35 Over The Hill by John Martyn
+1:23:17 Dreams by Fleetwood Mac
+1:28:38 Ramble On by Led Zeppelin 
+1:33:58 All Along the Watchtower by Bob Dylan/Jimi Hendrix
+1:42:10 Tightrope by Stevie Ray Vaughan
+1:48:21 Layla (Unplugged) by Eric Clapton
+1:54:02 The Scientist by Coldplay 
+2:00:40 Yesterday by The Beatles
+2:05:26 Rebel Rebel by David Bowie
+2:09:46 Don’t Worry Be Happy (Partial) by Bobby McFerrin
+2:11:39 Manic Depression by Jimi Hendrix
+2:16:38 City Headache by Scott Matthews
+2:22:05 River Man by Nick Drake
+2:25:33 Time by Pink Floyd
+2:30:22 It's Only Rock'n'Roll (But I Like It) by The Rolling Stones
+2:35:34 Just Breathe by Pearl Jam
+2:40:08 Rock'n Me by Steve Miller Band
+2:40:35 Jet Airliner by Steve Miller Band 
+2:45:51 Black or White (Partial) by Michael Jackson
+2:46:44 No Diggity by Blackstreet 
+2:51:58 Never Going Back Again by Fleetwood Mac
+2:55:20 Superstition by Stevie Wonder
+
+Livestream 14 (Audio Issues)
+https://www.youtube.com/watch?v=oGvWPFlm1fM
+1:28 Fly Like An Eagle by Steve Miller Band
+7:23 Purple Haze by Jimi Hendrix 
+11:23 Cinnamon Girl by Neil Young
+15:56 Lonely Boy by The Black Keys
+25:06 Lucky Man by The Verve
+29:41 Jesus Just Left Chicago by ZZ Top
+32:47 White Room by Cream
+42:46 Between the Bars by Elliott Smith
+48:20 Come On In My Kitchen by Robert Johnson
+54:14 Change It by Stevie Ray Vaughan 
+59:25 Old Man by Neil Young
+1:03:41 Crazy On You by Heart
+1:09:17 Hole Hearted by Extreme
+1:14:48 Carolina in my Mind by James Taylor
+1:20:17 Plush by Stone Temple Pilots 
+1:26:34 Ordinary Girl by Corey Heuvel
+1:30:55 Wondering Where The Lions Are (Partial) by Bruce Cockburn
+1:32:31 Hey You by Pink Floyd 
+1:39:33 So Real by Jeff Buckley
+1:44:58 I Don't Need No Doctor by John Mayer/Nick Ashford
+1:50:24 Wonderwall by Oasis/Ryan Adams
+1:56:51 Heart-Shaped Box by Nirvana
+2:02:58 Doin' Time by Sublime
+2:08:32 No Rain by Blind Melon
+2:14:32 May You Never by John Martyn
+2:19:04 Can't Find My Way Home by Blind Faith/Steve Winwood
+2:23:10 Castles Made of Sand by Jimi Hendrix
+2:27:02 Crazy by Gnarls Barkley
+2:32:17 High and Dry Radiohead
+2:37:10 Take It Easy by The Eagles
+2:41:57 Pride and Joy by Stevie Ray Vaughan
+2:48:20 Dust in the Wind by Kansas
+2:54:40 Canned Heat by Jamiroquai
+
+Livestream 15 (Audio Issues)
+https://www.youtube.com/watch?v=01eDLSmTMtQ
+2:16 The House Is Rockin' by Stevie Ray Vaughan
+6:21 Green River by Creedence Clearwater Revival
+11:19 Summertime by George Gershwin/Ella Fitzgerald 
+17:07 Blue on Black by Kenny Wayne Shepherd
+23:23 Solsbury Hill by Peter Gabriel
+31:30 Pinball Wizard by The Who
+36:39 Money by Pink Floyd
+44:05 The Wind Cries Mary by Jimi Hendrix
+49:27 Until the End by Corey Heuvel
+56:54 Human Nature by Michael Jackson
+1:02:24 Layla (Unplugged) by Eric Clapton
+1:06:47 Venture Highway (Partial) by America, George Martin
+1:06:47 Someone To Call My Lover (Partial) by Janet Jackson
+1:09:22 Ahead By A Century by The Tragically Hip
+1:14:59 Interstate Love Song by Stone Temple Pilots
+1:19:42 Ordinary Girl by Corey Heuvel
+1:24:36 Across The Universe by The Beatles
+1:32:01 Hit the Road Jack by Ray Charles
+1:35:18 A Thousand Miles by Vanessa Carlton 
+1:41:48 Black Hole Sun by Soundgarden
+1:47:16 Lola by The Kinks
+1:51:32 The Needle and the Damage Done by Neil Young
+1:54:26 Angie by The Rolling Stones
+1:59:10 Limelight by Rush
+2:04:26 Dream Brother by Jeff Buckley
+2:10:45 Santeria by Sublime
+2:14:48 Superstition by Stevie Wonder
+2:21:58 Rocket Man by Elton John
+2:27:55 House Of The Rising Sun by The Animals
+2:33:40 Moondance by Van Morrison
+2:43:51 Rock And Roll All Nite (Partial) by Kiss
+2:45:07 Neon by John Mayer
+2:53:55 Little Wing by Jimi Hendrix
+
+
+Livestream 16 (Audio Issues)
+https://www.youtube.com/watch?v=H_j-P2w0QaA
+1:46 (Sittin' On) the Dock of the Bay by Otis Redding
+7:23 Bold as Love by Jimi Hendrix
+12:39 Everlong by Foo Fighters
+21:54 Before You Accuse Me by Eric Clapton/Bo Diddley
+26:46 If You Could Only See by Tonic
+32:50 Ordinary Girl by Corey Heuvel
+38:07 Never Going Back Again by Fleetwood Mac
+43:07 Slow Dancing in a Burning Room by John Mayer
+48:42 My Sweet Lord by George Harrison
+53:44 Crazy by Gnarls Barkley 
+58:35 Love Struck Baby by Stevie Ray Vaughan
+1:03:14 Kiss from a Rose by Seal
+1:08:11 Going to California (Partial) by Led Zeppelin
+1:09:58 Eleanor Rigby by The Beatles
+1:17:03 Prelude in C Minor, BMV 999 by Johann Sebastian Bach
+1:19:47 The Boy with the Thorn in His Side by The Smiths
+1:25:37 Bouree In E Minor (Classical Guitar) by Johann Sebastian Bach
+1:27:29 Study in B-Minor (Classical Guitar) by Fernando Sor
+1:30:08 Mother Divine by Corey Heuvel
+1:36:42 Brain Damage by Pink Floyd
+1:39:32 Eclipse by Pink Floyd
+1:42:16 Grace by Jeff Buckley
+1:50:27 Voodoo Child (Slight Return) by Jimi Hendrix
+1:57:39 Crossroads by Cream/Robert Johnson
+2:02:10 Sultans of Swing by Dire Straits
+2:09:55 Lookin' Out My Back Door by Creedence Clearwater Revival
+2:14:25 Bliss from Within by Corey Heuvel
+2:19:18 Wondering Where The Lions Are by Bruce Cockburn
+2:24:25 Classical Gas by Mason Williams/Tommy Emmanuel
+2:28:02 All These Things That I've Done by The Killers
+2:32:49 Rise by Eddie Vedder 
+2:37:34 Ordinary Day by Great Big Sea
+2:43:40 Behind Blue Eyes by The Who
+2:49:17 Black Hole Sun by Soundgarden
+2:55:32 Do It Again by Steely Dan
+
+
+Livestream 17 (Audio Issues)
+https://www.youtube.com/watch?v=Bdi0EGV_zpY
+1:58 You've Got To Hide Your Love Away by The Beatles
+7:27 Green River by Creedence Clearwater Revival
+12:20 Tightrope by Stevie Ray Vaughan
+17:45 The Wind Cries Mary by Jimi Hendrix
+22:44 Under the Bridge by Red Hot Chili Peppers
+27:46 Deuces are Wild by Aerosmith
+33:31 Cuts Like A Knife by Bryan Adams
+38:52 Ramblin' Man by Allman Brothers Band
+45:48 Ordinary Girl by Corey Heuvel
+51:15 Bold as Love by Jimi Hendrix
+55:30 Burn One Down by Ben Harper
+1:00:03 Solsbury Hill by Peter Gabriel
+1:06:30 Mr. Brightside by The Killers
+1:14:42 Wanted Dead Or Alive by Bon Jovi
+1:19:38 Crazy by Gnarls Barkley
+1:25:49 California Dreamin' by The Mamas & The Papas/José Feliciano
+1:31:43 The House Is Rockin' by Stevie Ray Vaughan
+1:35:52 Wheat Kings by The Tragically Hip
+1:42:14 Have a Cigar by Pink Floyd
+1:47:29 Time Always Tells by Corey Heuvel
+1:52:38 Nights In White Satin by The Moody Blues
+1:58:18 Can't Find My Way Home by Blind Faith
+2:04:24 Circle Game by Joni Mitchell
+2:09:36 Harmonics
+2:10:00 Song For George by Eric Johnson
+2:11:54 Ohio by Crosby, Stills, Nash & Young
+2:17:26 Thunderstruck (Partial) by AC/DC
+2:18:19 Superstition by Stevie Wonder
+2:28:14 Fake Plastic Trees by Radiohead
+2:34:43 Killer Queen by Queen
+2:37:23 Pride and Joy by Stevie Ray Vaughan
+2:42:53 Ramble On by Led Zeppelin
+2:47:21 Miserlou (Partial) by Dick Dale
+2:47:40 Lost Highway by Hank Williams/Leon Payne/Jeff Buckley
+2:55:38 Moondance by Van Morrison
+
+
+Livestream 18 (Audio Issues)
+https://www.youtube.com/watch?v=JR6OhpR0pU0
+1:00 Lonely Boy by The Black Keys
+8:26 Midnight Rider by Allman Brothers Band
+13:16 Drive by Incubus
+18:20 Solsbury Hill by Peter Gabriel
+23:43 Ordinary Girl by Corey Heuvel
+28:44 Pinball Wizard by The Who
+32:53 Spanish Castle Magic by Jimi Hendrix
+38:11 Lookin' Out My Back Door by Creedence Clearwater Revival
+41:39 Why Georgia by John Mayer
+49:37 Nutshell by Alice In Chains
+54:29 Breathe (In the Air) by Pink Floyd
+56:25 Time by Pink Floyd
+1:01:54 Time in a Bottle by Jim Croce
+1:05:46 Phone Call from Leavenworth by Chris Whitley
+1:11:29 Way to the Sea by Corey Heuvel
+1:16:45 Diminished chords 
+1:18:29 White Room by Cream
+1:25:13 Dark Horse by Amanda Marshall 
+1:33:11 Big Love by Fleetwood Mac
+1:38:13 Human Nature by Michael Jackson
+1:42:55 Ramble On by Led Zeppelin
+1:49:21 Simple Man by Lynyrd Skynyrd
+1:56:35 Touch of Grey by Grateful Dead
+2:03:16 Little Green by Joni Mitchell
+2:08:51 If It's Wrong (It's Alright) by Corey Heuvel
+2:14:00 The Logical Song by Supertramp 
+2:19:14 Voodoo Child (Slight Return) by Jimi Hendrix
+2:25:59 Wild Horses by The Rolling Stones
+2:32:12 The Man Who Sold the World by David Bowie/Nirvana
+2:36:52 Change It by Stevie Ray Vaughan
+2:41:47 All Along the Watchtower by Bob Dylan/Jimi Hendrix
+2:48:55 Jeremy by Pearl Jam
+2:54:19 Superstition by Stevie Wonder
+
+
+Livestream 19 (Audio Issues)
+https://www.youtube.com/watch?v=9rSlmMNfOkY
+1:48 Something Like Olivia by John Mayer
+5:57 The Night They Drove Old Dixie Down by The Band
+10:43 Castles Made of Sand by Jimi Hendrix
+16:40 Can't Stop by Red Hot Chili Peppers
+23:11 Money by Pink Floyd
+28:51 Photograph (Partial) by Nickelback 
+31:10 Champagne Supernova by Oasis
+35:26 Song 2 (Partial) by Blur
+36:20 Ordinary Girl by Corey Heuvel
+42:45 You Are the Best Thing by Ray LaMontagne
+47:55 Hey Hey by Eric Clapton/Big Bill Broonzy
+52:40 Johnny B. Goode by Chuck Berry
+57:30 Vincent by Don McLean
+1:02:19 Crazy by Gnarls Barkley 
+1:08:09 Elderly Woman Behind the Counter in a Small Town by Pearl Jam
+1:12:38 Voodoo Child (Slight Return) by Jimi Hendrix
+1:18:47 Improv 
+1:20:27 Big Yellow Taxi by Joni Mitchell
+1:26:38 That Song by Big Wreck
+1:33:12 Take It Easy by The Eagles
+1:38:04 Hard To Handle by The Black Crowes 
+1:43:45 God Knows (I Love You Madly) by Corey Heuvel
+1:49:05 Times Like These by Foo Fighters
+1:53:19 Empty Arms by Stevie Ray Vaughan
+1:57:14 Beast Of Burden by The Rolling Stones
+2:02:13 I Still Haven't Found What I'm Looking For by U2
+2:07:48 All Apologies by Nirvana
+2:12:49 I Don't Need No Doctor by John Mayer
+2:18:48 Evers by Corey Heuvel
+2:24:45 Walkin' On The Sun by Smash Mouth
+2:29:43 Solsbury Hill by Peter Gabriel
+2:38:51 The Island by Pendulum
+2:44:31 Moondance by Van Morrison
+2:51:25 Like a Rolling Stone by Bob Dylan
+2:57:29 Pride and Joy by Stevie Ray Vaughan
+
+Livestream 20 (Audio Issues)
+https://www.youtube.com/watch?v=-qOHuGWt_Pw
+3:14 Dream Song by Scott Matthews
+9:09 Hey Joe by Jimi Hendrix 
+16:14 Time Always Tells by Corey Heuvel
+22:16 The Wheels on the Bus by Nursery Rhyme
+23:33 Blackbird by The Beatles 
+27:19 Before You Accuse Me by Eric Clapton/Bo Diddley
+33:43 Slide by The Goo Goo Dolls
+40:49 Old Man by Neil Young                                                                     
+47:20 Neon by John Mayer 
+
+Livestream 21 (Audio Issues)
+https://www.youtube.com/watch?v=TTj_ZKaAVWo
+2:11 Vultures by John Mayer
+8:31 Cinnamon Girl by Neil Young
+12:15 Manic Depression by Jimi Hendrix
+17:04 If It's Wrong (It's Alright) by Corey Heuvel
+23:34 Schism (Partial) by Tool 
+23:57 Plush by Stone Temple Pilots
+30:40 Over the Hills and Far Away by Led Zeppelin
+37:15 Champagne Supernova by Oasis
+43:16 Come On In My Kitchen by Robert Johnson
+48:11 Way to the Sea by Corey Heuvel
+53:37 Crazy by Gnarls Barkley
+1:00:55 Night Moves by Bob Seger
+1:08:29 Life by the Drop by Stevie Ray Vaughan
+1:13:29 Neon by John Mayer
+1:24:51 Ordinary Girl by Corey Heuvel
+1:30:11 Redemption Song by Bob Marley/Bob Marley & The Wailers
+1:34:34 Little Wing by Jimi Hendrix
+1:39:11 Solsbury Hill by Peter Gabriel
+1:44:13 Sleepwalk by Santo & Johnny/Betsy Brye
+1:48:24 L.A. Woman by The Doors
+1:55:56 Lola by The Kinks
+2:01:25 The Way You Make Me Feel by Michael Jackson
+2:07:11 Until the End by Corey Heuvel
+2:13:04 No Rain by Blind Melon
+2:18:27 I Won't Back Down by Tom Petty
+2:22:30 While My Guitar Gently Weeps by The Beatles
+2:27:14 Voodoo Child (Slight Return) by Jimi Hendrix
+2:34:23 Jumpin' Jack Flash by The Rolling Stones
+2:39:02 I Shall Be Released by Bob Dylan/Jeff Buckley
+2:46:00 Memories (M) by Corey Heuvel
+2:51:49 Cold Shot by Stevie Ray Vaughan
+2:55:54 Superstition by Stevie Wonder
+
+Livestream 22 (Audio Issues)
+https://www.youtube.com/watch?v=twwoDRDMthg
+2:22 Glenn Tipton by Sun Kil Moon
+8:56 The House Is Rockin' by Stevie Ray Vaughan
+12:38 Crazy On You by Heart
+19:02 At the Creek by Corey Heuvel
+26:27 Fall to Pieces by Velvet Revolver
+32:06 Fool in the Rain by Led Zeppelin
+39:04 Stones In My Passway by Robert Johnson
+44:08 The Boy with the Thorn in His Side by The Smiths
+49:27 Paranoid Android by Radiohead
+55:33 Ordinary Girl by Corey Heuvel
+1:01:17 Crazy by Gnarls Barkley
+1:06:53 Lithium by Nirvana
+1:12:25 Losing My Religion (Mandolin) by R.E.M
+1:18:11 Castles Made of Sand by Jimi Hendrix
+1:23:24 If I Ain’t Got You by Alicia Keys
+1:27:56 Ramblin' Man by Allman Brothers Band
+1:32:39 Going to California by Led Zeppelin
+1:37:38 My My, Hey Hey (Out of the Blue) by Neil Young
+1:41:24 Pride and Joy by Stevie Ray Vaughan
+1:46:27 Starbird by Corey Heuvel
+1:52:54 A Thousand Miles by Vanessa Carlton 
+1:58:30 Fast Car by Tracy Chapman
+2:05:08 Message In A bottle by The Police
+2:11:49 Solsbury Hill by Peter Gabriel 
+2:18:10 Song To the Siren by Tim Buckley
+2:23:20 Last Goodbye by Jeff Buckley
+2:31:04 Limelight by Rush 
+2:35:32 Voodoo Child (Slight Return) by Jimi Hendrix
+2:43:16 Slow Dancing in a Burning Room by John Mayer
+2:50:32 Satisfied Mind by Jeff Buckley/Porter Wagoner/Red Hays
+2:55:01 Moondance by Van Morrison
+
+
+Livestream 23 (Audio Issues)
+https://www.youtube.com/watch?v=0nRONZ-KEQk
+1:22 Fly Like An Eagle by Steve Miller Band
+7:55 Interstate Love Song by Stone Temple Pilots
+12:44 Lookin' Out My Back Door by Creedence Clearwater Revival
+16:23 The Simpson's Theme by Danny Elfman
+20:45 Into Light by Corey Heuvel
+28:56 Money by Pink Floyd 
+36:01 Under the Bridge by Red Hot Chili Peppers
+41:26 Phone Call from Leavenworth by Chris Whitley
+47:37 Way to the Sea by Corey Heuvel 
+54:12 Spanish Castle Magic by Jimi Hendrix
+1:00:51 The Wind Cries Mary by Jimi Hendrix
+1:04:55 Lonely Boy by The Black Keys
+1:11:21 Ordinary Girl by Corey Heuvel 
+1:16:53 My Sweet Lord by George Harrison
+1:21:32 Angelina by Tommy Emmanuel 
+1:25:25 I Don't Need No Doctor by John Mayer
+1:30:48 People's Parties by Joni Mitchell
+1:34:15 Parchman Farm Blues by Jeff Buckley/Bukka White
+1:40:57 Someday We'll All Be Free by Donny Hathaway 
+1:46:53 Breathe (In the Air) by Pink Floyd
+1:48:49 Time by Pink Floyd 
+1:55:40 No Diggity by Blackstreet
+2:01:01 Sweet Thing by Van Morrison
+2:07:07 Improv
+2:08:06 Old Man by Neil Young
+2:12:13 Improv
+2:12:58 Drive by Incubus
+2:18:11 Grace by Jeff Buckley
+2:30:18 Giving Up by Corey Heuvel
+2:36:06 Cactus Tree by Joni Mitchell
+2:42:19 Takin' Care Of Business (Partial) by Bachman-Turner Overdrive 
+2:44:56 Superstition by Stevie Wonder
+2:55:59 Ramble On by Led Zeppelin
+
+Livestream 24 (Audio Issues)
+https://www.youtube.com/watch?v=XxWeHmiEot0
+2:30 Over The Hill by John Martyn
+9:09 Eleanor Rigby by The Beatles
+17:07 The Way You Make Me Feel by Michael Jackson
+22:28 Starbird by Corey Heuvel 
+30:22 (Sittin' On) the Dock of the Bay by Otis Redding
+35:03 Things Behind The Sun by Nick Drake
+40:52 Lucky Man by The Verve
+46:48 Tell Me by Stevie Ray Vaughan
+52:09 Mother Divine by Corey Heuvel
+58:02 Have a Cigar by Pink Floyd
+1:04:43 In Your Eyes by Peter Gabriel
+1:12:17 Ordinary Girl by Corey Heuvel
+1:18:37 Neon by John Mayer
+1:27:58 Hideaway by Kiesza 
+1:34:38 Big Love by Fleetwood Mac
+1:39:38 Doin' Time by Sublime
+1:46:56 Both Sides Now by Joni Mitchell
+1:53:07 Hand in My Pocket by Alanis Morissette
+1:59:46 Bliss from Within by Corey Heuvel
+2:04:56 Castles Made of Sand by Jimi Hendrix
+2:09:28 Hey Hey by Eric Clapton/Big Bill Broonzy
+2:13:44 Simple Man by Lynyrd Skynyrd
+2:22:35 Suit & Tie by Justin Timberlake ft. JAY-Z
+2:28:17 Pride and Joy by Stevie Ray Vaughan
+2:33:08 Crazy by Gnarls Barkley
+2:39:43 Queenstown by Corey Heuvel
+2:45:32 Black Hole Sun by Soundgarden
+2:53:01 Do It Again by Steely Dan
+2:58:59 Voodoo Child (Slight Return) by Jimi Hendrix

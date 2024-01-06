@@ -7,30 +7,26 @@ document.getElementById('form').addEventListener('submit', function(event) {
 
    const serviceID = 'default_service';
    const templateID = 'template_ngfg5ko';
-   const SentOrNot = document.getElementById('SentOrNot');
-   SentOrNot.innerHTML = '';
 
    emailjs.sendForm(serviceID, templateID, this) 
     .then(() => {
-      SentOrNot.innerHTML =  
-      "<span id='sent'> "+  
-      "Email sent succesfully!</span>";
-      
-      setTimeout( () => {
-        SentOrNot.innerHTML = '';
+        Swal.fire({
+            title: 'Success!',
+            text: 'Email sent successfully!',
+            confirmButtonColor: '#4CAF50'
+        });
+
         btn.value = 'Send Email';
-      }, 3500); 
-
-    }, (err) => {
-      SentOrNot.innerHTML =  
-      "<span id='err'> "+
-      "Email not sent! Error occured!</span>";
-
-      setTimeout(function () {
-        SentOrNot.innerHTML = '';
+        document.getElementById('box').value = ''; // Clear the textarea
+    })
+    .catch((err) => { 
+        Swal.fire({
+            title: 'Error!',
+            text: 'Email not sent! Error occurred.',
+            confirmButtonColor: '#FF5733'
+        });
+        
         btn.value = 'Send Email';
-      }, 5000);
-
-      console.log(err)
+        console.log(err)
     });
 });

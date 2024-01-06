@@ -1,0 +1,88 @@
+html { 
+    background-color: black; 
+    display: inline;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    font-family: var(--bs-body-font-family)
+}
+
+#pic1 {
+    border: 2px solid rgb(89, 89, 89);
+}
+
+#LightBlueText {
+    color: lightBlue;  
+}
+
+#songInfo h2 {
+    text-align: left;
+    margin-left: 20px; /* You can adjust the margin as needed */
+}
+
+#Links {
+    color: lightBlue;
+}
+
+#result-links {
+    text-align: left;
+    color: lightBlue;  
+    position: relative;
+    top: -12px;
+    left: 28px;
+} 
+
+#result-instrument {
+    margin-top: 0px;
+}
+
+a {
+    color: #2a9fd6;
+}
+
+a:hover {
+    color: #0000FF;
+}
+
+@media (max-width: 450px) {
+    html, body {
+        margin: 0; 
+        height: 100%; 
+        overflow-x: hidden
+    }
+
+    #songInfo h2 {
+        text-align: left;
+        margin-left: 5px;
+    }
+
+    #result-instrument {
+        margin-top: -19px;
+    }
+
+    #result-links {
+        left: 5px;
+    } 
+} 

@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html lang="en" class="notranslate" translate="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <head><meta name="google" content="notranslate" /></head>
+    <link rel="stylesheet" href="../css/repertoire.css">
+    <title>Repertoire</title>
+</head>
+<body>
+    <h1 id="myHeader">
+        Corey's Repertoire
+    </h1>
+    
+    <div id="songList">
+        <ul id="thesongs"></ul>
+    </div>
+    
+    <script>
+
+        fetch("../db_manager/json_files/repertoire.json").then(response => {
+            return response.json();
+        }).then(songs => {
+            
+            const theRepertoire = songs.map((song) => 
+            `<li id="songelements">${(song !== "") ? song : ""}</li>`
+            ).join('');
+
+            document.getElementById("thesongs").innerHTML = theRepertoire;
+            
+        }).catch(err => {
+            console.error("\"repertoire.json\" file not found");
+        });
+
+    </script>
+
+</body>
+</html>

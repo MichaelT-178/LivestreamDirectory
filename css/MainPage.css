@@ -1,0 +1,15 @@
+#link, #helplink {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#link {
+    margin-bottom: 25px;
+    margin-left: -0.3px;
+}
+
+#helplink {
+    margin-left: -7.1px;
+}

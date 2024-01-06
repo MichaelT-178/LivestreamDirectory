@@ -9,31 +9,25 @@ html {background-color: black; display: inline;}
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
-
-#link, #helplink {
-    position: fixed;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
 }
 
-#link {
-    margin-bottom: 25px;
-    margin-left: -0.3px;
-}
+/* .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+} */
 
-#helplink {
-    margin-left: -7.1px;
-}
+
+
 
 #myHeader {
     background-color: lightblue;
     color: black;
-    padding: 20px;
+    padding: 15px;
     text-align: center;
     font-family: var(--bs-body-font-family)
-  }
+}
 
 #Title {
     color: lightBlue;  
@@ -53,10 +47,21 @@ html {background-color: black; display: inline;}
     left: 440px;
 }
 
-#result-artist {
+#result-text {
     color: lightBlue;  
     display:inline-block;
 }
+
+#songInfo {
+    /* position: relative;
+    top: -20px; 
+    text-align: left; */
+    position: relative; /* Add this line to enable relative positioning */
+    top: 2px; /* Adjust the top position as needed to move it to the desired position */
+    left: -115px; /* Adjust the left position as needed to move it to the desired position */
+    text-align: left;
+}
+
 
 #OtherArtist {
     color: lightBlue;  
@@ -69,10 +74,8 @@ html {background-color: black; display: inline;}
     display:inline-block;
 }
 
-#TheInstruments {
+#LightBlueText {
     color: lightBlue;  
-    position: relative;
-    left: 440px;
 }
 
 #result-instrument {
@@ -90,15 +93,14 @@ html {background-color: black; display: inline;}
 #Links {
     color: lightBlue;  
     text-decoration: underline;
-    position: relative;
-    left: 440px;
 }
 
 #result-links {
     color: lightBlue;  
     position: relative;
     top: -10px;
-    left: 455px;
+    left: 18px;
+    /* left: 455px;  */
 }
 
 #InstrumentsTitle {
@@ -177,7 +179,6 @@ html {background-color: black; display: inline;}
     left: 470px;
     font-size: 19px;
 
-
 }
 
 #songelements:empty {
@@ -192,7 +193,7 @@ html {background-color: black; display: inline;}
         left: 18px;
     }
 
-    #result-title{
+    #result-title {
         display: inline;
     }
     
