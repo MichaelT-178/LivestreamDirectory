@@ -46,17 +46,16 @@ class Program
         Task algorithmTask = Task.Run(() => Algorithm.Run(songsWithoutKeys));
         const int intervalSeconds = 5;
 
-        Console.WriteLine();
+        Console.WriteLine("\nTime Passed");
 
         while (!algorithmTask.IsCompleted)
         {
             await Task.Delay(TimeSpan.FromSeconds(intervalSeconds));
-            Color.Print($"{Math.Round(stopwatch.Elapsed.TotalSeconds)}", "Blue");
-
-            Console.WriteLine($" seconds passed");
+            string secondsPassed = $"{Math.Round(stopwatch.Elapsed.TotalSeconds)}";
+            Color.PrintWithColoredPart($"{secondsPassed} seconds passed", secondsPassed, "Blue", true);
         }
 
-        Console.WriteLine("\nUpdating Databse");
+        Console.WriteLine("\nUpdating Database");
         Color.DisplaySuccess("Database 'song_list.json' file was successfuly created!");
 
         JSONHelper.WriteJSONToFile(Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongs()));
