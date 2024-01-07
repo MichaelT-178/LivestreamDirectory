@@ -1,0 +1,1 @@
+The only purpose of this text file is so the folder won't show as bin/Debug/net8.0 on GitHub.
