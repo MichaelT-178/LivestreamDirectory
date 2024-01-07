@@ -13,8 +13,7 @@ class Program
     public static void Main()
     {   
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
-
-        Console.Write(@"Do you want to open the ""all-timestamps.txt"" file? : ");
+        Color.PrintWithColoredPart(@"Do you want to open the ""all-timestamps.txt"" file? : ", "\"all-timestamps.txt\"", "Cyan");
         
         string openTimestamps = Console.ReadLine() ?? "";
 
@@ -62,7 +61,7 @@ class Program
         Color.PrintWithColoredPart($"\nProgram took {seconds} seconds to run!", seconds, "Blue", true);
 
 
-        Color.PrintWithColoredPart("\nDo you want to open the 'song_list.json' file? : ", "song_list.json", "Blue");
+        Color.PrintWithColoredPart("\nDo you want to open the \"song_list.json\" file? : ", "\"song_list.json\"", "Cyan");
         string question = Console.ReadLine() ?? "";
         
         if (Helper.GetAnsweredYes(question))
