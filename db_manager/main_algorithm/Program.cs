@@ -12,10 +12,10 @@ class Program
      */
     public static void Main()
     {   
-
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
 
         Console.Write(@"Do you want to open the ""all-timestamps.txt"" file? : ");
+        
         string openTimestamps = Console.ReadLine() ?? "";
 
         if (Helper.GetAnsweredYes(openTimestamps))
@@ -28,41 +28,63 @@ class Program
         Stopwatch stopwatch = new Stopwatch();
         stopwatch.Start();
 
-        Console.WriteLine("\nPlease be patient. This will take a couple of seconds...");
-        Console.WriteLine("Writing to file...");
+        Console.WriteLine("\nError Check");
     
         List<string> songsWithKeys = ErrorFinder.FindCapErrors();
 
         List<string> songsWithoutKeys = Helper.GetSongListWithoutKeys(songsWithKeys);
 
-        Color.PrintLine("No capitalization errors found!", "Green");
+        Color.DisplaySuccess("No capitalization errors found!");
 
         ErrorFinder.AllArtistPicturesExist();
         
-        Color.PrintLine("An image was found for every artist!", "Green");
+        Color.DisplaySuccess("An image was found for every artist!");
 
+        Console.WriteLine("\nPlease be patient. This will take roughly 25 seconds.");
         Console.WriteLine("Currently running algorithm...");
 
         //RUN THE MAIN ALGORITHM
         Algorithm.Run(songsWithoutKeys);
 
-        Color.PrintLine("Database song_list.json file was successfuly created!", "Green");
+        Console.WriteLine("\nUpdating Databse");
+        Color.DisplaySuccess("Database 'song_list.json' file was successfuly created!");
 
         JSONHelper.WriteJSONToFile(Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongs()));
+
+        //EXECUTE UPDATE SQLite DATABASE COMMAND 
+        OS.UpdateSQLiteDatabase();
+        Color.DisplaySuccess("SQLite Database successfully updated!");
 
         //Stop the watch
         stopwatch.Stop();
         double elapsedSeconds = stopwatch.Elapsed.TotalSeconds;
-        string totalTimeSeconds = elapsedSeconds.ToString("0.00");
-        Console.WriteLine($"Program took {totalTimeSeconds} seconds to run.");
+        string seconds = elapsedSeconds.ToString("0.00");
+        Color.PrintWithColoredPart($"\nProgram took {seconds} seconds to run!", seconds, "Blue", true);
 
-        //EXECUTE UPDATE SQLite DATABASE COMMAND 
-        OS.UpdateSQLiteDatabase();
-        Color.PrintLine("SQLite Database successfully updated!", "Green");
+
+        Color.PrintWithColoredPart("\nDo you want to open the 'song_list.json' file? : ", "song_list.json", "Blue");
+        string question = Console.ReadLine() ?? "";
+        
+        if (Helper.GetAnsweredYes(question))
+        {
+            OS.OpenFileInVSCode("database/song_list.json");
+        }
+
+        Color.PrintWithColoredPart("Do you want to open the Github Repository? : ", "Github Repository", "Cyan");
+        string openRepo = Console.ReadLine() ?? "";
+
+        if (Helper.GetAnsweredYes(openRepo))
+        {
+            Helper.OpenInWebBrowser("https://github.com/MichaelT-178/LivestreamDirectory");
+        }
+
 
         //EXECUTE GITHUB COMMANDS 
         Console.WriteLine("\nAdding changes to GitHub");
         OS.ExecuteGitCommands();
+
+
+        
 
         
     }

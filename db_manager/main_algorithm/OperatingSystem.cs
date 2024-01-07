@@ -51,13 +51,13 @@ class OS
     public static void ExecuteGitCommands()
     {   
         ExecuteCommand("git add .");
-        Color.PrintLine("git add completed successfully", "Green");
+        Color.DisplaySuccess("git add completed successfully");
 
         ExecuteCommand("git commit -m \"Adding files\"");
-        Color.PrintLine("git commit completed successfully", "Green");
+        Color.DisplaySuccess("git commit completed successfully");
 
         ExecuteCommand("git push");
-        Color.PrintLine("git push completed successfully", "Green");
+        Color.DisplaySuccess("git push completed successfully");
     }
 
     /**

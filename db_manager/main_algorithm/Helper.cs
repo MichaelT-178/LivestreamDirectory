@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 /**
  * Helper methods for common operations in the program.
  *
@@ -11,6 +13,7 @@
  * ReplaceNonAsciiChars | Replaces non-ascii charcters with valid ascii characters.
  * IsAscii | Returns whether or not a string contains only Ascii characters 
  * RemoveKeys | Removes all keys from a song title.
+ * OpenInWebBrowser | Opens a url in the webbrowser 
  * 
  * @author Michael Totaro
  */
@@ -220,6 +223,19 @@ class Helper
                 .Replace("(EP Version)", "")
                 .Replace("(Pink Moon Album)", "")
                 .Trim();
+    }
+
+    /**
+     * Opens a url in the webbrowser 
+     * @param url The url to be opened
+     */ 
+    public static void OpenInWebBrowser(string url)
+    {
+        Process.Start(new ProcessStartInfo
+        {
+            FileName = url,
+            UseShellExecute = true
+        });
     }
     
 }
