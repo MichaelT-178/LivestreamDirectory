@@ -57,7 +57,7 @@ class OS
         Color.DisplaySuccess("git commit completed successfully");
 
         ExecuteCommand("git push");
-        Color.DisplaySuccess("git push completed successfully");
+        Color.DisplaySuccess("git push completed successfully\n");
     }
 
     /**

@@ -81,10 +81,6 @@ class Program
         //EXECUTE GITHUB COMMANDS 
         Console.WriteLine("\nAdding changes to GitHub");
         OS.ExecuteGitCommands();
-
-
-        
-
         
     }
 }
