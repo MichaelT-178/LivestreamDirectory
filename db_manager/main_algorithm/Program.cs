@@ -10,7 +10,7 @@ class Program
     /**
      * Allows the user to run the algorithm and enter input
      */
-    public static void Main()
+    public static async Task Main()
     {   
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
         Color.PrintWithColoredPart(@"Do you want to open the ""all-timestamps.txt"" file? : ", "\"all-timestamps.txt\"", "Cyan");
@@ -42,8 +42,19 @@ class Program
         Console.WriteLine("\nPlease be patient. This will take roughly 25 seconds.");
         Console.WriteLine("Currently running algorithm...");
 
-        //RUN THE MAIN ALGORITHM
-        Algorithm.Run(songsWithoutKeys);
+        //RUN THE MAIN ALGORITHM and print when 5 seconds pass
+        Task algorithmTask = Task.Run(() => Algorithm.Run(songsWithoutKeys));
+        const int intervalSeconds = 5;
+
+        Console.WriteLine();
+
+        while (!algorithmTask.IsCompleted)
+        {
+            await Task.Delay(TimeSpan.FromSeconds(intervalSeconds));
+            Color.Print($"{Math.Round(stopwatch.Elapsed.TotalSeconds)}", "Blue");
+
+            Console.WriteLine($" seconds passed");
+        }
 
         Console.WriteLine("\nUpdating Databse");
         Color.DisplaySuccess("Database 'song_list.json' file was successfuly created!");
@@ -81,6 +92,6 @@ class Program
         //EXECUTE GITHUB COMMANDS 
         Console.WriteLine("\nAdding changes to GitHub");
         OS.ExecuteGitCommands();
-        
+
     }
 }
