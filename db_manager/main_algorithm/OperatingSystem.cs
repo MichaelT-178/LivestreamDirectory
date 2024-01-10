@@ -53,7 +53,7 @@ class OS
         ExecuteCommand("git add .");
         Color.DisplaySuccess("git add completed successfully");
 
-        ExecuteCommand("git commit -m \"Adding files\"");
+        ExecuteCommand("git commit -m \"Adding changes\"");
         Color.DisplaySuccess("git commit completed successfully");
 
         ExecuteCommand("git push");
