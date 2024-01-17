@@ -39,7 +39,7 @@ class Program
         
         Color.DisplaySuccess("An image was found for every artist!");
 
-        Console.WriteLine("\nPlease be patient. This will take roughly 25 seconds.");
+        Console.WriteLine("\nPlease be patient. This will take roughly 25 - 30 seconds.");
         Console.WriteLine("Currently running algorithm...");
 
         //RUN THE MAIN ALGORITHM and print when 5 seconds pass

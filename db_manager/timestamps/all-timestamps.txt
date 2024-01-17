@@ -1,4 +1,4 @@
-Control + g. Type 1064 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1065 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -632,6 +632,10 @@ Solo Video
 https://youtu.be/BwuqxrPeUAA
 15:06 My Favorite Obsession (Electric Song) by Corey Heuvel
 
+Solo Video 
+https://youtu.be/RkqSZnBM9kI?si=Hx4YnpF_7-Szt7J5
+0:00 Jeremy by Pearl Jam
+
 Solo Video
 https://youtu.be/BwuqxrPeUAA
 19:38 Jeremy (Electric Song) by Pearl Jam
@@ -1058,10 +1062,6 @@ https://youtube.com/watch?v=QyBV1PpvcHc
 Solo Video 
 https://youtu.be/mG_ZcHn5-vo?si=yxqdfRckULJMvYB8
 0:05 Godin Passion RG-3 Indigo Burst RN (BH) by Corey Heuvel
-
-Solo Video 
-https://youtu.be/RkqSZnBM9kI?si=Hx4YnpF_7-Szt7J5
-0:00 Jeremy by Pearl Jam
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
