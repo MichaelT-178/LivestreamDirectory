@@ -18,6 +18,8 @@ window.addEventListener('load', () => {
     const instrumentList = instruments.split(",");
     const longestString = findLongestStringLength(instrumentList);
 
+    const container = document.querySelector('.container'); // Get the .container element
+
     if (!mediaQuery.matches) {
         if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 && instruments.length < 20 && longestString < 22) {
             const songInfoHeading = document.getElementById('songInfo');
@@ -27,10 +29,7 @@ window.addEventListener('load', () => {
         }
     } else {
         if (theTitle.length < 30 && artist.length < 30 && other_artists.length < 30 && longestString < 30) {
-            const songInfoHeading = document.getElementById('songInfo');
-            const newMarginLeft = songInfoHeading.style.marginLeft - 45;
-
-            songInfoHeading.style.marginLeft = newMarginLeft + 'px';
+            container.style.alignItems = 'flex-start';
         } 
     }
 
