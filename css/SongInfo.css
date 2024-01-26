@@ -75,7 +75,7 @@ a:hover {
 
     #songInfo h2 {
         text-align: left;
-        margin-left: 50px;
+        margin-left: 500px;
     }
 
     #result-instrument {
@@ -83,6 +83,6 @@ a:hover {
     }
 
     #result-links {
-        left: 50px;
+        left: 500px;
     } 
 } 
