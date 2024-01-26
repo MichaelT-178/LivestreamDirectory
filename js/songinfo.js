@@ -26,7 +26,7 @@ window.addEventListener('load', () => {
             songInfoHeading.style.marginLeft = newMarginLeft + 'px';
         }
     } else {
-        if (theTitle.length < 28 && artist.length < 28 && other_artists.length < 28 && longestString < 28) {
+        if (theTitle.length < 30 && artist.length < 30 && other_artists.length < 30 && longestString < 30) {
             const songInfoHeading = document.getElementById('songInfo');
             const newMarginLeft = songInfoHeading.style.marginLeft - 220;
 
