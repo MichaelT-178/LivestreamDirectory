@@ -12,13 +12,10 @@ window.addEventListener('load', () => {
 
     const mediaQuery = window.matchMedia('(min-device-width: 375px) and (max-device-width: 812px)');
 
-    let numberOfH;
-    let hString;
-    
     const instrumentList = instruments.split(",");
     const longestString = findLongestStringLength(instrumentList);
 
-    const container = document.querySelector('.container'); // Get the .container element
+    const container = document.querySelector('.container'); 
 
     if (!mediaQuery.matches) {
         if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 && instruments.length < 20 && longestString < 22) {
@@ -77,10 +74,10 @@ const findLongestStringLength = (arr) => {
     let longest = '';
     
     for (let i = 0; i < arr.length; i++) {
-      if (arr[i].length > longest.length) {
-        longest = arr[i];
-      }
+        if (arr[i].length > longest.length) {
+            longest = arr[i];
+        }
     }
     
     return longest.length;
-  }
+}
