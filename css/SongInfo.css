@@ -6,7 +6,7 @@ html {
 .container {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     text-align: center;
 }
 
@@ -75,7 +75,7 @@ a:hover {
 
     #songInfo h2 {
         text-align: left;
-        margin-left: 5px;
+        margin-left: 50px;
     }
 
     #result-instrument {
@@ -83,6 +83,6 @@ a:hover {
     }
 
     #result-links {
-        left: 5px;
+        left: 50px;
     } 
 } 
