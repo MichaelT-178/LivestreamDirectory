@@ -28,7 +28,7 @@ window.addEventListener('load', () => {
     } else {
         if (theTitle.length < 28 && artist.length < 28 && other_artists.length < 28 && longestString < 28) {
             const songInfoHeading = document.getElementById('songInfo');
-            const newMarginLeft = songInfoHeading.style.marginLeft - 120;
+            const newMarginLeft = songInfoHeading.style.marginLeft - 220;
 
             songInfoHeading.style.marginLeft = newMarginLeft + 'px';
         } 
