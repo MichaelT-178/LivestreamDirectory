@@ -18,12 +18,14 @@ window.addEventListener('load', () => {
     const instrumentList = instruments.split(",");
     const longestString = findLongestStringLength(instrumentList);
 
-    if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 && instruments.length < 20 && longestString < 22) {
-        const songInfoHeading = document.getElementById('songInfo');
-        const subtract = mediaQuery.matches ? 120 : 100;
-        const newMarginLeft = songInfoHeading.style.marginLeft - subtract;
+    if (!mediaQuery.matches) {
+        if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 && instruments.length < 20 && longestString < 22) {
+            const songInfoHeading = document.getElementById('songInfo');
+            const subtract = mediaQuery.matches ? 120 : 100;
+            const newMarginLeft = songInfoHeading.style.marginLeft - subtract;
 
-        songInfoHeading.style.marginLeft = newMarginLeft + 'px';
+            songInfoHeading.style.marginLeft = newMarginLeft + 'px';
+        }
     }
 
     document.getElementById('result-title').innerHTML = ": " + theTitle;
@@ -32,7 +34,7 @@ window.addEventListener('load', () => {
     document.getElementById('result-instruments').innerHTML = ": " + instruments;
 
     const marginLeft = instrumentList.length > 2 ? 34 : 10;
-    
+
     const instrumentStyling = "font-size: 24px;" + 
                               "color: lightBlue;" +
                               "text-align: left;" +
@@ -40,6 +42,7 @@ window.addEventListener('load', () => {
                               "margin-bottom: 9px;";
                               
     if (mediaQuery.matches) {
+        console.log("HELLO WORLD")
         document.getElementById('result-instruments').innerHTML = "";
         
         document.getElementById('result-instrument').innerHTML = instrumentList.map((instrument) => 
