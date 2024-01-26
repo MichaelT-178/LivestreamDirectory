@@ -31,8 +31,12 @@ window.addEventListener('load', () => {
     document.getElementById('result-otherart').innerText = ": " + (other_artists || "N/A");
     document.getElementById('result-instruments').innerHTML = ": " + instruments;
 
-    
-
+    const instrumentStyling = "font-size: 24px;" + 
+                              "color: lightBlue;" +
+                              "text-align: left;" +
+                              `margin-left: ${marginLeft}px;` +
+                              "margin-bottom: 9px;";
+                              
     if (mediaQuery.matches) {
         document.getElementById('result-instruments').innerHTML = "";
         
