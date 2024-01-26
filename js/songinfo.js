@@ -31,6 +31,8 @@ window.addEventListener('load', () => {
     document.getElementById('result-otherart').innerText = ": " + (other_artists || "N/A");
     document.getElementById('result-instruments').innerHTML = ": " + instruments;
 
+    const marginLeft = instrumentList.length > 2 ? 34 : 10;
+    
     const instrumentStyling = "font-size: 24px;" + 
                               "color: lightBlue;" +
                               "text-align: left;" +
