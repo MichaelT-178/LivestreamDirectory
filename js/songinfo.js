@@ -10,29 +10,28 @@ window.addEventListener('load', () => {
 
     let theTitle = title + (title.includes("Session #") ? " (Check comments for full timestamp)" : "");
 
+    const mediaQuery = window.matchMedia('(min-device-width: 375px) and (max-device-width: 812px)');
+
     let numberOfH;
     let hString;
-
-    //if condition is true add h's for length purposes to push thing to the left over so it's not dead center
-    //Kind of a ghetto fix but it works.
+    
     if (theTitle.length < 28 && artist.length < 28 && other_artists.length < 28 && instruments.length < 28) {
-        numberOfH = 28 - theTitle.length;
-        hString = 'h'.repeat(Math.max(numberOfH, 0));
-    }
+        const songInfoHeading = document.getElementById('songInfo');
+        const subtract = mediaQuery.matches ? 120 : 100;
+        const newMarginLeft = songInfoHeading.style.marginLeft - subtract;
 
-    instruments = `${instruments}<span style='color: black; user-select: none;'>${hString || ""}</span>`; 
+        songInfoHeading.style.marginLeft = newMarginLeft + 'px';
+    }
 
     document.getElementById('result-title').innerHTML = ": " + theTitle;
     document.getElementById('result-artist').innerText = ": " + artist;
     document.getElementById('result-otherart').innerText = ": " + (other_artists || "N/A");
     document.getElementById('result-instruments').innerHTML = ": " + instruments;
 
-
     const instrumentList = instruments.split(",");
 
     const marginLeft = instrumentList.length > 2 ? 34 : 10;
 
-    const mediaQuery = window.matchMedia('(min-device-width: 375px) and (max-device-width: 812px)');
     const instrumentStyling = "font-size: 24px;" + 
                               "color: lightBlue;" +
                               "text-align: left;" +
