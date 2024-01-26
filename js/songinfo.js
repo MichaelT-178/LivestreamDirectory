@@ -15,7 +15,10 @@ window.addEventListener('load', () => {
     let numberOfH;
     let hString;
     
-    if (theTitle.length < 28 && artist.length < 28 && other_artists.length < 28 && instruments.length < 28) {
+    const instrumentList = instruments.split(",");
+    const longestString = findLongestStringLength(instrumentList);
+
+    if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 && instruments.length < 20 && longestString < 22) {
         const songInfoHeading = document.getElementById('songInfo');
         const subtract = mediaQuery.matches ? 120 : 100;
         const newMarginLeft = songInfoHeading.style.marginLeft - subtract;
@@ -28,37 +31,8 @@ window.addEventListener('load', () => {
     document.getElementById('result-otherart').innerText = ": " + (other_artists || "N/A");
     document.getElementById('result-instruments').innerHTML = ": " + instruments;
 
-    const instrumentList = instruments.split(",");
-
-    const marginLeft = instrumentList.length > 2 ? 34 : 10;
-
-    const instrumentStyling = "font-size: 24px;" + 
-                              "color: lightBlue;" +
-                              "text-align: left;" +
-                              `margin-left: ${marginLeft}px;` +
-                              "margin-bottom: 9px;";
-
-    if (instrumentList.length > 2 && !mediaQuery.matches) {
-
-        if (theTitle.length < 30 && artist.length < 28 && other_artists.length < 28) {
-            numberOfH = 30 - theTitle.length;
-            hString = 'h'.repeat(Math.max(numberOfH, 0));
-        }
     
-        theTitle = `${theTitle}<span style='color: black; user-select: none;'>${hString || ""}</span>`; 
-        document.getElementById('result-title').innerHTML = "";
-        document.getElementById('result-title').innerHTML = ": " + theTitle;
-        
-        document.getElementById('result-instruments').innerHTML = "";
-        document.getElementById('result-instrument').innerHTML = instrumentList.map((instrument) => 
-        ` <div style="${instrumentStyling}"> • ${instrument} </div>`
-        ).join(''); 
 
-        document.getElementById('result-instrument').style.marginTop = '-11px';
-
-    }
-
-                              
     if (mediaQuery.matches) {
         document.getElementById('result-instruments').innerHTML = "";
         
@@ -83,3 +57,16 @@ window.addEventListener('load', () => {
     document.getElementById('result-links').innerHTML = alllinks;
 
 });
+
+
+const findLongestStringLength = (arr) => {
+    let longest = '';
+    
+    for (let i = 0; i < arr.length; i++) {
+      if (arr[i].length > longest.length) {
+        longest = arr[i];
+      }
+    }
+    
+    return longest.length;
+  }
