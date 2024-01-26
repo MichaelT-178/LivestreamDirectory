@@ -21,11 +21,17 @@ window.addEventListener('load', () => {
     if (!mediaQuery.matches) {
         if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 && instruments.length < 20 && longestString < 22) {
             const songInfoHeading = document.getElementById('songInfo');
-            const subtract = mediaQuery.matches ? 120 : 100;
-            const newMarginLeft = songInfoHeading.style.marginLeft - subtract;
+            const newMarginLeft = songInfoHeading.style.marginLeft - 100;
 
             songInfoHeading.style.marginLeft = newMarginLeft + 'px';
         }
+    } else {
+        if (theTitle.length < 12 && artist.length < 12 && other_artists.length < 12 && longestString < 12) {
+            const songInfoHeading = document.getElementById('songInfo');
+            const newMarginLeft = songInfoHeading.style.marginLeft - 100;
+
+            songInfoHeading.style.marginLeft = newMarginLeft + 'px';
+        } 
     }
 
     document.getElementById('result-title').innerHTML = ": " + theTitle;
