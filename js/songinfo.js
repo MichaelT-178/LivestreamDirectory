@@ -34,21 +34,13 @@ window.addEventListener('load', () => {
     document.getElementById('result-artist').innerText = ": " + artist;
     document.getElementById('result-otherart').innerText = ": " + (other_artists || "N/A");
     document.getElementById('result-instruments').innerHTML = ": " + instruments;
-
-    const marginLeft = instrumentList.length > 2 ? 34 : 10;
-
-    const instrumentStyling = "font-size: 24px;" + 
-                              "color: lightBlue;" +
-                              "text-align: left;" +
-                              `margin-left: ${marginLeft}px;` +
-                              "margin-bottom: 9px;";
                               
     if (mediaQuery.matches) {
         console.log("HELLO WORLD")
         document.getElementById('result-instruments').innerHTML = "";
         
         document.getElementById('result-instrument').innerHTML = instrumentList.map((instrument) => 
-        ` <div style="${instrumentStyling}"> • ${instrument} </div>`
+        ` <div id=mobile-instrument-styling> • ${instrument} </div>`
         ).join(''); 
     }; 
     

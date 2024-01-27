@@ -90,4 +90,12 @@ a:hover {
     #result-links {
         left: 27px;
     } 
+
+    #mobile-instrument-styling {
+        font-size: 24px;
+        color: red;
+        text-align: left;
+        margin-left: 34px;
+        margin-bottom: 9px;
+    }
 } 
