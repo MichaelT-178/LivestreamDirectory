@@ -78,6 +78,7 @@ a:hover {
 
     #myHeader {
         padding: 5px;
+        background-color: red;
     }
 
     #InstrumentList {
@@ -102,7 +103,7 @@ a:hover {
     }
 
     #helplink {
-        bottom: 19px; /*36*/
+        bottom: 19px; /*36/22*/
         left: 27.5%;
     }
 
