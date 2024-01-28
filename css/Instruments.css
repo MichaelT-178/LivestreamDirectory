@@ -73,16 +73,15 @@ a:hover {
 }
 
 
-/* @media (min-device-width: 375px) and (max-device-width: 812px) { */
-@media (max-width: 400px) {
+@media (min-device-width: 375px) and (max-device-width: 812px) {
 
     #myHeader {
         padding: 5px;
-        background-color: red;
+        background-color: purple;
     }
 
     #InstrumentList {
-        top: 332px; 
+        top: 330px; 
     }
 
     #InstrumentTitle {
@@ -98,12 +97,12 @@ a:hover {
     }
 
     #link {
-        bottom: 48px; /*65/51 */
+        bottom: 44px; /*65/51 */
         left: 30.8%;
     }
 
     #helplink {
-        bottom: 19px; /*36/22*/
+        bottom: 15px; /*36/22*/
         left: 27.5%;
     }
 
