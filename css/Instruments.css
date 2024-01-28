@@ -76,6 +76,10 @@ a:hover {
 /* @media (min-device-width: 375px) and (max-device-width: 812px) { */
 @media (max-width: 400px) {
 
+    #myHeader {
+        padding: 5px;
+    }
+
     #InstrumentList {
         top: 332px; 
     }
@@ -93,12 +97,12 @@ a:hover {
     }
 
     #link {
-        bottom: 51px; /*65 */
+        bottom: 48px; /*65/51 */
         left: 30.8%;
     }
 
     #helplink {
-        bottom: 22px; /*36*/
+        bottom: 19px; /*36*/
         left: 27.5%;
     }
 
