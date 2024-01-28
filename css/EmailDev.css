@@ -40,7 +40,7 @@ html {
 @media (min-device-width: 375px) and (max-device-width: 812px) {
     
     #myHeader {
-        padding: 5px;
+        padding: 10px;
     }
 
     #box {

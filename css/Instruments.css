@@ -77,11 +77,11 @@ a:hover {
 
     #myHeader {
         padding: 5px;
-        background-color: purple;
+        background-color: green;
     }
 
     #InstrumentList {
-        top: 330px; 
+        top: 328px; 
     }
 
     #InstrumentTitle {
@@ -97,12 +97,12 @@ a:hover {
     }
 
     #link {
-        bottom: 44px; /*65/51 */
+        bottom: 40px; /*65/51 */
         left: 30.8%;
     }
 
     #helplink {
-        bottom: 15px; /*36/22*/
+        bottom: 13px; /*36/22*/
         left: 27.5%;
     }
 
