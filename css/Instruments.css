@@ -76,8 +76,8 @@ a:hover {
 @media (min-device-width: 375px) and (max-device-width: 812px) {
 
     #myHeader {
-        padding: 5px;
-        background-color: green;
+        padding: 4.5px;
+        background-color: orange;
     }
 
     #InstrumentList {
@@ -97,12 +97,12 @@ a:hover {
     }
 
     #link {
-        bottom: 40px; /*65/51 */
+        bottom: 39px; /*65/51 */
         left: 30.8%;
     }
 
     #helplink {
-        bottom: 13px; /*36/22*/
+        bottom: 12px; /*36/22*/
         left: 27.5%;
     }
 
