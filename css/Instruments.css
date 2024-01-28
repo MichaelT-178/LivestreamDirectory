@@ -77,11 +77,11 @@ a:hover {
 
     #myHeader {
         padding: 4.5px;
-        background-color: orange;
+        background-color: lightblue;
     }
 
     #InstrumentList {
-        top: 328px; 
+        top: 327px; 
     }
 
     #InstrumentTitle {
