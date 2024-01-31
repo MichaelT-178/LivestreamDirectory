@@ -1,4 +1,4 @@
-Control + g. Type 1065 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1069 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1062,6 +1062,10 @@ https://youtube.com/watch?v=QyBV1PpvcHc
 Solo Video 
 https://youtu.be/mG_ZcHn5-vo?si=yxqdfRckULJMvYB8
 0:05 Godin Passion RG-3 Indigo Burst RN (BH) by Corey Heuvel
+
+Solo Video 
+https://youtu.be/XBPIl7u0_BY?si=w0mOEHTK2a4sMcEl
+0:00 Breaking the Girl (M) by Red Hot Chili Peppers
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
