@@ -58,6 +58,16 @@ html {
     margin-top: 0px;
 }
 
+
+#multiple-instrument-styling {
+    font-size: 24px;
+    color: lightblue;
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 8px;
+}
+
+
 a {
     color: #2a9fd6;
 }

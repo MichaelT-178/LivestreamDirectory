@@ -37,9 +37,15 @@ window.addEventListener('load', () => {
     document.getElementById('result-artist').innerText = ": " + artist;
     document.getElementById('result-otherart').innerText = ": " + (other_artists || "N/A");
     document.getElementById('result-instruments').innerHTML = ": " + instruments;
-                              
+    
+    if (instrumentList.length > 2 && !mediaQuery.matches) {
+        console.log("COOL")
+        document.getElementById('result-instruments').innerHTML = instrumentList.map((instrument) => 
+        ` <div id=multiple-instrument-styling> • ${instrument} </div>`
+        ).join(''); 
+    }
+
     if (mediaQuery.matches) {
-        console.log("HELLO WORLD")
         document.getElementById('result-instruments').innerHTML = "";
         
         document.getElementById('result-instrument').innerHTML = instrumentList.map((instrument) => 
