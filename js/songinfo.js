@@ -18,7 +18,10 @@ window.addEventListener('load', () => {
     const container = document.querySelector('.container'); 
 
     if (!mediaQuery.matches) {
-        if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 && instruments.length < 20 && longestString < 22) {
+        if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 
+            && instruments.length < 20 && longestString < 22 && instrumentList.length < 3 
+            || ( longestString < 30 && instrumentList.length > 2)) 
+        {
             const songInfoHeading = document.getElementById('songInfo');
             const newMarginLeft = songInfoHeading.style.marginLeft - 100;
 
