@@ -13,22 +13,22 @@ window.addEventListener('load', () => {
     const mediaQuery = window.matchMedia('(min-device-width: 375px) and (max-device-width: 812px)');
 
     const instrumentList = instruments.split(",");
-    const longestString = findLongestStringLength(instrumentList);
+    const longestStringLength = findLongestStringLength(instrumentList);
 
     const container = document.querySelector('.container'); 
 
     if (!mediaQuery.matches) {
         if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 
-            && instruments.length < 20 && longestString < 22 && instrumentList.length < 3 
-            || ( longestString < 30 && instrumentList.length > 2)) 
+            && instruments.length < 20 && longestStringLength < 22 && instrumentList.length < 3 
+            || ( longestStringLength < 32 && instrumentList.length > 2)) 
         {
             const songInfoHeading = document.getElementById('songInfo');
-            const newMarginLeft = songInfoHeading.style.marginLeft - 100;
+            const newMarginLeft = songInfoHeading.style.marginLeft - 400;
 
             songInfoHeading.style.marginLeft = newMarginLeft + 'px';
         }
     } else {
-        if (theTitle.length < 30 && artist.length < 30 && other_artists.length < 30 && longestString < 30) {
+        if (theTitle.length < 30 && artist.length < 30 && other_artists.length < 30 && longestStringLength < 32) {
             container.style.alignItems = 'flex-start';
         } 
     }
@@ -39,7 +39,6 @@ window.addEventListener('load', () => {
     document.getElementById('result-instruments').innerHTML = ": " + instruments;
     
     if (instrumentList.length > 2 && !mediaQuery.matches) {
-        console.log("COOL")
         document.getElementById('result-instruments').innerHTML = instrumentList.map((instrument) => 
         ` <div id=multiple-instrument-styling> • ${instrument} </div>`
         ).join(''); 
