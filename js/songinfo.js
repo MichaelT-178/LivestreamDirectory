@@ -45,15 +45,6 @@ window.addEventListener('load', () => {
     }
 
     if (mediaQuery.matches) {
-        if (theTitle.length < 20 && artist.length < 20 && other_artists.length < 20 
-            && instruments.length < 20 && longestStringLength < 22 && instrumentList.length < 3 
-            || ( longestStringLength < 32 && instrumentList.length > 2)) 
-        {
-            const songInfoHeading = document.getElementById('songInfo');
-            const newMarginLeft = songInfoHeading.style.marginLeft - 20;
-
-            songInfoHeading.style.marginLeft = newMarginLeft + 'px';
-        }
         document.getElementById('result-instruments').innerHTML = "";
         
         document.getElementById('result-instrument').innerHTML = instrumentList.map((instrument) => 
