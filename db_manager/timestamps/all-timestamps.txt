@@ -1,4 +1,4 @@
-Control + g. Type 1069 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1077 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1070,6 +1070,10 @@ https://youtu.be/XBPIl7u0_BY?si=w0mOEHTK2a4sMcEl
 Solo Video
 https://youtu.be/kfFzk3OQy54?si=9kM--SjZVd6_1jbv
 0:00 Behind Blue Eyes by The Who
+
+Solo Video 
+https://youtu.be/0XJEi6UTx5Q?si=ybA3N3_jalNrcy0-
+0:00 Get Back by The Beatles
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
