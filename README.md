@@ -7,5 +7,4 @@ Here's Corey Heuvel talking about the Livestream Directory during one of his liv
 
 Note: I'm the "Michael L" being referred to, that's my Youtube username. The L doesn't stand for anything.
 
-
-![run algorithm pic](pics/run_algorithm.jpg "What happens when you run the algorithm using dotnet run.")
+<img src="pics/run_algorithm.jpg" width="300" height="300" style="border: 1px solid #ff0000;">
