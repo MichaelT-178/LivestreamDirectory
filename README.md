@@ -7,4 +7,5 @@ Here's Corey Heuvel talking about the Livestream Directory during one of his liv
 
 Note: I'm the "Michael L" being referred to, that's my Youtube username. The L doesn't stand for anything.
 
-<img src="pics/run_algorithm.jpg" width="350" height="350" style="border: 1px solid #F6F6F6;">
+### This is what the output of running the algorithm looks like
+<img src="pics/run_algorithm.jpg" width="350" height="350">
