@@ -1,4 +1,4 @@
-Control + g. Type 1077 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1081 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1074,6 +1074,10 @@ https://youtu.be/kfFzk3OQy54?si=9kM--SjZVd6_1jbv
 Solo Video 
 https://youtu.be/0XJEi6UTx5Q?si=ybA3N3_jalNrcy0-
 0:00 Get Back by The Beatles
+
+Solo Video
+https://youtu.be/7Op4BVk0jdA?si=Jewr0xh1yaZlhCyT
+0:00 Interstate Love Song by Stone Temple Pilots
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
