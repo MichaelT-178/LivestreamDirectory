@@ -18,7 +18,7 @@ window.addEventListener('load', () => {
     const container = document.querySelector('.container'); 
 
     if (!mediaQuery.matches) {
-        if (theTitle.length < 20 && artist.length < 24 && other_artists.length < 20 
+        if (theTitle.length < 24 && artist.length < 24 && other_artists.length < 20 
             && instruments.length < 20 && longestStringLength < 22 && instrumentList.length < 3 
             || ( longestStringLength < 32 && instrumentList.length > 2)) 
         {
