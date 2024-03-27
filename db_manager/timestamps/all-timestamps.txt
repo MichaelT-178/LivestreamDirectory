@@ -1,4 +1,4 @@
-Control + g. Type 1081 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1088 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1082,6 +1082,9 @@ https://youtu.be/7Op4BVk0jdA?si=Jewr0xh1yaZlhCyT
 Solo Video
 https://youtu.be/ONc9SQGNLlw?si=aOvwbIllS8bG5cGH
 0:00 The Headmaster Ritual by The Smiths
+
+Solo Video 
+0:00 Thunder Road by Bruce Springsteen
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
