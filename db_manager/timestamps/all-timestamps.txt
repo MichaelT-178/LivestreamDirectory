@@ -1,4 +1,4 @@
-Control + g. Type 1088 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1091 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -942,7 +942,6 @@ Solo Video
 https://youtu.be/C4jzWJ54G3Q?si=AM4mASOiuOnmEZa1
 0:00 Never Going Back Again by Fleetwood Mac
 
-
 Solo Video
 https://youtube.com/watch?v=4bCTEUKdQUo
 0:00 Kaijie (BH) by Corey Heuvel
@@ -1083,8 +1082,13 @@ Solo Video
 https://youtu.be/ONc9SQGNLlw?si=aOvwbIllS8bG5cGH
 0:00 The Headmaster Ritual by The Smiths
 
-Solo Video 
+Solo Video
+https://youtu.be/WP-eWEDEeoU?si=OsN_Q6PuiJ73aqPk
 0:00 Thunder Road by Bruce Springsteen
+
+Solo Video
+https://youtu.be/ys2PGLbUSHk?si=lH6gUTS9t8hJY7Pp
+0:00 Nobody's Fault But My Own by Beck
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
