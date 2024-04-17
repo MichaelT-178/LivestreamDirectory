@@ -92,27 +92,46 @@ const outputHtml = matches => {
 // Line 51. Code below will make button invisible 
 //<button type="button" style="background:transparent; border:none; color:transparent; width: 100%; overflow: hidden;">
 
+
+const navigateToSongInfo = (id) => {
+    const match = otherMatches[id];
+    if (!match) return;
+
+    localStorage.setItem("theTitle", match.Title);
+    localStorage.setItem("theArtist", match.Artist);
+    localStorage.setItem("theOtherArt", match.Other_Artists);
+    localStorage.setItem("Appears", match.Appearances);
+    localStorage.setItem("theInstruments", match.Instruments);
+    localStorage.setItem("theImage", match.Image);
+    localStorage.setItem("theLinks", match.Links);
+
+    document.getElementById('search').value = "";
+    document.getElementById('link').style.display = "flex";
+    document.getElementById('helplink').style.display = "flex";
+};
+
+
 matchList.addEventListener('click', (e) => {
     const button = e.target.closest('button');
 
     if (button) {
         const card = button.closest('.card');
         const id = card.dataset.id;
-        matchList.innerText = "";   
-
-        localStorage.setItem("theTitle", otherMatches[id].Title);
-        localStorage.setItem("theArtist", otherMatches[id].Artist);
-        localStorage.setItem("theOtherArt", otherMatches[id].Other_Artists);
-        localStorage.setItem("Appears", otherMatches[id].Appearances);
-        localStorage.setItem("theInstruments", otherMatches[id].Instruments);
-        localStorage.setItem("theImage", otherMatches[id].Image);
-        localStorage.setItem("theLinks", otherMatches[id].Links);
-
-        document.getElementById('search').value = "";
-        document.getElementById('link').style.display = "flex";
-        document.getElementById('helplink').style.display = "flex";
-    };
+        matchList.innerText = "";
+        navigateToSongInfo(id);
+    }
 });
+
+
+//If the user presses return/enter when there is 1 item in the list it will go 
+//the songinfo page.
+search.addEventListener('keyup', (e) => {
+    if (e.key === "Enter" && otherMatches.length === 1) {
+        navigateToSongInfo(0);
+        window.location.href = './html/SongInfo.html';
+    }
+});
+
 
 window.addEventListener('DOMContentLoaded', getSongs);
 search.addEventListener('input', () => searchSongs(search.value));
