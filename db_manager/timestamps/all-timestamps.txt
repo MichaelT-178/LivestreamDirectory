@@ -1,4 +1,4 @@
-Control + g. Type 1091 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1096 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1089,6 +1089,10 @@ https://youtu.be/WP-eWEDEeoU?si=OsN_Q6PuiJ73aqPk
 Solo Video
 https://youtu.be/ys2PGLbUSHk?si=lH6gUTS9t8hJY7Pp
 0:00 Nobody's Fault But My Own by Beck
+
+Solo Video
+https://youtu.be/-J56wVkO1S4?si=mHAg9W9dJ9th1JeC
+0:00 Subterranean Homesick Alien by Radiohead
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI

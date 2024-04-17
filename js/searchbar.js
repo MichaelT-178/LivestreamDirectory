@@ -89,13 +89,8 @@ const outputHtml = matches => {
   };
 };
 
-// Line 51. Code below will make button invisible 
-//<button type="button" style="background:transparent; border:none; color:transparent; width: 100%; overflow: hidden;">
-
-
-const navigateToSongInfo = (id) => {
+const goToSongInfo = (id) => {
     const match = otherMatches[id];
-    if (!match) return;
 
     localStorage.setItem("theTitle", match.Title);
     localStorage.setItem("theArtist", match.Artist);
@@ -118,16 +113,16 @@ matchList.addEventListener('click', (e) => {
         const card = button.closest('.card');
         const id = card.dataset.id;
         matchList.innerText = "";
-        navigateToSongInfo(id);
+        goToSongInfo(id);
     }
 });
 
 
 //If the user presses return/enter when there is 1 item in the list it will go 
-//the songinfo page.
+//to the songinfo page.
 search.addEventListener('keyup', (e) => {
     if (e.key === "Enter" && otherMatches.length === 1) {
-        navigateToSongInfo(0);
+        goToSongInfo(0);
         window.location.href = './html/SongInfo.html';
     }
 });
