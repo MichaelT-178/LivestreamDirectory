@@ -1,4 +1,4 @@
-Control + g. Type 1096 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1100 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1093,6 +1093,10 @@ https://youtu.be/ys2PGLbUSHk?si=lH6gUTS9t8hJY7Pp
 Solo Video
 https://youtu.be/-J56wVkO1S4?si=mHAg9W9dJ9th1JeC
 0:00 Subterranean Homesick Alien by Radiohead
+
+Solo Video 
+https://youtu.be/FQKyaJV2Z_8?si=iFEERjh3Q8bm0wHc
+0:00 Band On The Run by Wings/Paul McCartney
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
