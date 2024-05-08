@@ -1,4 +1,4 @@
-Control + g. Type 1100 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1104 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1097,6 +1097,10 @@ https://youtu.be/-J56wVkO1S4?si=mHAg9W9dJ9th1JeC
 Solo Video 
 https://youtu.be/FQKyaJV2Z_8?si=iFEERjh3Q8bm0wHc
 0:00 Band On The Run by Wings/Paul McCartney
+
+Solo Video
+https://youtu.be/_kbTeTAVqPM?si=6HInUl3nAimHLc6T
+0:00 Blue on Black by Kenny Wayne Shepherd
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
