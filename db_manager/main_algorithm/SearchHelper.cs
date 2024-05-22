@@ -115,7 +115,8 @@ class SearchHelper
         if (artist.Contains("Red Hot Chili")) { AppendNew("The Red Hot Chili Peppers", search); return; }
         if (artist.Contains("Young") && !artist.Equals("Neil Young")) { AppendNew("Neil Young", search); return; }
         if (title.Contains("Starbird")) { AppendNew("Star bird", search); return; }
-        if (title.Contains("Hymne")) { AppendNew("Ode to Love", search); return; }
+        if (title.Contains("Hymne")) { AppendNew("Ode to Love", search); }
+        if (title.Contains("Hymne")) { AppendNew("French", search); return; }
         if (artist.Contains("Allman")) { AppendNew("The Allman Brothers", search); return; }
         if (artist.Contains("Nelly") || artist.Contains("Flo Rida")) { AppendNew("Rap", search); return; }
         if (artist.Equals("Extreme")) { AppendNew("The Extreme", search); return; }
