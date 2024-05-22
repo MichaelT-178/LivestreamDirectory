@@ -1,4 +1,4 @@
-Control + g. Type 1104 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1112 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1101,6 +1101,14 @@ https://youtu.be/FQKyaJV2Z_8?si=iFEERjh3Q8bm0wHc
 Solo Video
 https://youtu.be/_kbTeTAVqPM?si=6HInUl3nAimHLc6T
 0:00 Blue on Black by Kenny Wayne Shepherd
+
+Solo Video
+https://youtu.be/hC6ltt6GQYo?si=qT2V5zsc_V9xeiEZ
+0:00 Dear Mr. Fantasy by Traffic
+
+Solo Video
+https://youtu.be/hC6ltt6GQYo?si=qT2V5zsc_V9xeiEZ
+2:48 Lucky Man by The Verve
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
