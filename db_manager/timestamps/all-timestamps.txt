@@ -1,4 +1,4 @@
-Control + g. Type 1112 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1116 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1109,6 +1109,10 @@ https://youtu.be/hC6ltt6GQYo?si=qT2V5zsc_V9xeiEZ
 Solo Video
 https://youtu.be/hC6ltt6GQYo?si=qT2V5zsc_V9xeiEZ
 2:48 Lucky Man by The Verve
+
+Solo Video 
+https://youtu.be/LUK3DNFEJl0?si=binxtgTQlz_bEBjP
+0:00 Helplessly Hoping by Crosby, Stills & Nash
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
