@@ -71,7 +71,7 @@ class Color
     {
         if (!message.Contains(colorPart))
         {
-            DisplayError("\nThe message below supposed to contain colored text!");
+            DisplayError("\nThe message below is supposed to contain colored text!");
             Console.WriteLine("Message: " + message);
             Console.WriteLine("Substring not in line: " + colorPart + "\n");
         }
