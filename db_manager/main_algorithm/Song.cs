@@ -15,7 +15,8 @@ public class Song
     public string Appearances { get; set; }
     public string Links { get; set; }
 
-    public Song(string title, string artist, string otherArtists, string instruments, string artistPic, string search, string appearances, string links)
+    public Song(string title, string artist, string otherArtists, string instruments, 
+                string artistPic, string search, string appearances, string links)
     {
         Title = title;
         Artist = artist;
