@@ -1,4 +1,4 @@
-Control + g. Type 1124 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1129 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1121,6 +1121,11 @@ https://youtu.be/6vk5LV8i_qI?si=rHhXZXYyoPf4fuZ1
 Solo Video 
 https://youtu.be/U_LDR1yvYXU?si=WvJ36KM7kS-ZWEfc
 0:00 Something Like Olivia by John Mayer
+
+Solo Video
+https://youtu.be/Bf4pBi7Bi7k?si=L2-U6CDhgs5ty5RO
+0:00 Natural Blues by Moby
+0:00 Trouble So Hard by Vera Hall
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
