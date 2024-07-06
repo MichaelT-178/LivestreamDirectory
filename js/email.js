@@ -6,7 +6,7 @@ document.getElementById('form').addEventListener('submit', function(event) {
    btn.value = 'Sending...';
 
    const serviceID = 'default_service';
-   const templateID = 'template_ngfg5ko';
+   const templateID = 'template_wp3pxkm';
 
    emailjs.sendForm(serviceID, templateID, this) 
     .then(() => {
