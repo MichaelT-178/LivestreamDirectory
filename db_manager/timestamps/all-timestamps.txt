@@ -1,4 +1,4 @@
-Control + g. Type 1129 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1133 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1126,6 +1126,10 @@ Solo Video
 https://youtu.be/Bf4pBi7Bi7k?si=L2-U6CDhgs5ty5RO
 0:00 Natural Blues by Moby
 0:00 Trouble So Hard by Vera Hall
+
+Solo Video
+https://youtu.be/Yqf0UOMduNo?si=U_hTMpM1JRxAMrQS
+0:00 Green River (NST) by Creedence Clearwater Revival
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
