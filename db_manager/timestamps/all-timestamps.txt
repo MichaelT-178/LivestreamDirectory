@@ -1,4 +1,4 @@
-Control + g. Type 1133 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1137 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1130,6 +1130,10 @@ https://youtu.be/Bf4pBi7Bi7k?si=L2-U6CDhgs5ty5RO
 Solo Video
 https://youtu.be/Yqf0UOMduNo?si=U_hTMpM1JRxAMrQS
 0:00 Green River (NST) by Creedence Clearwater Revival
+
+Solo Video 
+https://youtu.be/8lFw5pkJJyE?si=TSgd1JqYcYjHFQQt
+0:00 Dark Horse by Amanda Marshall
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
