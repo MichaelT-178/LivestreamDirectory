@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Text.RegularExpressions;
 
 /**
  * Helper methods for common operations in the program.
@@ -190,7 +191,7 @@ class Helper
      */
     public static string RemoveKeys(string line)
     {
-        return line
+        string lineWithReplacedStrings = line
                 .Replace("(BH)", "")
                 .Replace("(B)", "")
                 .Replace("(DX1R)", "")
@@ -223,6 +224,9 @@ class Helper
                 .Replace("(EP Version)", "")
                 .Replace("(Pink Moon Album)", "")
                 .Trim();
+        
+        // Replace (Clipped 10)
+        return Regex.Replace(lineWithReplacedStrings, @"\(\bLS [1-9][0-9]{0,2} Clip\b\)","");
     }
 
     /**
