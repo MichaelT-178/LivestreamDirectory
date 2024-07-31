@@ -1,4 +1,4 @@
-Control + g. Type 1137 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1141 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1134,6 +1134,10 @@ https://youtu.be/Yqf0UOMduNo?si=U_hTMpM1JRxAMrQS
 Solo Video 
 https://youtu.be/8lFw5pkJJyE?si=TSgd1JqYcYjHFQQt
 0:00 Dark Horse by Amanda Marshall
+
+Solo Video
+https://youtu.be/MDp7C5wBN4I?si=RD-vMI0Qs4aVzmDh
+0:00 Fearless by Pink Floyd
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
