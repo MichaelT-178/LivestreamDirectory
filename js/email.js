@@ -6,9 +6,17 @@ document.getElementById('form').addEventListener('submit', function(event) {
    btn.value = 'Sending...';
 
    const serviceID = 'default_service';
-   const templateID = 'template_wp3pxkm';
+   const templateID = 'template_cowiwh7';
+   
+   const templateParams = {
+     subject: "Email from Heuvel Website",
+     website: "the Livestream Directory.",
+     from_name: "",
+     from_email: "Person who sent this email",
+     message: message
+   };
 
-   emailjs.sendForm(serviceID, templateID, this) 
+   emailjs.send(serviceID, templateID, templateParams) 
     .then(() => {
         Swal.fire({
             title: 'Success!',
