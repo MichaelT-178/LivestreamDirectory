@@ -5,6 +5,8 @@ document.getElementById('form').addEventListener('submit', function(event) {
 
    btn.value = 'Sending...';
 
+   const message = document.getElementById('box').value;
+
    const serviceID = 'default_service';
    const templateID = 'template_cowiwh7';
    
