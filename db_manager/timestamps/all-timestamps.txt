@@ -1,4 +1,4 @@
-Control + g. Type 1149 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1153 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1146,6 +1146,10 @@ https://youtu.be/MDp7C5wBN4I?si=RD-vMI0Qs4aVzmDh
 Solo Video (LS 150 Clip)
 https://youtu.be/0dx5jLh2r0w?si=IDfyZQEWcmILSGOo
 0:00 Can't Stop by Red Hot Chili Peppers
+
+Solo Video (LS 127 Clip)
+https://youtu.be/hg1To5D-97U?si=2DqT8dPLLvqDV3fC
+0:00 Dust in a Baggie by Billy Strings
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
