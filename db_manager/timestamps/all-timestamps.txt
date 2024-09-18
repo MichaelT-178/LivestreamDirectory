@@ -1,4 +1,4 @@
-Control + g. Type 1153 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1161 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1154,6 +1154,10 @@ https://youtu.be/hg1To5D-97U?si=2DqT8dPLLvqDV3fC
 Solo Video (LS 42 Clip)
 https://youtu.be/V8ExcopH4z8?si=gt1ELRvdt_58wgYJ
 0:00 Lover, You Should've Come Over by Jeff Buckley
+
+Solo Video (LS 138 Clip)
+https://youtu.be/aQ8xvIYbKZM?si=9VCRxuoRlo7RWAB2
+0:00 Surely (I Love You) by Colin James
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
