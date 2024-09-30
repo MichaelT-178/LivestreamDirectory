@@ -215,6 +215,7 @@ class Helper
                 .Replace("(12/Twelve-String)", "")
                 .Replace("(Old)", "")
                 .Replace("(New)", "")
+                .Replace("(Blocked in US)", "")
                 .Replace("(Audio Issues)", "")
                 .Replace("(Live)", "")
                 .Replace("(Blues Slide)", "")
