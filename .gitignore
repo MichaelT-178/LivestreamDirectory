@@ -1,3 +1,5 @@
 LivestreamDirectory.csproj
 LivestreamDirectory.sln
 obj/
+
+python/creds.json
