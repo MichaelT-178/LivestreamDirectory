@@ -89,7 +89,7 @@ class AlgorithmHelper
             resultString += keyNoParenthesis + "/";
         }
 
-        if (resultString.Count(c => c == '/') == 0) {
+        if (resultString.Count(c => c == '/') == 1) {
             resultString = resultString.Replace("Blocked in US ", "Blocked in US");
         }
 
