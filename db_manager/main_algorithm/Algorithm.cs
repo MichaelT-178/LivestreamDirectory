@@ -94,6 +94,8 @@ class Algorithm
                     //Ex: (Pink Moon Album/M)
                     string joinedAppearanceKeys = AlgorithmHelper.GetKeysJoinedAsString(allSongsKeysAsList);
 
+                    joinedAppearanceKeys = joinedAppearanceKeys.Replace("Blocked In US", "Blocked In US ");
+
                     if (song == fileSongWithOutKeys)
                     {
                         appearances += $"{currentLivestreamNoKeys}{joinedAppearanceKeys},";
