@@ -84,6 +84,8 @@ class AlgorithmHelper
         foreach (string key in keyList)
         {
             string keyNoParenthesis = key.Replace("(", "").Replace(")", "");
+            keyNoParenthesis += (keyNoParenthesis == "Blocked in US") ? " " : "";
+
             resultString += keyNoParenthesis + "/";
         }
 
