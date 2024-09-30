@@ -89,6 +89,10 @@ class AlgorithmHelper
             resultString += keyNoParenthesis + "/";
         }
 
+        if (resultString.Count(c => c == '/') == 0) {
+            resultString = resultString.Replace("Blocked in US ", "Blocked in US");
+        }
+
         //[..^1] removes the last "/" character from resultString. Add parenthesis around string
         return " (" + resultString[..^1] + ")";
 
