@@ -149,7 +149,6 @@ class Algorithm
             if (artist == "Yusuf") artist = "Yusuf / Cat Stevens";
 
             if (title.Contains("Led Boots")) appearances = appearances.Replace(" 50 (Electric Song)", " 50 (Electric riff)");
-            appearances = appearances.Replace("Blocked In US", "Blocked In US ");
 
             if (instruments.Length > 2)
             {
