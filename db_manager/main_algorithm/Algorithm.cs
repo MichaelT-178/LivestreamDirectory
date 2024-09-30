@@ -94,8 +94,6 @@ class Algorithm
                     //Ex: (Pink Moon Album/M)
                     string joinedAppearanceKeys = AlgorithmHelper.GetKeysJoinedAsString(allSongsKeysAsList);
 
-                    joinedAppearanceKeys = joinedAppearanceKeys.Replace("Blocked In US", "Blocked In US ");
-
                     if (song == fileSongWithOutKeys)
                     {
                         appearances += $"{currentLivestreamNoKeys}{joinedAppearanceKeys},";
@@ -151,6 +149,7 @@ class Algorithm
             if (artist == "Yusuf") artist = "Yusuf / Cat Stevens";
 
             if (title.Contains("Led Boots")) appearances = appearances.Replace(" 50 (Electric Song)", " 50 (Electric riff)");
+            appearances = appearances.Replace("Blocked In US", "Blocked In US ");
 
             if (instruments.Length > 2)
             {
