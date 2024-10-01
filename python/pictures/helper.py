@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-directory = '../pics'
+directory = '../../pics'
 
 for filename in os.listdir(directory):
     if filename.endswith(".jpg"):

@@ -2,8 +2,8 @@ import os
 from PIL import Image
 
 
-directory = '../pics'
-output_directory = '../pics'
+directory = '../../pics'
+output_directory = '../../pics'
 
 os.makedirs(output_directory, exist_ok=True)
 
