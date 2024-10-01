@@ -11,7 +11,7 @@ with open("data/blocked.json", 'r') as file:
     prev_blocked_list = content["previously_blocked"]
 
     for i in range(len(prev_blocked_list)):
-        if i % 5 == 0:
+        if i % 10 == 0:
             pause = input("YEET: ")
 
         webbrowser.open(prev_blocked_list[i]["link"])
