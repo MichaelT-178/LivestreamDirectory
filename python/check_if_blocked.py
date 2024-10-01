@@ -42,7 +42,7 @@ def get_youtube_title(url, retries=3):
             return yt.title
         except Exception as e:
             if attempt < retries - 1:
-                # print(f"Error getting the title for the link: {e}. Retrying ({attempt + 1}/{retries})...")
+                print(f"Error getting the title for the link: {e}. Retrying ({attempt + 1}/{retries})...")
                 time.sleep(2)
             else:
                 return "Error fetching title after multiple retries"
@@ -61,52 +61,107 @@ def get_video_id_from_url(url):
     except Exception as e:
         return None
 
-
 def check_video_availability_by_url(url):
     """
-    Get whether the videos is unrestricted or not 
+    Get whether the video is unrestricted or not 
     returns a message and a boolean of whether or 
-    not it's blocked.
+    not it's blocked, including checks for region, age restrictions,
+    privacy status, and copyright.
     """
-    
     video_id = get_video_id_from_url(url)
 
     if not video_id:
-        return { "msg" : "Invalid YouTube URL or video not found", "blocked": True }
-    
+        return {"msg": "Invalid YouTube URL or video not found", "blocked": True}
+
     youtube = build('youtube', 'v3', developerKey=API_KEY)
-    
+
     request = youtube.videos().list(
-        part="contentDetails",
+        part="contentDetails,status",
         id=video_id
     )
 
     response = request.execute()
-    
+
     if 'items' in response and len(response['items']) > 0:
-
         content_details = response['items'][0]['contentDetails']
+        status_details = response['items'][0]['status']
 
+
+        print("HERE")
+        print(response['items'])
+
+
+        # Check for region restrictions
         if 'regionRestriction' in content_details:
             restrictions = content_details['regionRestriction']
-
-
             if 'blocked' in restrictions:
-
-                if len(restrictions['blocked']) == 1 and "RU" in restrictions['blocked']:
-                    return { "msg": f"Video is only blocked in Russia", "blocked": False }
-                
-                return { "msg": f"Video is blocked in these countries: {restrictions['blocked']}", "blocked": True }
-            
-            else:
-                return { "msg": "Video available in your country", "blocked": False }
-            
-
-        else:
-            return { "msg": "No regional restrictions", "blocked": False }
+                return {"msg": f"Video is blocked in these countries: {restrictions['blocked']}", "blocked": True}
         
+        # Check for age restrictions
+        if 'contentRating' in content_details and 'ytRating' in content_details['contentRating']:
+            if content_details['contentRating']['ytRating'] == 'ytAgeRestricted':
+                return {"msg": "Video is age restricted", "blocked": True}
+
+        # Check if the video is private
+        if status_details.get('privacyStatus') == 'private':
+            return {"msg": "Video is private", "blocked": True}
+
+        # Check for copyright claims or licensing issues
+        if status_details.get('uploadStatus') == 'rejected' or status_details.get('license') == 'creativeCommon':
+            return {"msg": "Video is blocked due to copyright or licensing issues", "blocked": True}
+
+        # If no other restrictions are found
+        return {"msg": "Video is available", "blocked": False}
+
     else:
-        return { "msg": "Video not found", "blocked": True }
+        return {"msg": "Video not found", "blocked": True}
+
+
+# def check_video_availability_by_url(url):
+#     """
+#     Get whether the videos is unrestricted or not 
+#     returns a message and a boolean of whether or 
+#     not it's blocked.
+#     """
+    
+#     video_id = get_video_id_from_url(url)
+
+#     if not video_id:
+#         return { "msg" : "Invalid YouTube URL or video not found", "blocked": True }
+    
+#     youtube = build('youtube', 'v3', developerKey=API_KEY)
+    
+#     request = youtube.videos().list(
+#         part="contentDetails",
+#         id=video_id
+#     )
+
+#     response = request.execute()
+    
+#     if 'items' in response and len(response['items']) > 0:
+
+#         content_details = response['items'][0]['contentDetails']
+
+#         if 'regionRestriction' in content_details:
+#             restrictions = content_details['regionRestriction']
+
+
+#             if 'blocked' in restrictions:
+
+#                 if len(restrictions['blocked']) == 1 and "RU" in restrictions['blocked']:
+#                     return { "msg": f"Video is only blocked in Russia", "blocked": False }
+                
+#                 return { "msg": f"Video is blocked in these countries: {restrictions['blocked']}", "blocked": True }
+            
+#             else:
+#                 return { "msg": "Video available in your country", "blocked": False }
+            
+
+#         else:
+#             return { "msg": "No regional restrictions", "blocked": False }
+        
+#     else:
+#         return { "msg": "Video not found", "blocked": True }
 
 
 
