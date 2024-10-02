@@ -1,4 +1,4 @@
-Control + g. Type 1161 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1165 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1158,6 +1158,10 @@ https://youtu.be/V8ExcopH4z8?si=gt1ELRvdt_58wgYJ
 Solo Video (LS 138 Clip)
 https://youtu.be/aQ8xvIYbKZM?si=9VCRxuoRlo7RWAB2
 0:00 Surely (I Love You) by Colin James
+
+Solo Video (LS 55 Clip)
+https://youtu.be/ptjpjJCpxHM?si=i6X-NONdtMemigaZ
+0:00 Kiss Me by Sixpence None The Richer
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
