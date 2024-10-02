@@ -1,9 +1,5 @@
 {
     "blocked": [
-        {
-            "title": "Livestream 30",
-            "link": "https://youtu.be/9zUVfKZrSGs"
-        }
     ],
     "not_blocked": [
         {
@@ -315,6 +311,10 @@
         {
             "title": "Livestream 28",
             "link": "https://youtu.be/8yEnflFWoIU"
+        },
+        {
+            "title": "Livestream 30",
+            "link": "https://youtu.be/9zUVfKZrSGs"
         },
         {
             "title": "Livestream 32",

@@ -6,7 +6,11 @@ import time
 
 
 """
-Countries where the videos are blocked
+Countries where the videos are blocked.
+
+I made this script for when SESAC blocked like half 
+of Corey's livestream's for like 2 in early October 2024.
+All the livestreams are unblocked now.
 
 ['AS', 'GU', 'MP', 'PR', 'UM', 'US', 'VI']
 
@@ -141,6 +145,8 @@ with open("data/blocked.json", 'r') as file:
             real_title_colored = c(real_title, 'blue')
 
             print(f"{status_colored} | {real_title_colored}")
+            print(message)
+            
         else:
             status = "{:<70}".format(f"{video['title']} is NOT blocked and in the wrong place!")
             real_title = "{:<55}".format(get_youtube_title(video["link"]))
