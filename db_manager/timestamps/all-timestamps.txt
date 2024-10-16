@@ -1,4 +1,4 @@
-Control + g. Type 1165 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1169 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1163,6 +1163,10 @@ Solo Video (LS 55 Clip)
 https://youtu.be/ptjpjJCpxHM?si=i6X-NONdtMemigaZ
 0:00 Kiss Me by Sixpence None The Richer
 
+Solo Video (LS 132 Clip)
+https://youtu.be/Y7OrdcHfoqY?si=_mmTNG4hutlG3_H7
+0:00 Don't Let It Bring You Down (DX1R) by Neil Young
+
 Livestream 25
 https://youtu.be/RipA8bRdIbI
 2:11 Solsbury Hill by Peter Gabriel
@@ -2231,7 +2235,7 @@ https://youtu.be/9mwYBbDX0dY
 55:50 Way to the Sea by Corey Heuvel
 1:02:22 Dani California by Red Hot Chili Peppers
 1:10:08 Fly (M) by Nick Drake
-1:14:39 Don't Let It Bring You Down (OOM) by Neil Young
+1:14:39 Don't Let It Bring You Down (DX1R) by Neil Young
 1:20:19 Patience by Chris Cornell/Guns 'N Roses
 1:26:20 Giving Up by Corey Heuvel
 1:33:30 Human Nature by Michael Jackson
@@ -5187,7 +5191,7 @@ https://youtu.be/HdqJmfuPKyM
 24:40 Dream Song by Scott Matthews
 31:34 Crossroads by Cream/Robert Johnson
 35:38 What I’m About to Do by Corey Heuvel
-42:56 Don't Let It Bring You Down by Neil Young
+42:56 Don't Let It Bring You Down (DX1R) by Neil Young
 49:01 Oceans by Pearl Jam
 54:00 Eleanor Rigby by The Beatles
 1:02:47 Giving Up by Corey Heuvel
@@ -5775,7 +5779,7 @@ https://youtu.be/ARCgeQF6tRg
 45:11 Can’t Find My Way Home (M) by Blind Faith 
 52:06 What I’m About to Do by Corey Heuvel
 59:52 Limelight by Rush
-1:06:02 Don’t Let It Bring You Down (SGI) by Neil Young
+1:06:02 Don’t Let It Bring You Down (DX1R) by Neil Young
 1:09:36 Suit & Tie by Justin Timberlake ft. JAY-Z
 1:19:00 Paranoid Android by Radiohead
 1:25:04 Corey’s favorite movies and TV shows
