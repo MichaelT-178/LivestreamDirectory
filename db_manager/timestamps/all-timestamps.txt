@@ -1,4 +1,4 @@
-Control + g. Type 1173 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1177 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1170,6 +1170,10 @@ https://youtu.be/Y7OrdcHfoqY?si=_mmTNG4hutlG3_H7
 Solo Video (LS 93 Clip)
 https://youtu.be/vLVN_Z-M3Sg?si=Y9nNQILiqwL_JXgo
 0:00 Babe I'm Gonna Leave You by Led Zeppelin
+
+Solo Video (LS 132 Clip)
+https://youtu.be/7eFWQCznsUw?si=gmR8F9jaxWuITef2
+0:00 Oceans by Pearl Jam
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
