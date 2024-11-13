@@ -1,4 +1,4 @@
-Control + g. Type 1177 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1181 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1174,6 +1174,10 @@ https://youtu.be/vLVN_Z-M3Sg?si=Y9nNQILiqwL_JXgo
 Solo Video (LS 132 Clip)
 https://youtu.be/7eFWQCznsUw?si=gmR8F9jaxWuITef2
 0:00 Oceans by Pearl Jam
+
+Solo Video (LS 128 Clip)
+https://youtu.be/vN-eGGQFRlI?si=pJtE6VlofZpq_uuu
+0:00 Higher Ground by Stevie Wonder
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
