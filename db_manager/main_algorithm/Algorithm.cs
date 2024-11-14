@@ -36,7 +36,9 @@ class Algorithm
             string[] otherArtistsList = [];
             string appearances =  "";
             string instruments = "";
+
             StringBuilder searchBuilder = new StringBuilder();
+            
             string links = "";
 
             //Ex: Livestream 95 (Audio Issues) or Solo Video
