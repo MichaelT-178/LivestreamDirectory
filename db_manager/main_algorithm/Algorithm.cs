@@ -38,7 +38,7 @@ class Algorithm
             string instruments = "";
 
             StringBuilder searchBuilder = new StringBuilder();
-            
+
             string links = "";
 
             //Ex: Livestream 95 (Audio Issues) or Solo Video
@@ -107,7 +107,7 @@ class Algorithm
                         instruments += AlgorithmHelper.AddDefaultAcousticGuitar(fileSongWithKeys, instruments);
                         instruments += AlgorithmHelper.GetInstrumentsFromSong(fileSongWithKeys, instruments);
 
-                        SearchHelper.GetInfo(ref searchBuilder, title, artist);
+                        SearchHelper.GetInfo(ref searchBuilder, title, fileArtists);
                         links += AlgorithmHelper.GetYouTubeLink(currentLink, fileSongTimestamp);
                     } //song == fileSongWithoutKeys if block ends 
 
