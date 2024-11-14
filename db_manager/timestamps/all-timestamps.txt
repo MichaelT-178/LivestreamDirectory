@@ -1759,7 +1759,7 @@ Electric Guitar
 1:51:54 Lithium (Electric riff) by Nirvana
 1:52:31 Shine On You Crazy Diamond (Electric riff) by Pink Floyd
 1:53:34 Back In Black (Electric riff) by AC/DC
-1:53:57 Welcome To The Jungle (Electric riff) by Guns 'N Roses
+1:53:57 Welcome To The Jungle (Electric riff) by Guns N' Roses
 1:55:08 Alright Now (Electric riff) by Free
 1:55:50 Lenny (Electric riff) by Stevie Ray Vaughan
 1:57:25 Seven Nation Army (Electric riff) by The White Stripes
@@ -1850,7 +1850,7 @@ Acoustic Guitar
 2:17:15 Can't Stop (Partial) by Red Hot Chili Peppers
 2:17:26 May This Be Love by Jimi Hendrix
 2:21:30 Crossroads by Cream/Robert Johnson
-2:26:19 Patience (SAS) by Chris Cornell/Guns 'N Roses
+2:26:19 Patience (SAS) by Chris Cornell/Guns N' Roses
 2:33:51 Hazey Jane I (M) by Nick Drake
 2:40:25 Thriller by Michael Jackson
 2:46:17 Lover, You Should've Come Over by Jeff Buckley
@@ -2038,7 +2038,7 @@ Electric Guitar
 2:20:18 Blues Lick
 2:20:24 Scuttle Buttin' (Electric riff) by Stevie Ray Vaughan
 2:20:52 Mississippi Queen (Electric riff) by Mountain
-2:21:29 Sweet Child O'Mine (Electric riff) by Guns 'N Roses
+2:21:29 Sweet Child O'Mine (Electric riff) by Guns N' Roses
 2:22:00 Cowboys from Hell (Electric riff) by Pantera
 2:22:53 Bad To The Bone (Blues Slide) (Electric riff) by George Thorogood & The Destroyers
 2:23:30 Voodoo Child (Slight Return) (Electric riff) by Jimi Hendrix
@@ -2248,7 +2248,7 @@ https://youtu.be/9mwYBbDX0dY
 1:02:22 Dani California by Red Hot Chili Peppers
 1:10:08 Fly (M) by Nick Drake
 1:14:39 Don't Let It Bring You Down (DX1R) by Neil Young
-1:20:19 Patience by Chris Cornell/Guns 'N Roses
+1:20:19 Patience by Chris Cornell/Guns N' Roses
 1:26:20 Giving Up by Corey Heuvel
 1:33:30 Human Nature by Michael Jackson
 1:38:59 Out On The Western Plain by Rory Gallagher
@@ -6489,7 +6489,7 @@ https://www.youtube.com/watch?v=gzOWoVXQdgU
 0:37 Super Mario Bros. Main Theme by Koji Kondo
 2:07 Superstition by Stevie Wonder
 8:46 Black Dog (Partial) by Led Zeppelin 
-10:39 Sweet Child O'Mine (Partial) by Guns 'N Roses
+10:39 Sweet Child O'Mine (Partial) by Guns N' Roses
 11:34 Life in the Fast Lane (Partial) by The Eagles 
 12:49 Tush (Partial) by ZZ Top 
 12:55 Sharp Dressed Man (Partial) by ZZ Top 
