@@ -1,4 +1,4 @@
-Control + g. Type 1181 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1185 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1179,6 +1179,10 @@ Solo Video (LS 128 Clip)
 https://youtu.be/vN-eGGQFRlI?si=pJtE6VlofZpq_uuu
 0:00 Higher Ground by Stevie Wonder/Red Hot Chili Peppers
 
+Solo Video (LS 143 Clip)
+https://youtu.be/9TiumGDFShg?si=VG1Mu0JzUWgQragn
+0:00 Out On The Western Plain by Rory Gallagher/Lead Belly
+
 Livestream 25
 https://youtu.be/RipA8bRdIbI
 2:11 Solsbury Hill by Peter Gabriel
@@ -1978,7 +1982,7 @@ https://youtu.be/UvL7GFjtrj0
 1:05:08 Lenny (Partial) by Stevie Ray Vaughan
 1:08:38 Do It Again by Steely Dan
 1:16:32 No Such Thing by John Mayer
-1:21:26 Out On The Western Plain by Rory Gallagher
+1:21:26 Out On The Western Plain by Rory Gallagher/Lead Belly
 1:27:56 Way to the Sea by Corey Heuvel
 1:32:53 Money by Pink Floyd
 1:36:58 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
@@ -2251,7 +2255,7 @@ https://youtu.be/9mwYBbDX0dY
 1:20:19 Patience by Chris Cornell/Guns N' Roses
 1:26:20 Giving Up by Corey Heuvel
 1:33:30 Human Nature by Michael Jackson
-1:38:59 Out On The Western Plain by Rory Gallagher
+1:38:59 Out On The Western Plain by Rory Gallagher/Lead Belly
 1:45:05 Life by the Drop by Stevie Ray Vaughan
 1:47:56 Do It Again by Steely Dan
 1:55:54 God Knows (I Love You Madly) by Corey Heuvel
@@ -2766,7 +2770,7 @@ Livestream 66
 https://youtu.be/gu7ChqD4Qm4
 0:12 Intro “Jhana” by Corey Heuvel
 9:02 At the Creek by Corey Heuvel
-18:12 Out On The Western Plain by Rory Gallagher
+18:12 Out On The Western Plain by Rory Gallagher/Lead Belly
 25:43 Slide by The Goo Goo Dolls
 30:48 Thirteen by Big Star/Elliott Smith
 34:50 In The Street (That 70's Show Theme) (Partial) by Big Star
@@ -3170,7 +3174,7 @@ https://youtu.be/ERjisFF12Vk
 2:16:53 What I'm About to Do by Corey Heuvel
 2:22:21 Improv
 2:24:44 I'll Be by Edwin McCain
-2:30:18 Out On The Western Plain by Rory Gallagher
+2:30:18 Out On The Western Plain by Rory Gallagher/Lead Belly
 2:35:38 Way to the Sea by Corey Heuvel
 2:40:24 Cherry Wine by Hozier
 2:45:13 Hideaway by Kiesza
@@ -4346,7 +4350,7 @@ https://youtu.be/JNbwlKX5IJE
 2:13:00 God Knows (I Love You Madly) by Corey Heuvel
 2:17:26 Moondance by Van Morrison
 2:25:19 Desire (M) by U2
-2:28:59 Out On The Western Plain by Rory Gallagher
+2:28:59 Out On The Western Plain by Rory Gallagher/Lead Belly
 2:34:15 Until the End by Corey Heuvel
 2:41:33 Funky Monks (Partial) by Red Hot Chili Peppers
 2:42:07 That's Life by Frank Sinatra
@@ -5626,7 +5630,7 @@ https://youtu.be/rHhhcP4jGD8
 1:44:28 Hand in My Pocket by Alanis Morissette
 1:49:06 Dreams by Fleetwood Mac
 1:53:48 Until the End by Corey Heuvel
-1:59:57 Out On The Western Plain by Rory Gallagher
+1:59:57 Out On The Western Plain by Rory Gallagher/Lead Belly
 2:07:42 L.A. Woman by The Doors
 2:16:12 Let It Down (M) by George Harrison
 2:23:13 Cemetery Gates by Pantera
