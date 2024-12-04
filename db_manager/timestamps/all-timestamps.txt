@@ -1,4 +1,4 @@
-Control + g. Type 1185 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1189 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1182,6 +1182,10 @@ https://youtu.be/vN-eGGQFRlI?si=pJtE6VlofZpq_uuu
 Solo Video (LS 143 Clip)
 https://youtu.be/9TiumGDFShg?si=VG1Mu0JzUWgQragn
 0:00 Out On The Western Plain by Rory Gallagher/Lead Belly
+
+Solo Video (LS 69 Clip)
+https://youtu.be/MODeF6k0VgA?si=PKCz3nT6rODMF2IB
+0:00 Catfish Blues (M) by Robert Petway/Jimi Hendrix
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
