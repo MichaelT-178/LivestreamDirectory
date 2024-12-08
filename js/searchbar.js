@@ -121,8 +121,9 @@ matchList.addEventListener('click', (e) => {
 //If the user presses return/enter when there is 1 item in the list it will go 
 //to the songinfo page.
 search.addEventListener('keyup', (e) => {
-    if (e.key === "Enter" && otherMatches.length === 1) {
+    if (e.key === "Enter") {
         goToSongInfo(0);
+        matchList.innerText = "";
         window.location.href = './html/SongInfo.html';
     }
 });
