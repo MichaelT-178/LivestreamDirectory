@@ -1,4 +1,4 @@
-Control + g. Type 1189 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1193 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1186,6 +1186,10 @@ https://youtu.be/9TiumGDFShg?si=VG1Mu0JzUWgQragn
 Solo Video (LS 69 Clip)
 https://youtu.be/MODeF6k0VgA?si=PKCz3nT6rODMF2IB
 0:00 Catfish Blues (M) by Robert Petway/Jimi Hendrix
+
+Solo Video (LS 45 Clip)
+https://youtu.be/x10qyDfDB0E?si=ICr144GsUvhSi1Jb
+0:00 Moondance by Van Morrison
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
