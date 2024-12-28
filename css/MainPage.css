@@ -13,3 +13,12 @@
 #helplink {
     margin-left: -7.1px;
 }
+
+.yt-channel-link {
+    all: unset;
+}
+
+.yt-channel-link:hover {
+    color: #e6e5e5;
+    cursor: pointer;
+}
