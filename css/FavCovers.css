@@ -6,13 +6,12 @@ header {
     padding: 10px 0; /* Add padding above and below (adjust as needed) */
 }
 
-/* Add top and bottom padding to the search bar */
 .search-wrapper {
-    padding: 0px 0; /* Make the padding of the blue header bigger was 8.*/
+    padding: 0px 0;
 }
 
 .header-padding {
-    padding: 8px 0; /* Add padding above and below */
+    padding: 8px 0;
 }
 
 .search-wrapper {
@@ -75,6 +74,10 @@ input {
 
 .card > .header {
     margin-bottom: .25rem;
+}
+
+.card > .header:hover {
+    color: #0077B2 !important;
 }
 
 .card > .body {
