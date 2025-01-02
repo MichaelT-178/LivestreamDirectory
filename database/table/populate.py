@@ -17,6 +17,7 @@ cursor = conn.cursor()
 
 for song in data['songs']:
 
+    song_id = song["Id"]
     title = song["Title"]
     artist = song["Artist"]
     other_artists = song["Other_Artists"]
@@ -26,12 +27,12 @@ for song in data['songs']:
     appearances = song["Appearances"]
     links = song["Links"]
 
-    sql = '''INSERT INTO Song (Title, Artist, Other_Artists, Instruments, 
+    sql = '''INSERT INTO Song (Id, Title, Artist, Other_Artists, Instruments, 
                                Image, Search, Appearances, Links)
-             VALUES (?, ?, ?, ?, ?, ?, ?, ?);
+             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?);
           '''
     
-    cursor.execute(sql, (title, artist, other_artists, instruments, artist_pic, search, appearances, links))
+    cursor.execute(sql, (song_id, title, artist, other_artists, instruments, artist_pic, search, appearances, links))
 
 conn.commit()
 conn.close()

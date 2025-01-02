@@ -24,6 +24,7 @@ class Algorithm
         string filePath = "./db_manager/timestamps/all-timestamps.txt";
         string[] allTimestampLines = File.ReadAllLines(filePath);
 
+        int idCount = 0;
 
         StringBuilder songListBuilder = new();
 
@@ -159,9 +160,9 @@ class Algorithm
 
             artistPic = Helper.ReplaceNonAsciiChars(artistPic).Replace("/", ":");
 
-            Song jsonSong = new(title, artist, otherArtists, instruments, artistPic, search, appearances, links);
+            Song jsonSong = new(idCount, title, artist, otherArtists, instruments, artistPic, search, appearances, links);
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));
-
+            idCount++;
         } //song in allSongs for loop ends 
 
         string jsonSongString = songListBuilder.ToString().Trim()[..^1];

@@ -10,6 +10,7 @@ cursor = conn.cursor()
 
 cursor.execute('''
     CREATE TABLE Song (
+        Id INT PRIMARY KEY,
         Title VARCHAR(100),
         Artist VARCHAR(50),
         Other_Artists VARCHAR(100),

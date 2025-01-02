@@ -10,6 +10,7 @@ with open("../song_list.json", 'r') as file:
 
 for song in data['songs']:
     print()
+    print(song["Id"])
     print(song["Title"])
     print(song["Artist"])
     print(song["Other_Artists"])
