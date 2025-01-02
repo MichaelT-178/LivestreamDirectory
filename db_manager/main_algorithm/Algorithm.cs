@@ -24,7 +24,7 @@ class Algorithm
         string filePath = "./db_manager/timestamps/all-timestamps.txt";
         string[] allTimestampLines = File.ReadAllLines(filePath);
 
-        int idCount = 0;
+        int idCount = 1;
 
         StringBuilder songListBuilder = new();
 
