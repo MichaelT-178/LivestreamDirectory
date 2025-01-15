@@ -1,4 +1,4 @@
-Control + g. Type 1193 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1201 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1194,6 +1194,10 @@ https://youtu.be/x10qyDfDB0E?si=ICr144GsUvhSi1Jb
 Solo Video (LS 128 Clip)
 https://youtu.be/2OY2S5MuXx4?si=MCiihLHtcYOvwyky
 0:00 Crazy In Love by Beyoncé, JAY-Z
+
+Solo Video (LS 125 Clip)
+https://youtu.be/OK0PRR5p0tY?si=bOr59s6_Ak5KMYeP
+0:00 Helpless by Crosby, Stills, Nash & Young
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
