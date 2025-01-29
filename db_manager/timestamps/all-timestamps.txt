@@ -1,4 +1,4 @@
-Control + g. Type 1201 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1205 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1198,6 +1198,10 @@ https://youtu.be/2OY2S5MuXx4?si=MCiihLHtcYOvwyky
 Solo Video (LS 125 Clip)
 https://youtu.be/OK0PRR5p0tY?si=bOr59s6_Ak5KMYeP
 0:00 Helpless by Neil Young/Crosby, Stills, Nash & Young
+
+Solo Video (LS 69 Clip)
+https://youtu.be/-_0aR2XdU00?si=DvaEoZr0EFW6FAXx
+0:00 Solsbury Hill by Peter Gabriel
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
