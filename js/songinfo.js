@@ -62,7 +62,7 @@ window.addEventListener('load', () => {
     web = appears.split(",");
 
     const alllinks = theLinks.split(" , ").map((link, i) => 
-    `<div style="margin: 10px 0;">• <a href="${link}" style= "font-size: 25px;text-decoration: none;">${web[i]}</a></div>`
+    `<div style="margin: 10px 0;">• <a href="${link}" target="_blank" rel="noopener noreferrer" style="font-size: 25px;text-decoration: none;">${web[i]}</a></div>`
     ).join('');
 
     document.getElementById('result-links').innerHTML = alllinks;
