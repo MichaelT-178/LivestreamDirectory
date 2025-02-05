@@ -1,4 +1,4 @@
-Control + g. Type 1205 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1209 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1202,6 +1202,10 @@ https://youtu.be/OK0PRR5p0tY?si=bOr59s6_Ak5KMYeP
 Solo Video (LS 69 Clip)
 https://youtu.be/-_0aR2XdU00?si=DvaEoZr0EFW6FAXx
 0:00 Solsbury Hill by Peter Gabriel
+
+Solo Video (LS 127 Clip)
+https://youtu.be/yamPMMx_zYU?si=rH34Xp2TiuRp6K5p
+0:00 There She Goes by The La's
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
