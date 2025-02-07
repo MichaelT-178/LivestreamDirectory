@@ -158,6 +158,12 @@ class Algorithm
                 instruments = instruments[..^2]; //get rid of last " , " character
             }
 
+            if (artistPic.Contains("Yusuf")) {
+                artist = "Yusuf / Cat Stevens";
+                artistPic = "Yusuf : Cat Stevens.jpg";
+                otherArtists = "";
+            }
+
             artistPic = Helper.ReplaceNonAsciiChars(artistPic).Replace("/", ":");
 
             Song jsonSong = new(idCount, title, artist, otherArtists, instruments, artistPic, search, appearances, links);

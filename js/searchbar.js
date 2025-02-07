@@ -68,7 +68,7 @@ const outputHtml = matches => {
         const html = matches.map((match, i) => 
        
         `<div class="card card-body mb-1" data-id="${i}">
-        <a href="https://www.livestreamdirectory.com/html/SongInfo.html" style="text-decoration:none;">
+        <a href="/html/SongInfo.html" style="text-decoration:none;">
             <button type="button"  style="background-color:#222; width: 100%; overflow: hidden;"> 
             
 
