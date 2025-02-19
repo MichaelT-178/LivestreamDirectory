@@ -1,4 +1,4 @@
-Control + g. Type 1209 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1213 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1206,6 +1206,10 @@ https://youtu.be/-_0aR2XdU00?si=DvaEoZr0EFW6FAXx
 Solo Video (LS 127 Clip)
 https://youtu.be/yamPMMx_zYU?si=rH34Xp2TiuRp6K5p
 0:00 There She Goes by The La's
+
+Solo Video (LS 42 Clip)
+https://youtu.be/CMD-AJB8L60?si=BYMewvcTPFIC5jZ7
+0:00 May This Be Love by Jimi Hendrix
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
