@@ -6,7 +6,7 @@ Here's Corey Heuvel talking about the Livestream Directory during one of his liv
 
 Note: I'm the "Michael L" being referred to, that's my Youtube username. The L doesn't stand for anything.
 
-### This is what the output of running the algorithm looks like
+## This is what the output of running the algorithm looks like
 <img src="pics/run_algorithm.jpg" width="350" height="350">
 
 ## Reviews
@@ -16,6 +16,6 @@ This website was met with a very positive response when posted on Corey Heuvel's
 - *"Really immense; thanks so much."*
 - *"Holy wow, Michael, that is SUPER cool, thank you!"*
 
-And my personal favorite from a Lenovo hiring manager:
+And one of my personal favorites from a Lenovo hiring manager:
 
 - *"I use the S#%t out of that thing."*
