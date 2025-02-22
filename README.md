@@ -35,3 +35,14 @@ http://localhost:8000/
 
 ### This is what the output of running the algorithm looks like
 <img src="pics/run_algorithm.jpg" width="350" height="350">
+
+## Reviews
+This website was met with a very positive response when posted on Corey Heuvel's [Patreon](https://www.patreon.com/posts/livestream-70578990?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share) page. Below are some of the reviews.
+
+- *"That is purely amazing!!! Thanks Lord Michael!"*
+- *"Really immense; thanks so much."*
+- *"Holy wow, Michael, that is SUPER cool, thank you!"*
+
+And my personal favorite from a Lenovo hiring manager:
+
+- *"I use the S#%t out of that thing."*
