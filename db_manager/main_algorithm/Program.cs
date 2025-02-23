@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 
 /**
- * This is the main UI of the Livestream Directory algorithm.
+ * This is the main program of the Livestream Directory algorithm.
  * The purpose of this algorithm is to build and update the database.
  * @author Michael Totaro
  */
@@ -64,7 +64,7 @@ class Program
         OS.UpdateSQLiteDatabase();
         Color.DisplaySuccess("SQLite Database successfully updated!");
 
-        //Stop the watch
+        //Stop the timer
         stopwatch.Stop();
         double elapsedSeconds = stopwatch.Elapsed.TotalSeconds;
         string seconds = elapsedSeconds.ToString("0.00");
@@ -91,6 +91,5 @@ class Program
         //EXECUTE GITHUB COMMANDS 
         Console.WriteLine("\nAdding changes to GitHub");
         OS.ExecuteGitCommands();
-
     }
 }
