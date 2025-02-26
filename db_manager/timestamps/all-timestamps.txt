@@ -1,4 +1,4 @@
-Control + g. Type 1213 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1217 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1210,6 +1210,10 @@ https://youtu.be/yamPMMx_zYU?si=rH34Xp2TiuRp6K5p
 Solo Video (LS 42 Clip)
 https://youtu.be/CMD-AJB8L60?si=BYMewvcTPFIC5jZ7
 0:00 May This Be Love by Jimi Hendrix
+
+Solo Video (LS 128 Clip)
+https://youtu.be/Gm31kS_590M?si=RqT039pS7JkGQmVK
+0:00 Hey, Hey, What Can I Do by Led Zeppelin
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
