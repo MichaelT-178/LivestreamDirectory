@@ -136,6 +136,7 @@ class SearchHelper
 
         if (title.Contains("Xmas")) AppendNew("Happy Christmas", search); 
         if (title.Contains("Xmas")) { AppendNew("Merry Christmas", search); return; }
+        if (title.Contains("Somebody That I Used")) { AppendNew("Somebody I Used", search); return; }
 
         if (artists.Contains("Simon & Gar")) { AppendNew("Simon and Garfunkel", search); return; }
         
