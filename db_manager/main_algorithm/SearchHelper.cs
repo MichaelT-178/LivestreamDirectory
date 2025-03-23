@@ -127,6 +127,7 @@ class SearchHelper
         if (artists.Contains("Nelly") || artists.Contains("Flo Rida")) { AppendNew("Rap", search); return; }
         if (artists.Equals("Extreme")) { AppendNew("The Extreme", search); return; }
         if (artists.Contains("The Police")) { AppendNew("Sting", search); return; }
+        if (artists.Contains("Stevie Ray Vaughan")) { AppendNew("SRV", search); return; }
 
         if (title.Contains("Grey")) { AppendNew(title.Replace("Grey", "Gray"), search); }
         if (artists.Contains("Grey")) { AppendNew(artists.Replace("Grey", "Gray"), search); return; }
