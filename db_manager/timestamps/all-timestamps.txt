@@ -2092,7 +2092,7 @@ Electric Guitar
 2:28:30 You're Still the One (Electric riff) by Shania Twain
 2:29:22 Always with Me, Always with You (Electric riff) by Joe Satriani
 2:30:41 Heartbreaker (Electric riff) by Led Zeppelin
-2:31:20 Rocky Mountain way (Electric riff) by Joe Walsh/The Eagles
+2:31:20 Rocky Mountain way (Electric riff) by Joe Walsh
 2:31:59 More Than a Feeling (Electric riff) by Boston
 2:32:47 Black Dog (Electric riff) by Led Zeppelin
 2:33:35 One Step Closer (Electric riff) by Linkin Park
@@ -6931,7 +6931,7 @@ https://www.youtube.com/watch?v=lq5YJLgEDWI
 25:34 Life by the Drop by Stevie Ray Vaughan
 29:21 Comfortably Numb by Pink Floyd
 35:28 The Way You Make Me Feel by Michael Jackson
-40:05 Rocky Mountain Way (Partial) by Joe Walsh 
+40:05 Rocky Mountain Way (Partial) by Joe Walsh
 41:12 Life's Been Good (Partial) by Joe Walsh
 42:17 Ordinary Girl by Corey Heuvel
 48:01 Layla (Unplugged) by Eric Clapton
