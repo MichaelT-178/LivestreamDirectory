@@ -140,6 +140,7 @@ class SearchHelper
         if (title.Contains("Somebody That I Used")) { AppendNew("Somebody I Used", search); return; }
 
         if (artists.Contains("Simon & Gar")) { AppendNew("Simon and Garfunkel", search); return; }
+        if (artists.Contains("Joe Walsh")) { AppendNew("The Eagles", search); return; }
         
         if (artists.Contains("Bublé")) AppendNew("Michael Bubble", search);
         if (artists.Contains("Bublé")) { AppendNew("Buble", search); return; }

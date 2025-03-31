@@ -5294,11 +5294,11 @@
 		{
 			"Id": 482,
 			"Title": "Rocky Mountain way (Electric riff)",
-			"Artist": "The Eagles",
-			"Other_Artists": "",
+			"Artist": "Joe Walsh",
+			"Other_Artists": "The Eagles",
 			"Instruments": "Electric Guitar",
-			"Image": "The Eagles.jpg",
-			"Search": "",
+			"Image": "Joe Walsh.jpg",
+			"Search": "The Eagles",
 			"Appearances": "Livestream 47 (Electric riff)",
 			"Links": "https://youtu.be/biTNdO9Z6Y8&t=9080"
 		},
