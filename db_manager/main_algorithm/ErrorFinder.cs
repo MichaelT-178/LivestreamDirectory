@@ -50,7 +50,8 @@ class ErrorFinder
         {   
             string[]? songAndArtist = Helper.GetSongAndArtist(line);
 
-            if (songAndArtist != null) {
+            if (songAndArtist != null) 
+            {
                 string song = songAndArtist[0];
 
                 if (!Helper.ListContainsSongWithCorrectQuotes(songs, song)
@@ -216,7 +217,8 @@ class ErrorFinder
             var originals = kvp.Value;
 
             // Skip if there's less than 2 instances of song in originals.
-            if (originals.Count <= 1) {
+            if (originals.Count <= 1) 
+            {
                 continue;
             }
 
