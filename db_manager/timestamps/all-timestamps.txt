@@ -2092,7 +2092,7 @@ Electric Guitar
 2:28:30 You're Still the One (Electric riff) by Shania Twain
 2:29:22 Always with Me, Always with You (Electric riff) by Joe Satriani
 2:30:41 Heartbreaker (Electric riff) by Led Zeppelin
-2:31:20 Rocky Mountain way (Electric riff) by Joe Walsh
+2:31:20 Rocky Mountain Way (Electric riff) by Joe Walsh
 2:31:59 More Than a Feeling (Electric riff) by Boston
 2:32:47 Black Dog (Electric riff) by Led Zeppelin
 2:33:35 One Step Closer (Electric riff) by Linkin Park
@@ -2428,7 +2428,7 @@ Rein Rutnik's Set
 13:00 Sleepy Afternoon (Rein Rutnik Performance) (V) by Rein Rutnik
 17:39 Big Bad Bill (Is Sweet William Now) (Rein Rutnik Performance) (V) by Milton Ager & Jack Yellen
 21:39 I'm Satisfied (Rein Rutnik Performance) (V) by Mississippi John Hurt
-26:12 Fox Chase & Lost John (Rein Rutnik Performance) (H) by Joe Filisko
+26:12 Fox Chase & Lost John (Rein Rutnik Performance)(H) by Joe Filisko
 32:26 Before You Accuse Me (Rein Rutnik Performance) by Eric Clapton/Bo Diddley
 
 Corey Heuvel's Set
@@ -2959,7 +2959,7 @@ https://youtu.be/Y473wJBI_Y8
 1:21:42 Old Man by Neil Young
 1:26:32 Money by Pink Floyd
 1:32:47 Street Spirit (Fade Out) by Radiohead
-1:38:57 Snow by Red Hot Chili Peppers
+1:38:57 Snow (Hey Oh) by Red Hot Chili Peppers
 1:47:31 What I'm About to Do by Corey Heuvel
 1:53:51 Can't Find My Way Home (M) by Blind Faith
 1:58:58 Simple Twist of Fate by Bob Dylan
@@ -4402,7 +4402,7 @@ https://youtu.be/2vn_PYw-W6o
 16:22 Fly Like An Eagle by Steve Miller Band
 23:22 Pride and Joy by Stevie Ray Vaughan
 28:28 Neon by John Mayer
-35:56 Snow by Red Hot Chili Peppers
+35:56 Snow (Hey Oh) by Red Hot Chili Peppers
 41:34 Way to the Sea by Corey Heuvel
 47:37 All Along the Watchtower by Bob Dylan/Jimi Hendrix
 53:07 Green River by Creedence Clearwater Revival
@@ -4857,7 +4857,7 @@ https://youtu.be/Yr3DnVxJbnA
 1:32:37 Sweet Dreams (Are Made of This) by Eurythmics/Annie Lennox/Dave Stewart
 
 Classical Guitar
-1:36:13 Bouree in E Minor (Partial) by Johann Sebastian Bach
+1:36:13 Bouree In E Minor (Partial) by Johann Sebastian Bach
 1:36:26 Adelita by Francisco Tárrega
 1:38:05 Lagrima by Francisco Tárrega
 
@@ -5957,7 +5957,7 @@ Acoustic Guitar
 1:35:42 Song To the Siren by Tim Buckley/John Frusciante
 1:39:54 Evers (SGI) by Corey Heuvel
 1:46:10 Lonely Boy by The Black Keys
-1:52:51 Snow by Red Hot Chili Peppers
+1:52:51 Snow (Hey Oh) by Red Hot Chili Peppers
 1:58:18 Interstate Love Song by Stone Temple Pilots
 2:02:04 Crazy by Gnarls Barkley 
 2:07:49 Dark Horse by Amanda Marshall 

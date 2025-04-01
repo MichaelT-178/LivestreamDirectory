@@ -207,6 +207,7 @@ class Helper
                 .Replace("(Electric Song)", "")
                 .Replace("(Classical Guitar)", "")
                 .Replace("(Partial)", "")
+                .Replace("(w/ Blues Slide)", "")
                 .Replace("(Electric riff)", "")
                 .Replace("(Rein Rutnik Performance)", "")
                 .Replace("(Chords)", "")

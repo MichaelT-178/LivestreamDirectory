@@ -1,0 +1,32 @@
+{
+    "whitelist_duplicates": {
+        "crazy": [
+            "Crazy (Tutorial/Lesson) by Gnarls Barkley",
+            "Crazy by Gnarls Barkley"
+        ],
+        "grace": [
+            "Grace by Corey Heuvel",
+            "Grace by Jeff Buckley"
+        ],
+        "layla": [
+            "Layla (Electric riff) by Eric Clapton",
+            "Layla (Unplugged) by Eric Clapton"
+        ],
+        "money": [
+            "Money (Tutorial/Lesson) by Pink Floyd",
+            "Money by Pink Floyd"
+        ],
+        "the way you make me feel": [
+            "The Way You Make Me Feel (Tutorial/Lesson) by Michael Jackson",
+            "The Way You Make Me Feel by Michael Jackson"
+        ],
+        "voodoo child": [
+            "Voodoo Child (Slight Return) by Jimi Hendrix",
+            "Voodoo Child (Tutorial/Lesson) by Jimi Hendrix"
+        ],
+        "wish you were here": [
+            "Wish You Were Here by Incubus",
+            "Wish You Were Here by Pink Floyd"
+        ]
+    }
+}
