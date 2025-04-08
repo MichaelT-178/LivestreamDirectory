@@ -88,11 +88,6 @@
             "Link": "https://youtu.be/v56fDp25FcM?feature=share&t=5042"
         },
         {
-            "Song": "Purple Haze",
-            "Appearance": "Livestream 57",
-            "Link": "https://youtu.be/MhNKFJxwK8g&t=7684"
-        },
-        {
             "Song": "Hymne à l'amour by Édith Piaf",
             "Appearance": "Livestream 76",
             "Link": "https://youtu.be/ERjisFF12Vk&t=6884"
@@ -101,6 +96,11 @@
             "Song": "Cherry Wine by Hozier",
             "Appearance": "Livestream 39",
             "Link": "https://youtu.be/LmchfAzW9AM&t=3755"
+        },
+        {
+            "Song": "Purple Haze by Jimi Hendrix",
+            "Appearance": "Livestream 57",
+            "Link": "https://youtu.be/MhNKFJxwK8g&t=7684"
         },
         {
             "Song": "Nobody's Fault But My Own by Beck",
