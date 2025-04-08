@@ -117,7 +117,11 @@ input {
 
     .search-input {
       font-size: 1rem;
-      width: 100%;
+      width: 95%;
+      align-self: center;
+      max-width: none;
+      border-radius: 10px;
+      margin-bottom: -5px;
     }
 
     .search-input:focus {
