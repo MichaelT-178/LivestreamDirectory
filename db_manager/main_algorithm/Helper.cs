@@ -213,7 +213,7 @@ class Helper
                 .Replace("(Chords)", "")
                 .Replace("(Short Reggae Version)", "")
                 .Replace("(Instrumental)", "")
-                .Replace("(12/Twelve-String)", "")
+                .Replace("(12-String)", "")
                 .Replace("(Old)", "")
                 .Replace("(New)", "")
                 .Replace("(Blocked in US)", "")

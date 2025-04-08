@@ -264,7 +264,7 @@ class AlgorithmHelper
             {"(Blues Slide)", "Blues Slide"},
             {"(Electric riff)", "Electric Guitar"},
             {"(Rein Rutnik Performance)", "Harmonica"},
-            {"(12/Twelve-String)", "12-String Guitar"}
+            {"(12-String)", "12-String Guitar"}
         };
 
         foreach (var keyInstrumentPair in instrumentMapping)

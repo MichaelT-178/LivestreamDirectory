@@ -18,9 +18,10 @@ class SearchHelper
      * @search A reference to the StringBuilder Search attribute.
      * @param title The title of the song
      * @param artist The artist of the song
+     * @param instruments The instruments of the song
      * @return The other attribute 
      */
-    public static void GetInfo(ref StringBuilder search, string title, string artists)
+    public static void GetInfo(ref StringBuilder search, string title, string artists, string instruments)
     {   
 
         /**
@@ -108,6 +109,14 @@ class SearchHelper
         if (artists.Contains("'")) 
         {
             AppendNew(artists.Replace("'", "‘"), search);
+        }
+        
+        
+        if (instruments.Contains("12-String"))
+        {
+             AppendNew("Twelve", search);
+             AppendNew("Twelve-String", search);
+             AppendNew("Twelve String", search);
         }
 
         //Song and artist specific other attributes. Add then return.
