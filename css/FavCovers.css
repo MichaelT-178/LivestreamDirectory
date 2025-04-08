@@ -1,91 +1,129 @@
-html {background-color: black; display: inline;}
-
-header {
-    /* background-color: steelblue; */
-    width: 100%; /* Cover the entire width of the screen */
-    padding: 10px 0; /* Add padding above and below (adjust as needed) */
+html {
+  background-color: black;
+  display: inline;
 }
 
-.search-wrapper {
-    padding: 0px 0;
+header {
+  width: 100%;
+  padding: 10px 0;
 }
 
 .header-padding {
-    padding: 8px 0;
+  padding: 8px 0;
 }
 
 .search-wrapper {
-    display: flex;
-    flex-direction: column;
-    gap: .25rem;
-    align-items: center; 
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0.5rem;
+  padding: 0;
 }
 
-input[type="search"] {
-    font-size: 1rem;
-    width: 80%; /* Adjust as needed */
-    max-width: none; /* Remove max-width restriction */
-} 
+.search-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.search-input {
+  font-size: 1rem;
+  width: 100%;
+  max-width: none;
+  padding: 5px;
+  border: 2px solid transparent;
+  padding-left: 10px;
+  border-radius: 4px;
+}
+
+.search-input:focus {
+  outline: none;
+  box-shadow: none;
+  border: 2px solid #0077B2;
+}
 
 input {
-    font-size: 1rem;
+  font-size: 1rem;
 }
 
+#message {
+  font-size: 16px;
+  color: #ccc;
+  margin-top: 10px;
+  align-self: center;
+}
+
+.back-arrow {
+  text-decoration: none;
+  font-size: 1.25rem;
+  padding-right: 10px;
+  padding-top: 2px;
+}
+
+.back-arrow:hover {
+  text-decoration: underline;
+}
 
 .user-cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 0.25rem;
-    margin-top: 0.25rem; /* Adjust the margin-top value as needed */
-    /* padding: 2rem; Add padding to the sides */
-}
-
-@media (max-width: 600px) {
-    .user-cards {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
-        gap: 0.25rem;
-        margin-top: 0.25rem; /* Adjust the margin-top value as needed */
-        padding: 0.25rem; /* Add padding to the sides */
-    }
-
-    input[type="search"] {
-        font-size: 1rem;
-        width: 95%;
-        max-width: none; /* Removes max-width restriction */
-    } 
-    
-    #message {
-        font-size: 0px;
-    }
-}
-
-.header, .card {
-    text-decoration: none;
-    --bs-text-opacity:1;
-    color:rgba(var(--bs-primary-rgb),var(--bs-text-opacity))!important;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.25rem;
+  margin-top: 0.25rem;
 }
 
 .card {
-    border: 1px solid black;
-    background-color: #222;
-    padding: .5rem;
+  border: 1px solid black;
+  background-color: #222;
+  padding: 0.5rem;
+  text-decoration: none;
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
 }
 
 .card > .header {
-    margin-bottom: .25rem;
+  margin-bottom: 0.25rem;
 }
 
 .card > .header:hover {
-    color: #0077B2 !important;
+  color: #0077B2 !important;
 }
 
 .card > .body {
-    font-size: .8rem;
-    color:#B9B9B9;
+  font-size: 0.8rem;
+  color: #B9B9B9;
 }
 
 .hide {
-    display: none;
+  display: none;
 }
 
+@media (max-width: 991px) {
+    .back-arrow {
+      display: none;
+    }
+}
+
+@media (max-width: 600px) {
+    .search-wrapper {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    .search-input {
+      font-size: 1rem;
+      width: 100%;
+    }
+
+    .search-input:focus {
+      border: 2px solid #0077B2;
+    }
+
+    #message {
+      display: none;
+    }
+
+    .user-cards {
+      grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+      padding: 0.25rem;
+    }
+}
