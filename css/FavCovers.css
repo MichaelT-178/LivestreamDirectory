@@ -103,6 +103,12 @@ input {
     }
 }
 
+@media (max-width: 768px) {
+    #message {
+        display: none;
+    }
+}
+
 @media (max-width: 600px) {
     .search-wrapper {
       flex-direction: column;
@@ -116,10 +122,6 @@ input {
 
     .search-input:focus {
       border: 2px solid #0077B2;
-    }
-
-    #message {
-      display: none;
     }
 
     .user-cards {
