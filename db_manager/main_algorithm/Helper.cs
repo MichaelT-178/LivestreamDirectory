@@ -161,7 +161,9 @@ class Helper
                 .Replace("á","a")
                 .Replace("à", "a")
                 .Replace("Á", "A")
-                .Replace("ü", "u");
+                .Replace("ü", "u")
+                .Replace("Ö", "O")
+                .Replace("ö", "o");
     }
 
     /**

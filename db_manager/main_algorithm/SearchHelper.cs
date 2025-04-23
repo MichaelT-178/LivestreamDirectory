@@ -152,7 +152,6 @@ class SearchHelper
         if (artists.Contains("Joe Walsh")) { AppendNew("The Eagles", search); return; }
         
         if (artists.Contains("Bublé")) AppendNew("Michael Bubble", search);
-        if (artists.Contains("Bublé")) { AppendNew("Buble", search); return; }
         if (artists.Contains("Simon & Gar")) { AppendNew("Paul Simon", search); return; }
         if (artists.Contains("AC/DC")) { AppendNew("ACDC", search); return; }
         if (artists.Contains("Dire Straits")) { AppendNew("The Dire Straits", search); return; }

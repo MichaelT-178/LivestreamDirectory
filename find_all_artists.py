@@ -1,33 +1,23 @@
 import json
 
-# with open("./database/song_list.json", 'r') as file:
+with open("./db_manager/json_files/repertoire.json", 'r') as file:
+    content = json.load(file)
 
-#     content = json.load(file)
+    songs = []
 
-#     songs = content['songs']
+    for line in content:
+        if line.strip():
+            if " by " in line:
+                title = line.rsplit(" by ", 1)[0]
+                songs.append({
+                    "Title": title,
+                    "Album": ""
+                })
 
-#     for song in songs:
-#         if "/" in song['Artist']:
-#             print(song['Artist'])
-
-
-with open("./db_manager/timestamps/all-timestamps.txt", 'r') as file:
-    for line in file:
-        line_data = line.rsplit(" by ", 1)
-
-        if len(line_data) > 1:
-            artists = line_data[1]
-            
-            if "+" in artists:
-                print(artists)
+    output = {
+        "songs": songs
+    }
 
 
-        # if "," in song['Other_Artists']:
-        #     print(song['Other_Artists'])
-
-
-
-
-# AC/DC
-# AC/DC
-# Yusuf / Cat Stevens
+with open("./db_manager/json_files/albums.json", 'w') as wfile:
+    wfile.write(json.dumps(output, indent=4))
