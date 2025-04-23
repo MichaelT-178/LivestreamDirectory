@@ -64,12 +64,12 @@ class SearchHelper
     
         if (artists.Contains('.') || artists.Contains('\''))
         {
-            AppendNew(artists.Replace(".", "").Replace("'", ""), search);
+            AppendNew(artists.Replace(".", "").Replace("'", "").Replace("+", "/"), search);
         }
 
         if (!Helper.IsAscii(artists)) 
         {
-            AppendNew(Helper.ReplaceNonAsciiChars(artists), search);
+            AppendNew(Helper.ReplaceNonAsciiChars(artists).Replace("+", "/"), search);
         }
         
         if (title.Contains("and"))
@@ -93,11 +93,11 @@ class SearchHelper
                 );
         }
 
-        foreach (string artist in artists.Split("/"))
+        foreach (string artist in artists.Split("+"))
         {
             if (artist.Contains("-") || artist.Contains(",")) 
             { 
-                AppendNew(artists.Replace("-", " ").Replace(",", " "), search);
+                AppendNew(artists.Replace("-", " ").Replace(",", " ").Replace("+", "/"), search);
             }
         }
         
@@ -108,7 +108,7 @@ class SearchHelper
         
         if (artists.Contains("'")) 
         {
-            AppendNew(artists.Replace("'", "‘"), search);
+            AppendNew(artists.Replace("'", "‘").Replace("+", "/"), search);
         }
         
         

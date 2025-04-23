@@ -109,10 +109,7 @@ class ErrorFinder
                     if (songAndArtist != null)
                     {
                         string artists = songAndArtist[1];
-                        string artist = artists.Split('/')[0].Trim();
-
-                        if (artist == "AC") artist = "AC/DC";
-                        if (artist == "Yusuf") artist = "Yusuf / Cat Stevens";
+                        string artist = artists.Split('+')[0].Trim();
 
                         if (!checkedArtists.Contains(artist))
                         {

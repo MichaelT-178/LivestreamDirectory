@@ -86,10 +86,10 @@ class Algorithm
                     //Ex: Satisfied Mind
                     string fileSongWithOutKeys = Helper.RemoveKeys(fileSongWithKeys);
                     //Ex: Jeff Buckley
-                    string fileMainArtist = fileArtists.Split("/")[0];
+                    string fileMainArtist = fileArtists.Split("+")[0];
 
                     //Ex: ["Porter Wagoner", "Red Hays"]
-                    string[] otherArtistsFromFile = fileArtists.Split('/').Skip(1).ToArray(); //Get all artists except first.
+                    string[] otherArtistsFromFile = fileArtists.Split('+').Skip(1).ToArray(); //Get all artists except first.
                     string[]? fileOtherArtists = otherArtistsFromFile.Length != 0 ? otherArtistsFromFile : null;
 
                     //Ex: ["(Pink Moon Album)", "(M)"]
@@ -145,12 +145,6 @@ class Algorithm
                 search = search.Replace("\"", "\\\"");
             }
 
-            if (artist == "AC") otherArtists = "";
-            if (artist == "AC") artistPic = "AC/DC.jpg";
-            if (artist == "AC") artist = "AC/DC";
-            if (artist == "Yusuf") artistPic = "Yusuf / Cat Stevens.jpg";
-            if (artist == "Yusuf") artist = "Yusuf / Cat Stevens";
-
             if (title.Contains("Led Boots")) appearances = appearances.Replace(" 50 (Electric Song)", " 50 (Electric riff)");
 
             if (instruments.Length > 2)
@@ -160,9 +154,7 @@ class Algorithm
 
             if (artistPic.Contains("Yusuf")) 
             {
-                artist = "Yusuf / Cat Stevens";
                 artistPic = "Yusuf : Cat Stevens.jpg";
-                otherArtists = "";
             }
 
             artistPic = Helper.ReplaceNonAsciiChars(artistPic).Replace("/", ":");
