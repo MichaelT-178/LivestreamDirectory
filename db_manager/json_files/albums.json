@@ -2,3271 +2,4093 @@
     "songs": [
         {
             "Title": "\"Alright, Yeah\" Jingle",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "(Don't Fear) The Reaper (Electric riff)",
-            "Album": ""
+            "Album": "Agents Of Fortune",
+            "Year": 1976
         },
         {
             "Title": "(I Can't Get No) Satisfaction (Electric riff)",
-            "Album": ""
+            "Album": "Out Of Our Heads",
+            "Year": 1965
         },
         {
             "Title": "(Nice Dream)",
-            "Album": ""
+            "Album": "The Bends",
+            "Year": 1995
         },
         {
             "Title": "(Sittin' On) the Dock of the Bay",
-            "Album": ""
+            "Album": "The Dock of the Bay",
+            "Year": 1968
         },
         {
             "Title": "1979",
-            "Album": ""
+            "Album": "Mellon Collie And The Infinite Sadness",
+            "Year": 1995
         },
         {
             "Title": "38 Years Old",
-            "Album": ""
+            "Album": "Up To Here",
+            "Year": 1989
         },
         {
             "Title": "3AM",
-            "Album": ""
+            "Album": "Yourself or Someone Like You",
+            "Year": 1996
         },
         {
             "Title": "A Certain Shade of Green",
-            "Album": ""
+            "Album": "S.C.I.E.N.C.E",
+            "Year": 1997
         },
         {
             "Title": "A Still and Silent Mountain",
-            "Album": ""
+            "Album": "The New",
+            "Year": 2011
         },
         {
             "Title": "A Thousand Miles",
-            "Album": ""
+            "Album": "Be Not Nobody",
+            "Year": 2002
         },
         {
-            "Title": "A Thousand Years",
-            "Album": ""
+            "Title": "a thousand years",
+            "Album": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+            "Year": 2011
         },
         {
             "Title": "About A Girl",
-            "Album": ""
+            "Album": "Bleach",
+            "Year": 1989
         },
         {
             "Title": "Across The Universe (Audio Issues)",
-            "Album": ""
+            "Album": "Let It Be",
+            "Year": 1970
         },
         {
             "Title": "Adelita",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Ahead By A Century",
-            "Album": ""
+            "Album": "Trouble At The Henhouse",
+            "Year": 1996
         },
         {
             "Title": "Ain't No Sunshine (Audio Issues)",
-            "Album": ""
+            "Album": "Just As I Am",
+            "Year": 1971
         },
         {
             "Title": "Ain't Talkin' 'Bout Love (Partial)",
-            "Album": ""
+            "Album": "Van Halen",
+            "Year": 1978
         },
         {
             "Title": "Alive",
-            "Album": ""
+            "Album": "Ten",
+            "Year": 1991
         },
         {
             "Title": "All Along the Watchtower",
-            "Album": ""
+            "Album": "Electric Ladyland",
+            "Year": 1968
         },
         {
             "Title": "All Apologies",
-            "Album": ""
+            "Album": "In Utero",
+            "Year": 1993
         },
         {
             "Title": "All These Things That I've Done",
-            "Album": ""
+            "Album": "Hot Fuss",
+            "Year": 2004
         },
         {
-            "Title": "Alright Now (Electric riff)",
-            "Album": ""
+            "Title": "All Right Now (Electric riff)",
+            "Album": "Fire And Water",
+            "Year": 1970
         },
         {
             "Title": "Always with Me, Always with You (Electric riff)",
-            "Album": ""
+            "Album": "Surfing With The Alien",
+            "Year": 1987
         },
         {
             "Title": "Angel from Montgomery",
-            "Album": ""
+            "Album": "John Prine",
+            "Year": 1971
         },
         {
             "Title": "Angeles",
-            "Album": ""
+            "Album": "Either/Or",
+            "Year": 1997
         },
         {
             "Title": "Angelina",
-            "Album": ""
+            "Album": "Endless Road: 20th Anniversary Edition",
+            "Year": 2004
         },
         {
             "Title": "Angie",
-            "Album": ""
+            "Album": "Goats Head Soup",
+            "Year": 1973
         },
         {
             "Title": "Animals (Partial)",
-            "Album": ""
+            "Album": "All the Right Reasons",
+            "Year": 2005
         },
         {
             "Title": "April Come She Will",
-            "Album": ""
+            "Album": "Sounds Of Silence",
+            "Year": 1966
         },
         {
             "Title": "Arjuna's Chariot",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "As",
-            "Album": ""
+            "Album": "Songs In The Key Of Life",
+            "Year": 1976
         },
         {
             "Title": "Asturias (Leyenda) (Audio Issues)",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "At the Creek",
-            "Album": ""
+            "Album": "Evers - EP",
+            "Year": 2008
         },
         {
             "Title": "Autumn Leaves (Electric riff)",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Babe I'm Gonna Leave You",
-            "Album": ""
+            "Album": "Led Zeppelin",
+            "Year": 1969
         },
         {
             "Title": "Baby, I Love Your Way (Partial)",
-            "Album": ""
+            "Album": "Frampton",
+            "Year": 1975
         },
         {
             "Title": "Babylon",
-            "Album": ""
+            "Album": "White Ladder",
+            "Year": 1998
         },
         {
             "Title": "Back In Black (Electric riff)",
-            "Album": ""
+            "Album": "Back In Black",
+            "Year": 1980
         },
         {
             "Title": "Back To You (Audio Issues)",
-            "Album": ""
+            "Album": "MTV Unplugged",
+            "Year": 1997
         },
         {
             "Title": "Bad Penny",
-            "Album": ""
+            "Album": "Top Priority",
+            "Year": 1979
         },
         {
             "Title": "Bad To The Bone (Electric riff)",
-            "Album": ""
+            "Album": "BAD TO THE BONE",
+            "Year": 1982
         },
         {
             "Title": "Ball Peen Hammer",
-            "Album": ""
+            "Album": "Dirt Floor",
+            "Year": 1998
         },
         {
             "Title": "Ballad Of Big Nothing",
-            "Album": ""
+            "Album": "Either/Or",
+            "Year": 1997
         },
         {
             "Title": "Band On The Run",
-            "Album": ""
+            "Album": "Band On the Run",
+            "Year": 1973
         },
         {
             "Title": "Barracuda (Audio Issues)",
-            "Album": ""
+            "Album": "Little Queen",
+            "Year": 1977
         },
         {
             "Title": "Basket Case",
-            "Album": ""
+            "Album": "Dookie",
+            "Year": 1994
         },
         {
-            "Title": "Battle of Evermore (Partial)",
-            "Album": ""
+            "Title": "The Battle of Evermore (Partial)",
+            "Album": "Led Zeppelin IV",
+            "Year": 1971
+        },
+        {
+            "Title": "Be My Husband",
+            "Album": "Pastel Blues",
+            "Year": 1965
         },
         {
             "Title": "Be Your Husband",
-            "Album": ""
+            "Album": "Live at Sin-é (Legacy Edition)",
+            "Year": 1993
         },
         {
             "Title": "Beast Of Burden",
-            "Album": ""
+            "Album": "Some Girls",
+            "Year": 1978
         },
         {
             "Title": "Beat It (Partial)",
-            "Album": ""
+            "Album": "Thriller",
+            "Year": 1982
         },
         {
             "Title": "Beautiful Slide",
-            "Album": ""
+            "Album": "The New",
+            "Year": 2011
         },
         {
             "Title": "Before You Accuse Me",
-            "Album": ""
+            "Album": "Unplugged (Live)",
+            "Year": 1992
         },
         {
             "Title": "Behind Blue Eyes",
-            "Album": ""
+            "Album": "Who's Next",
+            "Year": 1971
         },
         {
             "Title": "Belief",
-            "Album": ""
+            "Album": "Continuum",
+            "Year": 2006
         },
         {
             "Title": "Between the Bars",
-            "Album": ""
+            "Album": "Either/Or",
+            "Year": 1997
         },
         {
             "Title": "Between the Horizons",
-            "Album": ""
+            "Album": "Bliss from Within",
+            "Year": 2013
         },
         {
             "Title": "Big Bad Bill (Is Sweet William Now) (Rein Rutnik Performance)",
-            "Album": ""
+            "Album": "Diver Down",
+            "Year": 1982
         },
         {
             "Title": "Big Love",
-            "Album": ""
+            "Album": "Tango in the Night",
+            "Year": 1987
         },
         {
             "Title": "Big Yellow Taxi",
-            "Album": ""
+            "Album": "Ladies of the Canyon",
+            "Year": 1970
         },
         {
             "Title": "Billie Jean",
-            "Album": ""
+            "Album": "Thriller",
+            "Year": 1982
         },
         {
             "Title": "Black & Gold",
-            "Album": ""
+            "Album": "Sam Sparro",
+            "Year": 2008
         },
         {
             "Title": "Black Dog (Partial)",
-            "Album": ""
+            "Album": "Led Zeppelin IV",
+            "Year": 1971
         },
         {
             "Title": "Black Hole Sun",
-            "Album": ""
+            "Album": "Superunknown",
+            "Year": 1994
         },
         {
             "Title": "Black Mountain Side",
-            "Album": ""
+            "Album": "Led Zeppelin",
+            "Year": 1969
         },
         {
             "Title": "Black or White (Audio Issues)",
-            "Album": ""
+            "Album": "Dangerous",
+            "Year": 1991
         },
         {
             "Title": "Black Star",
-            "Album": ""
+            "Album": "The Bends",
+            "Year": 1995
         },
         {
             "Title": "Blackbird",
-            "Album": ""
+            "Album": "The Beatles/The White Album",
+            "Year": 1968
         },
         {
             "Title": "Bliss from Within",
-            "Album": ""
+            "Album": "Bliss from Within",
+            "Year": 2013
         },
         {
             "Title": "Blossom",
-            "Album": ""
+            "Album": "Sweet Baby James",
+            "Year": 1970
         },
         {
             "Title": "Blue Crystal Fire",
-            "Album": ""
+            "Album": "Visions of the Country",
+            "Year": 1978
         },
         {
             "Title": "Blue on Black",
-            "Album": ""
+            "Album": "Trouble Is...",
+            "Year": 1997
         },
         {
             "Title": "Blues Improv",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Blues Lesson",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Blues licks (Some SRV/Hendrix)",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Blues Slide Improv",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Bobcaygeon",
-            "Album": ""
+            "Album": "Phantom Power",
+            "Year": 1998
         },
         {
             "Title": "Bohemian Rhapsody (Electric riff)",
-            "Album": ""
+            "Album": "A Night At The Opera",
+            "Year": 1975
         },
         {
             "Title": "Bold as Love",
-            "Album": ""
+            "Album": "Axis: Bold As Love",
+            "Year": 1967
         },
         {
             "Title": "Bossa Nova Improv",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Both Sides Now",
-            "Album": ""
+            "Album": "Clouds",
+            "Year": 1969
         },
         {
             "Title": "Boucher HG-56 acoustic guitar demo",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Boucher SG-52-I demo",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Bouree In E Minor",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Brain Damage",
-            "Album": ""
+            "Album": "The Dark Side of the Moon",
+            "Year": 1973
         },
         {
             "Title": "Break Free",
-            "Album": ""
+            "Album": "My Everything",
+            "Year": 2014
         },
         {
             "Title": "Breaking the Girl",
-            "Album": ""
+            "Album": "Blood Sugar Sex Magik",
+            "Year": 1991
         },
         {
             "Title": "Breathe (In the Air)",
-            "Album": ""
+            "Album": "The Dark Side of the Moon",
+            "Year": 1973
         },
         {
             "Title": "Breedlove Discovery Concert CE",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Bring It on Home",
-            "Album": ""
+            "Album": "Led Zeppelin II",
+            "Year": 1969
         },
         {
             "Title": "Bulls On Parade (Electric riff)",
-            "Album": ""
+            "Album": "Evil Empire",
+            "Year": 1996
         },
         {
             "Title": "Burn One Down",
-            "Album": ""
+            "Album": "Fight For Your Mind",
+            "Year": 1995
         },
         {
             "Title": "Cactus Tree",
-            "Album": ""
+            "Album": "Song to a Seagull",
+            "Year": 1968
         },
         {
             "Title": "California Dreamin'",
-            "Album": ""
+            "Album": "If You Can Believe Your Eyes & Ears",
+            "Year": 1966
         },
         {
             "Title": "Can't Find My Way Home",
-            "Album": ""
+            "Album": "Blind Faith",
+            "Year": 1969
         },
         {
             "Title": "Can't Stop",
-            "Album": ""
+            "Album": "By the Way",
+            "Year": 2002
         },
         {
             "Title": "Canarios (Audio Issues)",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Canned Heat",
-            "Album": ""
+            "Album": "Synkronized",
+            "Year": 1999
         },
         {
-            "Title": "Capricho \u00c1rabe",
-            "Album": ""
+            "Title": "Capricho Árabe",
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Carol of the Bells (Partial)",
-            "Album": ""
+            "Album": null,
+            "Year": 0
         },
         {
             "Title": "Carolina in my Mind",
-            "Album": ""
+            "Album": "James Taylor",
+            "Year": 1968
         },
         {
             "Title": "Carry Me Ohio",
-            "Album": ""
+            "Album": "Ghosts of the Great Highway",
+            "Year": 2003
         },
         {
             "Title": "Carry on Wayward Son (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Castles Made of Sand",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Catfish Blues",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cause We've Ended as Lovers",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cello Song",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cello Suite No. 1 in G Major BMV 1007 (Prelude)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cemetery Gates",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Champagne Supernova",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Change It (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cherry Wine",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cinnamon Girl",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Circle Game",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "City Headache",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Claire De Lune (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Classical Gas",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cliffs Of Dover (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Closer To The Heart",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Closing Time",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Clouds Race Across the Sky (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cocaine (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cold Shot",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Come As You Are (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Come On In My Kitchen",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Comfortably Numb (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Couldn't Stand the Weather",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cowboys from Hell (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Crash Into Me",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Crazy (Tutorial/Lesson)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Crazy",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Crazy In Love",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Crazy On You",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Crazy Train (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Creep",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Crimson Fools",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Crossing Over/Tree of Life (Medley) (Rein Rutnik Performance)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Crossroads",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Cuts Like A Knife (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "D'yer Mak'er (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dance Monkey",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dance the Night Away (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dancing In the Dark",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dani California",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dark Horse",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Day Is Done",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Day Tripper (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dear Mr. Fantasy",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dear Prudence",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Deep River Blues",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Delirium",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Desire",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Deuces are Wild",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Diary of a Madman",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Do It Again",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Doin' Time",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Don't Let It Bring You Down",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Don't Look Back In Anger",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Don't Panic",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Don't Worry Be Happy (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Don't You Worry 'Bout A Thing",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Down by the River",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Down In A Hole",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dream Brother",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dream Song",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dreams",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Drive",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Drops of Jupiter (Tell Me)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Drowning In Your Love",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dust in a Baggie",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Dust in the Wind",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Echo",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Eclipse",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Elderly Woman Behind the Counter in a Small Town",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Eleanor Rigby",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Electric Riff Session #1",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Electric Riff Session #2",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Electric Riff Session #3",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Electric Riff Session #4",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Electric Riff Session #5",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Electric Riff Session #6",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Electric Riff Session #7",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Elusive",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Empty Arms",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Enough To Leave",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Enter Sandman (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Erotic Nightmares (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Eruption (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Eternal Life",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Etude op. 60, no. 7",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Eugene's Trick Bag (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Even Flow (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Everlong",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Evers",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Every Breath You Take (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Every Little Thing She Does Is Magic",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Every Teardrop is a Waterfall",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Everybody Wants To Rule The World",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Everything In Its Right Place",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Eye of Wonder",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Eyes Wider Than Before",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fake Plastic Trees",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fall to Pieces",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fast Car",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fearless",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Feeling Good (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fields Of Gold",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Finish What Ya Started",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fire and Rain",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Flowers Field",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fly",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fly Like An Eagle",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Folsom Prison Blues",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fool in the Rain",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "For the Love of God (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Forget Her",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fox Chase & Lost John (Rein Rutnik Performance)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Foxey Lady (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Free Ride",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Freewill",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "From The Morning",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fruit Tree",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fugitive",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fugue in G Minor, BMV 1000",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Funky Monks (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "F\u00fcr Elise (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Furch *SGI* D22TSR",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Furch Blue D-CM demo",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Furch G25CR-C",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Furch OM22TSW-C-DB SGI #72800",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Furch OM34TSR-DB B2",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Furch OOM Vintage 1",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Fuzz Universe (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Get Back",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Get the Party Started (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Giant Steps (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Give A Little Bit",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Giving Up",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Glass",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Glenn Tipton",
-            "Album": ""
+            "Album": "Ghosts of the Great Highway",
+            "Year": 2003
         },
         {
             "Title": "Glory Days",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "God Knows (I Love You Madly)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Godin 5th Ave Uptown GT LTD Trans Cream",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Godin Fairmount Concert Hall Natural HG EQ demo",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Godin Metropolis LTD Havana Burst HG EQ demo",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Godin Metropolis LTD Natural HG EQ demo",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Godin Metropolis Natural Cedar EQ demo",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Godin Passion RG-3 Indigo Burst RN",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Godin Progression Plus Cherry Burst RN",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Godin Rialto JR Satina Gray HG Q-Discrete",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Godin Stadium '59 Desert Green RN demo",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Going to California",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Going To The Country",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Going Up The Country",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Good Love Is On the Way",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Grace",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Grace",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Gravity",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Green Light Girl",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Green River",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Grey Street (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Guerrilla Radio (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hallelujah",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hammer To Fall (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hand in My Pocket",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Happy Birthday",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Happy Xmas (War Is Over)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hard To Handle (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Harvest Breed",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Harvest Moon",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Have a Cigar",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Have You Ever Seen The Rain",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hazey Jane I",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hear My Train a Comin'",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Heart of Gold",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Heart-Shaped Box",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Heartbreaker (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Helpless",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Helplessly Hoping",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hemorrhage (In My Hands)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Here Comes The Sun",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hereafter",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Heroes",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hey Hey",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hey Joe",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hey You",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hey, Hey, What Can I Do",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hidden in Stone",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hideaway",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "High and Dry",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Higher Ground",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Higher Love (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hit the Road Jack",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hole Hearted",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Home Again",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Horn",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Horse With No Name (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hot for Teacher (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "House Of The Rising Sun",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Howlin' for You (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Human Nature",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hunger Strike",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hymne \u00e0 l'amour",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Hysteria",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Don't Need No Doctor",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Don't Trust Myself (With Loving You)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Got a Woman",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Know It's Over (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Never Asked to Be Your Mountain",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Shall Be Released",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Shot The Sheriff",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Still Haven't Found What I'm Looking For",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Want You",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Wish",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I Won't Back Down",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I'll Be",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I'm Cryin'",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I'm Gonna Be (500 Miles) (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I'm On Fire",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "I'm Satisfied (Rein Rutnik Performance)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Ice Cream Man",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Ice Water Blues (Rein Rutnik Performance)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "If I Ain't Got You (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "If I Had A Boat",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "If It's Wrong (It's Alright)",
-            "Album": ""
+            "Album": "In Balance",
+            "Year": 2007
         },
         {
             "Title": "If You Could Only See",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "If You Could Read My Mind",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Imagine",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "In The Street (That 70's Show Theme) (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "In Your Atmosphere",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "In Your Eyes",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Indian Classical Guitar Improvisation",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Inspector Gadget Theme",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Instrumental/Improv",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Interstate Love Song",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Into Light",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Into The Heavens",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Into the Mystic",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"A Still and Silent Mountain\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Beautiful Slide\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Bliss from Within\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Crimson Fools\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Giving Up\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Grace\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Hidden in Stone\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Home Again\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"If It's Wrong (It's Alright)\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Into Light\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Into The Heavens\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Jhana\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Love Story\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Out of the Mist\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Reverie\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Sage Trees\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Sleepless\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Soul Embers\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Starbird\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Tension\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"The Longest November\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"The New\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Time Always Tells\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Until the End\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Venus Sky\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Intro \"Way to the Sea\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Iris",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Is There Anybody Out There?",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "It Ain't Me Babe",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "It's Not Unusual (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "It's Only Rock'n'Roll (But I Like It) (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Jeremy",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Jesus Just Left Chicago (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Jet Airliner",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Jhana",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Johnny B. Goode",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Joker And The Thief (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Julia Florida (Barcarola)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Jumper",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Jumpin' Jack Flash",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Just a Phase",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Just Breathe (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Just Like Heaven",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Kaijie",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Karma Police",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Kashmir (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Keep Your Head Up",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Killer Queen",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Killing In The Name (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Kiss from a Rose",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Kiss Me",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Know",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "L.A. Woman",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "La Grange (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "La Patrie Etude",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lagrima",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "L\u00e1grima",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Last Goodbye",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Layla (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Layla (Unplugged)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Learn to Fly",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Learning to Fly",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Leave My Little Girl Alone",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Led Boots",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lenny",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Let Down",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Let It Be Me",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Let It Down",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Let Me In",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Let's Go Crazy (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lie To Me",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Life by the Drop",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Life in the Fast Lane (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Life Without You",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Life's Been Good",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Like a Rolling Stone",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Like a Stone",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lilac Wine",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Limelight",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lithium",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Little Black Submarines",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Little Green",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Little Martha",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Little Wing",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lola",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lonely Boy",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Long Cool Woman (In a Black Dress) (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Long Train Running (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lookin' Out My Back Door",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Losing My Religion",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lost Highway",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Love Her Madly",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Love Me Two Times",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Love Story",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Love Struck Baby",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lover, You Should've Come Over",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Low",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Lucky Man",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Machine Gun",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Magic Carpet Ride",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mama Let Him Play",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mama, I'm Coming Home",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mama, You Been on My Mind",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Man in the Box (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Man Like You",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Man Of Constant Sorrow",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mandolin improv",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Manic Depression",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Martin vs. Furch vs. Boucher | High-End Guitar Comparison",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mary Had a Little Lamb",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "May This Be Love",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "May You Never",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "McDonald's Jingle",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Melissa",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Memories",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Message In A bottle",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Michelle",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Midnight Rider",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Miserlou (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mississippi Queen (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mojo Pin",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Money (Tutorial/Lesson)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Money",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Money for Nothing",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Moondance",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "More Than a Feeling (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Morning Theft",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Morning Wish",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mother Divine",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mouth for War (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mr Crowley (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mr Sandman",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Mr. Brightside",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "My Baba",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "My Favorite Obsession",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "My Head's in Mississippi (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "My Hero",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "My My, Hey Hey (Out of the Blue)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "My Sharona (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "My Stupid Mouth",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "My Sweet Lord",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Natural Blues",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Neon",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Never Going Back Again",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "New Orleans Is Sinking (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "New Sensation (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Nice to Know You",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Night Moves",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Nights In White Satin",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "No Diggity",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "No One Knows",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "No Rain",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "No Such Thing",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "No Whining (No Complaining)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Nobody Knows When You're Down and Out (Rein Rutnik Performance)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Nobody's Fault But My Own",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Norman B15 Dark Almond",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Norman B20 Burnt Umber",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Norman ST40 CW GT Presys",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Norman ST40 Parlor Burnt Umber",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Norman ST68",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Norman ST68 CW",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Nothing Dream",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Nothing Else Matters (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Nutshell",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Oceans",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Oh Well (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Ohio",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Old Man",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Old Pine",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Old Time Rock & Rock (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "On My Skin",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Once I Was (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "One Of These Things First",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "One Step Closer (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Operator (That's Not the Way It Feels)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Ordinary Day",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Ordinary Girl",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Otherside",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Out of the Mist",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Out of Tune 12-String for Jim",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Out On The Western Plain",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Outro \"Home Again\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Outro \"Jhana\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Outro \"Out of the Mist\"",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Over The Hill",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Over the Hills and Far Away",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Oye Como Va (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Paint It, Black",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Panama (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Parachutes",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Paranoid (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Paranoid Android",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Parasite",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Parchman Farm Blues",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Passage to Bangkok (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Patience",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Pavana",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "People Are Strange",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "People's Parties",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Personal Jesus (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Phone Call from Leavenworth",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Photograph (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Pinball Wizard",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Pink Moon",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Pistol Slapper Blues",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Place To Be",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Planet Caravan",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Plush",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Poison Girl (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Pray for the Moon",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Prelude in C Minor, BMV 999 (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Prelude in E major BWV 1006a",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Pride and Joy",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Psycho Killer (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Purple Haze",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Push (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Queen of California",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Queenstown",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Quick Metal Style Riff",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Radiant Skies",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Ramble On",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Ramblin' Man",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Real World",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rebel Rebel",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Recuerdos De la Alhambra (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Red House",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Redemption Song",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Reelin' In The Years",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Reverie",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Ride Wit Me",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Riders on the Storm (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Riptide",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rise",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "River Man",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Riverboat Fantasy",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Riveria Paradise (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Road",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rock and Roll (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rock And Roll All Nite (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rock Me Baby (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rock N' Roll Duty (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rock'n Me (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rocket Man",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rocky Mountain Way (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rollin' and Tumblin'",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rosanna (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Roxanne (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rude Mood (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Run To You (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Rupert Street",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "S.R.V (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sage Trees",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Salvador Sanchez",
-            "Album": ""
+            "Album": "Ghosts of the Great Highway",
+            "Year": 2003
         },
         {
             "Title": "Santeria",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Satch Boogie",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Satisfied Mind",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Scar Tissue",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Scatterbrain (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Schism (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Scuttle Buttin' (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Seasons",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Self Esteem (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Semi-Charmed Life",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Send Me on my Way (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Send My Love (To Your New Lover)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Seven Nation Army",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sex & Candy (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sex on Fire (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sharp Dressed Man (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "She Talks To Angels",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "She Who Waits",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Shine",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Shine On You Crazy Diamond (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Shiver",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Simple Man",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Simple Twist of Fate",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sir Duke",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sitting, Waiting, Wishing",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Skinny Love",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sleepless",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sleepwalk",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sleepy Afternoon (Rein Rutnik Performance)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Slide",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Slide Thing",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Slither (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Slow Cheetah",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Slow Dancing in a Burning Room",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Smells Like Teen Spirit (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Smoke on the Water (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Snow (Hey Oh)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "So Real",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Society",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Soldier's Eyes",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Solsbury Hill",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Somebody That I Used To Know",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Somebody to Love",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Someday We'll All Be Free (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Someone To Call My Lover (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Something",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Something Like Olivia",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Song 2 (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Song For George",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Song For Life",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Song To the Siren",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Soul Embers",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sour Girl",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Space Oddity",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Spanish Castle Magic",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Spanish Romance (Romanza)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Spirit (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Spooky",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Stairway to Heaven (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Star Spangled Banner/American National Anthem (Jimi Hendrix Style)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Starbird",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Starlight",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Stay Away",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Stone Free",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Stonebridge D22SR",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Stonebridge OM35ASR-DB",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Stones In My Passway",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Stop This Train",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Strange Meeting II",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Stranglehold (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Street Fighting Man",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Street Spirit (Fade Out)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Streets of Philadelphia",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Study in A Major",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Study in B-Minor",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Study in C Major",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Study in D Major",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Study in E Minor",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Study No. 6 in D",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Subterranean Homesick Alien",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sugar Man",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sugar Mountain",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Suit & Tie",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Suize Q (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sultans of Swing",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Summertime",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sunshine Of Your Love",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Super Mario Bros. Main Theme",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Superstition",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Surely (I Love You)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Surfing with the Alien (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sweet Child O'Mine (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sweet Dreams (Are Made of This)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sweet Emotion (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sweet Home Alabama (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Sweet Thing",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Take A Picture",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Take It Easy",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Take Me Home, Country Roads",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Take On Me (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Takin' Care Of Business (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Teardrop",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Tears in Heaven",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Tell Me (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Tell Me Why",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Tension",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Texas Flood",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "That Song",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "That's Life",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "That's Right!",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "That's the Way",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Boy with the Thorn in His Side",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Cave",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Crush of Love",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Headmaster Ritual",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Heart of Life (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The House Is Rockin'",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Island",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Last Time",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Logical Song",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Longest November",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Man Who Sold the World (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Middle",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Needle and the Damage Done",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The New",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Night They Drove Old Dixie Down",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Past Recedes",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Pot (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Scientist (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Simpson's Theme",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Spirit Of Radio (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Trooper (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Wasp and the Jar (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Way You Make Me Feel (Tutorial/Lesson)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Way You Make Me Feel",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Way Young Lovers Do",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Weight (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Wheels on the Bus (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "The Wind Cries Mary",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Them Bones",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "There She Goes",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "They Won't Go When I Go",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Things Behind The Sun",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Think Of You",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Thirteen",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "This Flight Tonight",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "This Love (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Three Hours",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Three Little Birds",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Thriller",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Thunder Road",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Thunderstruck (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Tie Your Mother Down (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Tightrope",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Til I Am Myself Again",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Time Always Tells",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Time",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Time Has Told Me",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Time in a Bottle",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Times Like These",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Tiny Dancer",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "To Be With You",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Touch of Grey",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Train in Vain (Stand by Me)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Treetop Flyer",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Tribute (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Trouble",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Trouble So Hard",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Tush",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Two",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Under the Bridge",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Until the End",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Up On Cripple Creek",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Valerie",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Venture Highway (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Venus Sky",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Vincent",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Virtual Insanity",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Volcano",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Voodoo Child (Slight Return)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Voodoo Child (Tutorial/Lesson)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Vultures",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Wagon Wheel (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Waitin' for the Bus (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Walk this Way (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Walkin' On The Sun",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Walking On The Moon",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Wanted Dead Or Alive (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "War Pigs (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Warning",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Way to the Sea",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Welcome To The Jungle (Electric riff)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "What I Got",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "What I'm About to Do",
-            "Album": ""
+            "Album": "Starbird",
+            "Year": 2022
         },
         {
             "Title": "What's my Age Again? (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Wheat Kings",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "When I'm Up - I Can't Get Down",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Where The Wild Things Are",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Which Will",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "While My Guitar Gently Weeps",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "White Room",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "White Winter Hymnal (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Whole Lotta Love (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Why Georgia",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Wild Horses",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Wild World",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Wish You Were Here",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Wish You Were Here",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Won't Get Fooled Again (Partial)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Wondering Where The Lions Are",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Wonderwall",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Woodstock",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Yellow",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Yellow Ledbetter",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Yesterday",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "You and Me",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "You Are the Best Thing",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "You Give Me Something",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "You Got It",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "You Make My Dreams (Come True) (Audio Issues)",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "You're Still the One",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "You've Got To Hide Your Love Away",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Young Lust",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Ziggy Stardust",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         },
         {
             "Title": "Zombie",
-            "Album": ""
+            "Album": "",
+            "Year": 0
         }
     ]
 }

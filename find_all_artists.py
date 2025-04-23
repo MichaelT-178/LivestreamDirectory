@@ -11,7 +11,8 @@ with open("./db_manager/json_files/repertoire.json", 'r') as file:
                 title = line.rsplit(" by ", 1)[0]
                 songs.append({
                     "Title": title,
-                    "Album": ""
+                    "Album": "",
+                    "Year": 0
                 })
 
     output = {
