@@ -377,10 +377,10 @@
 		{
 			"Id": 35,
 			"Title": "All Along the Watchtower",
-			"Artist": "Jimi Hendrix",
-			"Other_Artists": "Bob Dylan",
+			"Artist": "Bob Dylan",
+			"Other_Artists": "Jimi Hendrix",
 			"Instruments": "Acoustic Guitar",
-			"Image": "Jimi Hendrix.jpg",
+			"Image": "Bob Dylan.jpg",
 			"Search": "",
 			"Appearances": "Solo Video (Old),Solo Video (New),Solo Video,Solo Video,Livestream 25,Livestream 32,Livestream 45,Livestream 50,Livestream 54,Livestream 59,Livestream 60,Livestream 64,Livestream 68,Livestream 72,Livestream 77,Livestream 81,Livestream 86,Livestream 89,Livestream 91,Livestream 95 (Audio Issues),Livestream 99,Livestream 104,Livestream 105,Livestream 109,Livestream 111,Livestream 114,Livestream 117,Livestream 120,Livestream 122,Livestream 124,Livestream 127,Livestream 128,Livestream 133,Livestream 135,Livestream 137,Livestream 139,Livestream 142,Livestream 145,Livestream 147,Livestream 149,Livestream 152,Livestream 155,Livestream 157,Livestream 159,Livestream 162,Livestream 164,Livestream 165,Livestream 1 (Audio Issues),Livestream 3 (Audio Issues),Livestream 6 (Cont./Audio Issues),Livestream 7 (Audio Issues),Livestream 13 (Audio Issues),Livestream 18 (Audio Issues)",
 			"Links": "https://youtu.be/tNtFnxR97cI&t=0 , https://youtu.be/6rg3Xyg-ncs&t=0 , https://youtu.be/c0DU8EueS7g&t=0 , https://youtu.be/seVXtikUrcc&t=0 , https://youtu.be/RipA8bRdIbI&t=10349 , https://youtu.be/jDGy1_nMmbk&t=5330 , https://youtu.be/L1VngMqyXo4&t=6756 , https://youtu.be/WGGj7qyf4pA&t=3159 , https://youtu.be/JUiD_BqlTHw&t=1902 , https://youtu.be/hs3UcA7DP4U&t=3481 , https://youtu.be/qfsm5R2EeOU&t=6016 , https://youtu.be/Qih3Nx18Yas&t=5445 , https://youtu.be/2YwudKYPIeE&t=8186 , https://youtu.be/4MsSeM9AR60&t=2524 , https://youtu.be/q0SOrSxKE90&t=10860 , https://youtu.be/0vseNNLzOWY&t=9492 , https://youtu.be/DqQEPSThDlg&t=5511 , https://youtu.be/j9CL1ydfDSI&t=9862 , https://youtu.be/yiFNZvisSQw&t=9996 , https://youtu.be/y83VDXWJbQE&t=10160 , https://youtu.be/gVy2vkeHV_I&t=11087 , https://youtu.be/h3nHBsoSZYA&t=9104 , https://youtu.be/yT-ZTr6ntP4&t=2664 , https://youtu.be/2vn_PYw-W6o&t=2857 , https://youtu.be/7ub_S5Kx-wA&t=9473 , https://youtu.be/KoChozPGk7c&t=9975 , https://youtu.be/h_KbDQybQmE&t=10150 , https://youtu.be/HJpwaG3PP3E&t=10050 , https://youtu.be/MmxzKv8Mw2E&t=10162 , https://youtu.be/lfZRI_tmFH8&t=9872 , https://youtu.be/goEx4wnnaQw&t=9978 , https://youtu.be/bEBVkT9SWFY&t=9645 , https://youtu.be/9sCm4eY4VKg&t=10375 , https://youtu.be/ShAGixH0AfU&t=10344 , https://youtu.be/yN7gKYOObcE&t=10396 , https://youtu.be/Lpcd7ALm6r4&t=2720 , https://youtu.be/vRD0K6kl3Qs&t=10683 , https://youtu.be/_KscIFUrM14&t=9014 , https://youtu.be/sXKeY6LpR9g&t=10457 , https://youtu.be/CqHIgye4I8s?feature=share&t=9214 , https://youtu.be/s-v4qoUK0tU?feature=share&t=9505 , https://youtu.be/v56fDp25FcM?feature=share&t=4476 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=10088 , https://youtu.be/BvCyN3QU46c?feature=share&t=10062 , https://youtu.be/1HkYscBWtp8?feature=share&t=9852 , https://youtu.be/c1H63fb1AJs?feature=share&t=9999 , https://youtu.be/il7d9PknEmQ?feature=share&t=10506 , https://youtu.be/watch?v=uUJq2ppfAyg&t=791 , https://youtu.be/watch?v=9gkOvE2nTlM&t=3454 , https://youtu.be/watch?v=Yz6bDH9k1Fk&t=5500 , https://youtu.be/watch?v=F7kc9DzOJgk&t=9647 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=5638 , https://youtu.be/watch?v=JR6OhpR0pU0&t=9707"
@@ -420,7 +420,7 @@
 		},
 		{
 			"Id": 39,
-			"Title": "Circle Game",
+			"Title": "The Circle Game",
 			"Artist": "Joni Mitchell",
 			"Other_Artists": "",
 			"Instruments": "Acoustic Guitar, (MDT) - Maestro Double Top",
@@ -1190,12 +1190,12 @@
 		},
 		{
 			"Id": 109,
-			"Title": "Empty Arms",
+			"Title": "Empty Arms - 1984 Version",
 			"Artist": "Stevie Ray Vaughan",
 			"Other_Artists": "",
 			"Instruments": "Acoustic Guitar, (MDT) - Maestro Double Top, Electric Guitar",
 			"Image": "Stevie Ray Vaughan.jpg",
-			"Search": "SRV",
+			"Search": "Empty Arms   1984 Version, SRV",
 			"Appearances": "Solo Video  (LS 40 Clip/MDT),Livestream 30,Livestream 40 (MDT),Livestream 57 (Electric Song),Livestream 64,Livestream 73,Livestream 89,Livestream 152,Livestream 10 (Audio Issues),Livestream 19 (Audio Issues)",
 			"Links": "https://youtu.be/vlqevfp4cdw&t=0 , https://youtu.be/9zUVfKZrSGs&t=6361 , https://youtu.be/AraZ934iGwQ&t=4004 , https://youtu.be/MhNKFJxwK8g&t=2100 , https://youtu.be/Qih3Nx18Yas&t=10182 , https://youtu.be/__nszU6iOlM&t=1427 , https://youtu.be/j9CL1ydfDSI&t=6207 , https://youtu.be/s-v4qoUK0tU?feature=share&t=3801 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=9632 , https://youtu.be/watch?v=9rSlmMNfOkY&t=6799"
 		},
@@ -3083,10 +3083,10 @@
 		{
 			"Id": 281,
 			"Title": "Catfish Blues",
-			"Artist": "Robert Petway",
-			"Other_Artists": "Jimi Hendrix",
+			"Artist": "Jimi Hendrix",
+			"Other_Artists": "Robert Petway",
 			"Instruments": "Acoustic Guitar, (M) - Martin 00-15m, (NST) - Norman ST68",
-			"Image": "Robert Petway.jpg",
+			"Image": "Jimi Hendrix.jpg",
 			"Search": "",
 			"Appearances": "Solo Video  (LS 69 Clip/M),Livestream 40 (NST),Livestream 69 (M),Livestream 76 (M),Livestream 82 (M),Livestream 101 (M),Livestream 112 (M),Livestream 135 (M),Livestream 146,Livestream 156",
 			"Links": "https://youtu.be/MODeF6k0VgA?si=PKCz3nT6rODMF2IB&t=0 , https://youtu.be/AraZ934iGwQ&t=2325 , https://youtu.be/PPq9uuigSs0&t=1882 , https://youtu.be/ERjisFF12Vk&t=7868 , https://youtu.be/T_2aqBkmeUc&t=6956 , https://youtu.be/3iWYcnMuVzc&t=2224 , https://youtu.be/s6H9GdbDwbQ&t=2927 , https://youtu.be/ShAGixH0AfU&t=4672 , https://youtu.be/8jK6wYjrnw4&t=9016 , https://youtu.be/r4JaTRrhap8?feature=share&t=4551"
