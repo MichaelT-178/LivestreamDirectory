@@ -1,5 +1,5 @@
 {
-    "songs": [
+    "albums": [
         {
             "Title": "\"Alright, Yeah\" Jingle",
             "Album": null,
@@ -1012,43 +1012,43 @@
         },
         {
             "Title": "Fake Plastic Trees",
-            "Album": "",
-            "Year": 0
+            "Album": "The Bends",
+            "Year": 1995
         },
         {
             "Title": "Fall to Pieces",
-            "Album": "",
-            "Year": 0
+            "Album": "Contraband",
+            "Year": 2004
         },
         {
             "Title": "Fast Car",
-            "Album": "",
-            "Year": 0
+            "Album": "Tracy Chapman",
+            "Year": 1988
         },
         {
             "Title": "Fearless",
-            "Album": "",
-            "Year": 0
+            "Album": "Meddle",
+            "Year": 1971
         },
         {
             "Title": "Feeling Good (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "I Put A Spell On You",
+            "Year": 1965
         },
         {
             "Title": "Fields Of Gold",
-            "Album": "",
-            "Year": 0
+            "Album": "Ten Summoner's Tales",
+            "Year": 1993
         },
         {
             "Title": "Finish What Ya Started",
-            "Album": "",
-            "Year": 0
+            "Album": "OU812",
+            "Year": 1988
         },
         {
             "Title": "Fire and Rain",
-            "Album": "",
-            "Year": 0
+            "Album": "Sweet Baby James",
+            "Year": 1970
         },
         {
             "Title": "Flowers Field",
@@ -1057,23 +1057,23 @@
         },
         {
             "Title": "Fly",
-            "Album": "",
-            "Year": 0
+            "Album": "Bryter Layter",
+            "Year": 1971
         },
         {
             "Title": "Fly Like An Eagle",
-            "Album": "",
-            "Year": 0
+            "Album": "Fly Like An Eagle",
+            "Year": 1976
         },
         {
             "Title": "Folsom Prison Blues",
-            "Album": "",
-            "Year": 0
+            "Album": "At Folsom Prison",
+            "Year": 1968
         },
         {
             "Title": "Fool in the Rain",
-            "Album": "",
-            "Year": 0
+            "Album": "In Through the out Door",
+            "Year": 1979
         },
         {
             "Title": "For the Love of God (Electric riff)",
@@ -1087,28 +1087,28 @@
         },
         {
             "Title": "Fox Chase & Lost John (Rein Rutnik Performance)",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Foxey Lady (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Are You Experienced",
+            "Year": 1967
         },
         {
             "Title": "Free Ride",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "Freewill",
-            "Album": "",
-            "Year": 0
+            "Album": "Permanent Waves",
+            "Year": 1980
         },
         {
             "Title": "From The Morning",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "Fruit Tree",
@@ -1117,78 +1117,78 @@
         },
         {
             "Title": "Fugitive",
-            "Album": "",
-            "Year": 0
+            "Album": "Draw the Line",
+            "Year": 2009
         },
         {
             "Title": "Fugue in G Minor, BMV 1000",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Funky Monks (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "Blood Sugar Sex Magik",
+            "Year": 1991
         },
         {
-            "Title": "F\u00fcr Elise (Partial)",
-            "Album": "",
+            "Title": "Für Elise (Partial)",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Furch *SGI* D22TSR",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Furch Blue D-CM demo",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Furch G25CR-C",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Furch OM22TSW-C-DB SGI #72800",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Furch OM34TSR-DB B2",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Furch OOM Vintage 1",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Fuzz Universe (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Fuzz Universe",
+            "Year": 2010
         },
         {
             "Title": "Get Back",
-            "Album": "",
-            "Year": 0
+            "Album": "Let It Be",
+            "Year": 1970
         },
         {
             "Title": "Get the Party Started (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "M!ssundaztood",
+            "Year": 2001
         },
         {
             "Title": "Giant Steps (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "Giant Steps",
+            "Year": 1960
         },
         {
             "Title": "Give A Little Bit",
-            "Album": "",
-            "Year": 0
+            "Album": "Even In The Quietest Moments",
+            "Year": 1977
         },
         {
             "Title": "Giving Up",
@@ -1197,8 +1197,8 @@
         },
         {
             "Title": "Glass",
-            "Album": "",
-            "Year": 0
+            "Album": "S.C.I.E.N.C.E",
+            "Year": 1997
         },
         {
             "Title": "Glenn Tipton",
@@ -1217,68 +1217,68 @@
         },
         {
             "Title": "Godin 5th Ave Uptown GT LTD Trans Cream",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Godin Fairmount Concert Hall Natural HG EQ demo",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Godin Metropolis LTD Havana Burst HG EQ demo",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Godin Metropolis LTD Natural HG EQ demo",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Godin Metropolis Natural Cedar EQ demo",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Godin Passion RG-3 Indigo Burst RN",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Godin Progression Plus Cherry Burst RN",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Godin Rialto JR Satina Gray HG Q-Discrete",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Godin Stadium '59 Desert Green RN demo",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Going to California",
-            "Album": "",
-            "Year": 0
+            "Album": "Led Zeppelin IV",
+            "Year": 1971
         },
         {
             "Title": "Going To The Country",
-            "Album": "",
-            "Year": 0
+            "Album": "Bruce Cockburn",
+            "Year": 1970
         },
         {
             "Title": "Going Up The Country",
-            "Album": "",
-            "Year": 0
+            "Album": "Living The Blues",
+            "Year": 1969
         },
         {
             "Title": "Good Love Is On the Way",
-            "Album": "",
-            "Year": 0
+            "Album": "TRY! - Live In Concert",
+            "Year": 2005
         },
         {
             "Title": "Grace (C)",
@@ -1292,28 +1292,28 @@
         },
         {
             "Title": "Gravity",
-            "Album": "",
-            "Year": 0
+            "Album": "Continuum",
+            "Year": 2006
         },
         {
             "Title": "Green Light Girl",
-            "Album": "",
-            "Year": 0
+            "Album": "Welcome",
+            "Year": 2001
         },
         {
             "Title": "Green River",
-            "Album": "",
-            "Year": 0
+            "Album": "Green River",
+            "Year": 1969
         },
         {
             "Title": "Grey Street (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "Busted Stuff",
+            "Year": 2002
         },
         {
             "Title": "Guerrilla Radio (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "The Battle Of Los Angeles",
+            "Year": 1999
         },
         {
             "Title": "Hallelujah",
@@ -1322,93 +1322,93 @@
         },
         {
             "Title": "Hammer To Fall (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "The Works",
+            "Year": 1984
         },
         {
             "Title": "Hand in My Pocket",
-            "Album": "",
-            "Year": 0
+            "Album": "Jagged Little Pill",
+            "Year": 1995
         },
         {
             "Title": "Happy Birthday",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Happy Xmas (War Is Over)",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Hard To Handle (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "Shake Your Money Maker",
+            "Year": 1990
         },
         {
             "Title": "Harvest Breed",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "Harvest Moon",
-            "Album": "",
-            "Year": 0
+            "Album": "Harvest Moon",
+            "Year": 1992
         },
         {
             "Title": "Have a Cigar",
-            "Album": "",
-            "Year": 0
+            "Album": "Wish You Were Here",
+            "Year": 1975
         },
         {
             "Title": "Have You Ever Seen The Rain",
-            "Album": "",
-            "Year": 0
+            "Album": "Pendulum",
+            "Year": 1970
         },
         {
             "Title": "Hazey Jane I",
-            "Album": "",
-            "Year": 0
+            "Album": "Bryter Layter",
+            "Year": 1971
         },
         {
             "Title": "Hear My Train a Comin'",
-            "Album": "",
-            "Year": 0
+            "Album": "Blues",
+            "Year": 1994
         },
         {
             "Title": "Heart of Gold",
-            "Album": "",
-            "Year": 0
+            "Album": "Harvest",
+            "Year": 1972
         },
         {
             "Title": "Heart-Shaped Box",
-            "Album": "",
-            "Year": 0
+            "Album": "In Utero",
+            "Year": 1993
         },
         {
             "Title": "Heartbreaker (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Led Zeppelin II",
+            "Year": 1969
         },
         {
             "Title": "Helpless",
-            "Album": "",
-            "Year": 0
+            "Album": "Déjà Vu",
+            "Year": 1970
         },
         {
             "Title": "Helplessly Hoping",
-            "Album": "",
-            "Year": 0
+            "Album": "Crosby, Stills & Nash",
+            "Year": 1969
         },
         {
             "Title": "Hemorrhage (In My Hands)",
-            "Album": "",
-            "Year": 0
+            "Album": "Something Like Human",
+            "Year": 2000
         },
         {
             "Title": "Here Comes The Sun",
-            "Album": "",
-            "Year": 0
+            "Album": "Abbey Road",
+            "Year": 1969
         },
         {
             "Title": "Hereafter",
@@ -1417,18 +1417,18 @@
         },
         {
             "Title": "Heroes",
-            "Album": "",
-            "Year": 0
+            "Album": "Heroes",
+            "Year": 1977
         },
         {
             "Title": "Hey Hey",
-            "Album": "",
-            "Year": 0
+            "Album": "Unplugged (Live)",
+            "Year": 1992
         },
         {
             "Title": "Hey Joe",
-            "Album": "",
-            "Year": 0
+            "Album": "Are You Experienced",
+            "Year": 1967
         },
         {
             "Title": "Hey You",
@@ -1437,8 +1437,8 @@
         },
         {
             "Title": "Hey, Hey, What Can I Do",
-            "Album": "",
-            "Year": 0
+            "Album": "Coda (Deluxe Edition)",
+            "Year": 1982
         },
         {
             "Title": "Hidden in Stone",
@@ -1447,13 +1447,13 @@
         },
         {
             "Title": "Hideaway",
-            "Album": "",
-            "Year": 0
+            "Album": "Sound Of A Woman",
+            "Year": 2014
         },
         {
             "Title": "High and Dry",
-            "Album": "",
-            "Year": 0
+            "Album": "The Bends",
+            "Year": 1995
         },
         {
             "Title": "Higher Ground",
@@ -1462,18 +1462,18 @@
         },
         {
             "Title": "Higher Love (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "Back In The High Life",
+            "Year": 1986
         },
         {
             "Title": "Hit the Road Jack",
-            "Album": "",
-            "Year": 0
+            "Album": null,
+            "Year": 1961
         },
         {
             "Title": "Hole Hearted",
-            "Album": "",
-            "Year": 0
+            "Album": "Extreme II - Pornograffitti",
+            "Year": 1990
         },
         {
             "Title": "Home Again",
@@ -1482,118 +1482,118 @@
         },
         {
             "Title": "Horn",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "Horse With No Name (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "America",
+            "Year": 1972
         },
         {
             "Title": "Hot for Teacher (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "1984",
+            "Year": 1984
         },
         {
             "Title": "House Of The Rising Sun",
-            "Album": "",
-            "Year": 0
+            "Album": "The Animals",
+            "Year": 1964
         },
         {
             "Title": "Howlin' for You (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Brothers",
+            "Year": 2010
         },
         {
             "Title": "Human Nature",
-            "Album": "",
-            "Year": 0
+            "Album": "Thriller",
+            "Year": 1982
         },
         {
             "Title": "Hunger Strike",
-            "Album": "",
-            "Year": 0
+            "Album": "Temple Of The Dog",
+            "Year": 1990
         },
         {
-            "Title": "Hymne \u00e0 l'amour",
-            "Album": "",
-            "Year": 0
+            "Title": "Hymne à l'amour",
+            "Album": "Éternelle",
+            "Year": 1987
         },
         {
             "Title": "Hysteria",
-            "Album": "",
-            "Year": 0
+            "Album": "Absolution",
+            "Year": 2003
         },
         {
             "Title": "I Don't Need No Doctor",
-            "Album": "",
-            "Year": 0
+            "Album": "Where the Light Is: John Mayer Live In Los Angeles",
+            "Year": 2008
         },
         {
             "Title": "I Don't Trust Myself (With Loving You)",
-            "Album": "",
-            "Year": 0
+            "Album": "Continuum",
+            "Year": 2006
         },
         {
             "Title": "I Got a Woman",
-            "Album": "",
-            "Year": 0
+            "Album": null,
+            "Year": 1954
         },
         {
             "Title": "I Know It's Over (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "The Queen Is Dead",
+            "Year": 1986
         },
         {
             "Title": "I Never Asked to Be Your Mountain",
-            "Album": "",
-            "Year": 0
+            "Album": "Goodbye And Hello",
+            "Year": 1967
         },
         {
             "Title": "I Shall Be Released",
-            "Album": "",
-            "Year": 0
+            "Album": "The Essential Bob Dylan",
+            "Year": 2014
         },
         {
             "Title": "I Shot The Sheriff",
-            "Album": "",
-            "Year": 0
+            "Album": "Burnin'",
+            "Year": 1973
         },
         {
             "Title": "I Still Haven't Found What I'm Looking For",
-            "Album": "",
-            "Year": 0
+            "Album": "The Joshua Tree",
+            "Year": 1987
         },
         {
             "Title": "I Want You",
-            "Album": "",
-            "Year": 0
+            "Album": "Blonde on Blonde",
+            "Year": 1966
         },
         {
             "Title": "I Wish",
-            "Album": "",
-            "Year": 0
+            "Album": "Songs In The Key Of Life",
+            "Year": 1976
         },
         {
             "Title": "I Won't Back Down",
-            "Album": "",
-            "Year": 0
+            "Album": "Full Moon Fever",
+            "Year": 1989
         },
         {
             "Title": "I'll Be",
-            "Album": "",
-            "Year": 0
+            "Album": "Misguided Roses",
+            "Year": 1997
         },
         {
             "Title": "I'm Cryin'",
-            "Album": "",
-            "Year": 0
+            "Album": "Texas Flood",
+            "Year": 1983
         },
         {
             "Title": "I'm Gonna Be (500 Miles) (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "Sunshine on Leith",
+            "Year": 1988
         },
         {
             "Title": "I'm On Fire",
@@ -1602,8 +1602,8 @@
         },
         {
             "Title": "I'm Satisfied (Rein Rutnik Performance)",
-            "Album": "",
-            "Year": 0
+            "Album": "Satisfied",
+            "Year": 1960
         },
         {
             "Title": "Ice Cream Man",
@@ -1612,18 +1612,18 @@
         },
         {
             "Title": "Ice Water Blues (Rein Rutnik Performance)",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "If I Ain't Got You (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "The Diary Of Alicia Keys",
+            "Year": 2003
         },
         {
             "Title": "If I Had A Boat",
-            "Album": "",
-            "Year": 0
+            "Album": "Pontiac",
+            "Year": 1987
         },
         {
             "Title": "If It's Wrong (It's Alright)",
@@ -1632,53 +1632,53 @@
         },
         {
             "Title": "If You Could Only See",
-            "Album": "",
-            "Year": 0
+            "Album": "Lemon Parade",
+            "Year": 1996
         },
         {
             "Title": "If You Could Read My Mind",
-            "Album": "",
-            "Year": 0
+            "Album": "If You Could Read My Mind",
+            "Year": 1970
         },
         {
             "Title": "Imagine",
-            "Album": "",
-            "Year": 0
+            "Album": "Imagine",
+            "Year": 1971
         },
         {
             "Title": "In The Street (That 70's Show Theme) (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "#1 Record",
+            "Year": 1972
         },
         {
             "Title": "In Your Atmosphere",
-            "Album": "",
-            "Year": 0
+            "Album": "Where the Light Is: John Mayer Live In Los Angeles",
+            "Year": 2008
         },
         {
             "Title": "In Your Eyes",
-            "Album": "",
-            "Year": 0
+            "Album": "So",
+            "Year": 1986
         },
         {
             "Title": "Indian Classical Guitar Improvisation",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Inspector Gadget Theme",
-            "Album": "",
-            "Year": 0
+            "Album": null,
+            "Year": 1983
         },
         {
             "Title": "Instrumental/Improv",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Interstate Love Song",
-            "Album": "",
-            "Year": 0
+            "Album": "Purple",
+            "Year": 1994
         },
         {
             "Title": "Into Light",
@@ -1692,8 +1692,8 @@
         },
         {
             "Title": "Into the Mystic",
-            "Album": "",
-            "Year": 0
+            "Album": "Moondance",
+            "Year": 1970
         },
         {
             "Title": "Intro \"A Still and Silent Mountain\"",
@@ -1717,8 +1717,8 @@
         },
         {
             "Title": "Intro \"Giving Up\"",
-            "Album": "",
-            "Year": 0
+            "Album": "Starbird",
+            "Year": 2022
         },
         {
             "Title": "Intro \"Grace\"",
@@ -1757,8 +1757,8 @@
         },
         {
             "Title": "Intro \"Love Story\"",
-            "Album": "",
-            "Year": 0
+            "Album": "Corey VandenHeuvel - EP",
+            "Year": 2005
         },
         {
             "Title": "Intro \"Out of the Mist\"",
@@ -1802,8 +1802,8 @@
         },
         {
             "Title": "Intro \"The New\"",
-            "Album": "",
-            "Year": 0
+            "Album": "The New",
+            "Year": 2011
         },
         {
             "Title": "Intro \"Time Always Tells\"",
@@ -1827,8 +1827,8 @@
         },
         {
             "Title": "Iris",
-            "Album": "",
-            "Year": 0
+            "Album": "Dizzy up the Girl",
+            "Year": 1998
         },
         {
             "Title": "Is There Anybody Out There?",
@@ -1837,33 +1837,33 @@
         },
         {
             "Title": "It Ain't Me Babe",
-            "Album": "",
-            "Year": 0
+            "Album": "Another Side Of Bob Dylan",
+            "Year": 1964
         },
         {
             "Title": "It's Not Unusual (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "Along Came Jones",
+            "Year": 1965
         },
         {
             "Title": "It's Only Rock'n'Roll (But I Like It) (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "It's Only Rock'N'Roll",
+            "Year": 1974
         },
         {
             "Title": "Jeremy",
-            "Album": "",
-            "Year": 0
+            "Album": "Ten",
+            "Year": 1991
         },
         {
             "Title": "Jesus Just Left Chicago (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "Tres Hombres",
+            "Year": 1973
         },
         {
             "Title": "Jet Airliner",
-            "Album": "",
-            "Year": 0
+            "Album": "Book Of Dreams",
+            "Year": 1977
         },
         {
             "Title": "Jhana",
@@ -1872,112 +1872,107 @@
         },
         {
             "Title": "Johnny B. Goode",
-            "Album": "",
-            "Year": 0
+            "Album": "Berry Is On Top",
+            "Year": 1959
         },
         {
             "Title": "Joker And The Thief (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Wolfmother",
+            "Year": 2006
         },
         {
             "Title": "Julia Florida (Barcarola)",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Jumper",
-            "Album": "",
-            "Year": 0
+            "Album": "Third Eye Blind",
+            "Year": 1997
         },
         {
             "Title": "Jumpin' Jack Flash",
-            "Album": "",
-            "Year": 0
+            "Album": null,
+            "Year": 1968
         },
         {
             "Title": "Just a Phase",
-            "Album": "",
-            "Year": 0
+            "Album": "Morning View",
+            "Year": 2001
         },
         {
             "Title": "Just Breathe (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "Backspacer",
+            "Year": 2009
         },
         {
             "Title": "Just Like Heaven",
-            "Album": "",
-            "Year": 0
+            "Album": "Kiss Me, Kiss Me, Kiss Me",
+            "Year": 1987
         },
         {
             "Title": "Kaijie",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
             "Title": "Karma Police",
-            "Album": "",
-            "Year": 0
+            "Album": "OK Computer",
+            "Year": 1997
         },
         {
             "Title": "Kashmir (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "Physical Graffiti",
+            "Year": 1975
         },
         {
             "Title": "Keep Your Head Up",
-            "Album": "",
-            "Year": 0
+            "Album": "Every Kingdom",
+            "Year": 2011
         },
         {
             "Title": "Killer Queen",
-            "Album": "",
-            "Year": 0
+            "Album": "Sheer Heart Attack",
+            "Year": 1974
         },
         {
             "Title": "Killing In The Name (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Rage Against The Machine",
+            "Year": 1992
         },
         {
             "Title": "Kiss from a Rose",
-            "Album": "",
-            "Year": 0
+            "Album": "Seal",
+            "Year": 1994
         },
         {
             "Title": "Kiss Me",
-            "Album": "",
-            "Year": 0
+            "Album": "Sixpence None the Richer",
+            "Year": 1997
         },
         {
             "Title": "Know",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "L.A. Woman",
-            "Album": "",
-            "Year": 0
+            "Album": "L.A. Woman",
+            "Year": 1971
         },
         {
             "Title": "La Grange (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "Tres Hombres",
+            "Year": 1973
         },
         {
             "Title": "La Patrie Etude",
-            "Album": "",
+            "Album": null,
             "Year": 0
         },
         {
-            "Title": "Lagrima",
-            "Album": "",
-            "Year": 0
-        },
-        {
-            "Title": "L\u00e1grima",
-            "Album": "",
+            "Title": "Lágrima",
+            "Album": null,
             "Year": 0
         },
         {
@@ -1987,98 +1982,98 @@
         },
         {
             "Title": "Layla (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Layla And Other Assorted Love Songs",
+            "Year": 1970
         },
         {
             "Title": "Layla (Unplugged)",
-            "Album": "",
-            "Year": 0
+            "Album": "Unplugged (Live)",
+            "Year": 1992
         },
         {
             "Title": "Learn to Fly",
-            "Album": "",
-            "Year": 0
+            "Album": "There Is Nothing Left To Lose",
+            "Year": 1999
         },
         {
             "Title": "Learning to Fly",
-            "Album": "",
-            "Year": 0
+            "Album": "Into The Great Wide Open",
+            "Year": 1991
         },
         {
-            "Title": "Leave My Little Girl Alone",
-            "Album": "",
-            "Year": 0
+            "Title": "Leave My Girl Alone",
+            "Album": "In Step",
+            "Year": 1989
         },
         {
             "Title": "Led Boots",
-            "Album": "",
-            "Year": 0
+            "Album": "Wired",
+            "Year": 1976
         },
         {
             "Title": "Lenny",
-            "Album": "",
-            "Year": 0
+            "Album": "Texas Flood",
+            "Year": 1983
         },
         {
             "Title": "Let Down",
-            "Album": "",
-            "Year": 0
+            "Album": "OK Computer",
+            "Year": 1997
         },
         {
             "Title": "Let It Be Me",
-            "Album": "",
-            "Year": 0
+            "Album": "Gossip In The Grain",
+            "Year": 2008
         },
         {
             "Title": "Let It Down",
-            "Album": "",
-            "Year": 0
+            "Album": "All Things Must Pass",
+            "Year": 1970
         },
         {
             "Title": "Let Me In",
-            "Album": "",
-            "Year": 0
+            "Album": "Let Me In",
+            "Year": 2006
         },
         {
             "Title": "Let's Go Crazy (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "Purple Rain",
+            "Year": 1984
         },
         {
             "Title": "Lie To Me",
-            "Album": "",
-            "Year": 0
+            "Album": "Lie to Me",
+            "Year": 1997
         },
         {
             "Title": "Life by the Drop",
-            "Album": "",
-            "Year": 0
+            "Album": "The Sky Is Crying",
+            "Year": 1991
         },
         {
             "Title": "Life in the Fast Lane (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "Hotel California",
+            "Year": 1976
         },
         {
             "Title": "Life Without You",
-            "Album": "",
-            "Year": 0
+            "Album": "Soul to Soul",
+            "Year": 1985
         },
         {
             "Title": "Life's Been Good",
-            "Album": "",
-            "Year": 0
+            "Album": "But Seriously, Folks...",
+            "Year": 1978
         },
         {
             "Title": "Like a Rolling Stone",
-            "Album": "",
-            "Year": 0
+            "Album": "Highway 61 Revisted",
+            "Year": 1965
         },
         {
             "Title": "Like a Stone",
-            "Album": "",
-            "Year": 0
+            "Album": "Audioslave",
+            "Year": 2002
         },
         {
             "Title": "Lilac Wine",
@@ -2087,8 +2082,8 @@
         },
         {
             "Title": "Limelight",
-            "Album": "",
-            "Year": 0
+            "Album": "Moving Pictures",
+            "Year": 1981
         },
         {
             "Title": "Lithium",
@@ -2097,33 +2092,33 @@
         },
         {
             "Title": "Little Black Submarines",
-            "Album": "",
-            "Year": 0
+            "Album": "El Camino",
+            "Year": 2011
         },
         {
             "Title": "Little Green",
-            "Album": "",
-            "Year": 0
+            "Album": "Blue",
+            "Year": 1971
         },
         {
             "Title": "Little Martha",
-            "Album": "",
-            "Year": 0
+            "Album": "Eat A Peach",
+            "Year": 1972
         },
         {
             "Title": "Little Wing",
-            "Album": "",
-            "Year": 0
+            "Album": "Axis: Bold As Love",
+            "Year": 1967
         },
         {
             "Title": "Lola",
-            "Album": "",
-            "Year": 0
+            "Album": "Lola Versus Powerman and the Moneygoround, pt.1",
+            "Year": 1970
         },
         {
             "Title": "Lonely Boy",
-            "Album": "",
-            "Year": 0
+            "Album": "El Camino",
+            "Year": 2011
         },
         {
             "Title": "Long Cool Woman (In a Black Dress) (Partial)",
@@ -2152,8 +2147,8 @@
         },
         {
             "Title": "Love Her Madly",
-            "Album": "",
-            "Year": 0
+            "Album": "L.A. Woman",
+            "Year": 1971
         },
         {
             "Title": "Love Me Two Times",
@@ -2162,13 +2157,13 @@
         },
         {
             "Title": "Love Story",
-            "Album": "",
-            "Year": 0
+            "Album": "Corey VandenHeuvel - EP",
+            "Year": 2005
         },
         {
             "Title": "Love Struck Baby",
-            "Album": "",
-            "Year": 0
+            "Album": "Texas Flood",
+            "Year": 1983
         },
         {
             "Title": "Lover, You Should've Come Over",
@@ -2232,8 +2227,8 @@
         },
         {
             "Title": "Manic Depression",
-            "Album": "",
-            "Year": 0
+            "Album": "Are You Experienced",
+            "Year": 1967
         },
         {
             "Title": "Martin vs. Furch vs. Boucher | High-End Guitar Comparison",
@@ -2242,13 +2237,13 @@
         },
         {
             "Title": "Mary Had a Little Lamb",
-            "Album": "",
-            "Year": 0
+            "Album": "Texas Flood",
+            "Year": 1983
         },
         {
             "Title": "May This Be Love",
-            "Album": "",
-            "Year": 0
+            "Album": "Are You Experienced",
+            "Year": 1967
         },
         {
             "Title": "May You Never",
@@ -2262,8 +2257,8 @@
         },
         {
             "Title": "Melissa",
-            "Album": "",
-            "Year": 0
+            "Album": "Eat A Peach",
+            "Year": 1972
         },
         {
             "Title": "Memories",
@@ -2317,8 +2312,8 @@
         },
         {
             "Title": "Moondance",
-            "Album": "",
-            "Year": 0
+            "Album": "Moondance",
+            "Year": 1970
         },
         {
             "Title": "More Than a Feeling (Partial)",
@@ -2397,8 +2392,8 @@
         },
         {
             "Title": "My Sweet Lord",
-            "Album": "",
-            "Year": 0
+            "Album": "All Things Must Pass",
+            "Year": 1970
         },
         {
             "Title": "Natural Blues",
@@ -2407,8 +2402,8 @@
         },
         {
             "Title": "Neon",
-            "Album": "",
-            "Year": 0
+            "Album": "Where the Light Is: John Mayer Live In Los Angeles",
+            "Year": 2008
         },
         {
             "Title": "Never Going Back Again",
@@ -2537,13 +2532,13 @@
         },
         {
             "Title": "Old Man",
-            "Album": "",
-            "Year": 0
+            "Album": "Harvest",
+            "Year": 1972
         },
         {
             "Title": "Old Pine",
-            "Album": "",
-            "Year": 0
+            "Album": "Every Kingdom",
+            "Year": 2011
         },
         {
             "Title": "Old Time Rock & Rock (Audio Issues)",
@@ -2557,13 +2552,13 @@
         },
         {
             "Title": "Once I Was (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "Goodbye And Hello",
+            "Year": 1967
         },
         {
             "Title": "One Of These Things First",
-            "Album": "",
-            "Year": 0
+            "Album": "Bryter Layter",
+            "Year": 1971
         },
         {
             "Title": "One Step Closer (Electric riff)",
@@ -2642,8 +2637,8 @@
         },
         {
             "Title": "Panama (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "1984",
+            "Year": 1984
         },
         {
             "Title": "Parachutes",
@@ -2657,13 +2652,13 @@
         },
         {
             "Title": "Paranoid Android",
-            "Album": "",
-            "Year": 0
+            "Album": "OK Computer",
+            "Year": 1997
         },
         {
             "Title": "Parasite",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "Parchman Farm Blues",
@@ -2717,8 +2712,8 @@
         },
         {
             "Title": "Pink Moon",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "Pistol Slapper Blues",
@@ -2727,8 +2722,8 @@
         },
         {
             "Title": "Place To Be",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "Planet Caravan",
@@ -2762,8 +2757,8 @@
         },
         {
             "Title": "Pride and Joy",
-            "Album": "",
-            "Year": 0
+            "Album": "Texas Flood",
+            "Year": 1983
         },
         {
             "Title": "Psycho Killer (Partial)",
@@ -2772,8 +2767,8 @@
         },
         {
             "Title": "Purple Haze",
-            "Album": "",
-            "Year": 0
+            "Album": "Are You Experienced",
+            "Year": 1967
         },
         {
             "Title": "Push (Audio Issues)",
@@ -2797,8 +2792,8 @@
         },
         {
             "Title": "Radiant Skies",
-            "Album": "",
-            "Year": 0
+            "Album": "Corey VandenHeuvel - EP",
+            "Year": 2005
         },
         {
             "Title": "Ramble On",
@@ -2827,8 +2822,8 @@
         },
         {
             "Title": "Red House",
-            "Album": "",
-            "Year": 0
+            "Album": "Are You Experienced",
+            "Year": 1967
         },
         {
             "Title": "Redemption Song",
@@ -2852,8 +2847,8 @@
         },
         {
             "Title": "Riders on the Storm (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "L.A. Woman",
+            "Year": 1971
         },
         {
             "Title": "Riptide",
@@ -2882,8 +2877,8 @@
         },
         {
             "Title": "Road",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "Rock and Roll (Electric riff)",
@@ -2907,8 +2902,8 @@
         },
         {
             "Title": "Rock'n Me (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "Fly Like An Eagle",
+            "Year": 1976
         },
         {
             "Title": "Rocket Man",
@@ -2917,8 +2912,8 @@
         },
         {
             "Title": "Rocky Mountain Way (Partial)",
-            "Album": "",
-            "Year": 0
+            "Album": "The Smoker You Drink, The Player You Get",
+            "Year": 1973
         },
         {
             "Title": "Rollin' and Tumblin'",
@@ -2937,8 +2932,8 @@
         },
         {
             "Title": "Rude Mood (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Texas Flood",
+            "Year": 1983
         },
         {
             "Title": "Run To You (Partial)",
@@ -3012,8 +3007,8 @@
         },
         {
             "Title": "Semi-Charmed Life",
-            "Album": "",
-            "Year": 0
+            "Album": "Third Eye Blind",
+            "Year": 1997
         },
         {
             "Title": "Send Me on my Way (Partial)",
@@ -3047,8 +3042,8 @@
         },
         {
             "Title": "She Talks To Angels",
-            "Album": "",
-            "Year": 0
+            "Album": "Shake Your Money Maker",
+            "Year": 1990
         },
         {
             "Title": "She Who Waits",
@@ -3062,8 +3057,8 @@
         },
         {
             "Title": "Shine On You Crazy Diamond (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Wish You Were Here",
+            "Year": 1975
         },
         {
             "Title": "Shiver",
@@ -3112,13 +3107,13 @@
         },
         {
             "Title": "Slide",
-            "Album": "",
-            "Year": 0
+            "Album": "Dizzy up the Girl",
+            "Year": 1998
         },
         {
             "Title": "Slide Thing",
-            "Album": "",
-            "Year": 0
+            "Album": "Corey VandenHeuvel - EP",
+            "Year": 2005
         },
         {
             "Title": "Slither (Electric riff)",
@@ -3192,8 +3187,8 @@
         },
         {
             "Title": "Something",
-            "Album": "",
-            "Year": 0
+            "Album": "Abbey Road",
+            "Year": 1969
         },
         {
             "Title": "Something Like Olivia",
@@ -3237,8 +3232,8 @@
         },
         {
             "Title": "Spanish Castle Magic",
-            "Album": "",
-            "Year": 0
+            "Album": "Axis: Bold As Love",
+            "Year": 1967
         },
         {
             "Title": "Spanish Romance (Romanza)",
@@ -3322,8 +3317,8 @@
         },
         {
             "Title": "Street Spirit (Fade Out)",
-            "Album": "",
-            "Year": 0
+            "Album": "The Bends",
+            "Year": 1995
         },
         {
             "Title": "Streets of Philadelphia",
@@ -3362,8 +3357,8 @@
         },
         {
             "Title": "Subterranean Homesick Alien",
-            "Album": "",
-            "Year": 0
+            "Album": "OK Computer",
+            "Year": 1997
         },
         {
             "Title": "Sugar Man",
@@ -3452,8 +3447,8 @@
         },
         {
             "Title": "Take It Easy",
-            "Album": "",
-            "Year": 0
+            "Album": "Eagles",
+            "Year": 1972
         },
         {
             "Title": "Take Me Home, Country Roads",
@@ -3482,8 +3477,8 @@
         },
         {
             "Title": "Tell Me (Audio Issues)",
-            "Album": "",
-            "Year": 0
+            "Album": "Texas Flood",
+            "Year": 1983
         },
         {
             "Title": "Tell Me Why",
@@ -3497,8 +3492,8 @@
         },
         {
             "Title": "Texas Flood",
-            "Album": "",
-            "Year": 0
+            "Album": "Texas Flood",
+            "Year": 1983
         },
         {
             "Title": "That Song",
@@ -3547,8 +3542,8 @@
         },
         {
             "Title": "The House Is Rockin'",
-            "Album": "",
-            "Year": 0
+            "Album": "In Step",
+            "Year": 1989
         },
         {
             "Title": "The Island",
@@ -3582,8 +3577,8 @@
         },
         {
             "Title": "The Needle and the Damage Done",
-            "Album": "",
-            "Year": 0
+            "Album": "Harvest Moon",
+            "Year": 1972
         },
         {
             "Title": "The New",
@@ -3657,8 +3652,8 @@
         },
         {
             "Title": "The Wind Cries Mary",
-            "Album": "",
-            "Year": 0
+            "Album": "Are You Experienced",
+            "Year": 1967
         },
         {
             "Title": "Them Bones",
@@ -3677,8 +3672,8 @@
         },
         {
             "Title": "Things Behind The Sun",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "Think Of You",
@@ -3692,8 +3687,8 @@
         },
         {
             "Title": "This Flight Tonight",
-            "Album": "",
-            "Year": 0
+            "Album": "Blue",
+            "Year": 1971
         },
         {
             "Title": "This Love (Electric riff)",
@@ -3732,8 +3727,8 @@
         },
         {
             "Title": "Tightrope",
-            "Album": "",
-            "Year": 0
+            "Album": "In Step",
+            "Year": 1989
         },
         {
             "Title": "Til I Am Myself Again",
@@ -3797,8 +3792,8 @@
         },
         {
             "Title": "Trouble",
-            "Album": "",
-            "Year": 0
+            "Album": "Trouble",
+            "Year": 2004
         },
         {
             "Title": "Trouble So Hard",
@@ -3882,8 +3877,8 @@
         },
         {
             "Title": "Waitin' for the Bus (Electric riff)",
-            "Album": "",
-            "Year": 0
+            "Album": "Tres Hombres",
+            "Year": 1973
         },
         {
             "Title": "Walk this Way (Partial)",
@@ -3957,8 +3952,8 @@
         },
         {
             "Title": "Which Will",
-            "Album": "",
-            "Year": 0
+            "Album": "Pink Moon",
+            "Year": 1972
         },
         {
             "Title": "While My Guitar Gently Weeps",
@@ -4047,8 +4042,8 @@
         },
         {
             "Title": "You Are the Best Thing",
-            "Album": "",
-            "Year": 0
+            "Album": "Gossip In The Grain",
+            "Year": 2008
         },
         {
             "Title": "You Give Me Something",
