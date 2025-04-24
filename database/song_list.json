@@ -3170,7 +3170,7 @@
 		},
 		{
 			"Id": 289,
-			"Title": "Somebody to Love",
+			"Title": "Somebody To Love",
 			"Artist": "Queen",
 			"Other_Artists": "",
 			"Instruments": "Acoustic Guitar",
@@ -5678,11 +5678,11 @@
 		},
 		{
 			"Id": 517,
-			"Title": "Spirit (Partial)",
-			"Artist": "Taurus",
+			"Title": "Taurus (Partial)",
+			"Artist": "Spirit",
 			"Other_Artists": "",
 			"Instruments": "Acoustic Guitar",
-			"Image": "Taurus.jpg",
+			"Image": "Spirit.jpg",
 			"Search": "",
 			"Appearances": "Livestream 50 (Partial)",
 			"Links": "https://youtu.be/WGGj7qyf4pA&t=9120"
@@ -6734,7 +6734,7 @@
 		},
 		{
 			"Id": 613,
-			"Title": "Song To the Siren",
+			"Title": "Song to the Siren",
 			"Artist": "Tim Buckley",
 			"Other_Artists": "John Frusciante",
 			"Instruments": "Acoustic Guitar",

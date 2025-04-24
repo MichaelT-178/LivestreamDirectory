@@ -1234,7 +1234,7 @@ https://youtu.be/RipA8bRdIbI
 1:00:10 Way to the Sea by Corey Heuvel
 1:07:01 Favorite chord in DADGAD
 1:07:31 Ball Peen Hammer (M) by Chris Whitley
-1:13:06 Somebody to Love by Queen
+1:13:06 Somebody To Love by Queen
 1:19:31 Money by Pink Floyd
 1:26:09 Iris by The Goo Goo Dolls
 1:31:04 Ordinary Girl by Corey Heuvel
@@ -2237,7 +2237,7 @@ Electric Guitar
 2:28:13 Blues-Rock Improv
 
 Acoustic Guitar
-2:32:00 Spirit (Partial) by Taurus
+2:32:00 Taurus (Partial) by Spirit
 2:32:14 Stairway to Heaven (Partial) by Led Zeppelin
 2:33:16 Starbird by Corey Heuvel
 2:38:36 Something Like Olivia by John Mayer
@@ -2268,7 +2268,7 @@ https://youtu.be/CxcBGVkfVMc
 1:46:17 Street Fighting Man by The Rolling Stones
 1:50:23 Dust in a Baggie by Billy Strings
 1:54:02 Streets of Philadelphia by Bruce Springsteen
-1:58:33 Somebody to Love by Queen
+1:58:33 Somebody To Love by Queen
 2:04:59 Into Light by Corey Heuvel
 2:10:49 Limelight by Rush
 2:15:50 Heroes by David Bowie
@@ -3273,7 +3273,7 @@ https://youtu.be/jdD05keNX5w
 54:42 Life by the Drop by Stevie Ray Vaughan
 58:40 Beautiful Slide by Corey Heuvel
 1:05:46 Neon by John Mayer
-1:13:32 Song To the Siren by Tim Buckley
+1:13:32 Song to the Siren by Tim Buckley
 1:18:04 What I'm About to Do by Corey Heuvel
 1:23:34 Over the Hills and Far Away by Led Zeppelin
 1:32:23 You Are the Best Thing by Ray LaMontagne
@@ -5956,7 +5956,7 @@ Acoustic Guitar
 1:17:22 Slow Dancing in a Burning Room by John Mayer
 1:23:53 Three Little Birds by Bob Marley
 1:28:30 Suit & Tie by Justin Timberlake ft. JAY-Z
-1:35:42 Song To the Siren by Tim Buckley+John Frusciante
+1:35:42 Song to the Siren by Tim Buckley+John Frusciante
 1:39:54 Evers (SGI) by Corey Heuvel
 1:46:10 Lonely Boy by The Black Keys
 1:52:51 Snow (Hey Oh) by Red Hot Chili Peppers
@@ -7345,7 +7345,7 @@ https://www.youtube.com/watch?v=twwoDRDMthg
 1:58:30 Fast Car by Tracy Chapman
 2:05:08 Message In A bottle by The Police
 2:11:49 Solsbury Hill by Peter Gabriel 
-2:18:10 Song To the Siren by Tim Buckley
+2:18:10 Song to the Siren by Tim Buckley
 2:23:20 Last Goodbye by Jeff Buckley
 2:31:04 Limelight by Rush 
 2:35:32 Voodoo Child (Slight Return) by Jimi Hendrix
