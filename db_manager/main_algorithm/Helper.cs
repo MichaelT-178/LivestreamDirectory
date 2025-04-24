@@ -163,7 +163,11 @@ class Helper
                 .Replace("Á", "A")
                 .Replace("ü", "u")
                 .Replace("Ö", "O")
-                .Replace("ö", "o");
+                .Replace("ö", "o")
+                .Replace("Â", "A")
+                .Replace("â", "a")
+                .Replace("Ĕ", "E")
+                .Replace("ĕ", "e");
     }
 
     /**

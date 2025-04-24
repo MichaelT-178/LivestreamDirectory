@@ -1433,7 +1433,7 @@ Electric guitar
 2:03:51 Eruption (Electric riff) by Van Halen
 2:04:53 Scatterbrain (Electric riff) by Jeff Beck
 2:05:18 Johnny B. Goode (Electric riff) by Chuck Berry
-2:05:53 Passage to Bangkok (Electric riff) by Rush
+2:05:53 A Passage To Bangkok (Electric riff) by Rush
 2:06:05 Freewill (Electric riff) by Rush
 2:06:51 (Don't Fear) The Reaper (Electric riff) by Blue Öyster Cult
 2:07:28 Sultans of Swing (Electric riff) by Dire Straits
@@ -1913,7 +1913,7 @@ https://youtu.be/RCraRcpxmDo
 59:38 Blossom by James Taylor
 1:05:59 Crimson Fools by Corey Heuvel
 1:12:04 Mr Crowley (Partial) by Ozzy Osbourne
-1:15:59 Pistol Slapper Blues by Blind Boy Fuller+Rory Gallagher
+1:15:59 Pistol Slapper Blues by Rory Gallagher+Blind Boy Fuller
 1:22:06 Crazy by Gnarls Barkley
 1:29:20 Memories by Corey Heuvel
 
@@ -2426,7 +2426,7 @@ https://youtu.be/KLIWP_nbaXs
 0:10 Intro “Beautiful Slide” by Corey Heuvel
 
 Rein Rutnik's Set
-7:26 Nobody Knows When You're Down and Out (Rein Rutnik Performance) (V) by Jimmie Cox+Eric Clapton
+7:26 Nobody Knows You When You're Down and Out (Rein Rutnik Performance) (V) by Eric Clapton+Jimmie Cox
 13:00 Sleepy Afternoon (Rein Rutnik Performance) (V) by Rein Rutnik
 17:39 Big Bad Bill (Is Sweet William Now) (Rein Rutnik Performance) (V) by Van Halen+Milton Ager & Jack Yellen
 21:39 I'm Satisfied (Rein Rutnik Performance) (V) by Mississippi John Hurt
@@ -2553,7 +2553,7 @@ Acoustic Guitar
 2:23:03 No Whining (No Complaining) by Corey Heuvel
 2:29:47 Place To Be (M) by Nick Drake
 2:33:58 Black & Gold by Sam Sparro
-2:39:29 Send Me on my Way (Partial) by Rusted Root
+2:39:29 Send Me On My Way (Partial) by Rusted Root
 2:40:51 Starbird by Corey Heuvel
 2:46:05 Sleepwalk by Santo & Johnny+Betsy Brye
 2:49:22 Moondance by Van Morrison
@@ -3784,7 +3784,7 @@ https://youtu.be/yiFNZvisSQw
 2:01:53 Pride and Joy by Stevie Ray Vaughan
 2:07:29 Pinball Wizard by The Who
 2:12:04 Good Love Is On the Way by John Mayer
-2:17:16 Rollin' and Tumblin' by Hambone Willie Newbern+Muddy Waters+Cream
+2:17:16 Rollin' and Tumblin' by Eric Clapton+Hambone Willie Newbern+Muddy Waters+Cream
 2:24:15 The Past Recedes (M) by John Frusciante
 2:28:51 Song For George by Eric Johnson
 2:30:46 Ohio by Crosby, Stills, Nash & Young
@@ -3874,7 +3874,7 @@ https://youtu.be/JpKnYI_-2OA
 27:39 Time by Pink Floyd
 32:42 If It's Wrong (It's Alright) by Corey Heuvel
 38:29 God Knows (I Love You Madly) by Corey Heuvel
-43:13 Pistol Slapper Blues by Blind Boy Fuller+Rory Gallagher
+43:13 Pistol Slapper Blues by Rory Gallagher+Blind Boy Fuller
 47:58 Imagine by John Lennon+The Beatles
 52:13 Lonely Boy by The Black Keys
 58:14 Sage Trees by Corey Heuvel
@@ -4993,7 +4993,7 @@ https://youtu.be/pvM5qp6ZCS4
 0:08 Intro “Out of the Mist” by Corey Heuvel
 9:01 Morning Wish by Corey Heuvel
 16:59 Fly Like An Eagle by Steve Miller Band
-22:52 Pistol Slapper Blues by Blind Boy Fuller+Rory Gallagher
+22:52 Pistol Slapper Blues by Rory Gallagher+Blind Boy Fuller
 27:12 Breathe (In the Air) by Pink Floyd
 29:14 Time by Pink Floyd
 36:41 If It's Wrong (It's Alright) by Corey Heuvel
@@ -5136,7 +5136,7 @@ Livestream 129
 https://youtu.be/6Yy57i8sR0s
 0:00 Intro 
 6:25 At the Creek by Corey Heuvel
-13:42 Man Of Constant Sorrow by Dick Burnett+The Soggy Bottom Boys
+13:42 Man Of Constant Sorrow by The Soggy Bottom Boys+Dick Burnett
 21:14 Hand in My Pocket by Alanis Morissette 
 27:20 Life’s Been Good by Joe Walsh
 32:46 While My Guitar Gently Weeps by The Beatles
@@ -6574,7 +6574,7 @@ https://www.youtube.com/watch?v=9gkOvE2nTlM
 
 Guitar & Harmonica
 1:11:49 Crossing Over/Tree of Life (Medley) (Rein Rutnik Performance) by Grant Dermody 
-1:16:32 Rollin' and Tumblin' (Rein Rutnik Performance) by Hambone Willie Newbern+Muddy Waters+Cream
+1:16:32 Rollin' and Tumblin' (Rein Rutnik Performance) by Eric Clapton+Hambone Willie Newbern+Muddy Waters+Cream
 
 1:23:54 Ordinary Girl by Corey Heuvel 
 1:29:39 Walkin' On The Sun by Smash Mouth
@@ -6984,7 +6984,7 @@ https://www.youtube.com/watch?v=B5AJb0_vLS4
 1:19:33 That's the Way by Led Zeppelin
 
 Guitar & Harmonica 
-1:26:18 Rollin' and Tumblin' (Rein Rutnik Performance) by Hambone Willie Newbern+Muddy Waters+Cream
+1:26:18 Rollin' and Tumblin' (Rein Rutnik Performance) by Eric Clapton+Hambone Willie Newbern+Muddy Waters+Cream
 1:31:02 Dear Mr. Fantasy (Rein Rutnik Performance) by Traffic
 1:36:02 Ice Water Blues (Rein Rutnik Performance) by Deford Bailey
 1:38:24 Before You Accuse Me (Rein Rutnik Performance) by Eric Clapton+Bo Diddley

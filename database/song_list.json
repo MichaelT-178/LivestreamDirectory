@@ -3852,7 +3852,7 @@
 		},
 		{
 			"Id": 351,
-			"Title": "Passage to Bangkok (Electric riff)",
+			"Title": "A Passage To Bangkok (Electric riff)",
 			"Artist": "Rush",
 			"Other_Artists": "",
 			"Instruments": "Electric Guitar",
@@ -4953,10 +4953,10 @@
 		{
 			"Id": 451,
 			"Title": "Pistol Slapper Blues",
-			"Artist": "Blind Boy Fuller",
-			"Other_Artists": "Rory Gallagher",
+			"Artist": "Rory Gallagher",
+			"Other_Artists": "Blind Boy Fuller",
 			"Instruments": "Acoustic Guitar",
-			"Image": "Blind Boy Fuller.jpg",
+			"Image": "Rory Gallagher.jpg",
 			"Search": "",
 			"Appearances": "Livestream 43,Livestream 94,Livestream 125",
 			"Links": "https://youtu.be/RCraRcpxmDo&t=4559 , https://youtu.be/JpKnYI_-2OA&t=2593 , https://youtu.be/pvM5qp6ZCS4&t=1372"
@@ -5909,12 +5909,12 @@
 		},
 		{
 			"Id": 538,
-			"Title": "Nobody Knows When You're Down and Out (Rein Rutnik Performance)",
-			"Artist": "Jimmie Cox",
-			"Other_Artists": "Eric Clapton",
+			"Title": "Nobody Knows You When You're Down and Out (Rein Rutnik Performance)",
+			"Artist": "Eric Clapton",
+			"Other_Artists": "Jimmie Cox",
 			"Instruments": "Acoustic Guitar, (V) - Furch Vintage 2 RS-SR",
-			"Image": "Jimmie Cox.jpg",
-			"Search": "Nobody Knows When Youre Down and Out, Nobody Knows When You're Down & Out, Nobody Knows When You’re Down and Out, Nobody Knows When You‘re Down and Out",
+			"Image": "Eric Clapton.jpg",
+			"Search": "Nobody Knows You When Youre Down and Out, Nobody Knows You When You're Down & Out, Nobody Knows You When You’re Down and Out, Nobody Knows u When Youre Down and Out, Nobody Knows You When You‘re Down and Out",
 			"Appearances": "Livestream 56 (Rein Rutnik Performance/V)",
 			"Links": "https://youtu.be/KLIWP_nbaXs&t=446"
 		},
@@ -6063,7 +6063,7 @@
 		},
 		{
 			"Id": 552,
-			"Title": "Send Me on my Way (Partial)",
+			"Title": "Send Me On My Way (Partial)",
 			"Artist": "Rusted Root",
 			"Other_Artists": "",
 			"Instruments": "Acoustic Guitar",
@@ -7065,10 +7065,10 @@
 		{
 			"Id": 643,
 			"Title": "Rollin' and Tumblin'",
-			"Artist": "Hambone Willie Newbern",
-			"Other_Artists": "Muddy Waters, Cream",
+			"Artist": "Eric Clapton",
+			"Other_Artists": "Hambone Willie Newbern, Muddy Waters, Cream",
 			"Instruments": "Acoustic Guitar, Harmonica",
-			"Image": "Hambone Willie Newbern.jpg",
+			"Image": "Eric Clapton.jpg",
 			"Search": "Rollin and Tumblin, Rollin' & Tumblin', Rollin’ and Tumblin’, Rollin‘ and Tumblin‘",
 			"Appearances": "Livestream 91,Livestream 3 (Audio Issues/Rein Rutnik Performance),Livestream 12 (Audio Issues/Rein Rutnik Performance)",
 			"Links": "https://youtu.be/yiFNZvisSQw&t=8236 , https://youtu.be/watch?v=9gkOvE2nTlM&t=4592 , https://youtu.be/watch?v=B5AJb0_vLS4&t=5178"
@@ -7648,10 +7648,10 @@
 		{
 			"Id": 696,
 			"Title": "Man Of Constant Sorrow",
-			"Artist": "Dick Burnett",
-			"Other_Artists": "The Soggy Bottom Boys",
+			"Artist": "The Soggy Bottom Boys",
+			"Other_Artists": "Dick Burnett",
 			"Instruments": "Acoustic Guitar",
-			"Image": "Dick Burnett.jpg",
+			"Image": "The Soggy Bottom Boys.jpg",
 			"Search": "I Am A Man of Constant Sorrow",
 			"Appearances": "Livestream 129",
 			"Links": "https://youtu.be/6Yy57i8sR0s&t=822"
