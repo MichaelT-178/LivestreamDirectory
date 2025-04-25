@@ -3,3 +3,4 @@ LivestreamDirectory.sln
 obj/
 
 python/data/creds.json
+.env
