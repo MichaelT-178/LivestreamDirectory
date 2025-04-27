@@ -1,3 +1,4 @@
+using System.Text;
 using System.Text.RegularExpressions;
 
 /**
@@ -223,6 +224,7 @@ class AlgorithmHelper
             !songWithKeys.Contains("(Mandolin)") &&
             !songWithKeys.Contains("(H)") &&
             !songWithKeys.Contains("Electric Riff Session #") &&
+            !songWithKeys.Contains("GLTC") &&
             !currentInstruments.Contains("Acoustic Guitar")
         ) 
         {
@@ -232,20 +234,13 @@ class AlgorithmHelper
         return "";
     }
 
-    /**
-     * Gets the instrument from a song title based on it's keys, which will be
-     * added to the currentInstruments attribute if it's not already in it. 
-     * The currentInstruments attribute will become the Instruments attribute 
-     * of the song objects in the database.
-     * @param songWithKeys The song with it's keys 
-     * @param currentInstruments The attribute which contains all the songs 
-     *        instruments so far.
-     * @return The instrument string based on the key with comma. Ex: "Classical Guitar, "
-     */
     public static string GetInstrumentsFromSong(string songWithKeys, string currentInstruments)
     {
         Dictionary<string, string> instrumentMapping = new Dictionary<string, string>
         {
+            {"(Electric Song)", "Electric Guitar"},
+            {"(Electric riff)", "Electric Guitar"},
+            {"(Classical Guitar)", "Classical Guitar"},
             {"(BH)", "(BH) - Brickhouse Demo"},
             {"(B)", "(B) - Furch Blue Gc-SA"},
             {"(DX1R)", "(DX1R) - Martin DX1R"},
@@ -258,31 +253,99 @@ class AlgorithmHelper
             {"(SOM)", "(SOM) - Stonebridge OM35ASR-DB"},
             {"(V)", "(V) - Furch Vintage 2 RS-SR"},
             {"(Mandolin)", "Mandolin"},
-            {"(Electric Song)", "Electric Guitar"},
-            {"(Classical Guitar)", "Classical Guitar"},
             {"(Blues Slide)", "Blues Slide"},
-            {"(Electric riff)", "Electric Guitar"},
             {"(Rein Rutnik Performance)", "Harmonica"},
-            {"(12-String)", "12-String Guitar"}
+            {"(12-String)", "12-String Guitar"},
+            {"(BSGI)", "(BSGI) - Boucher SG-52-I"},
+            {"(GLTC)", "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream"}
         };
 
-        foreach (var keyInstrumentPair in instrumentMapping)
-        {
-            string key = keyInstrumentPair.Key;
-            string instrument = keyInstrumentPair.Value;
+        StringBuilder instrumentsToAdd = new StringBuilder();
 
-            if (songWithKeys.Contains(key) && !currentInstruments.Contains(instrument))
+        Regex regex = new(@"\(([^)]*)\)");
+
+        foreach (Match match in regex.Matches(songWithKeys))
+        {
+            string keyContent = match.Groups[1].Value; // e.g., "BH/BSGI"
+
+            // Split by '/' in case it's multiple keys
+            string[] individualKeys = keyContent.Split('/');
+
+            foreach (string singleKey in individualKeys)
             {
-                return instrument + ", ";
+                string formattedKey = $"({singleKey})";
+
+                if (instrumentMapping.ContainsKey(formattedKey) && !currentInstruments.Contains(instrumentMapping[formattedKey]))
+                {
+                    instrumentsToAdd.Append(instrumentMapping[formattedKey] + ", ");
+                    currentInstruments += instrumentMapping[formattedKey]; // So no duplicates inside the same run
+                }
             }
         }
 
         if (songWithKeys.Contains("Forget Her") || songWithKeys.Contains("Electric Riff Session"))
         {
-             return "Electric Guitar, ";
+            if (!currentInstruments.Contains("Electric Guitar"))
+            {
+                instrumentsToAdd.Append("Electric Guitar, ");
+            }
         }
-        
-        return "";
+
+        return instrumentsToAdd.ToString();
     }
+
+
+    // /**
+    //  * Gets the instrument from a song title based on it's keys, which will be
+    //  * added to the currentInstruments attribute if it's not already in it. 
+    //  * The currentInstruments attribute will become the Instruments attribute 
+    //  * of the song objects in the database.
+    //  * @param songWithKeys The song with it's keys 
+    //  * @param currentInstruments The attribute which contains all the songs 
+    //  *        instruments so far.
+    //  * @return The instrument string based on the key with comma. Ex: "Classical Guitar, "
+    //  */
+    // public static string GetInstrumentsFromSong(string songWithKeys, string currentInstruments)
+    // {
+    //     Dictionary<string, string> instrumentMapping = new Dictionary<string, string>
+    //     {
+    //         {"(BH)", "(BH) - Brickhouse Demo"},
+    //         {"(B)", "(B) - Furch Blue Gc-SA"},
+    //         {"(DX1R)", "(DX1R) - Martin DX1R"},
+    //         {"(MDT)", "(MDT) - Maestro Double Top"},
+    //         {"(M)", "(M) - Martin 00-15m"},
+    //         {"(NST)", "(NST) - Norman ST68"},
+    //         {"(OOM)", "(OOM) - Furch OOM-SR-DB"},
+    //         {"(SAS)", "(SAS) - Seagull Artist Studio"},
+    //         {"(SGI)", "(SGI) - SGI Avenir CW20"},
+    //         {"(SOM)", "(SOM) - Stonebridge OM35ASR-DB"},
+    //         {"(V)", "(V) - Furch Vintage 2 RS-SR"},
+    //         {"(Mandolin)", "Mandolin"},
+    //         {"(Electric Song)", "Electric Guitar"},
+    //         {"(Classical Guitar)", "Classical Guitar"},
+    //         {"(Blues Slide)", "Blues Slide"},
+    //         {"(Electric riff)", "Electric Guitar"},
+    //         {"(Rein Rutnik Performance)", "Harmonica"},
+    //         {"(12-String)", "12-String Guitar"}
+    //     };
+
+    //     foreach (var keyInstrumentPair in instrumentMapping)
+    //     {
+    //         string key = keyInstrumentPair.Key;
+    //         string instrument = keyInstrumentPair.Value;
+
+    //         if (songWithKeys.Contains(key) && !currentInstruments.Contains(instrument))
+    //         {
+    //             return instrument + ", ";
+    //         }
+    //     }
+
+    //     if (songWithKeys.Contains("Forget Her") || songWithKeys.Contains("Electric Riff Session"))
+    //     {
+    //          return "Electric Guitar, ";
+    //     }
+        
+    //     return "";
+    // }
 
 }
