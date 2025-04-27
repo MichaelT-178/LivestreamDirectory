@@ -108,61 +108,60 @@ class AlgorithmHelper
      */
     public static string GetSongTitlePartialAndIssuesKey(string appearances)
     {
-            int numOfAppearances = appearances.Split(",").Length;
-            List<string> appearanceKeys = GetAllKeysFromLines(appearances, "");
-            
+        int numOfAppearances = appearances.Split(",").Length;
+        List<string> appearanceKeys = GetAllKeysFromLines(appearances, "");
+        
+        List<string> allAppearanceKeys = [];
+        
+        foreach (string appKey in appearanceKeys)
+        {
+            List<string> appKeysList = appKey.Split("/").ToList();
 
-            List<string> allAppearanceKeys = [];
+            foreach (string aKey in appKeysList)
+            {
+                allAppearanceKeys.Add(aKey.Replace("(", "").Replace(")", "").Trim());
+            }
+        }
 
-            foreach (string appKey in appearanceKeys)
-            {
-                List<string> appKeysList = appKey.Split("/").ToList();
+        int numOfElectricRiffs = allAppearanceKeys.Count(s => s == "Electric riff");
+        int numOfAudioIssues = allAppearanceKeys.Count(s => s == "Audio Issues");
+        int numOfReinPerformances = allAppearanceKeys.Count(s => s == "Rein Rutnik Performance");
+        int numOfInstrumental = allAppearanceKeys.Count(s => s == "Instrumental");
+        int numOfPartial = allAppearanceKeys.Count(s => s == "Partial");
 
-                foreach (string aKey in appKeysList)
-                {
-                    allAppearanceKeys.Add(aKey.Replace("(", "").Replace(")", "").Trim());
-                }
-            }
-
-            int numOfElectricRiffs = allAppearanceKeys.Count(s => s == "Electric riff");
-            int numOfAudioIssues = allAppearanceKeys.Count(s => s == "Audio Issues");
-            int numOfReinPerformances = allAppearanceKeys.Count(s => s == "Rein Rutnik Performance");
-            int numOfInstrumental = allAppearanceKeys.Count(s => s == "Instrumental");
-            int numOfPartial = allAppearanceKeys.Count(s => s == "Partial");
-
-            if (
-                numOfElectricRiffs == 0 &&
-                numOfAudioIssues == 0 && 
-                numOfReinPerformances == 0 && 
-                numOfInstrumental == 0 && 
-                numOfPartial == 0
-            )
-            {
-                return "";
-            }
-
-            if (numOfElectricRiffs == numOfAppearances)
-            {
-                return " (Electric riff)";
-            }
-            else if (numOfReinPerformances == numOfAppearances)
-            {
-                return " (Rein Rutnik Performance)";
-            }
-            else if (numOfAudioIssues == numOfAppearances)
-            {
-                return " (Audio Issues)";
-            }
-            else if (numOfInstrumental == numOfAppearances)
-            {
-                return " (Instrumental)";
-            }
-            else if ((numOfPartial + numOfInstrumental + numOfElectricRiffs) == numOfAppearances)
-            {
-                return " (Partial)";
-            }
-
+        if (
+            numOfElectricRiffs == 0 &&
+            numOfAudioIssues == 0 && 
+            numOfReinPerformances == 0 && 
+            numOfInstrumental == 0 && 
+            numOfPartial == 0
+        )
+        {
             return "";
+        }
+
+        if (numOfElectricRiffs == numOfAppearances)
+        {
+            return " (Electric riff)";
+        }
+        else if (numOfReinPerformances == numOfAppearances)
+        {
+            return " (Rein Rutnik Performance)";
+        }
+        else if (numOfAudioIssues == numOfAppearances)
+        {
+            return " (Audio Issues)";
+        }
+        else if (numOfInstrumental == numOfAppearances)
+        {
+            return " (Instrumental)";
+        }
+        else if ((numOfPartial + numOfInstrumental + numOfElectricRiffs) == numOfAppearances)
+        {
+            return " (Partial)";
+        }
+
+        return "";
     }
 
     /**
