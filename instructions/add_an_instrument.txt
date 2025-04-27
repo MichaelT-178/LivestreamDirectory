@@ -1,0 +1,26 @@
+1. Add the key to the RemoveKeys method in the following file.
+
+db_manager/main_algorithm/Helper.cs
+
+
+2. Update GetSongTitlePartialAndIssuesKey and GetInstrumentsFromSong
+
+db_manager/main_algorithm/AlgorithmHelper.cs
+
+
+
+string[] specialKeys = { "(Electric riff/Blues Slide)", "(Audio/Issues)" };
+    
+foreach (var specialKey in specialKeys)
+{
+    if (appearances.Contains(specialKey))
+    {
+        return " " + specialKey;
+    }
+}
+
+
+
+3. (SDB) -> (SOM)
+
+4. Bad to the bone 

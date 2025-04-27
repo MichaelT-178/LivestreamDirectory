@@ -207,7 +207,7 @@ class Helper
                 .Replace("(OOM)", "")
                 .Replace("(SAS)", "")
                 .Replace("(SGI)", "")
-                .Replace("(SDB)", "")
+                .Replace("(SOM)", "")
                 .Replace("(V)", "")
                 .Replace("(Mandolin)", "")
                 .Replace("(Electric Song)", "")

@@ -256,7 +256,7 @@ class AlgorithmHelper
             {"(OOM)", "(OOM) - Furch OOM-SR-DB"},
             {"(SAS)", "(SAS) - Seagull Artist Studio"},
             {"(SGI)", "(SGI) - SGI Avenir CW20"},
-            {"(SDB)", "(SDB) - Stonebridge OM35ASR-DB"},
+            {"(SOM)", "(SOM) - Stonebridge OM35ASR-DB"},
             {"(V)", "(V) - Furch Vintage 2 RS-SR"},
             {"(Mandolin)", "Mandolin"},
             {"(Electric Song)", "Electric Guitar"},

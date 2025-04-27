@@ -96,35 +96,41 @@
             "id": 19,
             "name": "(DM75) - DeArmond M75",
             "pic": "dearmond-m75.jpg",
-            "type": "electric guitar"
+            "type": "electric guitar",
+            "appears": 1
         },
         {
             "id": 20,
             "name": "(MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack",
-            "pic": "maestro-fan-fretted-singa-flamed-maple-adirondack.jpg"
+            "pic": "maestro-fan-fretted-singa-flamed-maple-adirondack.jpg",
+            "appears": 1
         },
         {
             "id": 21,
             "name": "(OOMV1) - Furch OOM Vintage 1",
-            "pic": "furch-oom-vintage-1.jpg"
+            "pic": "furch-oom-vintage-1.jpg",
+            "appears": 2
         },
         {
             "id": 22,
             "name": "(GPPCB) - Godin Progression Plus Cherry Burst RN",
             "pic": "godin-progression-plus-cherry-burst-rn.jpg",
-            "type": "electric guitar"
+            "type": "electric guitar",
+            "appears": 1
         },
         {
             "id": 23,
             "name": "(GSDG) - Godin Stadium '59 Desert Green RN",
             "pic": "godin-stadium-59-desert-green-rn.jpg",
-            "type": "electric guitar"
+            "type": "electric guitar",
+            "appears": 1
         },
         {
             "id": 24,
             "name": "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream",
             "pic": "godin-5th-ave-uptown-gt-ltd-trans-cream.jpg",
-            "type": "electric guitar"
+            "type": "electric guitar",
+            "appears": 1
         },
         {
             "id": 25,
