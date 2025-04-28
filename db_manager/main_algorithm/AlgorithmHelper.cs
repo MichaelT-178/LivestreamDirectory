@@ -229,12 +229,13 @@ class AlgorithmHelper
     public static string AddDefaultAcousticGuitar(string songWithKeys, string currentInstruments)
     {
         if (
-            !songWithKeys.Contains("(Electric riff)") &&
-            !songWithKeys.Contains("(Electric Song)") &&
-            !songWithKeys.Contains("(Classical Guitar)") &&
-            !songWithKeys.Contains("(Mandolin)") &&
+            !songWithKeys.Contains("(Electric riff") &&
+            !songWithKeys.Contains("(Electric Song") &&
+            !songWithKeys.Contains("(Classical Guitar") &&
+            !songWithKeys.Contains("(Mandolin") &&
             !songWithKeys.Contains("(H)") &&
             !songWithKeys.Contains("Electric Riff Session #") &&
+            !songWithKeys.Contains("DM75") &&
             !songWithKeys.Contains("GPPCB") &&
             !songWithKeys.Contains("GSDG") &&
             !songWithKeys.Contains("GPRG") &&
@@ -271,6 +272,7 @@ class AlgorithmHelper
             {"(Rein Rutnik Performance)", "Harmonica"},
             {"(12-String)", "12-String Guitar"},
 
+            {"(DM75)", "(DM75) - DeArmond M75"},
             {"(GPPCB)", "(GPPCB) - Godin Progression Plus Cherry Burst RN"},
             {"(GSDG)", "(GSDG) - Godin Stadium '59 Desert Green RN"},
             {"(GPRG)", "(GPRG) - Godin Passion RG-3 Indigo Burst RN"},
