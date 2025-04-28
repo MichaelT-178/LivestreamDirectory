@@ -240,6 +240,7 @@ class Helper
                 .Replace("(MHD)", "")
                 .Replace("(FVD)", "")
                 .Replace("(BSG)", "")
+                .Replace("(MFF)", "")
                 .Replace("(Electric Song/DM75)", "")
                 .Replace("(Electric riff/Blues Slide)", "")
                 .Trim();
