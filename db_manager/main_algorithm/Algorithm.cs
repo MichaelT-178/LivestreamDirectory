@@ -162,6 +162,7 @@ class Algorithm
             artistPic = Helper.ReplaceNonAsciiChars(artistPic).Replace("/", ":");
             
             instruments = AlgorithmHelper.RemoveDuplicateGuitars(instruments);
+            instruments = AlgorithmHelper.MoveAcousticGuitarToFront(instruments);
 
             Song jsonSong = new(idCount, title, artist, otherArtists, instruments, artistPic, search, appearances, links);
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));

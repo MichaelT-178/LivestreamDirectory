@@ -299,6 +299,55 @@ class AlgorithmHelper
         return input;
     }
 
+    public static string MoveAcousticGuitarToFront(string input)
+    {
+        if (input.StartsWith("Acoustic Guitar"))
+        {
+            return input;
+        }
+
+        if (string.IsNullOrWhiteSpace(input))
+        {
+            return input;
+        }
+
+        // Split input by commas
+        List<string> parts = [.. input.Split(',')];
+
+        List<string> reordered = new List<string>();
+        List<string> others = new List<string>();
+
+        string? acousticGuitar = null;
+        string? mainStonebridge = null;
+
+        foreach (var part in parts)
+        {
+            string trimmed = part.Trim();
+
+            if (trimmed.Equals("Acoustic Guitar", StringComparison.OrdinalIgnoreCase))
+            {
+                acousticGuitar = "Acoustic Guitar";
+            }
+            else if (trimmed.Equals("(main) - Stonebridge (Furch) OM32SM", StringComparison.OrdinalIgnoreCase))
+            {
+                mainStonebridge = "(main) - Stonebridge (Furch) OM32SM";
+            }
+            else
+            {
+                others.Add(trimmed);
+            }
+        }
+
+        if (acousticGuitar != null)
+            reordered.Add(acousticGuitar);
+
+        if (mainStonebridge != null)
+            reordered.Add(mainStonebridge);
+
+        reordered.AddRange(others);
+
+        return string.Join(", ", reordered);
+    }
 
     public static string GetInstrumentsFromSong(string songWithKeys, string currentInstruments)
     {
