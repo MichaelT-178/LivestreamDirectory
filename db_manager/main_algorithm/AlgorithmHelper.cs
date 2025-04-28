@@ -229,7 +229,9 @@ class AlgorithmHelper
 {
         string[] excludedKeys = { 
             "(Electric riff", "(Electric Song", "(Classical Guitar", "(Mandolin", "(H)", 
-            "Electric Riff Session #", "DM75", "GPPCB", "GSDG", "GPRG", "GLTC" 
+            "Electric Riff Session #", "DM75", "GPPCB", "GSDG", "GPRG", "GLTC", "FBG", "DX1R",
+            "MDT", "M15M", "NST", "OOM", "SAS", "SGI", "SOM", "FV2", "12-String Guitar", "MHD", 
+            "FVD", "BSG", "BSGI"
         };
 
         if (excludedKeys.All(key => !songWithKeys.Contains(key)) && !currentInstruments.Contains("Acoustic Guitar"))
@@ -275,6 +277,29 @@ class AlgorithmHelper
         return "";
     }
 
+    public static string RemoveDuplicateGuitars(string input)
+    {
+        string[] substrings = { "Classical Guitar, ", "Electric Guitar, ", "Acoustic Guitar, " };
+
+        foreach (string substring in substrings)
+        {
+            int firstIndex = input.IndexOf(substring);
+
+            if (firstIndex != -1)
+            {
+                // Keep first occurrence, remove all others
+                int startIndex = firstIndex + substring.Length;
+                string before = input.Substring(0, startIndex);
+                
+                string after = input.Substring(startIndex).Replace(substring, "");
+                input = before + after;
+            }
+        }
+
+        return input;
+    }
+
+
     public static string GetInstrumentsFromSong(string songWithKeys, string currentInstruments)
     {
         Dictionary<string, string> instrumentMapping = new Dictionary<string, string>
@@ -283,20 +308,20 @@ class AlgorithmHelper
             // {"(Electric riff)", "Electric Guitar"},
             // {"(Classical Guitar)", "Classical Guitar"},
             {"(BH)", "(BH) - Brickhouse Demo"},
-            {"(FBG)", "(FBG) - Furch Blue Gc-SA"},
-            {"(DX1R)", "(DX1R) - Martin DX1R"},
-            {"(MDT)", "(MDT) - Maestro Double Top"},
-            {"(M15M)", "(M15M) - Martin 00-15m"},
-            {"(NST)", "(NST) - Norman ST68"},
-            {"(OOM)", "(OOM) - Furch OOM-SR-DB"},
-            {"(SAS)", "(SAS) - Seagull Artist Studio"},
-            {"(SGI)", "(SGI) - SGI Avenir CW20"},
-            {"(SOM)", "(SOM) - Stonebridge OM35ASR-DB"},
-            {"(FV2)", "(FV2) - Furch Vintage 2 RS-SR"},
+            {"(FBG)",  "Acoustic Guitar, (FBG) - Furch Blue Gc-SA"},
+            {"(DX1R)", "Acoustic Guitar, (DX1R) - Martin DX1R"},
+            {"(MDT)",  "Acoustic Guitar, (MDT) - Maestro Double Top"},
+            {"(M15M)", "Acoustic Guitar, (M15M) - Martin 00-15m"},
+            {"(NST)",  "Acoustic Guitar, (NST) - Norman ST68"},
+            {"(OOM)",  "Acoustic Guitar, (OOM) - Furch OOM-SR-DB"},
+            {"(SAS)",  "Acoustic Guitar, (SAS) - Seagull Artist Studio"},
+            {"(SGI)",  "Acoustic Guitar, (SGI) - SGI Avenir CW20"},
+            {"(SOM)",  "Acoustic Guitar, (SOM) - Stonebridge OM35ASR-DB"},
+            {"(FV2)",  "Acoustic Guitar, (FV2) - Furch Vintage 2 RS-SR"},
             {"(Mandolin)", "Mandolin"},
             {"(Blues Slide)", "Blues Slide"},
             {"(Rein Rutnik Performance)", "Harmonica"},
-            {"(12-String)", "12-String Guitar"},
+            {"(12-String)", "Acoustic Guitar, 12-String Guitar"},
 
             {"(DM75)", "Electric Guitar, (DM75) - DeArmond M75"},
             {"(GPPCB)", "Electric Guitar, (GPPCB) - Godin Progression Plus Cherry Burst RN"},
@@ -306,11 +331,11 @@ class AlgorithmHelper
             
             {"(LPE)", "Classical Guitar, (LPE) - La Patrie Etude"},
 
-            { "(MHD)", "(MHD) - Martin HD-28" },
-            { "(FVD)", "(FVD) - Furch Vintage 2 D-SR" },
-            { "(BSG)", "(BSG) - Boucher SG-52" },
+            { "(MHD)", "Acoustic Guitar, (MHD) - Martin HD-28" },
+            { "(FVD)", "Acoustic Guitar, (FVD) - Furch Vintage 2 D-SR" },
+            { "(BSG)", "Acoustic Guitar, (BSG) - Boucher SG-52" },
 
-            {"(BSGI)", "(BSGI) - Boucher SG-52-I"},
+            {"(BSGI)", "Acoustic Guitar, (BSGI) - Boucher SG-52-I"},
             {"(Electric riff/Blues Slide)", "Electric Guitar, Blues Slide"}
         };
 
