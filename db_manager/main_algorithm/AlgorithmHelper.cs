@@ -249,12 +249,33 @@ class AlgorithmHelper
         return "";
     }
 
+
+    public static string AddDefaultElectricGuitar(string songWithKeys, string currentInstruments)
+    {
+        if (
+            (songWithKeys.Contains("Electric Song") ||
+            songWithKeys.Contains("Electric riff")) &&
+            !songWithKeys.Contains("DM75") &&
+            !songWithKeys.Contains("GPPCB") &&
+            !songWithKeys.Contains("GSDG") &&
+            !songWithKeys.Contains("GPRG") &&
+            !songWithKeys.Contains("GLTC") && 
+            !currentInstruments.Contains("Electric Guitar") &&
+            !currentInstruments.Contains("Fender Telecaster")
+        )
+        {
+            return "Electric Guitar, Fender Telecaster, ";
+        }
+
+        return "";
+    }
+
     public static string GetInstrumentsFromSong(string songWithKeys, string currentInstruments)
     {
         Dictionary<string, string> instrumentMapping = new Dictionary<string, string>
         {
-            {"(Electric Song)", "Electric Guitar"},
-            {"(Electric riff)", "Electric Guitar"},
+            // {"(Electric Song)", "Electric Guitar"},
+            // {"(Electric riff)", "Electric Guitar"},
             {"(Classical Guitar)", "Classical Guitar"},
             {"(BH)", "(BH) - Brickhouse Demo"},
             {"(B)", "(B) - Furch Blue Gc-SA"},
@@ -272,11 +293,12 @@ class AlgorithmHelper
             {"(Rein Rutnik Performance)", "Harmonica"},
             {"(12-String)", "12-String Guitar"},
 
-            {"(DM75)", "(DM75) - DeArmond M75"},
-            {"(GPPCB)", "(GPPCB) - Godin Progression Plus Cherry Burst RN"},
-            {"(GSDG)", "(GSDG) - Godin Stadium '59 Desert Green RN"},
-            {"(GPRG)", "(GPRG) - Godin Passion RG-3 Indigo Burst RN"},
-            {"(GLTC)", "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream"},
+            {"(DM75)", "Electric Guitar, (DM75) - DeArmond M75"},
+            {"(GPPCB)", "Electric Guitar, (GPPCB) - Godin Progression Plus Cherry Burst RN"},
+            {"(GSDG)", "Electric Guitar, (GSDG) - Godin Stadium '59 Desert Green RN"},
+            {"(GPRG)", "Electric Guitar, (GPRG) - Godin Passion RG-3 Indigo Burst RN"},
+            {"(GLTC)", "Electric Guitar, (GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream"},
+
             {"(BSGI)", "(BSGI) - Boucher SG-52-I"},
             {"(Electric riff/Blues Slide)", "Electric Guitar, Blues Slide"}
         };
