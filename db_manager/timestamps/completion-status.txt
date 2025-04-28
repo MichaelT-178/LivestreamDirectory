@@ -1,10 +1,10 @@
 Stonebridge (Furch) OM32SM ✅
 Fender Telecaster ✅
-Asturias Standard S
-12-String Guitar
-Mandolin
+Asturias Standard S ✅
+12-String Guitar ✅
+Mandolin ✅
 Harmonica
-Blues Slide
+Blues Slide ✅
 (BH) - Brickhouse Demo
 (FBG) - Furch Blue Gc-SA ✅
 (DX1R) - Martin DX1R
@@ -38,7 +38,7 @@ Blues Slide
 (FG) - Furch G25CR-C
 (FSD) - Furch *SGI* D22TSR
 (FOB) - Furch OM34TSR-DB B2
-(LPE) - La Patrie Etude
+(LPE) - La Patrie Etude ✅
 (BDC) - Breedlove Discovery Concert CE
 (NSPBU) - Norman ST40 Parlor Burnt Umber
 (NBDA) - Norman B15 Dark Almond

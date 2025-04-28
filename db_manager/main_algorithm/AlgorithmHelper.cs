@@ -270,13 +270,28 @@ class AlgorithmHelper
         return "";
     }
 
+    public static string AddDefaultClassicalGuitar(string songWithKeys, string currentInstruments)
+    {
+        if (
+            songWithKeys.Contains("Classical Guitar") &&
+            !songWithKeys.Contains("LPE") &&
+            !currentInstruments.Contains("Classical Guitar") &&
+            !currentInstruments.Contains("Asturias Standard S") 
+        )
+        {
+            return "Classical Guitar, Asturias Standard S, ";
+        }
+
+        return "";
+    }
+
     public static string GetInstrumentsFromSong(string songWithKeys, string currentInstruments)
     {
         Dictionary<string, string> instrumentMapping = new Dictionary<string, string>
         {
             // {"(Electric Song)", "Electric Guitar"},
             // {"(Electric riff)", "Electric Guitar"},
-            {"(Classical Guitar)", "Classical Guitar"},
+            // {"(Classical Guitar)", "Classical Guitar"},
             {"(BH)", "(BH) - Brickhouse Demo"},
             {"(FBG)", "(FBG) - Furch Blue Gc-SA"},
             {"(DX1R)", "(DX1R) - Martin DX1R"},
@@ -298,6 +313,8 @@ class AlgorithmHelper
             {"(GSDG)", "Electric Guitar, (GSDG) - Godin Stadium '59 Desert Green RN"},
             {"(GPRG)", "Electric Guitar, (GPRG) - Godin Passion RG-3 Indigo Burst RN"},
             {"(GLTC)", "Electric Guitar, (GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream"},
+            
+            {"(LPE)", "Classical Guitar, (LPE) - La Patrie Etude"},
 
             {"(BSGI)", "(BSGI) - Boucher SG-52-I"},
             {"(Electric riff/Blues Slide)", "Electric Guitar, Blues Slide"}

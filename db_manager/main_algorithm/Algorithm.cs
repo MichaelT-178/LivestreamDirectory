@@ -107,6 +107,7 @@ class Algorithm
                         
                         instruments += AlgorithmHelper.AddDefaultAcousticGuitar(fileSongWithKeys, instruments);
                         instruments += AlgorithmHelper.AddDefaultElectricGuitar(fileSongWithKeys, instruments);
+                        instruments += AlgorithmHelper.AddDefaultClassicalGuitar(fileSongWithKeys, instruments);
                         instruments += AlgorithmHelper.GetInstrumentsFromSong(fileSongWithKeys, instruments);
 
                         SearchHelper.GetInfo(ref searchBuilder, title, fileArtists, instruments);
