@@ -231,6 +231,8 @@ class Helper
                 .Replace("(Acoustic Session)", "")
                 .Replace("(EP Version)", "")
                 .Replace("(Pink Moon Album)", "")
+                .Replace("(BSGI)", "")
+                .Replace("(GLTC)", "")
                 .Trim();
         
         // Replace (Clipped 10)
