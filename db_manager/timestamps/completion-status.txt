@@ -78,6 +78,7 @@ GLTC - GOOD
 MHD - GOOD
 FVD - GOOD
 BSG - GOOD
+
 OOMV1 - BAD
 FBD - BAD
 BSGI - BAD
@@ -99,6 +100,13 @@ NBBU - BAD
 NSCG - BAD
 NSTCW - BAD
 SD22 - BAD
+
+
+steps 
+1. All timestamps 
+2. Helper.cs
+3. AlgorithmHelper.cs
+
 
 
 
