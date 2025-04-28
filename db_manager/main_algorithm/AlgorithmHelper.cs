@@ -243,7 +243,7 @@ class AlgorithmHelper
             !currentInstruments.Contains("Acoustic Guitar")
         ) 
         {
-            return "Acoustic Guitar, ";
+            return "Acoustic Guitar, (main) - Stonebridge (Furch) OM32SM, ";
         }
     
         return "";

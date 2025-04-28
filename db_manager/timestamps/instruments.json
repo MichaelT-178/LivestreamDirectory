@@ -2,7 +2,7 @@
     "Instruments": [
         {
             "id": 1,
-            "name": "Stonebridge (Furch) OM32SM",
+            "name": "(main) - Stonebridge (Furch) OM32SM",
             "pic": "acoustic-guitar.jpg",
             "alias": "Acoustic Guitar"
         },
