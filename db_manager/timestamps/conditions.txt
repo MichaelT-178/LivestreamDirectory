@@ -75,7 +75,7 @@ if not LPE
         },
         {
             "id": 9,
-            "name": "(B) - Furch Blue Gc-SA",
+            "name": "(FBG) - Furch Blue Gc-SA",
             "pic": "furch-blue-gc-sa.jpg"
         },
         {
@@ -90,7 +90,7 @@ if not LPE
         },
         {
             "id": 12,
-            "name": "(M) - Martin 00-15m",
+            "name": "(M15M) - Martin 00-15m",
             "pic": "martin-00-15m.jpg"
         },
         {

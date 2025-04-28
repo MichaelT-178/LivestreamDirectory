@@ -1,21 +1,21 @@
 Stonebridge (Furch) OM32SM ✅
-Fender Telecaster
+Fender Telecaster ✅
 Asturias Standard S
 12-String Guitar
 Mandolin
 Harmonica
 Blues Slide
 (BH) - Brickhouse Demo
-(B) - Furch Blue Gc-SA
+(FBG) - Furch Blue Gc-SA ✅
 (DX1R) - Martin DX1R
 (MDT) - Maestro Double Top
-(M) - Martin 00-15m
+(M15M) - Martin 00-15m ✅
 (NST) - Norman ST68
 (OOM) - Furch OOM-SR-DB
 (SAS) - Seagull Artist Studio
 (SGI) - SGI Avenir CW20
 (SOM) - Stonebridge OM35ASR-DB
-(V) - Furch Vintage 2 RS-SR
+(FV2) - Furch Vintage 2 RS-SR ✅
 (DM75) - DeArmond M75 ✅
 (OOMV1) - Furch OOM Vintage 1
 (MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack
