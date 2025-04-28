@@ -235,6 +235,9 @@ class AlgorithmHelper
             !songWithKeys.Contains("(Mandolin)") &&
             !songWithKeys.Contains("(H)") &&
             !songWithKeys.Contains("Electric Riff Session #") &&
+            !songWithKeys.Contains("GPPCB") &&
+            !songWithKeys.Contains("GSDG") &&
+            !songWithKeys.Contains("GPRG") &&
             !songWithKeys.Contains("GLTC") &&
             !currentInstruments.Contains("Acoustic Guitar")
         ) 
@@ -267,8 +270,12 @@ class AlgorithmHelper
             {"(Blues Slide)", "Blues Slide"},
             {"(Rein Rutnik Performance)", "Harmonica"},
             {"(12-String)", "12-String Guitar"},
-            {"(BSGI)", "(BSGI) - Boucher SG-52-I"},
+
+            {"(GPPCB)", "(GPPCB) - Godin Progression Plus Cherry Burst RN"},
+            {"(GSDG)", "(GSDG) - Godin Stadium '59 Desert Green RN"},
+            {"(GPRG)", "(GPRG) - Godin Passion RG-3 Indigo Burst RN"},
             {"(GLTC)", "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream"},
+            {"(BSGI)", "(BSGI) - Boucher SG-52-I"},
             {"(Electric riff/Blues Slide)", "Electric Guitar, Blues Slide"}
         };
 

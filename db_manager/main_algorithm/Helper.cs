@@ -231,8 +231,11 @@ class Helper
                 .Replace("(Acoustic Session)", "")
                 .Replace("(EP Version)", "")
                 .Replace("(Pink Moon Album)", "")
-                .Replace("(BSGI)", "")
+                .Replace("(GPPCB)", "")
+                .Replace("(GSDG)", "")
+                .Replace("(GPRG)", "")
                 .Replace("(GLTC)", "")
+                .Replace("(BSGI)", "")
                 .Replace("(Electric riff/Blues Slide)", "")
                 .Trim();
         

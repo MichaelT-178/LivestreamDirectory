@@ -2455,24 +2455,24 @@
 		},
 		{
 			"Id": 224,
-			"Title": "Godin Progression Plus Cherry Burst RN",
+			"Title": "Godin Progression Plus Cherry Burst RN (Electric Song/GPPCB)",
 			"Artist": "Corey Heuvel",
 			"Other_Artists": "",
-			"Instruments": "(BH) - Brickhouse Demo, Electric Guitar",
+			"Instruments": "Electric Guitar, (GPPCB) - Godin Progression Plus Cherry Burst RN, (BH) - Brickhouse Demo",
 			"Image": "Corey Heuvel.jpg",
 			"Search": "",
-			"Appearances": "Solo Video (BH/Electric Song)",
+			"Appearances": "Solo Video (Electric Song/GPPCB/BH)",
 			"Links": "https://youtu.be/watch?v=R8qrTo2g6LE&t=5"
 		},
 		{
 			"Id": 225,
-			"Title": "Godin Stadium '59 Desert Green RN demo",
+			"Title": "Godin Stadium '59 Desert Green RN demo (Electric Song/GSDG)",
 			"Artist": "Corey Heuvel",
 			"Other_Artists": "",
-			"Instruments": "(BH) - Brickhouse Demo, Electric Guitar",
+			"Instruments": "Electric Guitar, (GSDG) - Godin Stadium '59 Desert Green RN, (BH) - Brickhouse Demo",
 			"Image": "Corey Heuvel.jpg",
-			"Search": "Godin Stadium 59 Desert Green RN demo, Godin Stadium ’59 Desert Green RN demo, Godin Stadium ‘59 Desert Green RN demo",
-			"Appearances": "Solo Video (BH/Electric Song)",
+			"Search": "Godin Stadium 59 Desert Green RN demo (Electric Song/GSDG), Godin Stadium ’59 Desert Green RN demo (Electric Song/GSDG), Godin Stadium ‘59 Desert Green RN demo (Electric Song/GSDG)",
+			"Appearances": "Solo Video (Electric Song/GSDG/BH)",
 			"Links": "https://youtu.be/watch?v=eErXYQKZh4U&t=5"
 		},
 		{
@@ -2763,13 +2763,13 @@
 		},
 		{
 			"Id": 252,
-			"Title": "Godin Passion RG-3 Indigo Burst RN",
+			"Title": "Godin Passion RG-3 Indigo Burst RN (Electric Song/GPRG)",
 			"Artist": "Corey Heuvel",
 			"Other_Artists": "",
-			"Instruments": "Acoustic Guitar, (BH) - Brickhouse Demo",
+			"Instruments": "Electric Guitar, (GPRG) - Godin Passion RG-3 Indigo Burst RN, (BH) - Brickhouse Demo",
 			"Image": "Corey Heuvel.jpg",
-			"Search": "Godin Passion RG 3 Indigo Burst RN",
-			"Appearances": "Solo Video (BH)",
+			"Search": "Godin Passion RG 3 Indigo Burst RN (Electric Song/GPRG)",
+			"Appearances": "Solo Video (Electric Song/GPRG/BH)",
 			"Links": "https://youtu.be/mG_ZcHn5-vo?si=yxqdfRckULJMvYB8&t=5"
 		},
 		{
