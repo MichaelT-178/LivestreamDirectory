@@ -233,6 +233,7 @@ class Helper
                 .Replace("(Pink Moon Album)", "")
                 .Replace("(BSGI)", "")
                 .Replace("(GLTC)", "")
+                .Replace("(Electric riff/Blues Slide)", "")
                 .Trim();
         
         // Replace (Clipped 10)

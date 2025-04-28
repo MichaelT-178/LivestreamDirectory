@@ -109,6 +109,17 @@ class AlgorithmHelper
      */
     public static string GetSongTitlePartialAndIssuesKey(string appearances)
     {
+
+        string[] specialKeys = { "(Electric riff/Blues Slide)" };
+    
+        foreach (var specialKey in specialKeys)
+        {
+            if (appearances.Contains(specialKey))
+            {
+                return " " + specialKey;
+            }
+        }
+
         int numOfAppearances = appearances.Split(",").Length;
         List<string> appearanceKeys = GetAllKeysFromLines(appearances, "");
         
@@ -257,7 +268,8 @@ class AlgorithmHelper
             {"(Rein Rutnik Performance)", "Harmonica"},
             {"(12-String)", "12-String Guitar"},
             {"(BSGI)", "(BSGI) - Boucher SG-52-I"},
-            {"(GLTC)", "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream"}
+            {"(GLTC)", "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream"},
+            {"(Electric riff/Blues Slide)", "Electric Guitar, Blues Slide"}
         };
 
         StringBuilder instrumentsToAdd = new StringBuilder();
