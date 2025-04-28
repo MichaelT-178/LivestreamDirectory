@@ -218,37 +218,27 @@ class AlgorithmHelper
     }
 
     /**
-     * If the songWithKeys doesn't contain any instrument keys and 
-     * the currentInstruments attribute doesn't contain an acoustic 
-     * guitar, add it by default. If the currentInstruments attribute 
-     * does have instrument keys return a blank string.
+     * 
+     *
+     *
      * @param songWithKeys is the song title with keys
      * @param currentInstruments is the currentInstruments string that contains instrument keys.
      * @return Acoustic guitar string if condition met, else a blank string
      */
-    public static string AddDefaultAcousticGuitar(string songWithKeys, string currentInstruments)
-    {
-        if (
-            !songWithKeys.Contains("(Electric riff") &&
-            !songWithKeys.Contains("(Electric Song") &&
-            !songWithKeys.Contains("(Classical Guitar") &&
-            !songWithKeys.Contains("(Mandolin") &&
-            !songWithKeys.Contains("(H)") &&
-            !songWithKeys.Contains("Electric Riff Session #") &&
-            !songWithKeys.Contains("DM75") &&
-            !songWithKeys.Contains("GPPCB") &&
-            !songWithKeys.Contains("GSDG") &&
-            !songWithKeys.Contains("GPRG") &&
-            !songWithKeys.Contains("GLTC") &&
-            !currentInstruments.Contains("Acoustic Guitar")
-        ) 
+     public static string AddDefaultAcousticGuitar(string songWithKeys, string currentInstruments)
+{
+        string[] excludedKeys = { 
+            "(Electric riff", "(Electric Song", "(Classical Guitar", "(Mandolin", "(H)", 
+            "Electric Riff Session #", "DM75", "GPPCB", "GSDG", "GPRG", "GLTC" 
+        };
+
+        if (excludedKeys.All(key => !songWithKeys.Contains(key)) && !currentInstruments.Contains("Acoustic Guitar"))
         {
             return "Acoustic Guitar, (main) - Stonebridge (Furch) OM32SM, ";
         }
-    
+
         return "";
     }
-
 
     public static string AddDefaultElectricGuitar(string songWithKeys, string currentInstruments)
     {
@@ -315,6 +305,10 @@ class AlgorithmHelper
             {"(GLTC)", "Electric Guitar, (GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream"},
             
             {"(LPE)", "Classical Guitar, (LPE) - La Patrie Etude"},
+
+            { "(MHD)", "(MHD) - Martin HD-28" },
+            { "(FVD)", "(FVD) - Furch Vintage 2 D-SR" },
+            { "(BSG)", "(BSG) - Boucher SG-52" },
 
             {"(BSGI)", "(BSGI) - Boucher SG-52-I"},
             {"(Electric riff/Blues Slide)", "Electric Guitar, Blues Slide"}

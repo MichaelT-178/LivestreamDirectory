@@ -237,6 +237,9 @@ class Helper
                 .Replace("(GLTC)", "")
                 .Replace("(BSGI)", "")
                 .Replace("(LPE)", "")
+                .Replace("(MHD)", "")
+                .Replace("(FVD)", "")
+                .Replace("(BSG)", "")
                 .Replace("(Electric Song/DM75)", "")
                 .Replace("(Electric riff/Blues Slide)", "")
                 .Trim();
