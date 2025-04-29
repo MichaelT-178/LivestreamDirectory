@@ -7,14 +7,17 @@ using System.Text.RegularExpressions;
  *
  * Methods
  * GetAllKeysFromLines | Gets all the keys from the appearances as string list.
- * GetKeysJoinedAsString | Takes a key list and joins them as a string seperated by '/' characters.
+ * GetKeysJoinedAsString | Takes a key list and joins them as a string separated by '/' characters.
  * GetSongTitlePartialAndIssuesKey | Gets any partial or issue keys from the title.
  * GetYouTubeLink | Gets a timestamped youtube link.
  * GetArtistPic | Gets the artists picture file path as a valid string.
  * GetOtherArtistsAsString | Joins the other artists as a string by commas.
- * AddDefaultAcousticGuitar | Adds acoustic guitar to instruments if necessary
- * GetInstrumentsFromSong | Gets the instrument from a song title based on it's keys.
- * RemoveKeys | Removes all keys from the line
+ * AddDefaultAcousticGuitar | Adds acoustic guitar to instruments if conditions are met
+ * AddDefaultElectricGuitar | Adds electric guitar to instruments if conditions are met
+ * AddDefaultClassicalGuitar | Adds classical guitar to instruments if conditions are met
+ * RemoveDuplicateGuitars | Removes duplicate acoustic, classical, and electric substrings
+ * MoveAcousticGuitarToFront | Takes a string of instruments and moves Acoustic Guitar to the front.
+ * GetInstrumentsFromSong | Gets the instruments from a song title based on it's keys.
  *
  * @author Michael Totaro
  */
@@ -219,19 +222,28 @@ class AlgorithmHelper
 
     /**
      * 
+     * Adds acoustic guitar to the string on instruments automatically if the songWithKeys
+     * doesn't contain any excluded keys.
      *
+     * Ex. You would NOT add the default acoustic guitar to the instrument string. Return ""
+     * Last Goodbye (NST)
+     * 
+     * Ex. You would add default acoustic guitar the instrument string.
+     * Glenn Tipton
      *
      * @param songWithKeys is the song title with keys
      * @param currentInstruments is the currentInstruments string that contains instrument keys.
      * @return Acoustic guitar string if condition met, else a blank string
      */
      public static string AddDefaultAcousticGuitar(string songWithKeys, string currentInstruments)
-{
+     {
         string[] excludedKeys = { 
             "(Electric riff", "(Electric Song", "(Classical Guitar", "(Mandolin", "(H)", 
             "Electric Riff Session #", "DM75", "GPPCB", "GSDG", "GPRG", "GLTC", "FBG", "DX1R",
             "MDT", "M15M", "NST", "OOM", "SAS", "SGI", "SOM", "FV2", "12-String Guitar", "MHD", 
-            "FVD", "BSG", "BSGI", "MFF"
+            "FVD", "BSG", "BSGI", "MFF", "OOMV1", "FBD", "GRSG", "GMNC", "GMLN", "GMLHB", 
+            "GFCHN", "BHG", "FOSG", "FG", "FSD", "FOB", "BDC", "NSPBU", "NBDA", "NBBU", 
+            "NSCG", "NSTCW", "SD22"
         };
 
         if (excludedKeys.All(key => !songWithKeys.Contains(key)) && !currentInstruments.Contains("Acoustic Guitar"))
@@ -242,6 +254,22 @@ class AlgorithmHelper
         return "";
     }
 
+
+    /**
+     * 
+     * Adds electric guitar to the string on instruments automatically if the songWithKeys
+     * doesn't contain any excluded keys.
+     *
+     * Ex. You would NOT add the default electric guitar to the instrument string. Return ""
+     * Satch Boogie (Electric Song/DM75)
+     * 
+     * Ex. You would add default electric guitar the instrument string.
+     * Mr Sandman (Electric Song)
+     *
+     * @param songWithKeys is the song title with keys
+     * @param currentInstruments is the currentInstruments string that contains instrument keys.
+     * @return Electric guitar string if condition met, else a blank string
+     */
     public static string AddDefaultElectricGuitar(string songWithKeys, string currentInstruments)
     {
         if (
@@ -262,6 +290,22 @@ class AlgorithmHelper
         return "";
     }
 
+
+    /**
+     * 
+     * Adds classical guitar to the string on instruments automatically if the songWithKeys
+     * doesn't contain any excluded keys.
+     *
+     * Ex. You would NOT add the default classical guitar to the instrument string. Return ""
+     * La Patrie Etude (Classical Guitar/LPE)
+     * 
+     * Ex. You would add default classical guitar the instrument string.
+     * Rupert Street (Classical Guitar)
+     *
+     * @param songWithKeys is the song title with keys
+     * @param currentInstruments is the currentInstruments string that contains instrument keys.
+     * @return Classical guitar string if condition met, else a blank string
+     */
     public static string AddDefaultClassicalGuitar(string songWithKeys, string currentInstruments)
     {
         if (
@@ -277,6 +321,21 @@ class AlgorithmHelper
         return "";
     }
 
+
+    /**
+     * 
+     * Remove duplicate "Acoustic Guitar, ", "Electric Guitar, ", and "Classical Guitar, " substrings 
+     * from the input string. Then return the input string.
+     *
+     * Ex. 
+     * Acoustic Guitar, (main) - Stonebridge (Furch), Acoustic Guitar, (MHD) - Martin HD-28
+     * 
+     * Becomes
+     * Acoustic Guitar, (main) - Stonebridge (Furch), (MHD) - Martin HD-28
+     *
+     * @param input A string of instruments.
+     * @return Instrument string with duplicate instruments removed
+     */
     public static string RemoveDuplicateGuitars(string input)
     {
         string[] substrings = { "Classical Guitar, ", "Electric Guitar, ", "Acoustic Guitar, " };
@@ -299,6 +358,20 @@ class AlgorithmHelper
         return input;
     }
 
+
+    /**
+     * Takes a string of instruments and moves Acoustic Guitar, and 
+     * (main) - Stonebridge (Furch) OM32SM (if present) to the front.
+     *
+     * Ex.
+     * Electric Guitar, Fender Telecaster, Acoustic Guitar, (main) - Stonebridge (Furch) OM32SM
+     *
+     * Becomes
+     * Acoustic Guitar, (main) - Stonebridge (Furch) OM32SM, Electric Guitar, Fender Telecaster
+     *
+     * @param input A string of instruments.
+     * @return Input string with Acoustic guitar at the front.
+     */
     public static string MoveAcousticGuitarToFront(string input)
     {
         if (input.StartsWith("Acoustic Guitar"))
@@ -349,13 +422,32 @@ class AlgorithmHelper
         return string.Join(", ", reordered);
     }
 
+
+    /**
+     * Gets the instruments from a song title based on it's keys.
+     *
+     * Ex. 1
+     * Never Going Back Again (SGI)
+     *
+     * Returns
+     * Acoustic Guitar, (SGI) - SGI Avenir CW20,
+     * 
+     *
+     * Ex. 2
+     * Furch OOM Vintage 1 (OOMV1) (BH)
+     *
+     * Returns
+     * Acoustic Guitar, (OOMV1) - Furch OOM Vintage 1, (BH) - Brickhouse Demo, 
+     * 
+     *
+     * @param songWithKeys The song title with the instrument keys
+     * @param currentInstruments A string of all the instruments of a song.
+     * @return String of instruments based off the songs keys
+     */
     public static string GetInstrumentsFromSong(string songWithKeys, string currentInstruments)
     {
         Dictionary<string, string> instrumentMapping = new Dictionary<string, string>
         {
-            // {"(Electric Song)", "Electric Guitar"},
-            // {"(Electric riff)", "Electric Guitar"},
-            // {"(Classical Guitar)", "Classical Guitar"},
             {"(BH)", "(BH) - Brickhouse Demo"},
             {"(FBG)",  "Acoustic Guitar, (FBG) - Furch Blue Gc-SA"},
             {"(DX1R)", "Acoustic Guitar, (DX1R) - Martin DX1R"},
@@ -380,12 +472,33 @@ class AlgorithmHelper
             
             {"(LPE)", "Classical Guitar, (LPE) - La Patrie Etude"},
 
+
             { "(MHD)", "Acoustic Guitar, (MHD) - Martin HD-28" },
             { "(FVD)", "Acoustic Guitar, (FVD) - Furch Vintage 2 D-SR" },
             { "(BSG)", "Acoustic Guitar, (BSG) - Boucher SG-52" },
             { "(MFF)", "(MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack" },
 
-            {"(BSGI)", "Acoustic Guitar, (BSGI) - Boucher SG-52-I"},
+            { "(BSGI)" ,  "Acoustic Guitar, (BSGI) - Boucher SG-52-I" },
+            { "(OOMV1)" , "Acoustic Guitar, (OOMV1) - Furch OOM Vintage 1" },
+            { "(FBD)" ,   "Acoustic Guitar, (FBD) - Furch Blue D-CM" },
+            { "(GRSG)" ,  "Acoustic Guitar, (GRSG) - Godin Rialto JR Satina Gray HG Q-Discrete" },
+            { "(GMNC)" ,  "Acoustic Guitar, (GMNC) - Godin Metropolis Natural Cedar EQ" },
+            { "(GMLN)" ,  "Acoustic Guitar, (GMLN) - Godin Metropolis LTD Natural HG EQ" },
+            { "(GMLHB)" , "Acoustic Guitar, (GMLHB) - Godin Metropolis LTD Havana Burst HG EQ" },
+            { "(GFCHN)" , "Acoustic Guitar, (GFCHN) - Godin Fairmount Concert Hall Natural HG EQ" },
+            { "(BHG)" ,   "Acoustic Guitar, (BHG) - Boucher HG-56" },
+            { "(FOSG)" ,  "Acoustic Guitar, (FOSG) - Furch OM22TSW-C-DB SGI" },
+            { "(FG)" ,    "Acoustic Guitar, (FG) - Furch G25CR-C" },
+            { "(FSD)" ,   "Acoustic Guitar, (FSD) - Furch *SGI* D22TSR" },
+            { "(FOB)" ,   "Acoustic Guitar, (FOB) - Furch OM34TSR-DB B2" },
+            { "(BDC)" ,   "Acoustic Guitar, (BDC) - Breedlove Discovery Concert CE" },
+            { "(NSPBU)" , "Acoustic Guitar, (NSPBU) - Norman ST40 Parlor Burnt Umber" },
+            { "(NBDA)" ,  "Acoustic Guitar, (NBDA) - Norman B15 Dark Almond" },
+            { "(NBBU)" ,  "Acoustic Guitar, (NBBU) - Norman B20 Burnt Umber" },
+            { "(NSCG)" ,  "Acoustic Guitar, (NSCG) - Norman ST40 CW GT Presys" },
+            { "(NSTCW)" , "Acoustic Guitar, (NSTCW) - Norman ST68 CW" },
+            { "(SD22)" ,  "Acoustic Guitar, (SD22) - Stonebridge D22SR" },
+
             {"(Electric riff/Blues Slide)", "Electric Guitar, Blues Slide"}
         };
 

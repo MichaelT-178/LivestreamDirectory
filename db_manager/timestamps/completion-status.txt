@@ -17,7 +17,6 @@ Blues Slide ✅
 (SOM) - Stonebridge OM35ASR-DB ✅
 (FV2) - Furch Vintage 2 RS-SR ✅
 (DM75) - DeArmond M75 ✅
-(OOMV1) - Furch OOM Vintage 1 ❌
 (MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack ✅
 (GPPCB) - Godin Progression Plus Cherry Burst RN ✅
 (GSDG) - Godin Stadium '59 Desert Green RN ✅
@@ -25,7 +24,9 @@ Blues Slide ✅
 (GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream ✅
 (MHD) - Martin HD-28 ✅
 (FVD) - Furch Vintage 2 D-SR ✅
+(LPE) - La Patrie Etude ✅ 
 (BSG) - Boucher SG-52 ✅
+(OOMV1) - Furch OOM Vintage 1 ❌
 (FBD) - Furch Blue D-CM ❌
 (BSGI) - Boucher SG-52-I ❌
 (GRSG) - Godin Rialto JR Satina Gray HG Q-Discrete ❌
@@ -38,7 +39,6 @@ Blues Slide ✅
 (FG) - Furch G25CR-C ❌
 (FSD) - Furch *SGI* D22TSR ❌
 (FOB) - Furch OM34TSR-DB B2 ❌
-(LPE) - La Patrie Etude ✅ 
 (BDC) - Breedlove Discovery Concert CE ❌
 (NSPBU) - Norman ST40 Parlor Burnt Umber ❌
 (NBDA) - Norman B15 Dark Almond ❌
@@ -49,6 +49,28 @@ Blues Slide ✅
 
 
 
+
+
+{ "(OOMV1)" , "Acoustic Guitar, (OOMV1) - Furch OOM Vintage 1" },
+{ "(FBD)" , "Acoustic Guitar, (FBD) - Furch Blue D-CM" },
+{ "(BSGI)" , "Acoustic Guitar, (BSGI) - Boucher SG-52-I" },
+{ "(GRSG)" , "Acoustic Guitar, (GRSG) - Godin Rialto JR Satina Gray HG Q-Discrete" },
+{ "(GMNC)" , "Acoustic Guitar, (GMNC) - Godin Metropolis Natural Cedar EQ" },
+{ "(GMLN)" , "Acoustic Guitar, (GMLN) - Godin Metropolis LTD Natural HG EQ" },
+{ "(GMLHB)" , "Acoustic Guitar, (GMLHB) - Godin Metropolis LTD Havana Burst HG EQ" },
+{ "(GFCHN)" , "Acoustic Guitar, (GFCHN) - Godin Fairmount Concert Hall Natural HG EQ" },
+{ "(BHG)" , "Acoustic Guitar, (BHG) - Boucher HG-56" },
+{ "(FOSG)" , "Acoustic Guitar, (FOSG) - Furch OM22TSW-C-DB SGI" },
+{ "(FG)" , "Acoustic Guitar, (FG) - Furch G25CR-C" },
+{ "(FSD)" , "Acoustic Guitar, (FSD) - Furch *SGI* D22TSR" },
+{ "(FOB)" , "Acoustic Guitar, (FOB) - Furch OM34TSR-DB B2" },
+{ "(BDC)" , "Acoustic Guitar, (BDC) - Breedlove Discovery Concert CE" },
+{ "(NSPBU)" , "Acoustic Guitar, (NSPBU) - Norman ST40 Parlor Burnt Umber" },
+{ "(NBDA)" , "Acoustic Guitar, (NBDA) - Norman B15 Dark Almond" },
+{ "(NBBU)" , "Acoustic Guitar, (NBBU) - Norman B20 Burnt Umber" },
+{ "(NSCG)" , "Acoustic Guitar, (NSCG) - Norman ST40 CW GT Presys" },
+{ "(NSTCW)" , "Acoustic Guitar, (NSTCW) - Norman ST68 CW" },
+{ "(SD22)" , "Acoustic Guitar, (SD22) - Stonebridge D22SR" },
 
 
 
@@ -79,26 +101,25 @@ MHD - GOOD
 FVD - GOOD
 BSG - GOOD
 
-OOMV1 - BAD
-FBD - BAD
-BSGI - BAD
-GRSG - BAD
-GMNC - BAD
-GMLN - BAD
-GMLHB - BAD
-GFCHN - BAD
-BHG - BAD
-FOSG - BAD
-FG - BAD
-FSD - BAD
-FOB - BAD
-LPE - BAD
-BDC - BAD
-NSPBU - BAD
-NBDA - BAD
-NBBU - BAD
-NSCG - BAD
-NSTCW - BAD
+OOMV1 - BAD - 1
+FBD - BAD - 1
+BSGI - BAD - 1
+GRSG - BAD - 1
+GMNC - BAD - 1
+GMLN - BAD - 1
+GMLHB - BAD - 1
+GFCHN - BAD - 1
+BHG - BAD - 1
+FOSG - BAD - 1
+FG - BAD - 1
+FSD - BAD - 1
+FOB - BAD - 1
+BDC - BAD - 1
+NSPBU - BAD - 1
+NBDA - BAD - 1
+NBBU - BAD - 1
+NSCG - BAD - 1
+NSTCW - BAD - 1
 SD22 - BAD
 
 
@@ -106,6 +127,29 @@ steps
 1. All timestamps 
 2. Helper.cs
 3. AlgorithmHelper.cs
+
+
+
+"OOMV1"
+"FBD"
+"BSGI"
+"GRSG"
+"GMNC"
+"GMLN"
+"GMLHB"
+"GFCHN"
+"BHG"
+"FOSG"
+"FG"
+"FSD"
+"FOB"
+"BDC"
+"NSPBU"
+"NBDA"
+"NBBU"
+"NSCG"
+"NSTCW"
+"SD22"
 
 
 

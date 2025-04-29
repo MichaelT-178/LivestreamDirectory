@@ -1,0 +1,56 @@
+Helper.txt
+
+.Replace("(OOMV1)", "")
+.Replace("(FBD)", "")
+.Replace("(BSGI)", "")
+.Replace("(GRSG)", "")
+.Replace("(GMNC)", "")
+.Replace("(GMLN)", "")
+.Replace("(GMLHB)", "")
+.Replace("(GFCHN)", "")
+.Replace("(BHG)", "")
+.Replace("(FOSG)", "")
+.Replace("(FG)", "")
+.Replace("(FSD)", "")
+.Replace("(FOB)", "")
+.Replace("(BDC)", "")
+.Replace("(NSPBU)", "")
+.Replace("(NBDA)", "")
+.Replace("(NBBU)", "")
+.Replace("(NSCG)", "")
+.Replace("(NSTCW)", "")
+.Replace("(SD22)", "")
+
+
+
+
+
+AlgorithmHelper
+
+// "OOMV1", "FBD", "BSGI", "GRSG", "GMNC", "GMLN", 
+// "GMLHB", "GFCHN", "BHG", "FOSG", "FG", "FSD", "FOB", "BDC", "NSPBU", "NBDA", 
+// "NBBU", "NSCG", "NSTCW", "SD22"
+
+
+
+
+            { "(OOMV1)" , "Acoustic Guitar, (OOMV1) - Furch OOM Vintage 1" },
+            { "(FBD)" ,   "Acoustic Guitar, (FBD) - Furch Blue D-CM" },
+            { "(BSGI)" ,  "Acoustic Guitar, (BSGI) - Boucher SG-52-I" },
+            { "(GRSG)" ,  "Acoustic Guitar, (GRSG) - Godin Rialto JR Satina Gray HG Q-Discrete" },
+            { "(GMNC)" ,  "Acoustic Guitar, (GMNC) - Godin Metropolis Natural Cedar EQ" },
+            { "(GMLN)" ,  "Acoustic Guitar, (GMLN) - Godin Metropolis LTD Natural HG EQ" },
+            { "(GMLHB)" , "Acoustic Guitar, (GMLHB) - Godin Metropolis LTD Havana Burst HG EQ" },
+            { "(GFCHN)" , "Acoustic Guitar, (GFCHN) - Godin Fairmount Concert Hall Natural HG EQ" },
+            { "(BHG)" ,   "Acoustic Guitar, (BHG) - Boucher HG-56" },
+            { "(FOSG)" ,  "Acoustic Guitar, (FOSG) - Furch OM22TSW-C-DB SGI" },
+            { "(FG)" ,    "Acoustic Guitar, (FG) - Furch G25CR-C" },
+            { "(FSD)" ,   "Acoustic Guitar, (FSD) - Furch *SGI* D22TSR" },
+            { "(FOB)" ,   "Acoustic Guitar, (FOB) - Furch OM34TSR-DB B2" },
+            { "(BDC)" ,   "Acoustic Guitar, (BDC) - Breedlove Discovery Concert CE" },
+            { "(NSPBU)" , "Acoustic Guitar, (NSPBU) - Norman ST40 Parlor Burnt Umber" },
+            { "(NBDA)" ,  "Acoustic Guitar, (NBDA) - Norman B15 Dark Almond" },
+            { "(NBBU)" ,  "Acoustic Guitar, (NBBU) - Norman B20 Burnt Umber" },
+            { "(NSCG)" ,  "Acoustic Guitar, (NSCG) - Norman ST40 CW GT Presys" },
+            { "(NSTCW)" , "Acoustic Guitar, (NSTCW) - Norman ST68 CW" },
+            { "(SD22)" ,  "Acoustic Guitar, (SD22) - Stonebridge D22SR" },

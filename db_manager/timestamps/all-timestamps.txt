@@ -952,7 +952,7 @@ https://youtube.com/watch?v=4bCTEUKdQUo
 
 Solo Video
 https://youtube.com/watch?v=gH-hi4TsFjA
-0:00 Furch OOM Vintage 1 (BH) by Corey Heuvel
+0:00 Furch OOM Vintage 1 (OOMV1) (BH) by Corey Heuvel
 0:00 You and Me (Instrumental) (BH) by Neil Young
 
 Solo Video
@@ -975,51 +975,51 @@ https://youtube.com/watch?v=9_puIWsSEs0
 
 Solo Video
 https://youtube.com/watch?v=_WcQbI1CTjw
-0:06 Furch Blue D-CM demo (BH) by Corey Heuvel
+0:06 Furch Blue D-CM demo (FBD) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=W3fIfsbxoA8
-0:07 Boucher SG-52-I demo (BH/BSGI) by Corey Heuvel
+0:07 Boucher SG-52-I demo (BSGI) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=o5x9v-YJtGE
-0:06 Godin Rialto JR Satina Gray HG Q-Discrete (BH) by Corey Heuvel
+0:06 Godin Rialto JR Satina Gray HG Q-Discrete (GRSG) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=g3Ylz2FQ7jQ
-0:05 Godin Metropolis Natural Cedar EQ demo (BH) by Corey Heuvel
+0:05 Godin Metropolis Natural Cedar EQ demo (GMNC) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=B2bSZCP_4UM
-0:06 Godin Metropolis LTD Natural HG EQ demo (BH) by Corey Heuvel
+0:06 Godin Metropolis LTD Natural HG EQ demo (GMLN) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=cd2X99V2eGE
-0:06 Godin Metropolis LTD Havana Burst HG EQ demo (BH) by Corey Heuvel
+0:06 Godin Metropolis LTD Havana Burst HG EQ demo (GMLHB) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=k3K5yNcJ1lQ
-0:03 Godin Fairmount Concert Hall Natural HG EQ demo (BH) by Corey Heuvel
+0:03 Godin Fairmount Concert Hall Natural HG EQ demo (GFCHN) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=lwphFw4_hcg
-0:06 Boucher HG-56 acoustic guitar demo (BH) by Corey Heuvel
+0:06 Boucher HG-56 acoustic guitar demo (BHG) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=Ei5RItxEq9E
-4:49 Furch OM22TSW-C-DB SGI #72800 (BH) by Corey Heuvel
+4:49 Furch OM22TSW-C-DB SGI (FOSG) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=IgnCuRKlP5o
-1:17 Furch G25CR-C (BH) by Corey Heuvel
+1:17 Furch G25CR-C (FG) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=d_8bqZ5wBUI
-2:02 Furch *SGI* D22TSR (BH) by Corey Heuvel
+2:02 Furch *SGI* D22TSR (FSD) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=v73zN2V5Rhw
-2:09 Furch OM34TSR-DB B2 (BH) by Corey Heuvel
+2:09 Furch OM34TSR-DB B2 (FOB) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=mT_uy6P8CQk
@@ -1028,7 +1028,7 @@ https://youtube.com/watch?v=mT_uy6P8CQk
 
 Solo Video
 https://youtube.com/watch?v=ishutnt_64o
-0:06 Breedlove Discovery Concert CE (BH) by Corey Heuvel
+0:06 Breedlove Discovery Concert CE (BDC) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=1xUnFelTIIk
@@ -1036,11 +1036,11 @@ https://youtube.com/watch?v=1xUnFelTIIk
 
 Solo Video
 https://youtube.com/watch?v=D9DKuTAIz9Y
-1:15 Norman ST40 Parlor Burnt Umber (BH) by Corey Heuvel
+1:15 Norman ST40 Parlor Burnt Umber (NSPBU) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=gFQGuitnugY
-1:10 Norman B15 Dark Almond (BH) by Corey Heuvel
+1:10 Norman B15 Dark Almond (NBDA) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=yC1VcScR93U
@@ -1048,19 +1048,19 @@ https://youtube.com/watch?v=yC1VcScR93U
 
 Solo Video
 https://youtube.com/watch?v=7V3E_Yc28BY
-1:03 Norman B20 Burnt Umber (BH) by Corey Heuvel
+1:03 Norman B20 Burnt Umber (NBBU) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=4FuSiImdfl8
-1:18 Norman ST40 CW GT Presys (BH) by Corey Heuvel
+1:18 Norman ST40 CW GT Presys (NSCG) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=HjttyGWp630
-1:29 Norman ST68 CW (BH) by Corey Heuvel
+1:29 Norman ST68 CW (NSTCW) (BH) by Corey Heuvel
 
 Solo Video
 https://youtube.com/watch?v=QyBV1PpvcHc
-1:05 Stonebridge D22SR (BH) by Corey Heuvel
+1:05 Stonebridge D22SR (SD22) (BH) by Corey Heuvel
 
 Solo Video 
 https://youtu.be/mG_ZcHn5-vo?si=yxqdfRckULJMvYB8
