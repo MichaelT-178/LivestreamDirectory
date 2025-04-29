@@ -411,11 +411,15 @@ class AlgorithmHelper
             }
         }
 
-        if (acousticGuitar != null)
+        if (acousticGuitar != null) 
+        {
             reordered.Add(acousticGuitar);
+        }
 
         if (mainStonebridge != null)
+        {
             reordered.Add(mainStonebridge);
+        }
 
         reordered.AddRange(others);
 
