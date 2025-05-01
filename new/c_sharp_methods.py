@@ -16,6 +16,7 @@ class CSharpMethods:
             for song in songs:
                 # print(json.dumps(song, indent=4))
                 artist = song.get("Artist")
+                artist = clean_text(artist)
                 
                 if artist and artist not in artists:
                     artists.append(artist)
@@ -25,49 +26,29 @@ class CSharpMethods:
 
                 if other_artists.strip():
                     for other_artist in other_artists.split("+ "):
-                        if other_artist not in artists:
-                            artists.append(other_artist)
+                        clean_other_artist = clean_text(other_artist)
+
+                        if clean_other_artist not in artists:
+                            artists.append(clean_other_artist)
+                            count += 1
 
             return artists, count
+        
     
-    # def list_image_files(self):
-    #     directory = '../pics'
-
-    #     count = 0 
-    #     for filename in os.listdir(directory):
-    #         full_path = os.path.join(directory, filename)
-    #         if os.path.isfile(full_path):
-    #             print(filename)
-    #             count += 1
-    #     print(count)
-
     def list_image_files(self):
         directory = '../pics'
+
         count = 0 
 
+        artists = []
+
         for filename in os.listdir(directory):
-            if filename.endswith(".jpg"):
-                full_path = os.path.join(directory, filename)
+            full_path = os.path.join(directory, filename)
+            if os.path.isfile(full_path) and ".DS_Store" not in full_path:
+                artists.append(filename.replace(".jpg", ""))
+                count += 1
 
-                if os.path.isfile(full_path):
-                    name, ext = os.path.splitext(filename)
-                    cleaned_name = clean_text(name)
-                    new_filename = cleaned_name + ext
-                    new_path = os.path.join(directory, new_filename)
-
-                    # Always rename if the name is different, even on case-insensitive systems
-                    if filename != new_filename:
-                        # Rename via a temporary file to force case change on case-insensitive systems
-                        temp_path = os.path.join(directory, f"__tmp__{new_filename}")
-                        os.rename(full_path, temp_path)
-                        os.rename(temp_path, new_path)
-                        print(f"Renamed: {filename} -> {new_filename}")
-                        count += 1
-                    else:
-                        print(f"Skipped (already clean): {filename}")
-
-        print(f"Total files renamed: {count}")
-
+        return artists, count
 
 
 

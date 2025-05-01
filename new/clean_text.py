@@ -57,7 +57,3 @@ def clean_text(text):
     return clean_text
 
 
-
-
-
-print(clean_text("Pronounced 'Lĕh-'nérd 'Skin-'nérd"))
