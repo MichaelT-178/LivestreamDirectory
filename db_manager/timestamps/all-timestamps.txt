@@ -1,4 +1,4 @@
-Control + g. Type 1221 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1224 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1218,6 +1218,10 @@ https://youtu.be/Gm31kS_590M?si=RqT039pS7JkGQmVK
 Solo Video (LS 92 Clip)
 https://youtu.be/qUe_1Jqb5k8?si=yqZ0VDpCAe8D9EF0
 0:00 Do It Again by Steely Dan
+
+Solo Video
+https://youtu.be/khq53DWmW1o?si=rqXBO0YBAmLvARbx
+0:00 Slither by Velvet Revolver
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI

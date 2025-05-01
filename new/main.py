@@ -8,6 +8,22 @@ from spotify_images import (
     get_artist_image_url
 )
 
+from c_sharp_methods import CSharpMethods
+
+
+
+csharp_methods = CSharpMethods()
+
+csharp_methods.get_all_artists()
+
+
+
+
+
+
+
+
+
 
 access_token = get_access_token(CLIENT_ID, CLIENT_SECRET)
 image_url = get_album_image_url("(Don't Fear) The Reaper", "Agents Of Fortune", access_token)
