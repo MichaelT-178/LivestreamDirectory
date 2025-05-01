@@ -153,13 +153,6 @@ class Algorithm
             {
                 instruments = instruments[..^2]; //get rid of last " , " character
             }
-
-            if (artistPic.Contains("Yusuf")) 
-            {
-                artistPic = "Yusuf : Cat Stevens.jpg";
-            }
-
-            artistPic = Helper.ReplaceNonAsciiChars(artistPic).Replace("/", ":");
             
             instruments = AlgorithmHelper.RemoveDuplicateGuitars(instruments);
             instruments = AlgorithmHelper.MoveAcousticGuitarToFront(instruments);

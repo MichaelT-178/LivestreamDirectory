@@ -14,34 +14,14 @@ from c_sharp_methods import CSharpMethods
 
 csharp_methods = CSharpMethods()
 
-# artists, count = csharp_methods.list_image_files()
+artist, count = csharp_methods.get_all_artists()
+# artist, count = csharp_methods.list_image_files()
 
-# for artist in artists:
-#     print(artist)
+for artist in artist:
+    print(artist)
 
-# print(count)
-
-# exit(0)
-
-# artists, count = csharp_methods.get_all_artists()
-artists, count = csharp_methods.remove_temp_from_images()
-
-# for artist in artists:
-#     print(artist)
-
-# print(count)
-
+print(count)
 exit(0)
-
-# artists, count = csharp_methods.get_all_artists()
-# sorted_list = sorted(artists)
-
-# for artist in sorted_list:
-#     print(artist)
-
-# print(count)
-# exit(0)
-
 
 
 

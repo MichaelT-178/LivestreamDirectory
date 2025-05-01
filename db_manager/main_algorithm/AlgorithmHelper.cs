@@ -200,16 +200,14 @@ class AlgorithmHelper
     }
     
     /**
-     * Gets the artists picture file path as a valid string. 
-     * The "." and "'" chars can't appear in the path. 
-     * @param artist Artist whose picture 
-     * @return The filepath for the artists image as a string.
+     * Cleans the artist picture and returns as a valid string. 
+     *
+     * @param artist Artist whose picture will be cleaned.
+     * @return The cleaned filepath for the artists image as a string.
      */
     public static string GetArtistPic(string artist)
     {
-        string formattedArtist = artist.Replace(".", "").Replace("'", "").Trim();
-        string cleanedArtist = TextCleaner.CleanText(formattedArtist);
-
+        string cleanedArtist = TextCleaner.CleanText(artist);
         return  cleanedArtist + ".jpg";
     }
 

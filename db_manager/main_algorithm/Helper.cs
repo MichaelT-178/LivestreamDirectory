@@ -11,7 +11,6 @@ using System.Text.RegularExpressions;
  * ReplaceWithCorrectQuotes | Replaces stylized quotes with standard ASCII quotes.
  * GetSortedAlphabetList | Gets a list sorted alphabetically.
  * GetSongListWithoutKeys | Removes all the keys for every song in a song list 
- * ReplaceNonAsciiChars | Replaces non-ascii charcters with valid ascii characters.
  * IsAscii | Returns whether or not a string contains only Ascii characters 
  * RemoveKeys | Removes all keys from a song title.
  * OpenInWebBrowser | Opens a url in the webbrowser 
@@ -144,30 +143,6 @@ class Helper
         }
 
         return songListNoKeys;
-    }
-
-    /**
-     * Replaces relevant non-ascii characters from a string with 
-     * valid ascii characters.
-     * @param song. The title which will have the chars removed.
-     * @return String without ascii characters.
-     */
-    public static string ReplaceNonAsciiChars(string song)
-    {
-        return song
-                .Replace("É", "E")
-                .Replace("í", "i")
-                .Replace("é", "e")
-                .Replace("á","a")
-                .Replace("à", "a")
-                .Replace("Á", "A")
-                .Replace("ü", "u")
-                .Replace("Ö", "O")
-                .Replace("ö", "o")
-                .Replace("Â", "A")
-                .Replace("â", "a")
-                .Replace("Ĕ", "E")
-                .Replace("ĕ", "e");
     }
 
     /**

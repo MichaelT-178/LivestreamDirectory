@@ -114,9 +114,7 @@ class ErrorFinder
                         if (!checkedArtists.Contains(artist))
                         {
                             checkedArtists.Add(artist);
-
-                            artist = artist.Replace(".", "").Replace("'", "").Replace("/", ":");
-                            artist = Helper.ReplaceNonAsciiChars(artist);
+                            
                             artist = TextCleaner.CleanText(artist);
 
                             string imagePath = "../LivestreamDirectory/pics/" + artist + ".jpg";

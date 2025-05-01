@@ -44,7 +44,7 @@ class SearchHelper
         
         if (!Helper.IsAscii(title)) 
         {   
-            AppendNew(Helper.ReplaceNonAsciiChars(title), search);
+            AppendNew(TextCleaner.NormalizeToAscii(title), search);
         }
 
 
@@ -69,7 +69,7 @@ class SearchHelper
 
         if (!Helper.IsAscii(artists)) 
         {
-            AppendNew(Helper.ReplaceNonAsciiChars(artists).Replace("+", "/"), search);
+            AppendNew(TextCleaner.NormalizeToAscii(artists).Replace("+", "/"), search);
         }
         
         if (title.Contains("and"))
