@@ -29,7 +29,7 @@ Note: I'm the "Michael L" being referred to, that's my Youtube username. The L d
 - **Python** is NOT directly used in the website. But I use it to convert the song_list.json file into a **SQLite** database. The **SQLite** database is just for viewing purposes and to query it using SQL. It's NOT being used by the website in anyway.
 
 ## This is what the output of running the algorithm looks like
-<img src="pics/run_algorithm.jpg" width="350" height="350">
+<img src="pics/run-algorithm.jpg" width="350" height="350">
 
 ## Reviews
 This website was met with a very positive response when posted on Corey Heuvel's [Patreon](https://www.patreon.com/posts/livestream-70578990?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share) page. Below are some of the reviews.
