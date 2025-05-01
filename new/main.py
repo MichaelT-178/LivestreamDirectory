@@ -23,12 +23,13 @@ csharp_methods = CSharpMethods()
 
 # exit(0)
 
-artists, count = csharp_methods.get_all_artists()
+# artists, count = csharp_methods.get_all_artists()
+artists, count = csharp_methods.rename_images_temp()
 
-for artist in artists:
-    print(artist)
+# for artist in artists:
+#     print(artist)
 
-print(count)
+# print(count)
 
 exit(0)
 
