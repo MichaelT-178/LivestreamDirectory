@@ -217,7 +217,7 @@ class AlgorithmHelper
      */
     public static string GetOtherArtistsAsString(string[] otherArtists)
     {
-        return string.Join(", ", otherArtists);
+        return string.Join("+ ", otherArtists);
     }
 
     /**
