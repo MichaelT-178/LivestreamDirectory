@@ -50,21 +50,25 @@ class CSharpMethods:
                 full_path = os.path.join(directory, filename)
 
                 if os.path.isfile(full_path):
-                    name, ext = os.path.splitext(filename)  # Split name and extension
+                    name, ext = os.path.splitext(filename)
                     cleaned_name = clean_text(name)
                     new_filename = cleaned_name + ext
                     new_path = os.path.join(directory, new_filename)
 
-                    # Avoid overwriting existing files
-                    if not os.path.exists(new_path):
-                        os.rename(full_path, new_path)
+                    # Always rename if the name is different, even on case-insensitive systems
+                    if filename != new_filename:
+                        # Rename via a temporary file to force case change on case-insensitive systems
+                        temp_path = os.path.join(directory, f"__tmp__{new_filename}")
+                        os.rename(full_path, temp_path)
+                        os.rename(temp_path, new_path)
                         print(f"Renamed: {filename} -> {new_filename}")
+                        count += 1
                     else:
-                        print(f"Skipped (name exists): {filename} -> {new_filename}")
-
-                    count += 1
+                        print(f"Skipped (already clean): {filename}")
 
         print(f"Total files renamed: {count}")
+
+
 
 
 
