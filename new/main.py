@@ -24,7 +24,7 @@ csharp_methods = CSharpMethods()
 # exit(0)
 
 # artists, count = csharp_methods.get_all_artists()
-artists, count = csharp_methods.rename_images_temp()
+artists, count = csharp_methods.remove_temp_from_images()
 
 # for artist in artists:
 #     print(artist)

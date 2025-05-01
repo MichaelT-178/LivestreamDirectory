@@ -51,7 +51,7 @@ class CSharpMethods:
         return artists, count
     
 
-    def rename_images_temp(self):
+    def remove_temp_from_images(self):
         directory = '../pics'
         count = 0
         artists = []
@@ -59,15 +59,22 @@ class CSharpMethods:
         for filename in os.listdir(directory):
             full_path = os.path.join(directory, filename)
 
-            if os.path.isfile(full_path) and filename.lower().endswith('.jpg') and ".DS_Store" not in filename:
+            if (
+                os.path.isfile(full_path) and 
+                filename.lower().endswith('.jpg') and 
+                filename.endswith('_TEMP.jpg') and 
+                ".DS_Store" not in filename
+            ):
                 name, ext = os.path.splitext(filename)
-                new_filename = f"{name}_TEMP{ext}"
-                new_path = os.path.join(directory, new_filename)
+                if name.endswith('_TEMP'):
+                    new_name = name[:-5]  # Remove "_TEMP"
+                    new_filename = f"{new_name}{ext}"
+                    new_path = os.path.join(directory, new_filename)
 
-                os.rename(full_path, new_path)
-                artists.append(name)
-                count += 1
-                print(f"Renamed: {filename} -> {new_filename}")
+                    os.rename(full_path, new_path)
+                    artists.append(new_name)
+                    count += 1
+                    print(f"Renamed: {filename} -> {new_filename}")
 
         print(f"Total renamed: {count}")
         return artists, count
