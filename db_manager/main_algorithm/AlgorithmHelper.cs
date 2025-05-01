@@ -207,7 +207,10 @@ class AlgorithmHelper
      */
     public static string GetArtistPic(string artist)
     {
-        return artist.Replace(".", "").Replace("'", "").Trim() + ".jpg";
+        string formattedArtist = artist.Replace(".", "").Replace("'", "").Trim();
+        string cleanedArtist = TextCleaner.CleanText(formattedArtist);
+
+        return  cleanedArtist + ".jpg";
     }
 
     /**
