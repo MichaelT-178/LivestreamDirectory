@@ -90,12 +90,12 @@ class JSONHelper
 
     /**
      * Writes a JSON list to a file
-     * @param alphabetList List of sorted strings.
+     *
+     * @param stringList List of strings
+     * @param filePath File path to write JSON songs to.
      */
-    public static void WriteJSONToFile(List<string> stringList)
+    public static void WriteJSONToFile(List<string> stringList, string filePath)
     {
-        string filePath = "./db_manager/json_files/repertoire.json";
-
         string jsonString = SystemTextJsonSerializer.Serialize(stringList, new System.Text.Json.JsonSerializerOptions
         {
             WriteIndented = true, 

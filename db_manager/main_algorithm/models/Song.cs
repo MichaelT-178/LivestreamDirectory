@@ -2,6 +2,7 @@
  * The Song object model to be added to the database.
  * All fields all required. Empty strings are allowed and 
  * somewhat common.
+ *
  * @author Michael Totaro
  */
 public class Song
