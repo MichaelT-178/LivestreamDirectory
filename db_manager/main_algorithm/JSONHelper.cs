@@ -49,6 +49,7 @@ class JSONHelper
         objectString += $"{s}\"Id\": {song.Id},\n";
         objectString += $"{s}\"Title\": \"{song.Title}\",\n";
         objectString += $"{s}\"Artist\": \"{song.Artist}\",\n";
+        objectString += $"{s}\"Album\": \"{song.Album}\",\n";
         objectString += $"{s}\"Other_Artists\": \"{song.OtherArtists}\",\n";
         objectString += $"{s}\"Instruments\": \"{song.Instruments}\",\n";
         objectString += $"{s}\"Image\": \"{song.Pic}\",\n";
