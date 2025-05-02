@@ -10,6 +10,7 @@ public class Song
     public int Id { get; set; }
     public string Title { get; set; }
     public string Artist { get; set; }
+    public string Album { get; set; }
     public string OtherArtists { get; set; }
     public string Instruments { get; set; }
     public string Pic { get; set; }
@@ -17,12 +18,13 @@ public class Song
     public string Appearances { get; set; }
     public string Links { get; set; }
 
-    public Song(int id, string title, string artist, string otherArtists, string instruments, 
+    public Song(int id, string title, string artist, string album, string otherArtists, string instruments, 
                 string artistPic, string search, string appearances, string links)
     {
         Id = id;
         Title = title;
         Artist = artist;
+        Album = album;
         OtherArtists = otherArtists;
         Instruments = instruments;
         Pic = artistPic;

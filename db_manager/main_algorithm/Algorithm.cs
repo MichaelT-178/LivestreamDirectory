@@ -157,7 +157,10 @@ class Algorithm
             instruments = AlgorithmHelper.RemoveDuplicateGuitars(instruments);
             instruments = AlgorithmHelper.MoveAcousticGuitarToFront(instruments);
 
-            Song jsonSong = new(idCount, title, artist, otherArtists, instruments, artistPic, search, appearances, links);
+            // Handled later. Just leave as a blank string for now.
+            string album = "";
+
+            Song jsonSong = new(idCount, title, artist, album, otherArtists, instruments, artistPic, search, appearances, links);
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));
             idCount++;
         } //song in allSongs for loop ends 

@@ -59,7 +59,7 @@ class Program
         Console.WriteLine("\nUpdating Database");
         Color.DisplaySuccess("Database 'song_list.json' file was successfully updated!");
 
-        JSONHelper.WriteJSONToFile(Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongs()));
+        AlbumRepertoireHandler.UpdateRepertoireFile(Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongsAsString()));
 
         //EXECUTE UPDATE SQLite DATABASE COMMAND 
         OS.UpdateSQLiteDatabase();

@@ -7,7 +7,8 @@ using SystemTextJsonSerializer = System.Text.Json.JsonSerializer;
  * Methods
  * GetFilesJSONData | Gets JSON data from a list and stores it in a string list.
  * GetJSONSongAsString | Gets the string of a song object to be added to database file.
- * GetDatabaseSongs | Gets a string list that contains every songs title and artist the database file.
+ * GetDatabaseSongs | Gets all songs from the song_list.json file
+ * GetDatabaseSongsAsString | Gets a string list that contains every songs title and artist the database file.
  * WriteJSONToFile | Writes a JSON list to a file
  *
  * @author Michael Totaro
@@ -59,15 +60,15 @@ class JSONHelper
         return objectString;
 
     }
-
+    
     /**
-     * Creates and returns a string list that contains every songs title and artist 
-     * from the song_list.json database file. The format is *song.Title* by *song.Artist*
-     * @return 
+     * Get all Song objects from the song_list.json file.
+     *
+     * @return List of Song objects.
      * @throws ArgumentException If SongContainer cannot be created from file.
      * @throws ArgumentException If the Songs list couldn't be gotten from the SongContainer.
      */
-    public static List<string> GetDatabaseSongs()
+    public static List<Song> GetDatabaseSongs()
     {
         string jsonData = File.ReadAllText("./database/song_list.json");
         SongsContainer songsContainer = JsonConvert.DeserializeObject<SongsContainer>(jsonData)
@@ -76,9 +77,21 @@ class JSONHelper
         List<Song> databaseSongs = songsContainer.Songs 
                                    ?? throw new ArgumentException("Couldn't get database songs!");
 
+        return databaseSongs;
+    }
+
+    /**
+     * Creates and returns a string list that contains every songs title and artist 
+     * from the song_list.json database file. The format is *song.Title* by *song.Artist*
+     *
+     * @return String list containing every song and associated artist
+     */
+    public static List<string> GetDatabaseSongsAsString()
+    {                      
+        List<Song> databaseSongs = GetDatabaseSongs();
+
         List<string> databaseSongInfo = new();
 
-        
         foreach (Song song in databaseSongs)
         {
             string songAndArtist = $"{song.Title} by {song.Artist}";
