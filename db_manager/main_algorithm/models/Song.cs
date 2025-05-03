@@ -13,6 +13,7 @@ public class Song
     public string Artist { get; set; }
     public string ArtistImage { get; set; }
     public string Album { get; set; }
+    public string AlbumImage { get; set; }
     public string Other_Artists { get; set; }
     public string Instruments { get; set; }
     public string Search { get; set; }
@@ -20,7 +21,8 @@ public class Song
     public string Links { get; set; }
 
     public Song(int id, string title, string cleanedTitle, string artist, string artistPic, 
-                string album, string otherArtists, string instruments, string search, string appearances, string links)
+                string album, string albumImage, string otherArtists, string instruments, 
+                string search, string appearances, string links)
     {
         Id = id;
         Title = title;
@@ -28,6 +30,7 @@ public class Song
         Artist = artist;
         ArtistImage = artistPic;
         Album = album;
+        AlbumImage = albumImage;
         Other_Artists = otherArtists;
         Instruments = instruments;
         Search = search;
