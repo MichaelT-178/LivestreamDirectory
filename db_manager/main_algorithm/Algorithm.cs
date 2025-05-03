@@ -168,6 +168,13 @@ class Algorithm
         string jsonSongString = songListBuilder.ToString().Trim()[..^1];
         jsonSongString += "\n    ]\n}";
         
+        // song_list.json created
         JSONHelper.WriteTextToJSONFile(jsonSongString);
+
+        // CREATE NEW FILES
+        AlbumRepertoireHandler.SyncAlbumsWithRepertoire();
+        CreateNewJSON.AddAlbumAttribute();
+
+
     } //Run method ends 
 }

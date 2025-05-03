@@ -1,23 +1,42 @@
+using Newtonsoft.Json;
+
+/**
+ * This class creates the new JSON file for the VueLivestreamDirectory.
+ *
+ * Methods
+ * AddAlbumAttribute | Sets the "Album" attribute in song_list.json
+ *
+ * @author Michael Totaro
+ */
 class CreateNewJSON
 {
+
+    /**
+     * Sets the "Album" attribute in song_list.json to the songs 
+     * album based on the values from albums.json.
+     */
     public static void AddAlbumAttribute()
     {
-        List<Album> albums =  AlbumRepertoireHandler.GetAlbums();
+        List<Album> albums = AlbumRepertoireHandler.GetAlbums();
         List<Song> songs = JSONHelper.GetDatabaseSongs();
 
-        for (int i = 0; i < albums.Count; i++) 
+        foreach (var album in albums)
         {
-            Album album = albums[i];
-            Song song = songs[i];
+            var matchingSong = songs.FirstOrDefault(song =>
+                song.Title == album.Song &&
+                (album.Artist == null || song.Artist == album.Artist)
+            );
 
-            //String comparison
-            if (song.Title == album.Song)
+            if (matchingSong != null)
             {
-                // add an attribute called "album" to the song_list.json song
-                // Set it to album.AlbumTitle
+                matchingSong.Album = album.AlbumTitle!;
             }
-
         }
+
+        var updatedData = new { songs };
+        string json = JsonConvert.SerializeObject(updatedData, Formatting.Indented);
+
+        File.WriteAllText("./database/song_list.json", json);
     }
 
 

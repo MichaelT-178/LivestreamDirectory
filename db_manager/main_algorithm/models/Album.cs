@@ -15,5 +15,8 @@ public class Album
     [JsonPropertyName("AlbumTitle")]
     public string? AlbumTitle { get; set; }    // nullable 
 
+    [JsonPropertyName("Artist")]
+    public string? Artist { get; set; } // nullable
+
     public int Year { get; set; }
 }

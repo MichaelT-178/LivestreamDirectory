@@ -77,10 +77,13 @@ class AlbumRepertoireHandler
         try
         {
             string jsonContent = File.ReadAllText(repertoireJSONFilePath);
-            var data = JsonSerializer.Deserialize<List<string>>(jsonContent);
+            var data = SystemTextJsonSerializer.Deserialize<List<string>>(jsonContent)!;
             
-            // Return only non-empty, non-whitespace entries
-            return data?.Where(s => !string.IsNullOrWhiteSpace(s)).ToList() ?? new List<string>();
+            return data
+                    .Where(s => !string.IsNullOrWhiteSpace(s)) // Can't be a blank space
+                    .Select(s => s.Substring(0, s.LastIndexOf(" by "))) // get song title
+                    .ToList();
+
         }
         catch (Exception ex)
         {
@@ -128,21 +131,27 @@ class AlbumRepertoireHandler
             return;
         }
 
-        Color.DisplayError("\n\n\nSongs to REMOVE from albums.json:");
-        foreach (var song in removeFromAlbums)
+        if (removeFromAlbums.Count != 0)
         {
-            Console.WriteLine($"  - {song}");
+            Color.DisplayError("\n\n\nSongs to REMOVE from albums.json:");
+            foreach (var song in removeFromAlbums)
+            {
+                Console.WriteLine($" - {song}");
+            }
         }
 
-        Color.DisplaySuccess("Songs to ADD to albums.json:");
-        foreach (var song in addToAlbums)
+        if (addToAlbums.Count != 0)
         {
-            Console.WriteLine($"  + {song}");
+            Color.PrintLine("\n\n\nSongs to ADD to albums.json:", "green");
+            foreach (var song in addToAlbums)
+            {
+                Console.WriteLine($" + {song}");
+            }
         }
 
         if (removeFromAlbums.Count > 0 || addToAlbums.Count > 0)
         {
-            Console.WriteLine("GO FIX db_manager/json_files/albums.json");
+            Console.WriteLine("\nGO FIX db_manager/json_files/albums.json!");
             Environment.Exit(0);
         }
     }

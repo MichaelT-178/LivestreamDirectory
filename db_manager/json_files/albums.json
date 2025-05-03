@@ -248,7 +248,7 @@
         },
         {
             "id": 42,
-            "Song": "Bad To The Bone (Electric riff)",
+            "Song": "Bad To The Bone (Electric riff/Blues Slide)",
             "AlbumTitle": "BAD TO THE BONE",
             "Year": 1982
         },
@@ -1460,7 +1460,7 @@
         },
         {
             "id": 244,
-            "Song": "Godin 5th Ave Uptown GT LTD Trans Cream",
+            "Song": "Godin 5th Ave Uptown GT LTD Trans Cream (Electric Song/GLTC)",
             "AlbumTitle": null,
             "Year": 0
         },
@@ -1490,13 +1490,13 @@
         },
         {
             "id": 249,
-            "Song": "Godin Passion RG-3 Indigo Burst RN",
+            "Song": "Godin Passion RG-3 Indigo Burst RN (Electric Song/GPRG)",
             "AlbumTitle": null,
             "Year": 0
         },
         {
             "id": 250,
-            "Song": "Godin Progression Plus Cherry Burst RN",
+            "Song": "Godin Progression Plus Cherry Burst RN (Electric Song/GPPCB)",
             "AlbumTitle": null,
             "Year": 0
         },
@@ -1508,7 +1508,7 @@
         },
         {
             "id": 252,
-            "Song": "Godin Stadium '59 Desert Green RN demo",
+            "Song": "Godin Stadium '59 Desert Green RN demo (Electric Song/GSDG)",
             "AlbumTitle": null,
             "Year": 0
         },
@@ -1538,13 +1538,15 @@
         },
         {
             "id": 257,
-            "Song": "Grace (C)",
+            "Song": "Grace",
+            "Artist": "Corey Heuvel",
             "AlbumTitle": "In Balance",
             "Year": 2007
         },
         {
             "id": 258,
             "Song": "Grace",
+            "Artist": "Jeff Buckley",
             "AlbumTitle": "Grace",
             "Year": 1994
         },
@@ -1994,7 +1996,7 @@
         },
         {
             "id": 333,
-            "Song": "Indian Classical Guitar Improvisation",
+            "Song": "Indian Style Guitar Improvisation",
             "AlbumTitle": null,
             "Year": 0
         },
@@ -2360,7 +2362,7 @@
         },
         {
             "id": 394,
-            "Song": "La Patrie Etude",
+            "Song": "La Patrie Etude (Classical Guitar/LPE)",
             "AlbumTitle": null,
             "Year": 0
         },
@@ -2678,7 +2680,7 @@
         },
         {
             "id": 447,
-            "Song": "Martin vs. Furch vs. Boucher | High-End Guitar Comparison",
+            "Song": "Martin vs. Furch vs. Boucher | High-End Guitar Comparison (MHD/FVD/BSG)",
             "AlbumTitle": null,
             "Year": 0
         },
@@ -4790,13 +4792,15 @@
         },
         {
             "id": 799,
-            "Song": "Wish You Were Here (I)",
+            "Song": "Wish You Were Here",
+            "Artist": "Incubus",
             "AlbumTitle": "Morning View",
             "Year": 2001
         },
         {
             "id": 800,
             "Song": "Wish You Were Here",
+            "Artist": "Pink Floyd",
             "AlbumTitle": "Wish You Were Here",
             "Year": 1975
         },
