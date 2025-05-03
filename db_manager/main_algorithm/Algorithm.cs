@@ -161,17 +161,7 @@ class Algorithm
             string album = "";
 
             string cleanedTitle = TextCleaner.CleanText(title);
-
-            if (title == "Wish You Were Here" && artist == "Incubus")
-            {
-                cleanedTitle = "wish-you-were-here-incubus";
-            }
-
-            if (title == "Grace" && artist == "Corey Heuvel")
-            {
-                cleanedTitle = "grace-corey-heuvel";
-            }
-
+            cleanedTitle = JSONHelper.GetRepeatCleanedTitle(cleanedTitle, artist);
 
             Song jsonSong = new(idCount, title, cleanedTitle, artist, album, otherArtists, instruments, artistPic, search, appearances, links);
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));

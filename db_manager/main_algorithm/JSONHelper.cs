@@ -10,6 +10,7 @@ using SystemTextJsonSerializer = System.Text.Json.JsonSerializer;
  * GetDatabaseSongs | Gets all songs from the song_list.json file
  * GetDatabaseSongsAsString | Gets a string list that contains every songs title and artist the database file.
  * WriteJSONToFile | Writes a JSON list to a file
+ * GetRepeatCleanedTitle | Gets cleaned title for repeat songs.
  *
  * @author Michael Totaro
  */
@@ -133,6 +134,75 @@ class JSONHelper
         using StreamWriter writer = new(filePath);
 
         writer.Write(jsonSongList);
+    }
+
+    /**
+     * Gets cleaned title for repeat songs. Return 
+     * the regular cleanedTitle if it's not a repeat
+     *
+     * @param cleanedTitle The current cleaned title
+     * @param artist The artist associated with the title
+     * @return The cleaned title 
+     */
+     public static string GetRepeatCleanedTitle(string cleanedTitle, string artist)
+     {
+        var titleArtistOverrides = new Dictionary<(string title, string artist), string>(
+            new CaseInsensitiveTupleComparer())
+        {
+            // (original repeat cleaned title && artist), new cleaned title
+            { ("wish-you-were-here", "Incubus"), "wish-you-were-here-incubus" },
+            { ("grace", "Corey Heuvel"), "grace-corey-heuvel" },
+        };
+        
+        if (titleArtistOverrides.TryGetValue((cleanedTitle, artist), out string? result))
+        {
+            return result;
+        }
+        
+        return cleanedTitle;
+    }
+    
+   /**
+    * Custom comparer for (string, string) tuples that performs
+    * case-insensitive comparisons for both elements.
+    *
+    * Methods
+    * Equals | Determines whether two (string, string) tuples are equal using case-insensitive comparison.
+    * GetHashCode | 
+    *
+    * @author Michael Totaro
+    */
+    private class CaseInsensitiveTupleComparer : IEqualityComparer<(string, string)>
+    {
+
+       /**
+        * Determines whether two (string, string) tuples are equal using 
+        * case-insensitive comparison.
+        * 
+        * @param x The first tuple to compare
+        * @param y The second tuple to compare
+        * @return True if both items are equal (ignoring case); otherwise, false.
+        */
+        public bool Equals((string, string) x, (string, string) y)
+        {
+            return string.Equals(x.Item1, y.Item1, StringComparison.OrdinalIgnoreCase)
+                && string.Equals(x.Item2, y.Item2, StringComparison.OrdinalIgnoreCase);
+        }
+        
+       /**
+        * Returns a hash code for the specified (string, string) tuple,
+        * using case-insensitive hashing.
+        *
+        * @param obj The tuple for which a hash code is to be returned.
+        * @return A hash code for the specified object
+        */
+        public int GetHashCode((string, string) obj)
+        {
+            return HashCode.Combine(
+                StringComparer.OrdinalIgnoreCase.GetHashCode(obj.Item1),
+                StringComparer.OrdinalIgnoreCase.GetHashCode(obj.Item2)
+            );
+        }
     }
 
 }
