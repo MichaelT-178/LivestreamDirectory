@@ -8,6 +8,7 @@ using SystemTextJsonSerializer = System.Text.Json.JsonSerializer;
  * PrintAlbumJsonContents | Print the contents of albums.json
  * GetAlbums | Returns the list of albums from albums.json
  * GetRepertoire | Returns the song list from the repertoire.json file
+ * CheckForNoRepeatAlbums | Makes sure there are no repeat albumTitles in albums.json
  * SyncAlbumsWithRepertoire | Ensures every song has an associated album.json
  * UpdateRepertoireFile | Update the repertoire.json file given a list of songs
  *
@@ -91,6 +92,34 @@ class AlbumRepertoireHandler
             return new List<string>();
         }
     }
+
+    /**
+     * Makes sure there are no repeat albumTitles in albums.json.
+     * It's considered a repeat if they have the same AlbumTitle
+     * but different Year attributes. 
+     */
+     public static void CheckForNoRepeatAlbums()
+     {
+        List<Album> albums = GetAlbums();
+        
+        var conflictingAlbumGroups = albums
+            .Where(a => !string.IsNullOrWhiteSpace(a.AlbumTitle)) // Skip null or empty titles
+            .GroupBy(a => a.AlbumTitle)
+            .Where(g => g.Count() > 1 && g.Select(a => a.Year).Distinct().Count() > 1);
+        
+        foreach (var group in conflictingAlbumGroups)
+        {
+            var years = string.Join(", ", group.Select(a => a.Year));
+            Color.DisplayError($"Conflict: Album title \"{group.Key}\" has multiple different years: {years}");
+        }
+        
+        if (conflictingAlbumGroups.Any())
+        {
+            Console.WriteLine("Go fix albums.json!");
+            Environment.Exit(0);
+        }
+    }
+
 
     /**
      * Ensures every song has an associated album.

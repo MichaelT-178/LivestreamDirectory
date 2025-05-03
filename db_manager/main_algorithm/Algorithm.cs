@@ -172,9 +172,10 @@ class Algorithm
         JSONHelper.WriteTextToJSONFile(jsonSongString);
 
         // CREATE NEW FILES
+        AlbumRepertoireHandler.CheckForNoRepeatAlbums();
         AlbumRepertoireHandler.SyncAlbumsWithRepertoire();
-        CreateNewJSON.AddAlbumAttribute();
 
+        CreateNewJSON.AddAlbumAttribute();
 
     } //Run method ends 
 }
