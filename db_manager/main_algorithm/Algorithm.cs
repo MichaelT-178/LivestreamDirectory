@@ -160,7 +160,20 @@ class Algorithm
             // Handled later. Just leave as a blank string for now.
             string album = "";
 
-            Song jsonSong = new(idCount, title, artist, album, otherArtists, instruments, artistPic, search, appearances, links);
+            string cleanedTitle = TextCleaner.CleanText(title);
+
+            if (title == "Wish You Were Here" && artist == "Incubus")
+            {
+                cleanedTitle = "wish-you-were-here-incubus";
+            }
+
+            if (title == "Grace" && artist == "Corey Heuvel")
+            {
+                cleanedTitle = "grace-corey-heuvel";
+            }
+
+
+            Song jsonSong = new(idCount, title, cleanedTitle, artist, album, otherArtists, instruments, artistPic, search, appearances, links);
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));
             idCount++;
         } //song in allSongs for loop ends 

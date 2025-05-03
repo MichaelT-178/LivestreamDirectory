@@ -3,6 +3,7 @@
     {
       "Id": 1,
       "Title": "Electric Riff Session #1",
+      "CleanedTitle": "electric-riff-session-1",
       "Artist": "Various Artists",
       "Album": null,
       "Other_Artists": "",
@@ -15,6 +16,7 @@
     {
       "Id": 2,
       "Title": "Electric Riff Session #2",
+      "CleanedTitle": "electric-riff-session-2",
       "Artist": "Various Artists",
       "Album": null,
       "Other_Artists": "",
@@ -27,6 +29,7 @@
     {
       "Id": 3,
       "Title": "Electric Riff Session #3",
+      "CleanedTitle": "electric-riff-session-3",
       "Artist": "Various Artists",
       "Album": null,
       "Other_Artists": "",
@@ -39,6 +42,7 @@
     {
       "Id": 4,
       "Title": "Electric Riff Session #4",
+      "CleanedTitle": "electric-riff-session-4",
       "Artist": "Various Artists",
       "Album": null,
       "Other_Artists": "",
@@ -51,6 +55,7 @@
     {
       "Id": 5,
       "Title": "Electric Riff Session #5",
+      "CleanedTitle": "electric-riff-session-5",
       "Artist": "Various Artists",
       "Album": null,
       "Other_Artists": "",
@@ -63,6 +68,7 @@
     {
       "Id": 6,
       "Title": "Electric Riff Session #6",
+      "CleanedTitle": "electric-riff-session-6",
       "Artist": "Various Artists",
       "Album": null,
       "Other_Artists": "",
@@ -75,6 +81,7 @@
     {
       "Id": 7,
       "Title": "Electric Riff Session #7",
+      "CleanedTitle": "electric-riff-session-7",
       "Artist": "Various Artists",
       "Album": null,
       "Other_Artists": "",
@@ -87,6 +94,7 @@
     {
       "Id": 8,
       "Title": "Way to the Sea",
+      "CleanedTitle": "way-to-the-sea",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -99,6 +107,7 @@
     {
       "Id": 9,
       "Title": "Giving Up",
+      "CleanedTitle": "giving-up",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -111,6 +120,7 @@
     {
       "Id": 10,
       "Title": "Starbird",
+      "CleanedTitle": "starbird",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -123,6 +133,7 @@
     {
       "Id": 11,
       "Title": "Big Yellow Taxi",
+      "CleanedTitle": "big-yellow-taxi",
       "Artist": "Joni Mitchell",
       "Album": "Ladies of the Canyon",
       "Other_Artists": "",
@@ -135,6 +146,7 @@
     {
       "Id": 12,
       "Title": "Dream Brother",
+      "CleanedTitle": "dream-brother",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "",
@@ -147,6 +159,7 @@
     {
       "Id": 13,
       "Title": "The Boy with the Thorn in His Side",
+      "CleanedTitle": "the-boy-with-the-thorn-in-his-side",
       "Artist": "The Smiths",
       "Album": "The Queen Is Dead",
       "Other_Artists": "Jeff Buckley+ Scott Matthews",
@@ -159,6 +172,7 @@
     {
       "Id": 14,
       "Title": "Rise",
+      "CleanedTitle": "rise",
       "Artist": "Eddie Vedder",
       "Album": "Into The Wild (Music For The Motion Picture)",
       "Other_Artists": "",
@@ -171,6 +185,7 @@
     {
       "Id": 15,
       "Title": "Hey Hey",
+      "CleanedTitle": "hey-hey",
       "Artist": "Eric Clapton",
       "Album": "Unplugged (Live)",
       "Other_Artists": "Big Bill Broonzy",
@@ -183,6 +198,7 @@
     {
       "Id": 16,
       "Title": "Drive",
+      "CleanedTitle": "drive",
       "Artist": "Incubus",
       "Album": "Make Yourself",
       "Other_Artists": "",
@@ -195,6 +211,7 @@
     {
       "Id": 17,
       "Title": "Lover, You Should've Come Over",
+      "CleanedTitle": "lover-you-should-ve-come-over",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "",
@@ -207,6 +224,7 @@
     {
       "Id": 18,
       "Title": "Warning",
+      "CleanedTitle": "warning",
       "Artist": "Incubus",
       "Album": "Morning View",
       "Other_Artists": "",
@@ -219,6 +237,7 @@
     {
       "Id": 19,
       "Title": "Big Love",
+      "CleanedTitle": "big-love",
       "Artist": "Fleetwood Mac",
       "Album": "Tango in the Night",
       "Other_Artists": "Lindsey Buckingham",
@@ -231,6 +250,7 @@
     {
       "Id": 20,
       "Title": "No Such Thing",
+      "CleanedTitle": "no-such-thing",
       "Artist": "John Mayer",
       "Album": "Room For Squares",
       "Other_Artists": "",
@@ -243,6 +263,7 @@
     {
       "Id": 21,
       "Title": "Last Goodbye",
+      "CleanedTitle": "last-goodbye",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "",
@@ -255,6 +276,7 @@
     {
       "Id": 22,
       "Title": "Neon",
+      "CleanedTitle": "neon",
       "Artist": "John Mayer",
       "Album": "Where the Light Is: John Mayer Live In Los Angeles",
       "Other_Artists": "",
@@ -267,6 +289,7 @@
     {
       "Id": 23,
       "Title": "Three Hours",
+      "CleanedTitle": "three-hours",
       "Artist": "Nick Drake",
       "Album": "Five Leaves Left",
       "Other_Artists": "",
@@ -279,6 +302,7 @@
     {
       "Id": 24,
       "Title": "Over The Hill",
+      "CleanedTitle": "over-the-hill",
       "Artist": "John Martyn",
       "Album": "Solid Air",
       "Other_Artists": "",
@@ -291,6 +315,7 @@
     {
       "Id": 25,
       "Title": "Low",
+      "CleanedTitle": "low",
       "Artist": "Flo Rida, T-Pain",
       "Album": "Mail on Sunday",
       "Other_Artists": "",
@@ -303,6 +328,7 @@
     {
       "Id": 26,
       "Title": "Thriller",
+      "CleanedTitle": "thriller",
       "Artist": "Michael Jackson",
       "Album": "Thriller",
       "Other_Artists": "",
@@ -315,6 +341,7 @@
     {
       "Id": 27,
       "Title": "Superstition",
+      "CleanedTitle": "superstition",
       "Artist": "Stevie Wonder",
       "Album": "Talking Book",
       "Other_Artists": "",
@@ -327,6 +354,7 @@
     {
       "Id": 28,
       "Title": "Mama, You Been on My Mind",
+      "CleanedTitle": "mama-you-been-on-my-mind",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "Bob Dylan",
@@ -339,6 +367,7 @@
     {
       "Id": 29,
       "Title": "Song For George",
+      "CleanedTitle": "song-for-george",
       "Artist": "Eric Johnson",
       "Album": "Ah Via Musicom",
       "Other_Artists": "",
@@ -351,6 +380,7 @@
     {
       "Id": 30,
       "Title": "Song For Life",
+      "CleanedTitle": "song-for-life",
       "Artist": "Eric Johnson",
       "Album": "Live From Austin, TX '84",
       "Other_Artists": "",
@@ -363,6 +393,7 @@
     {
       "Id": 31,
       "Title": "Angelina",
+      "CleanedTitle": "angelina",
       "Artist": "Tommy Emmanuel",
       "Album": "Endless Road: 20th Anniversary Edition",
       "Other_Artists": "",
@@ -375,6 +406,7 @@
     {
       "Id": 32,
       "Title": "Pride and Joy",
+      "CleanedTitle": "pride-and-joy",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Texas Flood",
       "Other_Artists": "",
@@ -387,6 +419,7 @@
     {
       "Id": 33,
       "Title": "Satch Boogie",
+      "CleanedTitle": "satch-boogie",
       "Artist": "Joe Satriani",
       "Album": "Surfing With The Alien",
       "Other_Artists": "",
@@ -399,6 +432,7 @@
     {
       "Id": 34,
       "Title": "Canned Heat",
+      "CleanedTitle": "canned-heat",
       "Artist": "Jamiroquai",
       "Album": "Synkronized",
       "Other_Artists": "",
@@ -411,6 +445,7 @@
     {
       "Id": 35,
       "Title": "All Along the Watchtower",
+      "CleanedTitle": "all-along-the-watchtower",
       "Artist": "Bob Dylan",
       "Album": "Electric Ladyland",
       "Other_Artists": "Jimi Hendrix",
@@ -423,6 +458,7 @@
     {
       "Id": 36,
       "Title": "Between the Horizons",
+      "CleanedTitle": "between-the-horizons",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -435,6 +471,7 @@
     {
       "Id": 37,
       "Title": "Reverie",
+      "CleanedTitle": "reverie",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -447,6 +484,7 @@
     {
       "Id": 38,
       "Title": "Dream Song",
+      "CleanedTitle": "dream-song",
       "Artist": "Scott Matthews",
       "Album": "Passing Stranger",
       "Other_Artists": "",
@@ -459,6 +497,7 @@
     {
       "Id": 39,
       "Title": "The Circle Game",
+      "CleanedTitle": "the-circle-game",
       "Artist": "Joni Mitchell",
       "Album": "Ladies of the Canyon",
       "Other_Artists": "",
@@ -471,6 +510,7 @@
     {
       "Id": 40,
       "Title": "Crazy",
+      "CleanedTitle": "crazy",
       "Artist": "Gnarls Barkley",
       "Album": "St. Elsewhere",
       "Other_Artists": "Ray LaMontagne",
@@ -483,6 +523,7 @@
     {
       "Id": 41,
       "Title": "The Way Young Lovers Do",
+      "CleanedTitle": "the-way-young-lovers-do",
       "Artist": "Van Morrison",
       "Album": "Astral Weeks",
       "Other_Artists": "Jeff Buckley",
@@ -495,6 +536,7 @@
     {
       "Id": 42,
       "Title": "Where The Wild Things Are",
+      "CleanedTitle": "where-the-wild-things-are",
       "Artist": "Patrick Watson",
       "Album": "Wooden Arms",
       "Other_Artists": "",
@@ -507,6 +549,7 @@
     {
       "Id": 43,
       "Title": "The Island",
+      "CleanedTitle": "the-island",
       "Artist": "Pendulum",
       "Album": "Immersion",
       "Other_Artists": "",
@@ -519,6 +562,7 @@
     {
       "Id": 44,
       "Title": "Indian Style Guitar Improvisation",
+      "CleanedTitle": "indian-style-guitar-improvisation",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -531,6 +575,7 @@
     {
       "Id": 45,
       "Title": "Solsbury Hill",
+      "CleanedTitle": "solsbury-hill",
       "Artist": "Peter Gabriel",
       "Album": "Peter Gabriel 1: Car",
       "Other_Artists": "",
@@ -543,6 +588,7 @@
     {
       "Id": 46,
       "Title": "Machine Gun",
+      "CleanedTitle": "machine-gun",
       "Artist": "Jimi Hendrix",
       "Album": "Band Of Gypsys",
       "Other_Artists": "",
@@ -555,6 +601,7 @@
     {
       "Id": 47,
       "Title": "Nothing Dream",
+      "CleanedTitle": "nothing-dream",
       "Artist": "Corey Heuvel",
       "Album": "Evers - EP",
       "Other_Artists": "",
@@ -567,6 +614,7 @@
     {
       "Id": 48,
       "Title": "Fly Like An Eagle",
+      "CleanedTitle": "fly-like-an-eagle",
       "Artist": "Steve Miller Band",
       "Album": "Fly Like An Eagle",
       "Other_Artists": "",
@@ -579,6 +627,7 @@
     {
       "Id": 49,
       "Title": "Soul Embers",
+      "CleanedTitle": "soul-embers",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -591,6 +640,7 @@
     {
       "Id": 50,
       "Title": "In Your Eyes",
+      "CleanedTitle": "in-your-eyes",
       "Artist": "Peter Gabriel",
       "Album": "So",
       "Other_Artists": "",
@@ -603,6 +653,7 @@
     {
       "Id": 51,
       "Title": "Suit & Tie",
+      "CleanedTitle": "suit-tie",
       "Artist": "Justin Timberlake ft. JAY-Z",
       "Album": "The 20/20 Experience",
       "Other_Artists": "",
@@ -615,6 +666,7 @@
     {
       "Id": 52,
       "Title": "Ohio",
+      "CleanedTitle": "ohio",
       "Artist": "Crosby, Stills, Nash & Young",
       "Album": null,
       "Other_Artists": "",
@@ -627,6 +679,7 @@
     {
       "Id": 53,
       "Title": "Bliss from Within",
+      "CleanedTitle": "bliss-from-within",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -639,6 +692,7 @@
     {
       "Id": 54,
       "Title": "Money",
+      "CleanedTitle": "money",
       "Artist": "Pink Floyd",
       "Album": "The Dark Side of the Moon",
       "Other_Artists": "",
@@ -651,6 +705,7 @@
     {
       "Id": 55,
       "Title": "Hereafter",
+      "CleanedTitle": "hereafter",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -663,6 +718,7 @@
     {
       "Id": 56,
       "Title": "Crazy On You",
+      "CleanedTitle": "crazy-on-you",
       "Artist": "Heart",
       "Album": "Dreamboat Annie",
       "Other_Artists": "",
@@ -675,6 +731,7 @@
     {
       "Id": 57,
       "Title": "Voodoo Child (Slight Return)",
+      "CleanedTitle": "voodoo-child-slight-return",
       "Artist": "Jimi Hendrix",
       "Album": "Electric Ladyland",
       "Other_Artists": "",
@@ -687,6 +744,7 @@
     {
       "Id": 58,
       "Title": "Slide",
+      "CleanedTitle": "slide",
       "Artist": "The Goo Goo Dolls",
       "Album": "Dizzy up the Girl",
       "Other_Artists": "",
@@ -699,6 +757,7 @@
     {
       "Id": 59,
       "Title": "Time in a Bottle",
+      "CleanedTitle": "time-in-a-bottle",
       "Artist": "Jim Croce",
       "Album": "You Don't Mess Around With Jim",
       "Other_Artists": "",
@@ -711,6 +770,7 @@
     {
       "Id": 60,
       "Title": "Moondance",
+      "CleanedTitle": "moondance",
       "Artist": "Van Morrison",
       "Album": "Moondance",
       "Other_Artists": "Michael Bublé",
@@ -723,6 +783,7 @@
     {
       "Id": 61,
       "Title": "The Way You Make Me Feel",
+      "CleanedTitle": "the-way-you-make-me-feel",
       "Artist": "Michael Jackson",
       "Album": "Bad",
       "Other_Artists": "",
@@ -735,6 +796,7 @@
     {
       "Id": 62,
       "Title": "Grace",
+      "CleanedTitle": "grace",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "",
@@ -747,6 +809,7 @@
     {
       "Id": 63,
       "Title": "A Thousand Miles",
+      "CleanedTitle": "a-thousand-miles",
       "Artist": "Vanessa Carlton",
       "Album": "Be Not Nobody",
       "Other_Artists": "",
@@ -759,6 +822,7 @@
     {
       "Id": 64,
       "Title": "Old Man",
+      "CleanedTitle": "old-man",
       "Artist": "Neil Young",
       "Album": "Harvest",
       "Other_Artists": "",
@@ -771,6 +835,7 @@
     {
       "Id": 65,
       "Title": "Black & Gold",
+      "CleanedTitle": "black-gold",
       "Artist": "Sam Sparro",
       "Album": "Sam Sparro",
       "Other_Artists": "",
@@ -783,6 +848,7 @@
     {
       "Id": 66,
       "Title": "Human Nature",
+      "CleanedTitle": "human-nature",
       "Artist": "Michael Jackson",
       "Album": "Thriller",
       "Other_Artists": "",
@@ -795,6 +861,7 @@
     {
       "Id": 67,
       "Title": "Break Free",
+      "CleanedTitle": "break-free",
       "Artist": "Ariana Grande ft. Zedd",
       "Album": "My Everything",
       "Other_Artists": "",
@@ -807,6 +874,7 @@
     {
       "Id": 68,
       "Title": "Vultures",
+      "CleanedTitle": "vultures",
       "Artist": "John Mayer",
       "Album": "Continuum",
       "Other_Artists": "",
@@ -819,6 +887,7 @@
     {
       "Id": 69,
       "Title": "Until the End",
+      "CleanedTitle": "until-the-end",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -831,6 +900,7 @@
     {
       "Id": 70,
       "Title": "Dreams",
+      "CleanedTitle": "dreams",
       "Artist": "Fleetwood Mac",
       "Album": "Rumours",
       "Other_Artists": "",
@@ -843,6 +913,7 @@
     {
       "Id": 71,
       "Title": "Don't You Worry 'Bout A Thing",
+      "CleanedTitle": "don-t-you-worry-bout-a-thing",
       "Artist": "Stevie Wonder",
       "Album": "Innervisions",
       "Other_Artists": "",
@@ -855,6 +926,7 @@
     {
       "Id": 72,
       "Title": "Ordinary Girl",
+      "CleanedTitle": "ordinary-girl",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -867,6 +939,7 @@
     {
       "Id": 73,
       "Title": "Dust in the Wind",
+      "CleanedTitle": "dust-in-the-wind",
       "Artist": "Kansas",
       "Album": "Point Of Know Return",
       "Other_Artists": "",
@@ -879,6 +952,7 @@
     {
       "Id": 74,
       "Title": "Do It Again",
+      "CleanedTitle": "do-it-again",
       "Artist": "Steely Dan",
       "Album": "Can't Buy A Thrill",
       "Other_Artists": "",
@@ -891,6 +965,7 @@
     {
       "Id": 75,
       "Title": "Kiss from a Rose",
+      "CleanedTitle": "kiss-from-a-rose",
       "Artist": "Seal",
       "Album": "Seal",
       "Other_Artists": "",
@@ -903,6 +978,7 @@
     {
       "Id": 76,
       "Title": "If I Had A Boat",
+      "CleanedTitle": "if-i-had-a-boat",
       "Artist": "Lyle Lovett",
       "Album": "Pontiac",
       "Other_Artists": "",
@@ -915,6 +991,7 @@
     {
       "Id": 77,
       "Title": "Life by the Drop",
+      "CleanedTitle": "life-by-the-drop",
       "Artist": "Stevie Ray Vaughan",
       "Album": "The Sky Is Crying",
       "Other_Artists": "Doyle Bramhall",
@@ -927,6 +1004,7 @@
     {
       "Id": 78,
       "Title": "Hand in My Pocket",
+      "CleanedTitle": "hand-in-my-pocket",
       "Artist": "Alanis Morissette",
       "Album": "Jagged Little Pill",
       "Other_Artists": "",
@@ -939,6 +1017,7 @@
     {
       "Id": 79,
       "Title": "Everybody Wants To Rule The World",
+      "CleanedTitle": "everybody-wants-to-rule-the-world",
       "Artist": "Tears For Fears",
       "Album": "Songs From The Big Chair",
       "Other_Artists": "",
@@ -951,6 +1030,7 @@
     {
       "Id": 80,
       "Title": "That's the Way",
+      "CleanedTitle": "that-s-the-way",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin III",
       "Other_Artists": "",
@@ -963,6 +1043,7 @@
     {
       "Id": 81,
       "Title": "Dancing In the Dark",
+      "CleanedTitle": "dancing-in-the-dark",
       "Artist": "Bruce Springsteen",
       "Album": "Born In The U.S.A",
       "Other_Artists": "",
@@ -975,6 +1056,7 @@
     {
       "Id": 82,
       "Title": "Before You Accuse Me",
+      "CleanedTitle": "before-you-accuse-me",
       "Artist": "Eric Clapton",
       "Album": "Unplugged (Live)",
       "Other_Artists": "Bo Diddley",
@@ -987,6 +1069,7 @@
     {
       "Id": 83,
       "Title": "Plush",
+      "CleanedTitle": "plush",
       "Artist": "Stone Temple Pilots",
       "Album": "Core",
       "Other_Artists": "",
@@ -999,6 +1082,7 @@
     {
       "Id": 84,
       "Title": "The Wind Cries Mary",
+      "CleanedTitle": "the-wind-cries-mary",
       "Artist": "Jimi Hendrix",
       "Album": "Are You Experienced",
       "Other_Artists": "",
@@ -1011,6 +1095,7 @@
     {
       "Id": 85,
       "Title": "Fast Car",
+      "CleanedTitle": "fast-car",
       "Artist": "Tracy Chapman",
       "Album": "Tracy Chapman",
       "Other_Artists": "",
@@ -1023,6 +1108,7 @@
     {
       "Id": 86,
       "Title": "Killer Queen",
+      "CleanedTitle": "killer-queen",
       "Artist": "Queen",
       "Album": "Sheer Heart Attack",
       "Other_Artists": "",
@@ -1035,6 +1121,7 @@
     {
       "Id": 87,
       "Title": "Doin' Time",
+      "CleanedTitle": "doin-time",
       "Artist": "Sublime",
       "Album": "Sublime",
       "Other_Artists": "",
@@ -1047,6 +1134,7 @@
     {
       "Id": 88,
       "Title": "The Night They Drove Old Dixie Down",
+      "CleanedTitle": "the-night-they-drove-old-dixie-down",
       "Artist": "The Band",
       "Album": "The Band",
       "Other_Artists": "",
@@ -1059,6 +1147,7 @@
     {
       "Id": 89,
       "Title": "Semi-Charmed Life",
+      "CleanedTitle": "semi-charmed-life",
       "Artist": "Third Eye Blind",
       "Album": "Third Eye Blind",
       "Other_Artists": "",
@@ -1071,6 +1160,7 @@
     {
       "Id": 90,
       "Title": "Cactus Tree",
+      "CleanedTitle": "cactus-tree",
       "Artist": "Joni Mitchell",
       "Album": "Song to a Seagull",
       "Other_Artists": "",
@@ -1083,6 +1173,7 @@
     {
       "Id": 91,
       "Title": "No Diggity",
+      "CleanedTitle": "no-diggity",
       "Artist": "Blackstreet",
       "Album": "Another Level",
       "Other_Artists": "",
@@ -1095,6 +1186,7 @@
     {
       "Id": 92,
       "Title": "Rupert Street",
+      "CleanedTitle": "rupert-street",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -1107,6 +1199,7 @@
     {
       "Id": 93,
       "Title": "Study in C Major",
+      "CleanedTitle": "study-in-c-major",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -1119,6 +1212,7 @@
     {
       "Id": 94,
       "Title": "Study in A Major",
+      "CleanedTitle": "study-in-a-major",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -1131,6 +1225,7 @@
     {
       "Id": 95,
       "Title": "Study in D Major",
+      "CleanedTitle": "study-in-d-major",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -1143,6 +1238,7 @@
     {
       "Id": 96,
       "Title": "Capricho Árabe",
+      "CleanedTitle": "capricho-arabe",
       "Artist": "Francisco Tárrega",
       "Album": null,
       "Other_Artists": "",
@@ -1155,6 +1251,7 @@
     {
       "Id": 97,
       "Title": "Castles Made of Sand",
+      "CleanedTitle": "castles-made-of-sand",
       "Artist": "Jimi Hendrix",
       "Album": "Axis: Bold As Love",
       "Other_Artists": "",
@@ -1167,6 +1264,7 @@
     {
       "Id": 98,
       "Title": "Blackbird",
+      "CleanedTitle": "blackbird",
       "Artist": "The Beatles",
       "Album": "The Beatles/The White Album",
       "Other_Artists": "",
@@ -1179,6 +1277,7 @@
     {
       "Id": 99,
       "Title": "Etude op. 60, no. 7",
+      "CleanedTitle": "etude-op-60-no-7",
       "Artist": "Matteo Carcassi",
       "Album": null,
       "Other_Artists": "",
@@ -1191,6 +1290,7 @@
     {
       "Id": 100,
       "Title": "Crossroads",
+      "CleanedTitle": "crossroads",
       "Artist": "Cream",
       "Album": "Wheels Of Fire",
       "Other_Artists": "Robert Johnson",
@@ -1203,6 +1303,7 @@
     {
       "Id": 101,
       "Title": "Lonely Boy",
+      "CleanedTitle": "lonely-boy",
       "Artist": "The Black Keys",
       "Album": "El Camino",
       "Other_Artists": "",
@@ -1215,6 +1316,7 @@
     {
       "Id": 102,
       "Title": "Paranoid Android",
+      "CleanedTitle": "paranoid-android",
       "Artist": "Radiohead",
       "Album": "OK Computer",
       "Other_Artists": "",
@@ -1227,6 +1329,7 @@
     {
       "Id": 103,
       "Title": "Heroes",
+      "CleanedTitle": "heroes",
       "Artist": "David Bowie",
       "Album": "Heroes",
       "Other_Artists": "",
@@ -1239,6 +1342,7 @@
     {
       "Id": 104,
       "Title": "Black Hole Sun",
+      "CleanedTitle": "black-hole-sun",
       "Artist": "Soundgarden",
       "Album": "Superunknown",
       "Other_Artists": "",
@@ -1251,6 +1355,7 @@
     {
       "Id": 105,
       "Title": "Pinball Wizard",
+      "CleanedTitle": "pinball-wizard",
       "Artist": "The Who",
       "Album": "Tommy",
       "Other_Artists": "",
@@ -1263,6 +1368,7 @@
     {
       "Id": 106,
       "Title": "Hideaway",
+      "CleanedTitle": "hideaway",
       "Artist": "Kiesza",
       "Album": "Sound Of A Woman",
       "Other_Artists": "",
@@ -1275,6 +1381,7 @@
     {
       "Id": 107,
       "Title": "Night Moves",
+      "CleanedTitle": "night-moves",
       "Artist": "Bob Seger",
       "Album": "Night Moves",
       "Other_Artists": "",
@@ -1287,6 +1394,7 @@
     {
       "Id": 108,
       "Title": "Hey Joe",
+      "CleanedTitle": "hey-joe",
       "Artist": "Jimi Hendrix",
       "Album": "Are You Experienced",
       "Other_Artists": "The Leaves+ Billy Roberts",
@@ -1299,6 +1407,7 @@
     {
       "Id": 109,
       "Title": "Empty Arms - 1984 Version",
+      "CleanedTitle": "empty-arms-1984-version",
       "Artist": "Stevie Ray Vaughan",
       "Album": "The Sky Is Crying",
       "Other_Artists": "",
@@ -1311,6 +1420,7 @@
     {
       "Id": 110,
       "Title": "If It's Wrong (It's Alright)",
+      "CleanedTitle": "if-it-s-wrong-it-s-alright",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -1323,6 +1433,7 @@
     {
       "Id": 111,
       "Title": "Satisfied Mind",
+      "CleanedTitle": "satisfied-mind",
       "Artist": "Jeff Buckley",
       "Album": "You and I",
       "Other_Artists": "Porter Wagoner+ Red Hays",
@@ -1335,6 +1446,7 @@
     {
       "Id": 112,
       "Title": "You and Me",
+      "CleanedTitle": "you-and-me",
       "Artist": "Neil Young",
       "Album": "Harvest Moon",
       "Other_Artists": "",
@@ -1347,6 +1459,7 @@
     {
       "Id": 113,
       "Title": "Manic Depression",
+      "CleanedTitle": "manic-depression",
       "Artist": "Jimi Hendrix",
       "Album": "Are You Experienced",
       "Other_Artists": "",
@@ -1359,6 +1472,7 @@
     {
       "Id": 114,
       "Title": "Hymne à l'amour",
+      "CleanedTitle": "hymne-a-l-amour",
       "Artist": "Édith Piaf",
       "Album": "Éternelle",
       "Other_Artists": "Jeff Buckley",
@@ -1371,6 +1485,7 @@
     {
       "Id": 115,
       "Title": "Evers",
+      "CleanedTitle": "evers",
       "Artist": "Corey Heuvel",
       "Album": "Evers - EP",
       "Other_Artists": "",
@@ -1383,6 +1498,7 @@
     {
       "Id": 116,
       "Title": "Lost Highway",
+      "CleanedTitle": "lost-highway",
       "Artist": "Hank Williams",
       "Album": "The Complete Hank Williams",
       "Other_Artists": "Leon Payne+ Jeff Buckley",
@@ -1395,6 +1511,7 @@
     {
       "Id": 117,
       "Title": "Breathe (In the Air)",
+      "CleanedTitle": "breathe-in-the-air",
       "Artist": "Pink Floyd",
       "Album": "The Dark Side of the Moon",
       "Other_Artists": "",
@@ -1407,6 +1524,7 @@
     {
       "Id": 118,
       "Title": "Time",
+      "CleanedTitle": "time",
       "Artist": "Pink Floyd",
       "Album": "The Dark Side of the Moon",
       "Other_Artists": "",
@@ -1419,6 +1537,7 @@
     {
       "Id": 119,
       "Title": "Little Wing",
+      "CleanedTitle": "little-wing",
       "Artist": "Jimi Hendrix",
       "Album": "Axis: Bold As Love",
       "Other_Artists": "",
@@ -1431,6 +1550,7 @@
     {
       "Id": 120,
       "Title": "Virtual Insanity",
+      "CleanedTitle": "virtual-insanity",
       "Artist": "Jamiroquai",
       "Album": "Travelling Without Moving",
       "Other_Artists": "",
@@ -1443,6 +1563,7 @@
     {
       "Id": 121,
       "Title": "Layla (Unplugged)",
+      "CleanedTitle": "layla-unplugged",
       "Artist": "Eric Clapton",
       "Album": "Unplugged (Live)",
       "Other_Artists": "",
@@ -1455,6 +1576,7 @@
     {
       "Id": 122,
       "Title": "Snow (Hey Oh)",
+      "CleanedTitle": "snow-hey-oh",
       "Artist": "Red Hot Chili Peppers",
       "Album": "Stadium Arcadium",
       "Other_Artists": "",
@@ -1467,6 +1589,7 @@
     {
       "Id": 123,
       "Title": "Tightrope",
+      "CleanedTitle": "tightrope",
       "Artist": "Stevie Ray Vaughan",
       "Album": "In Step",
       "Other_Artists": "",
@@ -1479,6 +1602,7 @@
     {
       "Id": 124,
       "Title": "Slow Dancing in a Burning Room",
+      "CleanedTitle": "slow-dancing-in-a-burning-room",
       "Artist": "John Mayer",
       "Album": "Continuum",
       "Other_Artists": "",
@@ -1491,6 +1615,7 @@
     {
       "Id": 125,
       "Title": "While My Guitar Gently Weeps",
+      "CleanedTitle": "while-my-guitar-gently-weeps",
       "Artist": "The Beatles",
       "Album": "The Beatles/The White Album",
       "Other_Artists": "Eric Clapton+ The Jeff Healey Band",
@@ -1503,6 +1628,7 @@
     {
       "Id": 126,
       "Title": "At the Creek",
+      "CleanedTitle": "at-the-creek",
       "Artist": "Corey Heuvel",
       "Album": "Evers - EP",
       "Other_Artists": "",
@@ -1515,6 +1641,7 @@
     {
       "Id": 127,
       "Title": "Spanish Castle Magic",
+      "CleanedTitle": "spanish-castle-magic",
       "Artist": "Jimi Hendrix",
       "Album": "Axis: Bold As Love",
       "Other_Artists": "",
@@ -1527,6 +1654,7 @@
     {
       "Id": 128,
       "Title": "Shiver",
+      "CleanedTitle": "shiver",
       "Artist": "Coldplay",
       "Album": "Parachutes",
       "Other_Artists": "",
@@ -1539,6 +1667,7 @@
     {
       "Id": 129,
       "Title": "Tears in Heaven",
+      "CleanedTitle": "tears-in-heaven",
       "Artist": "Eric Clapton",
       "Album": "Unplugged (Live)",
       "Other_Artists": "",
@@ -1551,6 +1680,7 @@
     {
       "Id": 130,
       "Title": "L.A. Woman",
+      "CleanedTitle": "l-a-woman",
       "Artist": "The Doors",
       "Album": "L.A. Woman",
       "Other_Artists": "",
@@ -1563,6 +1693,7 @@
     {
       "Id": 131,
       "Title": "Over the Hills and Far Away",
+      "CleanedTitle": "over-the-hills-and-far-away",
       "Artist": "Led Zeppelin",
       "Album": "Houses of the Holy",
       "Other_Artists": "",
@@ -1575,6 +1706,7 @@
     {
       "Id": 132,
       "Title": "I Don't Need No Doctor",
+      "CleanedTitle": "i-don-t-need-no-doctor",
       "Artist": "John Mayer",
       "Album": "Where the Light Is: John Mayer Live In Los Angeles",
       "Other_Artists": "Ray Charles+ Nick Ashford",
@@ -1587,6 +1719,7 @@
     {
       "Id": 133,
       "Title": "That's Life",
+      "CleanedTitle": "that-s-life",
       "Artist": "Frank Sinatra",
       "Album": "That's Life",
       "Other_Artists": "Marion Montgomery",
@@ -1599,6 +1732,7 @@
     {
       "Id": 134,
       "Title": "Sir Duke",
+      "CleanedTitle": "sir-duke",
       "Artist": "Stevie Wonder",
       "Album": "Songs In The Key Of Life",
       "Other_Artists": "",
@@ -1611,6 +1745,7 @@
     {
       "Id": 135,
       "Title": "Hysteria",
+      "CleanedTitle": "hysteria",
       "Artist": "Muse",
       "Album": "Absolution",
       "Other_Artists": "",
@@ -1623,6 +1758,7 @@
     {
       "Id": 136,
       "Title": "Have a Cigar",
+      "CleanedTitle": "have-a-cigar",
       "Artist": "Pink Floyd",
       "Album": "Wish You Were Here",
       "Other_Artists": "",
@@ -1635,6 +1771,7 @@
     {
       "Id": 137,
       "Title": "The Logical Song",
+      "CleanedTitle": "the-logical-song",
       "Artist": "Supertramp",
       "Album": "Breakfast In America",
       "Other_Artists": "",
@@ -1647,6 +1784,7 @@
     {
       "Id": 138,
       "Title": "I Shot The Sheriff",
+      "CleanedTitle": "i-shot-the-sheriff",
       "Artist": "Bob Marley",
       "Album": "Burnin'",
       "Other_Artists": "Eric Clapton+ Bob Marley & The Wailers",
@@ -1659,6 +1797,7 @@
     {
       "Id": 139,
       "Title": "Down by the River",
+      "CleanedTitle": "down-by-the-river",
       "Artist": "Neil Young",
       "Album": "Everybody Knows This Is Nowhere",
       "Other_Artists": "",
@@ -1671,6 +1810,7 @@
     {
       "Id": 140,
       "Title": "No One Knows",
+      "CleanedTitle": "no-one-knows",
       "Artist": "Queens of the Stone Age",
       "Album": "Songs For The Deaf",
       "Other_Artists": "",
@@ -1683,6 +1823,7 @@
     {
       "Id": 141,
       "Title": "The Way You Make Me Feel (Tutorial/Lesson)",
+      "CleanedTitle": "the-way-you-make-me-feel-tutorial-lesson",
       "Artist": "Michael Jackson",
       "Album": "Bad",
       "Other_Artists": "",
@@ -1695,6 +1836,7 @@
     {
       "Id": 142,
       "Title": "Money (Tutorial/Lesson)",
+      "CleanedTitle": "money-tutorial-lesson",
       "Artist": "Pink Floyd",
       "Album": "The Dark Side of the Moon",
       "Other_Artists": "",
@@ -1707,6 +1849,7 @@
     {
       "Id": 143,
       "Title": "Voodoo Child (Tutorial/Lesson)",
+      "CleanedTitle": "voodoo-child-tutorial-lesson",
       "Artist": "Jimi Hendrix",
       "Album": "Electric Ladyland",
       "Other_Artists": "",
@@ -1719,6 +1862,7 @@
     {
       "Id": 144,
       "Title": "Crazy (Tutorial/Lesson)",
+      "CleanedTitle": "crazy-tutorial-lesson",
       "Artist": "Gnarls Barkley",
       "Album": "St. Elsewhere",
       "Other_Artists": "",
@@ -1731,6 +1875,7 @@
     {
       "Id": 145,
       "Title": "Into The Heavens",
+      "CleanedTitle": "into-the-heavens",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -1743,6 +1888,7 @@
     {
       "Id": 146,
       "Title": "Green Light Girl",
+      "CleanedTitle": "green-light-girl",
       "Artist": "Doyle Bramhall II, Smokestack",
       "Album": "Welcome",
       "Other_Artists": "",
@@ -1755,6 +1901,7 @@
     {
       "Id": 147,
       "Title": "Drowning In Your Love",
+      "CleanedTitle": "drowning-in-your-love",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -1767,6 +1914,7 @@
     {
       "Id": 148,
       "Title": "Tension",
+      "CleanedTitle": "tension",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -1779,6 +1927,7 @@
     {
       "Id": 149,
       "Title": "Sunshine Of Your Love",
+      "CleanedTitle": "sunshine-of-your-love",
       "Artist": "Cream",
       "Album": "Disraeli Gears",
       "Other_Artists": "",
@@ -1791,6 +1940,7 @@
     {
       "Id": 150,
       "Title": "My Favorite Obsession",
+      "CleanedTitle": "my-favorite-obsession",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -1803,6 +1953,7 @@
     {
       "Id": 151,
       "Title": "Jeremy",
+      "CleanedTitle": "jeremy",
       "Artist": "Pearl Jam",
       "Album": "Ten",
       "Other_Artists": "",
@@ -1815,6 +1966,7 @@
     {
       "Id": 152,
       "Title": "Morning Wish",
+      "CleanedTitle": "morning-wish",
       "Artist": "Corey Heuvel",
       "Album": "Evers - EP",
       "Other_Artists": "",
@@ -1827,6 +1979,7 @@
     {
       "Id": 153,
       "Title": "She Who Waits",
+      "CleanedTitle": "she-who-waits",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -1839,6 +1992,7 @@
     {
       "Id": 154,
       "Title": "Beautiful Slide",
+      "CleanedTitle": "beautiful-slide",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -1851,6 +2005,7 @@
     {
       "Id": 155,
       "Title": "Eleanor Rigby",
+      "CleanedTitle": "eleanor-rigby",
       "Artist": "The Beatles",
       "Album": "Revolver",
       "Other_Artists": "",
@@ -1863,6 +2018,7 @@
     {
       "Id": 156,
       "Title": "Red House",
+      "CleanedTitle": "red-house",
       "Artist": "Jimi Hendrix",
       "Album": "Are You Experienced",
       "Other_Artists": "",
@@ -1875,6 +2031,7 @@
     {
       "Id": 157,
       "Title": "Hallelujah",
+      "CleanedTitle": "hallelujah",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "Leonard Cohen",
@@ -1887,6 +2044,7 @@
     {
       "Id": 158,
       "Title": "That's Right!",
+      "CleanedTitle": "that-s-right",
       "Artist": "Jesse Cook",
       "Album": "Vertigo",
       "Other_Artists": "",
@@ -1899,6 +2057,7 @@
     {
       "Id": 159,
       "Title": "Under the Bridge",
+      "CleanedTitle": "under-the-bridge",
       "Artist": "Red Hot Chili Peppers",
       "Album": "Blood Sugar Sex Magik",
       "Other_Artists": "",
@@ -1911,6 +2070,7 @@
     {
       "Id": 160,
       "Title": "Dust in a Baggie",
+      "CleanedTitle": "dust-in-a-baggie",
       "Artist": "Billy Strings",
       "Album": "Billy Strings - EP",
       "Other_Artists": "",
@@ -1923,6 +2083,7 @@
     {
       "Id": 161,
       "Title": "Mary Had a Little Lamb",
+      "CleanedTitle": "mary-had-a-little-lamb",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Texas Flood",
       "Other_Artists": "Buddy Guy",
@@ -1935,6 +2096,7 @@
     {
       "Id": 162,
       "Title": "Hey You",
+      "CleanedTitle": "hey-you",
       "Artist": "Pink Floyd",
       "Album": "The Wall",
       "Other_Artists": "",
@@ -1947,6 +2109,7 @@
     {
       "Id": 163,
       "Title": "Is There Anybody Out There?",
+      "CleanedTitle": "is-there-anybody-out-there",
       "Artist": "Pink Floyd",
       "Album": "The Wall",
       "Other_Artists": "",
@@ -1959,6 +2122,7 @@
     {
       "Id": 164,
       "Title": "Dance Monkey",
+      "CleanedTitle": "dance-monkey",
       "Artist": "Tones And I",
       "Album": "The Kids Are Coming - EP",
       "Other_Artists": "",
@@ -1971,6 +2135,7 @@
     {
       "Id": 165,
       "Title": "What I'm About to Do",
+      "CleanedTitle": "what-i-m-about-to-do",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -1983,6 +2148,7 @@
     {
       "Id": 166,
       "Title": "God Knows (I Love You Madly)",
+      "CleanedTitle": "god-knows-i-love-you-madly",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -1995,6 +2161,7 @@
     {
       "Id": 167,
       "Title": "Into Light",
+      "CleanedTitle": "into-light",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -2007,6 +2174,7 @@
     {
       "Id": 168,
       "Title": "Mother Divine",
+      "CleanedTitle": "mother-divine",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -2019,6 +2187,7 @@
     {
       "Id": 169,
       "Title": "Flowers Field",
+      "CleanedTitle": "flowers-field",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -2031,6 +2200,7 @@
     {
       "Id": 170,
       "Title": "Time Always Tells",
+      "CleanedTitle": "time-always-tells",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -2043,6 +2213,7 @@
     {
       "Id": 171,
       "Title": "Life's Been Good",
+      "CleanedTitle": "life-s-been-good",
       "Artist": "Joe Walsh",
       "Album": "But Seriously, Folks...",
       "Other_Artists": "",
@@ -2055,6 +2226,7 @@
     {
       "Id": 172,
       "Title": "Cemetery Gates",
+      "CleanedTitle": "cemetery-gates",
       "Artist": "Pantera",
       "Album": "Cowboys from Hell",
       "Other_Artists": "",
@@ -2067,6 +2239,7 @@
     {
       "Id": 173,
       "Title": "Mama, I'm Coming Home",
+      "CleanedTitle": "mama-i-m-coming-home",
       "Artist": "Ozzy Osbourne",
       "Album": "No More Tears",
       "Other_Artists": "",
@@ -2079,6 +2252,7 @@
     {
       "Id": 174,
       "Title": "Pink Moon",
+      "CleanedTitle": "pink-moon",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2091,6 +2265,7 @@
     {
       "Id": 175,
       "Title": "Place To Be",
+      "CleanedTitle": "place-to-be",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2103,6 +2278,7 @@
     {
       "Id": 176,
       "Title": "Road",
+      "CleanedTitle": "road",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2115,6 +2291,7 @@
     {
       "Id": 177,
       "Title": "Which Will",
+      "CleanedTitle": "which-will",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2127,6 +2304,7 @@
     {
       "Id": 178,
       "Title": "Horn",
+      "CleanedTitle": "horn",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2139,6 +2317,7 @@
     {
       "Id": 179,
       "Title": "Things Behind The Sun",
+      "CleanedTitle": "things-behind-the-sun",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2151,6 +2330,7 @@
     {
       "Id": 180,
       "Title": "Know",
+      "CleanedTitle": "know",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2163,6 +2343,7 @@
     {
       "Id": 181,
       "Title": "Parasite",
+      "CleanedTitle": "parasite",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2175,6 +2356,7 @@
     {
       "Id": 182,
       "Title": "Free Ride",
+      "CleanedTitle": "free-ride",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2187,6 +2369,7 @@
     {
       "Id": 183,
       "Title": "Harvest Breed",
+      "CleanedTitle": "harvest-breed",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2199,6 +2382,7 @@
     {
       "Id": 184,
       "Title": "From The Morning",
+      "CleanedTitle": "from-the-morning",
       "Artist": "Nick Drake",
       "Album": "Pink Moon",
       "Other_Artists": "",
@@ -2211,6 +2395,7 @@
     {
       "Id": 185,
       "Title": "Three Little Birds",
+      "CleanedTitle": "three-little-birds",
       "Artist": "Bob Marley",
       "Album": "Exodus",
       "Other_Artists": "Bob Marley & The Wailers",
@@ -2223,6 +2408,7 @@
     {
       "Id": 186,
       "Title": "The Crush of Love",
+      "CleanedTitle": "the-crush-of-love",
       "Artist": "Joe Satriani",
       "Album": "Crystal Planet",
       "Other_Artists": "",
@@ -2235,6 +2421,7 @@
     {
       "Id": 187,
       "Title": "Money for Nothing",
+      "CleanedTitle": "money-for-nothing",
       "Artist": "Dire Straits",
       "Album": "Brothers in Arms",
       "Other_Artists": "Sting",
@@ -2247,6 +2434,7 @@
     {
       "Id": 188,
       "Title": "Love Me Two Times",
+      "CleanedTitle": "love-me-two-times",
       "Artist": "The Doors",
       "Album": "Strange Days",
       "Other_Artists": "",
@@ -2259,6 +2447,7 @@
     {
       "Id": 189,
       "Title": "Couldn't Stand the Weather",
+      "CleanedTitle": "couldn-t-stand-the-weather",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Couldn't Stand The Weather",
       "Other_Artists": "",
@@ -2271,6 +2460,7 @@
     {
       "Id": 190,
       "Title": "Pray for the Moon",
+      "CleanedTitle": "pray-for-the-moon",
       "Artist": "Corey Heuvel",
       "Album": "Evers - EP",
       "Other_Artists": "",
@@ -2283,6 +2473,7 @@
     {
       "Id": 191,
       "Title": "Paint It, Black",
+      "CleanedTitle": "paint-it-black",
       "Artist": "The Rolling Stones",
       "Album": "Aftermath",
       "Other_Artists": "",
@@ -2295,6 +2486,7 @@
     {
       "Id": 192,
       "Title": "I Still Haven't Found What I'm Looking For",
+      "CleanedTitle": "i-still-haven-t-found-what-i-m-looking-for",
       "Artist": "U2",
       "Album": "The Joshua Tree",
       "Other_Artists": "",
@@ -2307,6 +2499,7 @@
     {
       "Id": 193,
       "Title": "Freewill",
+      "CleanedTitle": "freewill",
       "Artist": "Rush",
       "Album": "Permanent Waves",
       "Other_Artists": "",
@@ -2319,6 +2512,7 @@
     {
       "Id": 194,
       "Title": "Led Boots",
+      "CleanedTitle": "led-boots",
       "Artist": "Jeff Beck",
       "Album": "Wired",
       "Other_Artists": "",
@@ -2331,6 +2525,7 @@
     {
       "Id": 195,
       "Title": "Forget Her",
+      "CleanedTitle": "forget-her",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "",
@@ -2343,6 +2538,7 @@
     {
       "Id": 196,
       "Title": "Let Me In",
+      "CleanedTitle": "let-me-in",
       "Artist": "Corey Heuvel",
       "Album": "Let Me In",
       "Other_Artists": "",
@@ -2355,6 +2551,7 @@
     {
       "Id": 197,
       "Title": "Stay Away",
+      "CleanedTitle": "stay-away",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2367,6 +2564,7 @@
     {
       "Id": 198,
       "Title": "The Longest November",
+      "CleanedTitle": "the-longest-november",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -2379,6 +2577,7 @@
     {
       "Id": 199,
       "Title": "Sleepless",
+      "CleanedTitle": "sleepless",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -2391,6 +2590,7 @@
     {
       "Id": 200,
       "Title": "Hidden in Stone",
+      "CleanedTitle": "hidden-in-stone",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -2403,6 +2603,7 @@
     {
       "Id": 201,
       "Title": "Eye of Wonder",
+      "CleanedTitle": "eye-of-wonder",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -2415,6 +2616,7 @@
     {
       "Id": 202,
       "Title": "Home Again",
+      "CleanedTitle": "home-again",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -2427,6 +2629,7 @@
     {
       "Id": 203,
       "Title": "Delirium",
+      "CleanedTitle": "delirium",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -2439,6 +2642,7 @@
     {
       "Id": 204,
       "Title": "The New",
+      "CleanedTitle": "the-new",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -2451,6 +2655,7 @@
     {
       "Id": 205,
       "Title": "Queenstown",
+      "CleanedTitle": "queenstown",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -2463,6 +2668,7 @@
     {
       "Id": 206,
       "Title": "Crimson Fools",
+      "CleanedTitle": "crimson-fools",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -2475,6 +2681,7 @@
     {
       "Id": 207,
       "Title": "Sage Trees",
+      "CleanedTitle": "sage-trees",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -2487,6 +2694,7 @@
     {
       "Id": 208,
       "Title": "Out of the Mist",
+      "CleanedTitle": "out-of-the-mist",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -2499,6 +2707,7 @@
     {
       "Id": 209,
       "Title": "A Still and Silent Mountain",
+      "CleanedTitle": "a-still-and-silent-mountain",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -2511,6 +2720,7 @@
     {
       "Id": 210,
       "Title": "Jhana",
+      "CleanedTitle": "jhana",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -2523,6 +2733,7 @@
     {
       "Id": 211,
       "Title": "On My Skin",
+      "CleanedTitle": "on-my-skin",
       "Artist": "Corey Heuvel",
       "Album": "Evers - EP",
       "Other_Artists": "",
@@ -2535,6 +2746,7 @@
     {
       "Id": 212,
       "Title": "Grace",
+      "CleanedTitle": "grace-corey-heuvel",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -2547,6 +2759,7 @@
     {
       "Id": 213,
       "Title": "Venus Sky",
+      "CleanedTitle": "venus-sky",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -2559,6 +2772,7 @@
     {
       "Id": 214,
       "Title": "Leave My Girl Alone",
+      "CleanedTitle": "leave-my-girl-alone",
       "Artist": "Stevie Ray Vaughan",
       "Album": "In Step",
       "Other_Artists": "",
@@ -2571,6 +2785,7 @@
     {
       "Id": 215,
       "Title": "They Won't Go When I Go",
+      "CleanedTitle": "they-won-t-go-when-i-go",
       "Artist": "Stevie Wonder",
       "Album": "Fulfillingness' First Finale",
       "Other_Artists": "",
@@ -2583,6 +2798,7 @@
     {
       "Id": 216,
       "Title": "Love Story",
+      "CleanedTitle": "love-story",
       "Artist": "Corey Heuvel",
       "Album": "Corey VandenHeuvel - EP",
       "Other_Artists": "",
@@ -2595,6 +2811,7 @@
     {
       "Id": 217,
       "Title": "Radiant Skies",
+      "CleanedTitle": "radiant-skies",
       "Artist": "Corey Heuvel",
       "Album": "Corey VandenHeuvel - EP",
       "Other_Artists": "",
@@ -2607,6 +2824,7 @@
     {
       "Id": 218,
       "Title": "Slide Thing",
+      "CleanedTitle": "slide-thing",
       "Artist": "Corey Heuvel",
       "Album": "Corey VandenHeuvel - EP",
       "Other_Artists": "",
@@ -2619,6 +2837,7 @@
     {
       "Id": 219,
       "Title": "Can't Find My Way Home",
+      "CleanedTitle": "can-t-find-my-way-home",
       "Artist": "Blind Faith",
       "Album": "Blind Faith",
       "Other_Artists": "Steve Winwood",
@@ -2631,6 +2850,7 @@
     {
       "Id": 220,
       "Title": "Mojo Pin",
+      "CleanedTitle": "mojo-pin",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "",
@@ -2643,6 +2863,7 @@
     {
       "Id": 221,
       "Title": "Never Going Back Again",
+      "CleanedTitle": "never-going-back-again",
       "Artist": "Fleetwood Mac",
       "Album": "Rumours",
       "Other_Artists": "Lindsey Buckingham",
@@ -2655,6 +2876,7 @@
     {
       "Id": 222,
       "Title": "Kaijie",
+      "CleanedTitle": "kaijie",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2667,6 +2889,7 @@
     {
       "Id": 223,
       "Title": "Furch OOM Vintage 1",
+      "CleanedTitle": "furch-oom-vintage-1",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2679,6 +2902,7 @@
     {
       "Id": 224,
       "Title": "Godin Progression Plus Cherry Burst RN (Electric Song/GPPCB)",
+      "CleanedTitle": "godin-progression-plus-cherry-burst-rn-electric-song-gppcb",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2691,6 +2915,7 @@
     {
       "Id": 225,
       "Title": "Godin Stadium '59 Desert Green RN demo (Electric Song/GSDG)",
+      "CleanedTitle": "godin-stadium-59-desert-green-rn-demo-electric-song-gsdg",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2703,6 +2928,7 @@
     {
       "Id": 226,
       "Title": "Godin 5th Ave Uptown GT LTD Trans Cream (Electric Song/GLTC)",
+      "CleanedTitle": "godin-5th-ave-uptown-gt-ltd-trans-cream-electric-song-gltc",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2715,6 +2941,7 @@
     {
       "Id": 227,
       "Title": "Martin vs. Furch vs. Boucher | High-End Guitar Comparison (MHD/FVD/BSG)",
+      "CleanedTitle": "martin-vs-furch-vs-boucher-high-end-guitar-comparison-mhd-fvd-bsg",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2727,6 +2954,7 @@
     {
       "Id": 228,
       "Title": "Memories",
+      "CleanedTitle": "memories",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2739,6 +2967,7 @@
     {
       "Id": 229,
       "Title": "Furch Blue D-CM demo",
+      "CleanedTitle": "furch-blue-d-cm-demo",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2751,6 +2980,7 @@
     {
       "Id": 230,
       "Title": "Boucher SG-52-I demo",
+      "CleanedTitle": "boucher-sg-52-i-demo",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2763,6 +2993,7 @@
     {
       "Id": 231,
       "Title": "Godin Rialto JR Satina Gray HG Q-Discrete",
+      "CleanedTitle": "godin-rialto-jr-satina-gray-hg-q-discrete",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2775,6 +3006,7 @@
     {
       "Id": 232,
       "Title": "Godin Metropolis Natural Cedar EQ demo",
+      "CleanedTitle": "godin-metropolis-natural-cedar-eq-demo",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2787,6 +3019,7 @@
     {
       "Id": 233,
       "Title": "Godin Metropolis LTD Natural HG EQ demo",
+      "CleanedTitle": "godin-metropolis-ltd-natural-hg-eq-demo",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2799,6 +3032,7 @@
     {
       "Id": 234,
       "Title": "Godin Metropolis LTD Havana Burst HG EQ demo",
+      "CleanedTitle": "godin-metropolis-ltd-havana-burst-hg-eq-demo",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2811,6 +3045,7 @@
     {
       "Id": 235,
       "Title": "Godin Fairmount Concert Hall Natural HG EQ demo",
+      "CleanedTitle": "godin-fairmount-concert-hall-natural-hg-eq-demo",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2823,6 +3058,7 @@
     {
       "Id": 236,
       "Title": "Boucher HG-56 acoustic guitar demo",
+      "CleanedTitle": "boucher-hg-56-acoustic-guitar-demo",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2835,6 +3071,7 @@
     {
       "Id": 237,
       "Title": "Furch OM22TSW-C-DB SGI",
+      "CleanedTitle": "furch-om22tsw-c-db-sgi",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2847,6 +3084,7 @@
     {
       "Id": 238,
       "Title": "Furch G25CR-C",
+      "CleanedTitle": "furch-g25cr-c",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2859,6 +3097,7 @@
     {
       "Id": 239,
       "Title": "Furch *SGI* D22TSR",
+      "CleanedTitle": "furch-sgi-d22tsr",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2871,6 +3110,7 @@
     {
       "Id": 240,
       "Title": "Furch OM34TSR-DB B2",
+      "CleanedTitle": "furch-om34tsr-db-b2",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2883,6 +3123,7 @@
     {
       "Id": 241,
       "Title": "La Patrie Etude (Classical Guitar/LPE)",
+      "CleanedTitle": "la-patrie-etude-classical-guitar-lpe",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2895,6 +3136,7 @@
     {
       "Id": 242,
       "Title": "Study No. 6 in D",
+      "CleanedTitle": "study-no-6-in-d",
       "Artist": "Fernando Sor",
       "Album": null,
       "Other_Artists": "",
@@ -2907,6 +3149,7 @@
     {
       "Id": 243,
       "Title": "Breedlove Discovery Concert CE",
+      "CleanedTitle": "breedlove-discovery-concert-ce",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2919,6 +3162,7 @@
     {
       "Id": 244,
       "Title": "Stonebridge OM35ASR-DB",
+      "CleanedTitle": "stonebridge-om35asr-db",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2931,6 +3175,7 @@
     {
       "Id": 245,
       "Title": "Norman ST40 Parlor Burnt Umber",
+      "CleanedTitle": "norman-st40-parlor-burnt-umber",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2943,6 +3188,7 @@
     {
       "Id": 246,
       "Title": "Norman B15 Dark Almond",
+      "CleanedTitle": "norman-b15-dark-almond",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2955,6 +3201,7 @@
     {
       "Id": 247,
       "Title": "Norman ST68",
+      "CleanedTitle": "norman-st68",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2967,6 +3214,7 @@
     {
       "Id": 248,
       "Title": "Norman B20 Burnt Umber",
+      "CleanedTitle": "norman-b20-burnt-umber",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2979,6 +3227,7 @@
     {
       "Id": 249,
       "Title": "Norman ST40 CW GT Presys",
+      "CleanedTitle": "norman-st40-cw-gt-presys",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -2991,6 +3240,7 @@
     {
       "Id": 250,
       "Title": "Norman ST68 CW",
+      "CleanedTitle": "norman-st68-cw",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -3003,6 +3253,7 @@
     {
       "Id": 251,
       "Title": "Stonebridge D22SR",
+      "CleanedTitle": "stonebridge-d22sr",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -3015,6 +3266,7 @@
     {
       "Id": 252,
       "Title": "Godin Passion RG-3 Indigo Burst RN (Electric Song/GPRG)",
+      "CleanedTitle": "godin-passion-rg-3-indigo-burst-rn-electric-song-gprg",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -3027,6 +3279,7 @@
     {
       "Id": 253,
       "Title": "Breaking the Girl",
+      "CleanedTitle": "breaking-the-girl",
       "Artist": "Red Hot Chili Peppers",
       "Album": "Blood Sugar Sex Magik",
       "Other_Artists": "",
@@ -3039,6 +3292,7 @@
     {
       "Id": 254,
       "Title": "Behind Blue Eyes",
+      "CleanedTitle": "behind-blue-eyes",
       "Artist": "The Who",
       "Album": "Who's Next",
       "Other_Artists": "",
@@ -3051,6 +3305,7 @@
     {
       "Id": 255,
       "Title": "Get Back",
+      "CleanedTitle": "get-back",
       "Artist": "The Beatles",
       "Album": "Let It Be",
       "Other_Artists": "",
@@ -3063,6 +3318,7 @@
     {
       "Id": 256,
       "Title": "Interstate Love Song",
+      "CleanedTitle": "interstate-love-song",
       "Artist": "Stone Temple Pilots",
       "Album": "Purple",
       "Other_Artists": "",
@@ -3075,6 +3331,7 @@
     {
       "Id": 257,
       "Title": "The Headmaster Ritual",
+      "CleanedTitle": "the-headmaster-ritual",
       "Artist": "The Smiths",
       "Album": "Meat Is Murder",
       "Other_Artists": "",
@@ -3087,6 +3344,7 @@
     {
       "Id": 258,
       "Title": "Thunder Road",
+      "CleanedTitle": "thunder-road",
       "Artist": "Bruce Springsteen",
       "Album": "Born To Run",
       "Other_Artists": "",
@@ -3099,6 +3357,7 @@
     {
       "Id": 259,
       "Title": "Nobody's Fault But My Own",
+      "CleanedTitle": "nobody-s-fault-but-my-own",
       "Artist": "Beck",
       "Album": "Mutations",
       "Other_Artists": "",
@@ -3111,6 +3370,7 @@
     {
       "Id": 260,
       "Title": "Subterranean Homesick Alien",
+      "CleanedTitle": "subterranean-homesick-alien",
       "Artist": "Radiohead",
       "Album": "OK Computer",
       "Other_Artists": "",
@@ -3123,6 +3383,7 @@
     {
       "Id": 261,
       "Title": "Band On The Run",
+      "CleanedTitle": "band-on-the-run",
       "Artist": "Wings",
       "Album": "Band On the Run",
       "Other_Artists": "Paul McCartney",
@@ -3135,6 +3396,7 @@
     {
       "Id": 262,
       "Title": "Blue on Black",
+      "CleanedTitle": "blue-on-black",
       "Artist": "Kenny Wayne Shepherd",
       "Album": "Trouble Is...",
       "Other_Artists": "",
@@ -3147,6 +3409,7 @@
     {
       "Id": 263,
       "Title": "Dear Mr. Fantasy",
+      "CleanedTitle": "dear-mr-fantasy",
       "Artist": "Traffic",
       "Album": "Mr. Fantasy",
       "Other_Artists": "",
@@ -3159,6 +3422,7 @@
     {
       "Id": 264,
       "Title": "Lucky Man",
+      "CleanedTitle": "lucky-man",
       "Artist": "The Verve",
       "Album": "Urban Hymns",
       "Other_Artists": "",
@@ -3171,6 +3435,7 @@
     {
       "Id": 265,
       "Title": "Helplessly Hoping",
+      "CleanedTitle": "helplessly-hoping",
       "Artist": "Crosby, Stills & Nash",
       "Album": "Crosby, Stills & Nash",
       "Other_Artists": "",
@@ -3183,6 +3448,7 @@
     {
       "Id": 266,
       "Title": "Ballad Of Big Nothing",
+      "CleanedTitle": "ballad-of-big-nothing",
       "Artist": "Elliott Smith",
       "Album": "Either/Or",
       "Other_Artists": "",
@@ -3195,6 +3461,7 @@
     {
       "Id": 267,
       "Title": "Something Like Olivia",
+      "CleanedTitle": "something-like-olivia",
       "Artist": "John Mayer",
       "Album": "Born and Raised",
       "Other_Artists": "",
@@ -3207,6 +3474,7 @@
     {
       "Id": 268,
       "Title": "Natural Blues",
+      "CleanedTitle": "natural-blues",
       "Artist": "Moby",
       "Album": "Play: The Complete Recordings",
       "Other_Artists": "",
@@ -3219,6 +3487,7 @@
     {
       "Id": 269,
       "Title": "Trouble So Hard",
+      "CleanedTitle": "trouble-so-hard",
       "Artist": "Vera Hall",
       "Album": null,
       "Other_Artists": "",
@@ -3231,6 +3500,7 @@
     {
       "Id": 270,
       "Title": "Green River",
+      "CleanedTitle": "green-river",
       "Artist": "Creedence Clearwater Revival",
       "Album": "Green River",
       "Other_Artists": "",
@@ -3243,6 +3513,7 @@
     {
       "Id": 271,
       "Title": "Dark Horse",
+      "CleanedTitle": "dark-horse",
       "Artist": "Amanda Marshall",
       "Album": "Amanda Marshall",
       "Other_Artists": "",
@@ -3255,6 +3526,7 @@
     {
       "Id": 272,
       "Title": "Fearless",
+      "CleanedTitle": "fearless",
       "Artist": "Pink Floyd",
       "Album": "Meddle",
       "Other_Artists": "",
@@ -3267,6 +3539,7 @@
     {
       "Id": 273,
       "Title": "Can't Stop",
+      "CleanedTitle": "can-t-stop",
       "Artist": "Red Hot Chili Peppers",
       "Album": "By the Way",
       "Other_Artists": "",
@@ -3279,6 +3552,7 @@
     {
       "Id": 274,
       "Title": "Surely (I Love You)",
+      "CleanedTitle": "surely-i-love-you",
       "Artist": "Colin James",
       "Album": "Colin James And The Little Big Band",
       "Other_Artists": "",
@@ -3291,6 +3565,7 @@
     {
       "Id": 275,
       "Title": "Kiss Me",
+      "CleanedTitle": "kiss-me",
       "Artist": "Sixpence None The Richer",
       "Album": "Sixpence None the Richer",
       "Other_Artists": "",
@@ -3303,6 +3578,7 @@
     {
       "Id": 276,
       "Title": "Don't Let It Bring You Down",
+      "CleanedTitle": "don-t-let-it-bring-you-down",
       "Artist": "Neil Young",
       "Album": "After the Gold Rush",
       "Other_Artists": "",
@@ -3315,6 +3591,7 @@
     {
       "Id": 277,
       "Title": "Babe I'm Gonna Leave You",
+      "CleanedTitle": "babe-i-m-gonna-leave-you",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin",
       "Other_Artists": "Anne Bredon",
@@ -3327,6 +3604,7 @@
     {
       "Id": 278,
       "Title": "Oceans",
+      "CleanedTitle": "oceans",
       "Artist": "Pearl Jam",
       "Album": "Ten",
       "Other_Artists": "",
@@ -3339,6 +3617,7 @@
     {
       "Id": 279,
       "Title": "Higher Ground",
+      "CleanedTitle": "higher-ground",
       "Artist": "Stevie Wonder",
       "Album": "Innervisions",
       "Other_Artists": "Red Hot Chili Peppers",
@@ -3351,6 +3630,7 @@
     {
       "Id": 280,
       "Title": "Out On The Western Plain",
+      "CleanedTitle": "out-on-the-western-plain",
       "Artist": "Rory Gallagher",
       "Album": "Against The Grain",
       "Other_Artists": "Lead Belly",
@@ -3363,6 +3643,7 @@
     {
       "Id": 281,
       "Title": "Catfish Blues",
+      "CleanedTitle": "catfish-blues",
       "Artist": "Jimi Hendrix",
       "Album": "Blues",
       "Other_Artists": "Robert Petway",
@@ -3375,6 +3656,7 @@
     {
       "Id": 282,
       "Title": "Crazy In Love",
+      "CleanedTitle": "crazy-in-love",
       "Artist": "Beyoncé, JAY-Z",
       "Album": "Dangerously In Love",
       "Other_Artists": "",
@@ -3387,6 +3669,7 @@
     {
       "Id": 283,
       "Title": "Helpless",
+      "CleanedTitle": "helpless",
       "Artist": "Neil Young",
       "Album": "Déjà Vu",
       "Other_Artists": "Crosby, Stills, Nash & Young",
@@ -3399,6 +3682,7 @@
     {
       "Id": 284,
       "Title": "There She Goes",
+      "CleanedTitle": "there-she-goes",
       "Artist": "The La's",
       "Album": "The La's",
       "Other_Artists": "",
@@ -3411,6 +3695,7 @@
     {
       "Id": 285,
       "Title": "May This Be Love",
+      "CleanedTitle": "may-this-be-love",
       "Artist": "Jimi Hendrix",
       "Album": "Are You Experienced",
       "Other_Artists": "",
@@ -3423,6 +3708,7 @@
     {
       "Id": 286,
       "Title": "Hey, Hey, What Can I Do",
+      "CleanedTitle": "hey-hey-what-can-i-do",
       "Artist": "Led Zeppelin",
       "Album": "Coda (Deluxe Edition)",
       "Other_Artists": "",
@@ -3435,6 +3721,7 @@
     {
       "Id": 287,
       "Title": "Slither",
+      "CleanedTitle": "slither",
       "Artist": "Velvet Revolver",
       "Album": "Contraband",
       "Other_Artists": "",
@@ -3447,6 +3734,7 @@
     {
       "Id": 288,
       "Title": "Going to California",
+      "CleanedTitle": "going-to-california",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin IV",
       "Other_Artists": "",
@@ -3459,6 +3747,7 @@
     {
       "Id": 289,
       "Title": "Ball Peen Hammer",
+      "CleanedTitle": "ball-peen-hammer",
       "Artist": "Chris Whitley",
       "Album": "Dirt Floor",
       "Other_Artists": "",
@@ -3471,6 +3760,7 @@
     {
       "Id": 290,
       "Title": "Somebody To Love",
+      "CleanedTitle": "somebody-to-love",
       "Artist": "Queen",
       "Album": "A Day At The Races",
       "Other_Artists": "",
@@ -3483,6 +3773,7 @@
     {
       "Id": 291,
       "Title": "Iris",
+      "CleanedTitle": "iris",
       "Artist": "The Goo Goo Dolls",
       "Album": "Dizzy up the Girl",
       "Other_Artists": "",
@@ -3495,6 +3786,7 @@
     {
       "Id": 292,
       "Title": "This Flight Tonight",
+      "CleanedTitle": "this-flight-tonight",
       "Artist": "Joni Mitchell",
       "Album": "Blue",
       "Other_Artists": "",
@@ -3507,6 +3799,7 @@
     {
       "Id": 293,
       "Title": "Ramble On",
+      "CleanedTitle": "ramble-on",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin II",
       "Other_Artists": "",
@@ -3519,6 +3812,7 @@
     {
       "Id": 294,
       "Title": "Little Black Submarines",
+      "CleanedTitle": "little-black-submarines",
       "Artist": "The Black Keys",
       "Album": "El Camino",
       "Other_Artists": "",
@@ -3531,6 +3825,7 @@
     {
       "Id": 295,
       "Title": "Come On In My Kitchen",
+      "CleanedTitle": "come-on-in-my-kitchen",
       "Artist": "Robert Johnson",
       "Album": "King Of The Delta Blues Singers",
       "Other_Artists": "",
@@ -3543,6 +3838,7 @@
     {
       "Id": 296,
       "Title": "Sultans of Swing",
+      "CleanedTitle": "sultans-of-swing",
       "Artist": "Dire Straits",
       "Album": "Dire Straits",
       "Other_Artists": "",
@@ -3555,6 +3851,7 @@
     {
       "Id": 297,
       "Title": "Elusive",
+      "CleanedTitle": "elusive",
       "Artist": "Scott Matthews",
       "Album": "Passing Stranger",
       "Other_Artists": "",
@@ -3567,6 +3864,7 @@
     {
       "Id": 298,
       "Title": "The Last Time",
+      "CleanedTitle": "the-last-time",
       "Artist": "The Rolling Stones",
       "Album": "Out Of Our Heads",
       "Other_Artists": "",
@@ -3579,6 +3877,7 @@
     {
       "Id": 299,
       "Title": "Valerie",
+      "CleanedTitle": "valerie",
       "Artist": "Amy Winehouse",
       "Album": "Version",
       "Other_Artists": "The Zutons+ Mark Ronson",
@@ -3591,6 +3890,7 @@
     {
       "Id": 300,
       "Title": "1979",
+      "CleanedTitle": "1979",
       "Artist": "The Smashing Pumpkins",
       "Album": "Mellon Collie And The Infinite Sadness",
       "Other_Artists": "",
@@ -3603,6 +3903,7 @@
     {
       "Id": 301,
       "Title": "May You Never",
+      "CleanedTitle": "may-you-never",
       "Artist": "John Martyn",
       "Album": "Solid Air",
       "Other_Artists": "",
@@ -3615,6 +3916,7 @@
     {
       "Id": 302,
       "Title": "The Needle and the Damage Done",
+      "CleanedTitle": "the-needle-and-the-damage-done",
       "Artist": "Neil Young",
       "Album": "Harvest",
       "Other_Artists": "",
@@ -3627,6 +3929,7 @@
     {
       "Id": 303,
       "Title": "Long Train Running (Partial)",
+      "CleanedTitle": "long-train-running-partial",
       "Artist": "The Doobie Brothers",
       "Album": "The Captain and Me",
       "Other_Artists": "",
@@ -3639,6 +3942,7 @@
     {
       "Id": 304,
       "Title": "Stones In My Passway",
+      "CleanedTitle": "stones-in-my-passway",
       "Artist": "Robert Johnson",
       "Album": "King Of The Delta Blues Singers",
       "Other_Artists": "",
@@ -3651,6 +3955,7 @@
     {
       "Id": 305,
       "Title": "Touch of Grey",
+      "CleanedTitle": "touch-of-grey",
       "Artist": "Grateful Dead",
       "Album": "In The Dark",
       "Other_Artists": "",
@@ -3663,6 +3968,7 @@
     {
       "Id": 306,
       "Title": "Fake Plastic Trees",
+      "CleanedTitle": "fake-plastic-trees",
       "Artist": "Radiohead",
       "Album": "The Bends",
       "Other_Artists": "",
@@ -3675,6 +3981,7 @@
     {
       "Id": 307,
       "Title": "Somebody That I Used To Know",
+      "CleanedTitle": "somebody-that-i-used-to-know",
       "Artist": "Goyte",
       "Album": "Making Mirrors",
       "Other_Artists": "",
@@ -3687,6 +3994,7 @@
     {
       "Id": 308,
       "Title": "Beast Of Burden",
+      "CleanedTitle": "beast-of-burden",
       "Artist": "The Rolling Stones",
       "Album": "Some Girls",
       "Other_Artists": "",
@@ -3699,6 +4007,7 @@
     {
       "Id": 309,
       "Title": "Fall to Pieces",
+      "CleanedTitle": "fall-to-pieces",
       "Artist": "Velvet Revolver",
       "Album": "Contraband",
       "Other_Artists": "",
@@ -3711,6 +4020,7 @@
     {
       "Id": 310,
       "Title": "You Got It",
+      "CleanedTitle": "you-got-it",
       "Artist": "Roy Orbison",
       "Album": "Mystery Girl",
       "Other_Artists": "",
@@ -3723,6 +4033,7 @@
     {
       "Id": 311,
       "Title": "Walkin' On The Sun",
+      "CleanedTitle": "walkin-on-the-sun",
       "Artist": "Smash Mouth",
       "Album": "Fush Yu Mang",
       "Other_Artists": "",
@@ -3735,6 +4046,7 @@
     {
       "Id": 312,
       "Title": "The Past Recedes",
+      "CleanedTitle": "the-past-recedes",
       "Artist": "John Frusciante",
       "Album": "Curtains",
       "Other_Artists": "",
@@ -3747,6 +4059,7 @@
     {
       "Id": 313,
       "Title": "Be My Husband",
+      "CleanedTitle": "be-my-husband",
       "Artist": "Nina Simone",
       "Album": "Pastel Blues",
       "Other_Artists": "Jeff Buckley",
@@ -3759,6 +4072,7 @@
     {
       "Id": 314,
       "Title": "Be Your Husband",
+      "CleanedTitle": "be-your-husband",
       "Artist": "Jeff Buckley",
       "Album": "Live at Sin-é (Legacy Edition)",
       "Other_Artists": "Nina Simone",
@@ -3771,6 +4085,7 @@
     {
       "Id": 315,
       "Title": "Mandolin improv",
+      "CleanedTitle": "mandolin-improv",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -3783,6 +4098,7 @@
     {
       "Id": 316,
       "Title": "That Song",
+      "CleanedTitle": "that-song",
       "Artist": "Big Wreck",
       "Album": "In Loving Memory Of...",
       "Other_Artists": "",
@@ -3795,6 +4111,7 @@
     {
       "Id": 317,
       "Title": "Sitting, Waiting, Wishing",
+      "CleanedTitle": "sitting-waiting-wishing",
       "Artist": "Jack Johnson",
       "Album": "In Between Dreams",
       "Other_Artists": "",
@@ -3807,6 +4124,7 @@
     {
       "Id": 318,
       "Title": "Glass",
+      "CleanedTitle": "glass",
       "Artist": "Incubus",
       "Album": "S.C.I.E.N.C.E",
       "Other_Artists": "",
@@ -3819,6 +4137,7 @@
     {
       "Id": 319,
       "Title": "Fool in the Rain",
+      "CleanedTitle": "fool-in-the-rain",
       "Artist": "Led Zeppelin",
       "Album": "In Through the out Door",
       "Other_Artists": "",
@@ -3831,6 +4150,7 @@
     {
       "Id": 320,
       "Title": "Sweet Dreams (Are Made of This)",
+      "CleanedTitle": "sweet-dreams-are-made-of-this",
       "Artist": "Eurythmics",
       "Album": "Sweet Dreams (Are Made Of This)",
       "Other_Artists": "Annie Lennox+ Dave Stewart",
@@ -3843,6 +4163,7 @@
     {
       "Id": 321,
       "Title": "Carolina in my Mind",
+      "CleanedTitle": "carolina-in-my-mind",
       "Artist": "James Taylor",
       "Album": "James Taylor",
       "Other_Artists": "",
@@ -3855,6 +4176,7 @@
     {
       "Id": 322,
       "Title": "Nights In White Satin",
+      "CleanedTitle": "nights-in-white-satin",
       "Artist": "The Moody Blues",
       "Album": "Days Of Future Passed",
       "Other_Artists": "",
@@ -3867,6 +4189,7 @@
     {
       "Id": 323,
       "Title": "Wondering Where The Lions Are",
+      "CleanedTitle": "wondering-where-the-lions-are",
       "Artist": "Bruce Cockburn",
       "Album": "Waiting For A Miracle",
       "Other_Artists": "",
@@ -3879,6 +4202,7 @@
     {
       "Id": 324,
       "Title": "House Of The Rising Sun",
+      "CleanedTitle": "house-of-the-rising-sun",
       "Artist": "The Animals",
       "Album": "The Animals",
       "Other_Artists": "",
@@ -3891,6 +4215,7 @@
     {
       "Id": 325,
       "Title": "In The Street (That 70's Show Theme) (Partial)",
+      "CleanedTitle": "in-the-street-that-70-s-show-theme-partial",
       "Artist": "Big Star",
       "Album": "#1 Record",
       "Other_Artists": "",
@@ -3903,6 +4228,7 @@
     {
       "Id": 326,
       "Title": "Thirteen",
+      "CleanedTitle": "thirteen",
       "Artist": "Big Star",
       "Album": "#1 Record",
       "Other_Artists": "Elliott Smith",
@@ -3915,6 +4241,7 @@
     {
       "Id": 327,
       "Title": "Babylon",
+      "CleanedTitle": "babylon",
       "Artist": "David Gray",
       "Album": "White Ladder",
       "Other_Artists": "",
@@ -3927,6 +4254,7 @@
     {
       "Id": 328,
       "Title": "She Talks To Angels",
+      "CleanedTitle": "she-talks-to-angels",
       "Artist": "The Black Crowes",
       "Album": "Shake Your Money Maker",
       "Other_Artists": "",
@@ -3939,6 +4267,7 @@
     {
       "Id": 329,
       "Title": "Lookin' Out My Back Door",
+      "CleanedTitle": "lookin-out-my-back-door",
       "Artist": "Creedence Clearwater Revival",
       "Album": "Cosmo's Factory",
       "Other_Artists": "",
@@ -3951,6 +4280,7 @@
     {
       "Id": 330,
       "Title": "Starlight",
+      "CleanedTitle": "starlight",
       "Artist": "Muse",
       "Album": "Black Holes and Revelations",
       "Other_Artists": "",
@@ -3963,6 +4293,7 @@
     {
       "Id": 331,
       "Title": "Little Green",
+      "CleanedTitle": "little-green",
       "Artist": "Joni Mitchell",
       "Album": "Blue",
       "Other_Artists": "",
@@ -3975,6 +4306,7 @@
     {
       "Id": 332,
       "Title": "Why Georgia",
+      "CleanedTitle": "why-georgia",
       "Artist": "John Mayer",
       "Album": "Room For Squares",
       "Other_Artists": "",
@@ -3987,6 +4319,7 @@
     {
       "Id": 333,
       "Title": "Summertime",
+      "CleanedTitle": "summertime",
       "Artist": "George Gershwin",
       "Album": "Porgy And Bess",
       "Other_Artists": "Ella Fitzgerald",
@@ -3999,6 +4332,7 @@
     {
       "Id": 334,
       "Title": "Black Mountain Side",
+      "CleanedTitle": "black-mountain-side",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin",
       "Other_Artists": "",
@@ -4011,6 +4345,7 @@
     {
       "Id": 335,
       "Title": "River Man",
+      "CleanedTitle": "river-man",
       "Artist": "Nick Drake",
       "Album": "Five Leaves Left",
       "Other_Artists": "",
@@ -4023,6 +4358,7 @@
     {
       "Id": 336,
       "Title": "Street Fighting Man",
+      "CleanedTitle": "street-fighting-man",
       "Artist": "The Rolling Stones",
       "Album": "Beggars Banquet",
       "Other_Artists": "",
@@ -4035,6 +4371,7 @@
     {
       "Id": 337,
       "Title": "All These Things That I've Done",
+      "CleanedTitle": "all-these-things-that-i-ve-done",
       "Artist": "The Killers",
       "Album": "Hot Fuss",
       "Other_Artists": "",
@@ -4047,6 +4384,7 @@
     {
       "Id": 338,
       "Title": "Midnight Rider",
+      "CleanedTitle": "midnight-rider",
       "Artist": "Allman Brothers Band",
       "Album": "Idlewild South",
       "Other_Artists": "",
@@ -4059,6 +4397,7 @@
     {
       "Id": 339,
       "Title": "The Simpson's Theme",
+      "CleanedTitle": "the-simpson-s-theme",
       "Artist": "Danny Elfman",
       "Album": "Go Simpsonic with The Simpsons",
       "Other_Artists": "",
@@ -4071,6 +4410,7 @@
     {
       "Id": 340,
       "Title": "My Stupid Mouth",
+      "CleanedTitle": "my-stupid-mouth",
       "Artist": "John Mayer",
       "Album": "Room For Squares",
       "Other_Artists": "",
@@ -4083,6 +4423,7 @@
     {
       "Id": 341,
       "Title": "Blue Crystal Fire",
+      "CleanedTitle": "blue-crystal-fire",
       "Artist": "Robbie Basho",
       "Album": "Visions of the Country",
       "Other_Artists": "Arborea",
@@ -4095,6 +4436,7 @@
     {
       "Id": 342,
       "Title": "Thunderstruck (Partial)",
+      "CleanedTitle": "thunderstruck-partial",
       "Artist": "AC/DC",
       "Album": "The Razors Edge",
       "Other_Artists": "",
@@ -4107,6 +4449,7 @@
     {
       "Id": 343,
       "Title": "Whole Lotta Love (Partial)",
+      "CleanedTitle": "whole-lotta-love-partial",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin II",
       "Other_Artists": "",
@@ -4119,6 +4462,7 @@
     {
       "Id": 344,
       "Title": "Texas Flood",
+      "CleanedTitle": "texas-flood",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Texas Flood",
       "Other_Artists": "",
@@ -4131,6 +4475,7 @@
     {
       "Id": 345,
       "Title": "Wish You Were Here",
+      "CleanedTitle": "wish-you-were-here-incubus",
       "Artist": "Incubus",
       "Album": "Morning View",
       "Other_Artists": "",
@@ -4143,6 +4488,7 @@
     {
       "Id": 346,
       "Title": "Nothing Else Matters (Partial)",
+      "CleanedTitle": "nothing-else-matters-partial",
       "Artist": "Metallica",
       "Album": "Metallica/The Black Album",
       "Other_Artists": "",
@@ -4155,6 +4501,7 @@
     {
       "Id": 347,
       "Title": "Good Love Is On the Way",
+      "CleanedTitle": "good-love-is-on-the-way",
       "Artist": "John Mayer",
       "Album": "TRY! - Live In Concert",
       "Other_Artists": "",
@@ -4167,6 +4514,7 @@
     {
       "Id": 348,
       "Title": "This Love (Electric riff)",
+      "CleanedTitle": "this-love-electric-riff",
       "Artist": "Pantera",
       "Album": "Vulgar Display of Power",
       "Other_Artists": "",
@@ -4179,6 +4527,7 @@
     {
       "Id": 349,
       "Title": "Eruption (Electric riff)",
+      "CleanedTitle": "eruption-electric-riff",
       "Artist": "Van Halen",
       "Album": "Van Halen",
       "Other_Artists": "",
@@ -4191,6 +4540,7 @@
     {
       "Id": 350,
       "Title": "Scatterbrain (Electric riff)",
+      "CleanedTitle": "scatterbrain-electric-riff",
       "Artist": "Jeff Beck",
       "Album": "Blow By Blow",
       "Other_Artists": "",
@@ -4203,6 +4553,7 @@
     {
       "Id": 351,
       "Title": "Johnny B. Goode",
+      "CleanedTitle": "johnny-b-goode",
       "Artist": "Chuck Berry",
       "Album": "Berry Is On Top",
       "Other_Artists": "",
@@ -4215,6 +4566,7 @@
     {
       "Id": 352,
       "Title": "A Passage To Bangkok (Electric riff)",
+      "CleanedTitle": "a-passage-to-bangkok-electric-riff",
       "Artist": "Rush",
       "Album": "2112",
       "Other_Artists": "",
@@ -4227,6 +4579,7 @@
     {
       "Id": 353,
       "Title": "(Don't Fear) The Reaper (Electric riff)",
+      "CleanedTitle": "don-t-fear-the-reaper-electric-riff",
       "Artist": "Blue Öyster Cult",
       "Album": "Agents Of Fortune",
       "Other_Artists": "",
@@ -4239,6 +4592,7 @@
     {
       "Id": 354,
       "Title": "Waitin' for the Bus (Electric riff)",
+      "CleanedTitle": "waitin-for-the-bus-electric-riff",
       "Artist": "ZZ Top",
       "Album": "Tres Hombres",
       "Other_Artists": "",
@@ -4251,6 +4605,7 @@
     {
       "Id": 355,
       "Title": "La Grange (Partial)",
+      "CleanedTitle": "la-grange-partial",
       "Artist": "ZZ Top",
       "Album": "Tres Hombres",
       "Other_Artists": "",
@@ -4263,6 +4618,7 @@
     {
       "Id": 356,
       "Title": "Phone Call from Leavenworth",
+      "CleanedTitle": "phone-call-from-leavenworth",
       "Artist": "Chris Whitley",
       "Album": "Living With The Law",
       "Other_Artists": "",
@@ -4275,6 +4631,7 @@
     {
       "Id": 357,
       "Title": "Mr. Brightside",
+      "CleanedTitle": "mr-brightside",
       "Artist": "The Killers",
       "Album": "Hot Fuss",
       "Other_Artists": "",
@@ -4287,6 +4644,7 @@
     {
       "Id": 358,
       "Title": "Cinnamon Girl",
+      "CleanedTitle": "cinnamon-girl",
       "Artist": "Neil Young",
       "Album": "Everybody Knows This Is Nowhere",
       "Other_Artists": "",
@@ -4299,6 +4657,7 @@
     {
       "Id": 359,
       "Title": "Riptide",
+      "CleanedTitle": "riptide",
       "Artist": "Vance Joy",
       "Album": "Dream Your Life Away",
       "Other_Artists": "",
@@ -4311,6 +4670,7 @@
     {
       "Id": 360,
       "Title": "High and Dry",
+      "CleanedTitle": "high-and-dry",
       "Artist": "Radiohead",
       "Album": "The Bends",
       "Other_Artists": "",
@@ -4323,6 +4683,7 @@
     {
       "Id": 361,
       "Title": "Jumpin' Jack Flash",
+      "CleanedTitle": "jumpin-jack-flash",
       "Artist": "The Rolling Stones",
       "Album": null,
       "Other_Artists": "",
@@ -4335,6 +4696,7 @@
     {
       "Id": 362,
       "Title": "Glory Days",
+      "CleanedTitle": "glory-days",
       "Artist": "Bruce Springsteen",
       "Album": "Born In The U.S.A",
       "Other_Artists": "",
@@ -4347,6 +4709,7 @@
     {
       "Id": 363,
       "Title": "The Battle of Evermore (Partial)",
+      "CleanedTitle": "the-battle-of-evermore-partial",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin IV",
       "Other_Artists": "",
@@ -4359,6 +4722,7 @@
     {
       "Id": 364,
       "Title": "(Sittin' On) the Dock of the Bay",
+      "CleanedTitle": "sittin-on-the-dock-of-the-bay",
       "Artist": "Otis Redding",
       "Album": "The Dock of the Bay",
       "Other_Artists": "",
@@ -4371,6 +4735,7 @@
     {
       "Id": 365,
       "Title": "Stop This Train",
+      "CleanedTitle": "stop-this-train",
       "Artist": "John Mayer",
       "Album": "Continuum",
       "Other_Artists": "",
@@ -4383,6 +4748,7 @@
     {
       "Id": 366,
       "Title": "Jumper",
+      "CleanedTitle": "jumper",
       "Artist": "Third Eye Blind",
       "Album": "Third Eye Blind",
       "Other_Artists": "",
@@ -4395,6 +4761,7 @@
     {
       "Id": 367,
       "Title": "Cello Song",
+      "CleanedTitle": "cello-song",
       "Artist": "Nick Drake",
       "Album": "Five Leaves Left",
       "Other_Artists": "",
@@ -4407,6 +4774,7 @@
     {
       "Id": 368,
       "Title": "You Are the Best Thing",
+      "CleanedTitle": "you-are-the-best-thing",
       "Artist": "Ray LaMontagne",
       "Album": "Gossip In The Grain",
       "Other_Artists": "",
@@ -4419,6 +4787,7 @@
     {
       "Id": 369,
       "Title": "Instrumental/Improv",
+      "CleanedTitle": "instrumental-improv",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -4431,6 +4800,7 @@
     {
       "Id": 370,
       "Title": "Lie To Me",
+      "CleanedTitle": "lie-to-me",
       "Artist": "Jonny Lang",
       "Album": "Lie to Me",
       "Other_Artists": "",
@@ -4443,6 +4813,7 @@
     {
       "Id": 371,
       "Title": "Woodstock",
+      "CleanedTitle": "woodstock",
       "Artist": "Joni Mitchell",
       "Album": "Ladies of the Canyon",
       "Other_Artists": "",
@@ -4455,6 +4826,7 @@
     {
       "Id": 372,
       "Title": "Everlong",
+      "CleanedTitle": "everlong",
       "Artist": "Foo Fighters",
       "Album": "The Colour And the Shape",
       "Other_Artists": "",
@@ -4467,6 +4839,7 @@
     {
       "Id": 373,
       "Title": "Take It Easy",
+      "CleanedTitle": "take-it-easy",
       "Artist": "The Eagles",
       "Album": "Eagles",
       "Other_Artists": "",
@@ -4479,6 +4852,7 @@
     {
       "Id": 374,
       "Title": "Man Like You",
+      "CleanedTitle": "man-like-you",
       "Artist": "Patrick Watson",
       "Album": "Wooden Arms",
       "Other_Artists": "",
@@ -4491,6 +4865,7 @@
     {
       "Id": 375,
       "Title": "Message In A bottle",
+      "CleanedTitle": "message-in-a-bottle",
       "Artist": "The Police",
       "Album": "Reggatta De Blanc",
       "Other_Artists": "",
@@ -4503,6 +4878,7 @@
     {
       "Id": 376,
       "Title": "Love Her Madly",
+      "CleanedTitle": "love-her-madly",
       "Artist": "The Doors",
       "Album": "L.A. Woman",
       "Other_Artists": "",
@@ -4515,6 +4891,7 @@
     {
       "Id": 377,
       "Title": "Hazey Jane I",
+      "CleanedTitle": "hazey-jane-i",
       "Artist": "Nick Drake",
       "Album": "Bryter Layter",
       "Other_Artists": "",
@@ -4527,6 +4904,7 @@
     {
       "Id": 378,
       "Title": "Tell Me Why",
+      "CleanedTitle": "tell-me-why",
       "Artist": "Neil Young",
       "Album": "After the Gold Rush",
       "Other_Artists": "",
@@ -4539,6 +4917,7 @@
     {
       "Id": 379,
       "Title": "Morning Theft",
+      "CleanedTitle": "morning-theft",
       "Artist": "Jeff Buckley",
       "Album": "Sketches for My Sweetheart The Drunk",
       "Other_Artists": "",
@@ -4551,6 +4930,7 @@
     {
       "Id": 380,
       "Title": "Sleepwalk",
+      "CleanedTitle": "sleepwalk",
       "Artist": "Santo & Johnny",
       "Album": null,
       "Other_Artists": "Betsy Brye",
@@ -4563,6 +4943,7 @@
     {
       "Id": 381,
       "Title": "3AM",
+      "CleanedTitle": "3am",
       "Artist": "Matchbox Twenty",
       "Album": "Yourself or Someone Like You",
       "Other_Artists": "",
@@ -4575,6 +4956,7 @@
     {
       "Id": 382,
       "Title": "It Ain't Me Babe",
+      "CleanedTitle": "it-ain-t-me-babe",
       "Artist": "Bob Dylan",
       "Album": "Another Side Of Bob Dylan",
       "Other_Artists": "",
@@ -4587,6 +4969,7 @@
     {
       "Id": 383,
       "Title": "Bring It on Home",
+      "CleanedTitle": "bring-it-on-home",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin II",
       "Other_Artists": "Sonny Boy Williamson II",
@@ -4599,6 +4982,7 @@
     {
       "Id": 384,
       "Title": "Elderly Woman Behind the Counter in a Small Town",
+      "CleanedTitle": "elderly-woman-behind-the-counter-in-a-small-town",
       "Artist": "Pearl Jam",
       "Album": "Vs.",
       "Other_Artists": "",
@@ -4611,6 +4995,7 @@
     {
       "Id": 385,
       "Title": "Queen of California",
+      "CleanedTitle": "queen-of-california",
       "Artist": "John Mayer",
       "Album": "Born and Raised",
       "Other_Artists": "",
@@ -4623,6 +5008,7 @@
     {
       "Id": 386,
       "Title": "You're Still the One",
+      "CleanedTitle": "you-re-still-the-one",
       "Artist": "Shania Twain",
       "Album": "Come On Over",
       "Other_Artists": "",
@@ -4635,6 +5021,7 @@
     {
       "Id": 387,
       "Title": "I Won't Back Down",
+      "CleanedTitle": "i-won-t-back-down",
       "Artist": "Tom Petty",
       "Album": "Full Moon Fever",
       "Other_Artists": "Johnny Cash",
@@ -4647,6 +5034,7 @@
     {
       "Id": 388,
       "Title": "Here Comes The Sun",
+      "CleanedTitle": "here-comes-the-sun",
       "Artist": "The Beatles",
       "Album": "Abbey Road",
       "Other_Artists": "",
@@ -4659,6 +5047,7 @@
     {
       "Id": 389,
       "Title": "I Wish",
+      "CleanedTitle": "i-wish",
       "Artist": "Stevie Wonder",
       "Album": "Songs In The Key Of Life",
       "Other_Artists": "",
@@ -4671,6 +5060,7 @@
     {
       "Id": 390,
       "Title": "Walking On The Moon",
+      "CleanedTitle": "walking-on-the-moon",
       "Artist": "The Police",
       "Album": "Reggatta De Blanc",
       "Other_Artists": "",
@@ -4683,6 +5073,7 @@
     {
       "Id": 391,
       "Title": "Vincent",
+      "CleanedTitle": "vincent",
       "Artist": "Don McLean",
       "Album": "American Pie",
       "Other_Artists": "",
@@ -4695,6 +5086,7 @@
     {
       "Id": 392,
       "Title": "Learn to Fly",
+      "CleanedTitle": "learn-to-fly",
       "Artist": "Foo Fighters",
       "Album": "There Is Nothing Left To Lose",
       "Other_Artists": "",
@@ -4707,6 +5099,7 @@
     {
       "Id": 393,
       "Title": "Both Sides Now",
+      "CleanedTitle": "both-sides-now",
       "Artist": "Joni Mitchell",
       "Album": "Clouds",
       "Other_Artists": "",
@@ -4719,6 +5112,7 @@
     {
       "Id": 394,
       "Title": "Love Struck Baby",
+      "CleanedTitle": "love-struck-baby",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Texas Flood",
       "Other_Artists": "",
@@ -4731,6 +5125,7 @@
     {
       "Id": 395,
       "Title": "Fly",
+      "CleanedTitle": "fly",
       "Artist": "Nick Drake",
       "Album": "Bryter Layter",
       "Other_Artists": "",
@@ -4743,6 +5138,7 @@
     {
       "Id": 396,
       "Title": "Champagne Supernova",
+      "CleanedTitle": "champagne-supernova",
       "Artist": "Oasis",
       "Album": "(What's The Story) Morning Glory?",
       "Other_Artists": "",
@@ -4755,6 +5151,7 @@
     {
       "Id": 397,
       "Title": "Heart-Shaped Box",
+      "CleanedTitle": "heart-shaped-box",
       "Artist": "Nirvana",
       "Album": "In Utero",
       "Other_Artists": "",
@@ -4767,6 +5164,7 @@
     {
       "Id": 398,
       "Title": "Angeles",
+      "CleanedTitle": "angeles",
       "Artist": "Elliott Smith",
       "Album": "Either/Or",
       "Other_Artists": "",
@@ -4779,6 +5177,7 @@
     {
       "Id": 399,
       "Title": "My My, Hey Hey (Out of the Blue)",
+      "CleanedTitle": "my-my-hey-hey-out-of-the-blue",
       "Artist": "Neil Young",
       "Album": "Rust Never Sleeps",
       "Other_Artists": "",
@@ -4791,6 +5190,7 @@
     {
       "Id": 400,
       "Title": "Hit the Road Jack",
+      "CleanedTitle": "hit-the-road-jack",
       "Artist": "Ray Charles",
       "Album": null,
       "Other_Artists": "",
@@ -4803,6 +5203,7 @@
     {
       "Id": 401,
       "Title": "Bold as Love",
+      "CleanedTitle": "bold-as-love",
       "Artist": "Jimi Hendrix",
       "Album": "Axis: Bold As Love",
       "Other_Artists": "John Mayer",
@@ -4815,6 +5216,7 @@
     {
       "Id": 402,
       "Title": "People's Parties",
+      "CleanedTitle": "people-s-parties",
       "Artist": "Joni Mitchell",
       "Album": "Court and Spark",
       "Other_Artists": "",
@@ -4827,6 +5229,7 @@
     {
       "Id": 403,
       "Title": "People Are Strange",
+      "CleanedTitle": "people-are-strange",
       "Artist": "The Doors",
       "Album": "Strange Days",
       "Other_Artists": "",
@@ -4839,6 +5242,7 @@
     {
       "Id": 404,
       "Title": "Mississippi Queen (Partial)",
+      "CleanedTitle": "mississippi-queen-partial",
       "Artist": "Mountain",
       "Album": "Climbing!",
       "Other_Artists": "",
@@ -4851,6 +5255,7 @@
     {
       "Id": 405,
       "Title": "One Of These Things First",
+      "CleanedTitle": "one-of-these-things-first",
       "Artist": "Nick Drake",
       "Album": "Bryter Layter",
       "Other_Artists": "",
@@ -4863,6 +5268,7 @@
     {
       "Id": 406,
       "Title": "Panama (Partial)",
+      "CleanedTitle": "panama-partial",
       "Artist": "Van Halen",
       "Album": "1984",
       "Other_Artists": "",
@@ -4875,6 +5281,7 @@
     {
       "Id": 407,
       "Title": "Ain't Talkin' 'Bout Love (Partial)",
+      "CleanedTitle": "ain-t-talkin-bout-love-partial",
       "Artist": "Van Halen",
       "Album": "Van Halen",
       "Other_Artists": "",
@@ -4887,6 +5294,7 @@
     {
       "Id": 408,
       "Title": "Hot for Teacher (Partial)",
+      "CleanedTitle": "hot-for-teacher-partial",
       "Artist": "Van Halen",
       "Album": "1984",
       "Other_Artists": "",
@@ -4899,6 +5307,7 @@
     {
       "Id": 409,
       "Title": "Dance the Night Away (Partial)",
+      "CleanedTitle": "dance-the-night-away-partial",
       "Artist": "Van Halen",
       "Album": "Van Halen II",
       "Other_Artists": "",
@@ -4911,6 +5320,7 @@
     {
       "Id": 410,
       "Title": "Cherry Wine",
+      "CleanedTitle": "cherry-wine",
       "Artist": "Hozier",
       "Album": "Hozier",
       "Other_Artists": "",
@@ -4923,6 +5333,7 @@
     {
       "Id": 411,
       "Title": "Going Up The Country",
+      "CleanedTitle": "going-up-the-country",
       "Artist": "Canned Heat",
       "Album": "Living The Blues",
       "Other_Artists": "",
@@ -4935,6 +5346,7 @@
     {
       "Id": 412,
       "Title": "Finish What Ya Started",
+      "CleanedTitle": "finish-what-ya-started",
       "Artist": "Van Halen",
       "Album": "OU812",
       "Other_Artists": "",
@@ -4947,6 +5359,7 @@
     {
       "Id": 413,
       "Title": "Ice Cream Man",
+      "CleanedTitle": "ice-cream-man",
       "Artist": "Van Halen",
       "Album": "Van Halen",
       "Other_Artists": "John Brim",
@@ -4959,6 +5372,7 @@
     {
       "Id": 414,
       "Title": "Fugitive",
+      "CleanedTitle": "fugitive",
       "Artist": "David Gray",
       "Album": "Draw the Line",
       "Other_Artists": "",
@@ -4971,6 +5385,7 @@
     {
       "Id": 415,
       "Title": "Black Star",
+      "CleanedTitle": "black-star",
       "Artist": "Radiohead",
       "Album": "The Bends",
       "Other_Artists": "",
@@ -4983,6 +5398,7 @@
     {
       "Id": 416,
       "Title": "Blues Lesson",
+      "CleanedTitle": "blues-lesson",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -4995,6 +5411,7 @@
     {
       "Id": 417,
       "Title": "Eyes Wider Than Before",
+      "CleanedTitle": "eyes-wider-than-before",
       "Artist": "Scott Matthews",
       "Album": "Passing Stranger",
       "Other_Artists": "",
@@ -5007,6 +5424,7 @@
     {
       "Id": 418,
       "Title": "Every Little Thing She Does Is Magic",
+      "CleanedTitle": "every-little-thing-she-does-is-magic",
       "Artist": "The Police",
       "Album": "Ghost In The Machine",
       "Other_Artists": "",
@@ -5019,6 +5437,7 @@
     {
       "Id": 419,
       "Title": "Hammer To Fall (Electric riff)",
+      "CleanedTitle": "hammer-to-fall-electric-riff",
       "Artist": "Queen",
       "Album": "The Works",
       "Other_Artists": "",
@@ -5031,6 +5450,7 @@
     {
       "Id": 420,
       "Title": "Tie Your Mother Down (Electric riff)",
+      "CleanedTitle": "tie-your-mother-down-electric-riff",
       "Artist": "Queen",
       "Album": "A Day At The Races",
       "Other_Artists": "",
@@ -5043,6 +5463,7 @@
     {
       "Id": 421,
       "Title": "Lithium",
+      "CleanedTitle": "lithium",
       "Artist": "Nirvana",
       "Album": "Nevermind",
       "Other_Artists": "",
@@ -5055,6 +5476,7 @@
     {
       "Id": 422,
       "Title": "Shine On You Crazy Diamond (Electric riff)",
+      "CleanedTitle": "shine-on-you-crazy-diamond-electric-riff",
       "Artist": "Pink Floyd",
       "Album": "Wish You Were Here",
       "Other_Artists": "",
@@ -5067,6 +5489,7 @@
     {
       "Id": 423,
       "Title": "Back In Black (Electric riff)",
+      "CleanedTitle": "back-in-black-electric-riff",
       "Artist": "AC/DC",
       "Album": "Back In Black",
       "Other_Artists": "",
@@ -5079,6 +5502,7 @@
     {
       "Id": 424,
       "Title": "Welcome To The Jungle (Electric riff)",
+      "CleanedTitle": "welcome-to-the-jungle-electric-riff",
       "Artist": "Guns N' Roses",
       "Album": "Appetite For Destruction",
       "Other_Artists": "",
@@ -5091,6 +5515,7 @@
     {
       "Id": 425,
       "Title": "All Right Now (Electric riff)",
+      "CleanedTitle": "all-right-now-electric-riff",
       "Artist": "Free",
       "Album": "Fire And Water",
       "Other_Artists": "",
@@ -5103,6 +5528,7 @@
     {
       "Id": 426,
       "Title": "Lenny",
+      "CleanedTitle": "lenny",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Texas Flood",
       "Other_Artists": "",
@@ -5115,6 +5541,7 @@
     {
       "Id": 427,
       "Title": "Seven Nation Army",
+      "CleanedTitle": "seven-nation-army",
       "Artist": "The White Stripes",
       "Album": "Elephant",
       "Other_Artists": "",
@@ -5127,6 +5554,7 @@
     {
       "Id": 428,
       "Title": "Howlin' for You (Electric riff)",
+      "CleanedTitle": "howlin-for-you-electric-riff",
       "Artist": "The Black Keys",
       "Album": "Brothers",
       "Other_Artists": "",
@@ -5139,6 +5567,7 @@
     {
       "Id": 429,
       "Title": "Paranoid (Partial)",
+      "CleanedTitle": "paranoid-partial",
       "Artist": "Black Sabbath",
       "Album": "Paranoid",
       "Other_Artists": "",
@@ -5151,6 +5580,7 @@
     {
       "Id": 430,
       "Title": "War Pigs (Partial)",
+      "CleanedTitle": "war-pigs-partial",
       "Artist": "Black Sabbath",
       "Album": "Paranoid",
       "Other_Artists": "",
@@ -5163,6 +5593,7 @@
     {
       "Id": 431,
       "Title": "Miserlou (Partial)",
+      "CleanedTitle": "miserlou-partial",
       "Artist": "Dick Dale",
       "Album": null,
       "Other_Artists": "",
@@ -5175,6 +5606,7 @@
     {
       "Id": 432,
       "Title": "Personal Jesus (Electric riff)",
+      "CleanedTitle": "personal-jesus-electric-riff",
       "Artist": "Depeche Mode",
       "Album": "Violator",
       "Other_Artists": "",
@@ -5187,6 +5619,7 @@
     {
       "Id": 433,
       "Title": "Joker And The Thief (Electric riff)",
+      "CleanedTitle": "joker-and-the-thief-electric-riff",
       "Artist": "Wolfmother",
       "Album": "Wolfmother",
       "Other_Artists": "",
@@ -5199,6 +5632,7 @@
     {
       "Id": 434,
       "Title": "Tush",
+      "CleanedTitle": "tush",
       "Artist": "ZZ Top",
       "Album": "Fandango!",
       "Other_Artists": "",
@@ -5211,6 +5645,7 @@
     {
       "Id": 435,
       "Title": "Won't Get Fooled Again (Partial)",
+      "CleanedTitle": "won-t-get-fooled-again-partial",
       "Artist": "The Who",
       "Album": "Who's Next",
       "Other_Artists": "",
@@ -5223,6 +5658,7 @@
     {
       "Id": 436,
       "Title": "Enter Sandman (Electric riff)",
+      "CleanedTitle": "enter-sandman-electric-riff",
       "Artist": "Metallica",
       "Album": "Metallica/The Black Album",
       "Other_Artists": "",
@@ -5235,6 +5671,7 @@
     {
       "Id": 437,
       "Title": "Fuzz Universe (Electric riff)",
+      "CleanedTitle": "fuzz-universe-electric-riff",
       "Artist": "Paul Gilbert",
       "Album": "Fuzz Universe",
       "Other_Artists": "",
@@ -5247,6 +5684,7 @@
     {
       "Id": 438,
       "Title": "Magic Carpet Ride",
+      "CleanedTitle": "magic-carpet-ride",
       "Artist": "Steppenwolf",
       "Album": "The Second",
       "Other_Artists": "",
@@ -5259,6 +5697,7 @@
     {
       "Id": 439,
       "Title": "Dani California",
+      "CleanedTitle": "dani-california",
       "Artist": "Red Hot Chili Peppers",
       "Album": "Stadium Arcadium",
       "Other_Artists": "",
@@ -5271,6 +5710,7 @@
     {
       "Id": 440,
       "Title": "Hole Hearted",
+      "CleanedTitle": "hole-hearted",
       "Artist": "Extreme",
       "Album": "Extreme II - Pornograffitti",
       "Other_Artists": "",
@@ -5283,6 +5723,7 @@
     {
       "Id": 441,
       "Title": "Like a Stone",
+      "CleanedTitle": "like-a-stone",
       "Artist": "Audioslave",
       "Album": "Audioslave",
       "Other_Artists": "",
@@ -5295,6 +5736,7 @@
     {
       "Id": 442,
       "Title": "Dear Prudence",
+      "CleanedTitle": "dear-prudence",
       "Artist": "The Beatles",
       "Album": "The Beatles/The White Album",
       "Other_Artists": "",
@@ -5307,6 +5749,7 @@
     {
       "Id": 443,
       "Title": "Quick Metal Style Riff",
+      "CleanedTitle": "quick-metal-style-riff",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -5319,6 +5762,7 @@
     {
       "Id": 444,
       "Title": "Nutshell",
+      "CleanedTitle": "nutshell",
       "Artist": "Alice In Chains",
       "Album": "Jar Of Flies",
       "Other_Artists": "",
@@ -5331,6 +5775,7 @@
     {
       "Id": 445,
       "Title": "Just Like Heaven",
+      "CleanedTitle": "just-like-heaven",
       "Artist": "The Cure",
       "Album": "Kiss Me, Kiss Me, Kiss Me",
       "Other_Artists": "",
@@ -5343,6 +5788,7 @@
     {
       "Id": 446,
       "Title": "Every Teardrop is a Waterfall",
+      "CleanedTitle": "every-teardrop-is-a-waterfall",
       "Artist": "Coldplay",
       "Album": "Mylo Xyloto",
       "Other_Artists": "",
@@ -5355,6 +5801,7 @@
     {
       "Id": 447,
       "Title": "Mr Sandman",
+      "CleanedTitle": "mr-sandman",
       "Artist": "Chet Atkins",
       "Album": "Eclectic Guitar",
       "Other_Artists": "The Chordettes",
@@ -5367,6 +5814,7 @@
     {
       "Id": 448,
       "Title": "Patience",
+      "CleanedTitle": "patience",
       "Artist": "Chris Cornell",
       "Album": "No One Sings Like You Anymore",
       "Other_Artists": "Guns N' Roses",
@@ -5379,6 +5827,7 @@
     {
       "Id": 449,
       "Title": "Riveria Paradise (Partial)",
+      "CleanedTitle": "riveria-paradise-partial",
       "Artist": "Stevie Ray Vaughan",
       "Album": "In Step",
       "Other_Artists": "",
@@ -5391,6 +5840,7 @@
     {
       "Id": 450,
       "Title": "Blossom",
+      "CleanedTitle": "blossom",
       "Artist": "James Taylor",
       "Album": "Sweet Baby James",
       "Other_Artists": "",
@@ -5403,6 +5853,7 @@
     {
       "Id": 451,
       "Title": "Mr Crowley (Partial)",
+      "CleanedTitle": "mr-crowley-partial",
       "Artist": "Ozzy Osbourne",
       "Album": "Blizzard Of Ozz",
       "Other_Artists": "",
@@ -5415,6 +5866,7 @@
     {
       "Id": 452,
       "Title": "Pistol Slapper Blues",
+      "CleanedTitle": "pistol-slapper-blues",
       "Artist": "Rory Gallagher",
       "Album": "Rory Gallagher",
       "Other_Artists": "Blind Boy Fuller",
@@ -5427,6 +5879,7 @@
     {
       "Id": 453,
       "Title": "Prelude in E major BWV 1006a",
+      "CleanedTitle": "prelude-in-e-major-bwv-1006a",
       "Artist": "Johann Sebastian Bach",
       "Album": null,
       "Other_Artists": "",
@@ -5439,6 +5892,7 @@
     {
       "Id": 454,
       "Title": "Soldier's Eyes",
+      "CleanedTitle": "soldier-s-eyes",
       "Artist": "Jack Savoretti",
       "Album": "Between The Minds",
       "Other_Artists": "",
@@ -5451,6 +5905,7 @@
     {
       "Id": 455,
       "Title": "Into the Mystic",
+      "CleanedTitle": "into-the-mystic",
       "Artist": "Van Morrison",
       "Album": "Moondance",
       "Other_Artists": "",
@@ -5463,6 +5918,7 @@
     {
       "Id": 456,
       "Title": "Sugar Man",
+      "CleanedTitle": "sugar-man",
       "Artist": "Rodriguez",
       "Album": "Cold Fact",
       "Other_Artists": "",
@@ -5475,6 +5931,7 @@
     {
       "Id": 457,
       "Title": "Blues licks (Some SRV/Hendrix)",
+      "CleanedTitle": "blues-licks-some-srv-hendrix",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -5487,6 +5944,7 @@
     {
       "Id": 458,
       "Title": "Blues Slide Improv",
+      "CleanedTitle": "blues-slide-improv",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -5499,6 +5957,7 @@
     {
       "Id": 459,
       "Title": "Treetop Flyer",
+      "CleanedTitle": "treetop-flyer",
       "Artist": "Stephen Stills",
       "Album": "Just Roll Tape",
       "Other_Artists": "",
@@ -5511,6 +5970,7 @@
     {
       "Id": 460,
       "Title": "Deep River Blues",
+      "CleanedTitle": "deep-river-blues",
       "Artist": "Doc Watson",
       "Album": "Doc Watson",
       "Other_Artists": "Tommy Emmanuel",
@@ -5523,6 +5983,7 @@
     {
       "Id": 461,
       "Title": "Bad Penny",
+      "CleanedTitle": "bad-penny",
       "Artist": "Rory Gallagher",
       "Album": "Top Priority",
       "Other_Artists": "",
@@ -5535,6 +5996,7 @@
     {
       "Id": 462,
       "Title": "Enough To Leave",
+      "CleanedTitle": "enough-to-leave",
       "Artist": "Billy Strings",
       "Album": "Home",
       "Other_Artists": "",
@@ -5547,6 +6009,7 @@
     {
       "Id": 463,
       "Title": "Let's Go Crazy (Partial)",
+      "CleanedTitle": "let-s-go-crazy-partial",
       "Artist": "Prince",
       "Album": "Purple Rain",
       "Other_Artists": "",
@@ -5559,6 +6022,7 @@
     {
       "Id": 464,
       "Title": "Wild World",
+      "CleanedTitle": "wild-world",
       "Artist": "Yusuf / Cat Stevens",
       "Album": "Tea For The Tillerman",
       "Other_Artists": "",
@@ -5571,6 +6035,7 @@
     {
       "Id": 465,
       "Title": "Horse With No Name (Partial)",
+      "CleanedTitle": "horse-with-no-name-partial",
       "Artist": "America",
       "Album": "America",
       "Other_Artists": "",
@@ -5583,6 +6048,7 @@
     {
       "Id": 466,
       "Title": "Riverboat Fantasy",
+      "CleanedTitle": "riverboat-fantasy",
       "Artist": "David Wilcox",
       "Album": "My Eyes Keep Me In Trouble",
       "Other_Artists": "",
@@ -5595,6 +6061,7 @@
     {
       "Id": 467,
       "Title": "Intro \"Jhana\"",
+      "CleanedTitle": "intro-jhana",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -5607,6 +6074,7 @@
     {
       "Id": 468,
       "Title": "Deuces are Wild",
+      "CleanedTitle": "deuces-are-wild",
       "Artist": "Aerosmith",
       "Album": "Big Ones",
       "Other_Artists": "",
@@ -5619,6 +6087,7 @@
     {
       "Id": 469,
       "Title": "Clouds Race Across the Sky (Partial)",
+      "CleanedTitle": "clouds-race-across-the-sky-partial",
       "Artist": "Joe Satriani",
       "Album": "Engines of Creation",
       "Other_Artists": "",
@@ -5631,6 +6100,7 @@
     {
       "Id": 470,
       "Title": "Drops of Jupiter (Tell Me)",
+      "CleanedTitle": "drops-of-jupiter-tell-me",
       "Artist": "Train",
       "Album": "Drops Of Jupiter",
       "Other_Artists": "",
@@ -5643,6 +6113,7 @@
     {
       "Id": 471,
       "Title": "Outro \"Jhana\"",
+      "CleanedTitle": "outro-jhana",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -5655,6 +6126,7 @@
     {
       "Id": 472,
       "Title": "Study in B-Minor",
+      "CleanedTitle": "study-in-b-minor",
       "Artist": "Fernando Sor",
       "Album": null,
       "Other_Artists": "",
@@ -5667,6 +6139,7 @@
     {
       "Id": 473,
       "Title": "Lágrima",
+      "CleanedTitle": "lagrima",
       "Artist": "Francisco Tárrega",
       "Album": null,
       "Other_Artists": "",
@@ -5679,6 +6152,7 @@
     {
       "Id": 474,
       "Title": "Eugene's Trick Bag (Electric riff)",
+      "CleanedTitle": "eugene-s-trick-bag-electric-riff",
       "Artist": "Steve Vai",
       "Album": null,
       "Other_Artists": "",
@@ -5691,6 +6165,7 @@
     {
       "Id": 475,
       "Title": "Purple Haze",
+      "CleanedTitle": "purple-haze",
       "Artist": "Jimi Hendrix",
       "Album": "Are You Experienced",
       "Other_Artists": "",
@@ -5703,6 +6178,7 @@
     {
       "Id": 476,
       "Title": "Oh Well (Electric riff)",
+      "CleanedTitle": "oh-well-electric-riff",
       "Artist": "Fleetwood Mac",
       "Album": "Then Play On",
       "Other_Artists": "",
@@ -5715,6 +6191,7 @@
     {
       "Id": 477,
       "Title": "Scuttle Buttin' (Partial)",
+      "CleanedTitle": "scuttle-buttin-partial",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Couldn't Stand The Weather",
       "Other_Artists": "",
@@ -5727,6 +6204,7 @@
     {
       "Id": 478,
       "Title": "Sweet Child O'Mine (Partial)",
+      "CleanedTitle": "sweet-child-o-mine-partial",
       "Artist": "Guns N' Roses",
       "Album": "Appetite For Destruction",
       "Other_Artists": "",
@@ -5739,6 +6217,7 @@
     {
       "Id": 479,
       "Title": "Cowboys from Hell (Partial)",
+      "CleanedTitle": "cowboys-from-hell-partial",
       "Artist": "Pantera",
       "Album": "Cowboys from Hell",
       "Other_Artists": "",
@@ -5751,6 +6230,7 @@
     {
       "Id": 480,
       "Title": "Bad To The Bone (Electric riff/Blues Slide)",
+      "CleanedTitle": "bad-to-the-bone-electric-riff-blues-slide",
       "Artist": "George Thorogood & The Destroyers",
       "Album": "BAD TO THE BONE",
       "Other_Artists": "",
@@ -5763,6 +6243,7 @@
     {
       "Id": 481,
       "Title": "Suize Q (Electric riff)",
+      "CleanedTitle": "suize-q-electric-riff",
       "Artist": "Creedence Clearwater Revival",
       "Album": "Creedence Clearwater Revival",
       "Other_Artists": "",
@@ -5775,6 +6256,7 @@
     {
       "Id": 482,
       "Title": "Always with Me, Always with You (Electric riff)",
+      "CleanedTitle": "always-with-me-always-with-you-electric-riff",
       "Artist": "Joe Satriani",
       "Album": "Surfing With The Alien",
       "Other_Artists": "",
@@ -5787,6 +6269,7 @@
     {
       "Id": 483,
       "Title": "Heartbreaker (Electric riff)",
+      "CleanedTitle": "heartbreaker-electric-riff",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin II",
       "Other_Artists": "",
@@ -5799,6 +6282,7 @@
     {
       "Id": 484,
       "Title": "Rocky Mountain Way (Partial)",
+      "CleanedTitle": "rocky-mountain-way-partial",
       "Artist": "Joe Walsh",
       "Album": "The Smoker You Drink, The Player You Get",
       "Other_Artists": "",
@@ -5811,6 +6295,7 @@
     {
       "Id": 485,
       "Title": "More Than a Feeling (Partial)",
+      "CleanedTitle": "more-than-a-feeling-partial",
       "Artist": "Boston",
       "Album": "Boston",
       "Other_Artists": "",
@@ -5823,6 +6308,7 @@
     {
       "Id": 486,
       "Title": "Black Dog (Partial)",
+      "CleanedTitle": "black-dog-partial",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin IV",
       "Other_Artists": "",
@@ -5835,6 +6321,7 @@
     {
       "Id": 487,
       "Title": "One Step Closer (Electric riff)",
+      "CleanedTitle": "one-step-closer-electric-riff",
       "Artist": "Linkin Park",
       "Album": "Hybrid Theory",
       "Other_Artists": "",
@@ -5847,6 +6334,7 @@
     {
       "Id": 488,
       "Title": "Rocket Man",
+      "CleanedTitle": "rocket-man",
       "Artist": "Elton John",
       "Album": "Honky Château",
       "Other_Artists": "",
@@ -5859,6 +6347,7 @@
     {
       "Id": 489,
       "Title": "Intro \"The New\"",
+      "CleanedTitle": "intro-the-new",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -5871,6 +6360,7 @@
     {
       "Id": 490,
       "Title": "Jet Airliner",
+      "CleanedTitle": "jet-airliner",
       "Artist": "Steve Miller Band",
       "Album": "Book Of Dreams",
       "Other_Artists": "",
@@ -5883,6 +6373,7 @@
     {
       "Id": 491,
       "Title": "Otherside",
+      "CleanedTitle": "otherside",
       "Artist": "Red Hot Chili Peppers",
       "Album": "Californication",
       "Other_Artists": "",
@@ -5895,6 +6386,7 @@
     {
       "Id": 492,
       "Title": "Parchman Farm Blues",
+      "CleanedTitle": "parchman-farm-blues",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "Bukka White",
@@ -5907,6 +6399,7 @@
     {
       "Id": 493,
       "Title": "The Cave",
+      "CleanedTitle": "the-cave",
       "Artist": "Mumford & Sons",
       "Album": "Sigh No More",
       "Other_Artists": "",
@@ -5919,6 +6412,7 @@
     {
       "Id": 494,
       "Title": "Til I Am Myself Again",
+      "CleanedTitle": "til-i-am-myself-again",
       "Artist": "Blue Rodeo",
       "Album": "Casino",
       "Other_Artists": "",
@@ -5931,6 +6425,7 @@
     {
       "Id": 495,
       "Title": "Street Spirit (Fade Out)",
+      "CleanedTitle": "street-spirit-fade-out",
       "Artist": "Radiohead",
       "Album": "The Bends",
       "Other_Artists": "",
@@ -5943,6 +6438,7 @@
     {
       "Id": 496,
       "Title": "Volcano",
+      "CleanedTitle": "volcano",
       "Artist": "Damien Rice",
       "Album": "O",
       "Other_Artists": "",
@@ -5955,6 +6451,7 @@
     {
       "Id": 497,
       "Title": "Sweet Emotion (Partial)",
+      "CleanedTitle": "sweet-emotion-partial",
       "Artist": "Aerosmith",
       "Album": "Toys In The Attic",
       "Other_Artists": "",
@@ -5967,6 +6464,7 @@
     {
       "Id": 498,
       "Title": "Trouble",
+      "CleanedTitle": "trouble",
       "Artist": "Ray LaMontagne",
       "Album": "Trouble",
       "Other_Artists": "",
@@ -5979,6 +6477,7 @@
     {
       "Id": 499,
       "Title": "Scar Tissue",
+      "CleanedTitle": "scar-tissue",
       "Artist": "Red Hot Chili Peppers",
       "Album": "Californication",
       "Other_Artists": "",
@@ -5991,6 +6490,7 @@
     {
       "Id": 500,
       "Title": "Happy Xmas (War Is Over)",
+      "CleanedTitle": "happy-xmas-war-is-over",
       "Artist": "John Lennon, Yoko Ono",
       "Album": null,
       "Other_Artists": "",
@@ -6003,6 +6503,7 @@
     {
       "Id": 501,
       "Title": "Carol of the Bells (Partial)",
+      "CleanedTitle": "carol-of-the-bells-partial",
       "Artist": "Trans Siberian Orchestra",
       "Album": null,
       "Other_Artists": "Mykola Leontovych",
@@ -6015,6 +6516,7 @@
     {
       "Id": 502,
       "Title": "Stranglehold (Electric riff)",
+      "CleanedTitle": "stranglehold-electric-riff",
       "Artist": "Ted Nugent",
       "Album": "Ted Nugent",
       "Other_Artists": "",
@@ -6027,6 +6529,7 @@
     {
       "Id": 503,
       "Title": "The Pot (Electric riff)",
+      "CleanedTitle": "the-pot-electric-riff",
       "Artist": "Tool",
       "Album": "10,000 Days",
       "Other_Artists": "",
@@ -6039,6 +6542,7 @@
     {
       "Id": 504,
       "Title": "Song 2 (Partial)",
+      "CleanedTitle": "song-2-partial",
       "Artist": "Blur",
       "Album": "Blur",
       "Other_Artists": "",
@@ -6051,6 +6555,7 @@
     {
       "Id": 505,
       "Title": "Bohemian Rhapsody (Electric riff)",
+      "CleanedTitle": "bohemian-rhapsody-electric-riff",
       "Artist": "Queen",
       "Album": "A Night At The Opera",
       "Other_Artists": "",
@@ -6063,6 +6568,7 @@
     {
       "Id": 506,
       "Title": "Star Spangled Banner/American National Anthem (Jimi Hendrix Style)",
+      "CleanedTitle": "star-spangled-banner-american-national-anthem-jimi-hendrix-style",
       "Artist": "Francis Scott Key",
       "Album": null,
       "Other_Artists": "",
@@ -6075,6 +6581,7 @@
     {
       "Id": 507,
       "Title": "Killing In The Name (Electric riff)",
+      "CleanedTitle": "killing-in-the-name-electric-riff",
       "Artist": "Rage Against The Machine",
       "Album": "Rage Against The Machine",
       "Other_Artists": "",
@@ -6087,6 +6594,7 @@
     {
       "Id": 508,
       "Title": "Carry on Wayward Son (Electric riff)",
+      "CleanedTitle": "carry-on-wayward-son-electric-riff",
       "Artist": "Kansas",
       "Album": "Leftoverture",
       "Other_Artists": "",
@@ -6099,6 +6607,7 @@
     {
       "Id": 509,
       "Title": "Self Esteem (Electric riff)",
+      "CleanedTitle": "self-esteem-electric-riff",
       "Artist": "The Offspring",
       "Album": "Smash",
       "Other_Artists": "",
@@ -6111,6 +6620,7 @@
     {
       "Id": 510,
       "Title": "My Sharona (Electric riff)",
+      "CleanedTitle": "my-sharona-electric-riff",
       "Artist": "The Knack",
       "Album": "Get The Knack",
       "Other_Artists": "",
@@ -6123,6 +6633,7 @@
     {
       "Id": 511,
       "Title": "Man in the Box (Electric riff)",
+      "CleanedTitle": "man-in-the-box-electric-riff",
       "Artist": "Alice In Chains",
       "Album": "Facelift",
       "Other_Artists": "",
@@ -6135,6 +6646,7 @@
     {
       "Id": 512,
       "Title": "Beat It (Partial)",
+      "CleanedTitle": "beat-it-partial",
       "Artist": "Michael Jackson",
       "Album": "Thriller",
       "Other_Artists": "Eddie Van Halen",
@@ -6147,6 +6659,7 @@
     {
       "Id": 513,
       "Title": "Oye Como Va (Electric riff)",
+      "CleanedTitle": "oye-como-va-electric-riff",
       "Artist": "Santana",
       "Album": "Abraxas",
       "Other_Artists": "",
@@ -6159,6 +6672,7 @@
     {
       "Id": 514,
       "Title": "Even Flow (Electric riff)",
+      "CleanedTitle": "even-flow-electric-riff",
       "Artist": "Pearl Jam",
       "Album": "Ten",
       "Other_Artists": "",
@@ -6171,6 +6685,7 @@
     {
       "Id": 515,
       "Title": "Yellow Ledbetter",
+      "CleanedTitle": "yellow-ledbetter",
       "Artist": "Pearl Jam",
       "Album": "Jeremy",
       "Other_Artists": "",
@@ -6183,6 +6698,7 @@
     {
       "Id": 516,
       "Title": "Surfing with the Alien (Electric riff)",
+      "CleanedTitle": "surfing-with-the-alien-electric-riff",
       "Artist": "Joe Satriani",
       "Album": "Surfing With The Alien",
       "Other_Artists": "",
@@ -6195,6 +6711,7 @@
     {
       "Id": 517,
       "Title": "Taurus (Partial)",
+      "CleanedTitle": "taurus-partial",
       "Artist": "Spirit",
       "Album": "Spirit",
       "Other_Artists": "",
@@ -6207,6 +6724,7 @@
     {
       "Id": 518,
       "Title": "Stairway to Heaven (Partial)",
+      "CleanedTitle": "stairway-to-heaven-partial",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin IV",
       "Other_Artists": "",
@@ -6219,6 +6737,7 @@
     {
       "Id": 519,
       "Title": "Crash Into Me",
+      "CleanedTitle": "crash-into-me",
       "Artist": "Dave Matthews Band",
       "Album": "Crash",
       "Other_Artists": "",
@@ -6231,6 +6750,7 @@
     {
       "Id": 520,
       "Title": "I'm Cryin'",
+      "CleanedTitle": "i-m-cryin",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Texas Flood",
       "Other_Artists": "",
@@ -6243,6 +6763,7 @@
     {
       "Id": 521,
       "Title": "As",
+      "CleanedTitle": "as",
       "Artist": "Stevie Wonder",
       "Album": "Songs In The Key Of Life",
       "Other_Artists": "",
@@ -6255,6 +6776,7 @@
     {
       "Id": 522,
       "Title": "Society",
+      "CleanedTitle": "society",
       "Artist": "Eddie Vedder",
       "Album": "Into The Wild (Music For The Motion Picture)",
       "Other_Artists": "",
@@ -6267,6 +6789,7 @@
     {
       "Id": 523,
       "Title": "Streets of Philadelphia",
+      "CleanedTitle": "streets-of-philadelphia",
       "Artist": "Bruce Springsteen",
       "Album": "PHILADELPHIA - Music From The Motion Picture",
       "Other_Artists": "",
@@ -6279,6 +6802,7 @@
     {
       "Id": 524,
       "Title": "Limelight",
+      "CleanedTitle": "limelight",
       "Artist": "Rush",
       "Album": "Moving Pictures",
       "Other_Artists": "",
@@ -6291,6 +6815,7 @@
     {
       "Id": 525,
       "Title": "Intro \"Crimson Fools\"",
+      "CleanedTitle": "intro-crimson-fools",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -6303,6 +6828,7 @@
     {
       "Id": 526,
       "Title": "No Whining (No Complaining)",
+      "CleanedTitle": "no-whining-no-complaining",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -6315,6 +6841,7 @@
     {
       "Id": 527,
       "Title": "Fields Of Gold",
+      "CleanedTitle": "fields-of-gold",
       "Artist": "Sting",
       "Album": "Ten Summoner's Tales",
       "Other_Artists": "Eva Cassidy",
@@ -6327,6 +6854,7 @@
     {
       "Id": 528,
       "Title": "Bossa Nova Improv",
+      "CleanedTitle": "bossa-nova-improv",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -6339,6 +6867,7 @@
     {
       "Id": 529,
       "Title": "Intro \"Out of the Mist\"",
+      "CleanedTitle": "intro-out-of-the-mist",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -6351,6 +6880,7 @@
     {
       "Id": 530,
       "Title": "Gravity",
+      "CleanedTitle": "gravity",
       "Artist": "John Mayer",
       "Album": "Continuum",
       "Other_Artists": "",
@@ -6363,6 +6893,7 @@
     {
       "Id": 531,
       "Title": "Simple Man",
+      "CleanedTitle": "simple-man",
       "Artist": "Lynyrd Skynyrd",
       "Album": "Pronounced 'Lĕh-'nérd 'Skin-'nérd",
       "Other_Artists": "",
@@ -6375,6 +6906,7 @@
     {
       "Id": 532,
       "Title": "Intro \"A Still and Silent Mountain\"",
+      "CleanedTitle": "intro-a-still-and-silent-mountain",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -6387,6 +6919,7 @@
     {
       "Id": 533,
       "Title": "Belief",
+      "CleanedTitle": "belief",
       "Artist": "John Mayer",
       "Album": "Continuum",
       "Other_Artists": "",
@@ -6399,6 +6932,7 @@
     {
       "Id": 534,
       "Title": "Classical Gas",
+      "CleanedTitle": "classical-gas",
       "Artist": "Mason Williams",
       "Album": "The Mason Williams Phonographic Record",
       "Other_Artists": "Tommy Emmanuel",
@@ -6411,6 +6945,7 @@
     {
       "Id": 535,
       "Title": "Between the Bars",
+      "CleanedTitle": "between-the-bars",
       "Artist": "Elliott Smith",
       "Album": "Either/Or",
       "Other_Artists": "",
@@ -6423,6 +6958,7 @@
     {
       "Id": 536,
       "Title": "So Real",
+      "CleanedTitle": "so-real",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "",
@@ -6435,6 +6971,7 @@
     {
       "Id": 537,
       "Title": "Intro \"Beautiful Slide\"",
+      "CleanedTitle": "intro-beautiful-slide",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -6447,6 +6984,7 @@
     {
       "Id": 538,
       "Title": "Nobody Knows You When You're Down and Out (Rein Rutnik Performance)",
+      "CleanedTitle": "nobody-knows-you-when-you-re-down-and-out-rein-rutnik-performance",
       "Artist": "Eric Clapton",
       "Album": "Unplugged (Live)",
       "Other_Artists": "Jimmie Cox",
@@ -6459,6 +6997,7 @@
     {
       "Id": 539,
       "Title": "Sleepy Afternoon (Rein Rutnik Performance)",
+      "CleanedTitle": "sleepy-afternoon-rein-rutnik-performance",
       "Artist": "Rein Rutnik",
       "Album": null,
       "Other_Artists": "",
@@ -6471,6 +7010,7 @@
     {
       "Id": 540,
       "Title": "Big Bad Bill (Is Sweet William Now) (Rein Rutnik Performance)",
+      "CleanedTitle": "big-bad-bill-is-sweet-william-now-rein-rutnik-performance",
       "Artist": "Van Halen",
       "Album": "Diver Down",
       "Other_Artists": "Milton Ager & Jack Yellen",
@@ -6483,6 +7023,7 @@
     {
       "Id": 541,
       "Title": "I'm Satisfied (Rein Rutnik Performance)",
+      "CleanedTitle": "i-m-satisfied-rein-rutnik-performance",
       "Artist": "Mississippi John Hurt",
       "Album": "Satisfied",
       "Other_Artists": "",
@@ -6495,6 +7036,7 @@
     {
       "Id": 542,
       "Title": "Fox Chase & Lost John (Rein Rutnik Performance)",
+      "CleanedTitle": "fox-chase-lost-john-rein-rutnik-performance",
       "Artist": "Joe Filisko",
       "Album": null,
       "Other_Artists": "",
@@ -6507,6 +7049,7 @@
     {
       "Id": 543,
       "Title": "Closing Time",
+      "CleanedTitle": "closing-time",
       "Artist": "Semisonic",
       "Album": "Feeling Strangely Fine",
       "Other_Artists": "",
@@ -6519,6 +7062,7 @@
     {
       "Id": 544,
       "Title": "Take On Me (Partial)",
+      "CleanedTitle": "take-on-me-partial",
       "Artist": "A-Ha",
       "Album": "Hunting High and Low",
       "Other_Artists": "",
@@ -6531,6 +7075,7 @@
     {
       "Id": 545,
       "Title": "Get the Party Started (Partial)",
+      "CleanedTitle": "get-the-party-started-partial",
       "Artist": "P!nk",
       "Album": "M!ssundaztood",
       "Other_Artists": "",
@@ -6543,6 +7088,7 @@
     {
       "Id": 546,
       "Title": "Melissa",
+      "CleanedTitle": "melissa",
       "Artist": "Allman Brothers Band",
       "Album": "Eat A Peach",
       "Other_Artists": "",
@@ -6555,6 +7101,7 @@
     {
       "Id": 547,
       "Title": "Cello Suite No. 1 in G Major BMV 1007 (Prelude)",
+      "CleanedTitle": "cello-suite-no-1-in-g-major-bmv-1007-prelude",
       "Artist": "Johann Sebastian Bach",
       "Album": null,
       "Other_Artists": "",
@@ -6567,6 +7114,7 @@
     {
       "Id": 548,
       "Title": "Julia Florida (Barcarola)",
+      "CleanedTitle": "julia-florida-barcarola",
       "Artist": "Agustín Barrios Mangoré",
       "Album": null,
       "Other_Artists": "",
@@ -6579,6 +7127,7 @@
     {
       "Id": 549,
       "Title": "Wonderwall",
+      "CleanedTitle": "wonderwall",
       "Artist": "Ryan Adams",
       "Album": "Love Is Hell",
       "Other_Artists": "Oasis",
@@ -6591,6 +7140,7 @@
     {
       "Id": 550,
       "Title": "Run To You (Partial)",
+      "CleanedTitle": "run-to-you-partial",
       "Artist": "Bryan Adams",
       "Album": "Reckless",
       "Other_Artists": "",
@@ -6603,6 +7153,7 @@
     {
       "Id": 551,
       "Title": "I'm On Fire",
+      "CleanedTitle": "i-m-on-fire",
       "Artist": "Bruce Springsteen",
       "Album": "Born In The U.S.A",
       "Other_Artists": "",
@@ -6615,6 +7166,7 @@
     {
       "Id": 552,
       "Title": "Send Me On My Way (Partial)",
+      "CleanedTitle": "send-me-on-my-way-partial",
       "Artist": "Rusted Root",
       "Album": "When I Woke",
       "Other_Artists": "",
@@ -6627,6 +7179,7 @@
     {
       "Id": 553,
       "Title": "Eternal Life",
+      "CleanedTitle": "eternal-life",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "",
@@ -6639,6 +7192,7 @@
     {
       "Id": 554,
       "Title": "Keep Your Head Up",
+      "CleanedTitle": "keep-your-head-up",
       "Artist": "Ben Howard",
       "Album": "Every Kingdom",
       "Other_Artists": "",
@@ -6651,6 +7205,7 @@
     {
       "Id": 555,
       "Title": "Yellow",
+      "CleanedTitle": "yellow",
       "Artist": "Coldplay",
       "Album": "Parachutes",
       "Other_Artists": "",
@@ -6663,6 +7218,7 @@
     {
       "Id": 556,
       "Title": "I Got a Woman",
+      "CleanedTitle": "i-got-a-woman",
       "Artist": "Ray Charles",
       "Album": null,
       "Other_Artists": "",
@@ -6675,6 +7231,7 @@
     {
       "Id": 557,
       "Title": "Let It Down",
+      "CleanedTitle": "let-it-down",
       "Artist": "George Harrison",
       "Album": "All Things Must Pass",
       "Other_Artists": "",
@@ -6687,6 +7244,7 @@
     {
       "Id": 558,
       "Title": "City Headache",
+      "CleanedTitle": "city-headache",
       "Artist": "Scott Matthews",
       "Album": "Passing Stranger",
       "Other_Artists": "",
@@ -6699,6 +7257,7 @@
     {
       "Id": 559,
       "Title": "Going To The Country",
+      "CleanedTitle": "going-to-the-country",
       "Artist": "Bruce Cockburn",
       "Album": "Bruce Cockburn",
       "Other_Artists": "",
@@ -6711,6 +7270,7 @@
     {
       "Id": 560,
       "Title": "Like a Rolling Stone",
+      "CleanedTitle": "like-a-rolling-stone",
       "Artist": "Bob Dylan",
       "Album": "Highway 61 Revisted",
       "Other_Artists": "",
@@ -6723,6 +7283,7 @@
     {
       "Id": 561,
       "Title": "Sour Girl",
+      "CleanedTitle": "sour-girl",
       "Artist": "Stone Temple Pilots",
       "Album": "No. 4",
       "Other_Artists": "",
@@ -6735,6 +7296,7 @@
     {
       "Id": 562,
       "Title": "Wagon Wheel (Partial)",
+      "CleanedTitle": "wagon-wheel-partial",
       "Artist": "Old Crow Medicine Show",
       "Album": "O.C.M.S",
       "Other_Artists": "Bob Dylan+ Darius Rucker",
@@ -6747,6 +7309,7 @@
     {
       "Id": 563,
       "Title": "What's my Age Again? (Partial)",
+      "CleanedTitle": "what-s-my-age-again-partial",
       "Artist": "Blink-182",
       "Album": "Enema Of The State",
       "Other_Artists": "",
@@ -6759,6 +7322,7 @@
     {
       "Id": 564,
       "Title": "Ride Wit Me",
+      "CleanedTitle": "ride-wit-me",
       "Artist": "Nelly",
       "Album": "Country Grammar",
       "Other_Artists": "",
@@ -6771,6 +7335,7 @@
     {
       "Id": 565,
       "Title": "Hear My Train a Comin'",
+      "CleanedTitle": "hear-my-train-a-comin",
       "Artist": "Jimi Hendrix",
       "Album": "Blues",
       "Other_Artists": "",
@@ -6783,6 +7348,7 @@
     {
       "Id": 566,
       "Title": "Intro \"Sage Trees\"",
+      "CleanedTitle": "intro-sage-trees",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -6795,6 +7361,7 @@
     {
       "Id": 567,
       "Title": "Ordinary Day",
+      "CleanedTitle": "ordinary-day",
       "Artist": "Great Big Sea",
       "Album": "Play",
       "Other_Artists": "",
@@ -6807,6 +7374,7 @@
     {
       "Id": 568,
       "Title": "Nice to Know You",
+      "CleanedTitle": "nice-to-know-you",
       "Artist": "Incubus",
       "Album": "Morning View",
       "Other_Artists": "",
@@ -6819,6 +7387,7 @@
     {
       "Id": 569,
       "Title": "Outro \"Out of the Mist\"",
+      "CleanedTitle": "outro-out-of-the-mist",
       "Artist": "Corey Heuvel",
       "Album": "The New",
       "Other_Artists": "",
@@ -6831,6 +7400,7 @@
     {
       "Id": 570,
       "Title": "Burn One Down",
+      "CleanedTitle": "burn-one-down",
       "Artist": "Ben Harper",
       "Album": "Fight For Your Mind",
       "Other_Artists": "",
@@ -6843,6 +7413,7 @@
     {
       "Id": 571,
       "Title": "Wheat Kings",
+      "CleanedTitle": "wheat-kings",
       "Artist": "The Tragically Hip",
       "Album": "Fully Completely",
       "Other_Artists": "",
@@ -6855,6 +7426,7 @@
     {
       "Id": 572,
       "Title": "Folsom Prison Blues",
+      "CleanedTitle": "folsom-prison-blues",
       "Artist": "Johnny Cash",
       "Album": "At Folsom Prison",
       "Other_Artists": "",
@@ -6867,6 +7439,7 @@
     {
       "Id": 573,
       "Title": "Billie Jean",
+      "CleanedTitle": "billie-jean",
       "Artist": "Michael Jackson",
       "Album": "Thriller",
       "Other_Artists": "",
@@ -6879,6 +7452,7 @@
     {
       "Id": 574,
       "Title": "No Rain",
+      "CleanedTitle": "no-rain",
       "Artist": "Blind Melon",
       "Album": "Blind Melon",
       "Other_Artists": "",
@@ -6891,6 +7465,7 @@
     {
       "Id": 575,
       "Title": "Them Bones",
+      "CleanedTitle": "them-bones",
       "Artist": "Alice In Chains",
       "Album": "Dirt",
       "Other_Artists": "",
@@ -6903,6 +7478,7 @@
     {
       "Id": 576,
       "Title": "Down In A Hole",
+      "CleanedTitle": "down-in-a-hole",
       "Artist": "Alice In Chains",
       "Album": "Dirt",
       "Other_Artists": "",
@@ -6915,6 +7491,7 @@
     {
       "Id": 577,
       "Title": "Intro \"Bliss from Within\"",
+      "CleanedTitle": "intro-bliss-from-within",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -6927,6 +7504,7 @@
     {
       "Id": 578,
       "Title": "Hemorrhage (In My Hands)",
+      "CleanedTitle": "hemorrhage-in-my-hands",
       "Artist": "Fuel",
       "Album": "Something Like Human",
       "Other_Artists": "",
@@ -6939,6 +7517,7 @@
     {
       "Id": 579,
       "Title": "Arjuna's Chariot",
+      "CleanedTitle": "arjuna-s-chariot",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -6951,6 +7530,7 @@
     {
       "Id": 580,
       "Title": "Let It Be Me",
+      "CleanedTitle": "let-it-be-me",
       "Artist": "Ray LaMontagne",
       "Album": "Gossip In The Grain",
       "Other_Artists": "",
@@ -6963,6 +7543,7 @@
     {
       "Id": 581,
       "Title": "Basket Case",
+      "CleanedTitle": "basket-case",
       "Artist": "Green Day",
       "Album": "Dookie",
       "Other_Artists": "",
@@ -6975,6 +7556,7 @@
     {
       "Id": 582,
       "Title": "Outro \"Home Again\"",
+      "CleanedTitle": "outro-home-again",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -6987,6 +7569,7 @@
     {
       "Id": 583,
       "Title": "Intro \"Into The Heavens\"",
+      "CleanedTitle": "intro-into-the-heavens",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -6999,6 +7582,7 @@
     {
       "Id": 584,
       "Title": "Old Pine",
+      "CleanedTitle": "old-pine",
       "Artist": "Ben Howard",
       "Album": "Every Kingdom",
       "Other_Artists": "",
@@ -7011,6 +7595,7 @@
     {
       "Id": 585,
       "Title": "Intro \"Grace\"",
+      "CleanedTitle": "intro-grace",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -7023,6 +7608,7 @@
     {
       "Id": 586,
       "Title": "A Certain Shade of Green",
+      "CleanedTitle": "a-certain-shade-of-green",
       "Artist": "Incubus",
       "Album": "S.C.I.E.N.C.E",
       "Other_Artists": "",
@@ -7035,6 +7621,7 @@
     {
       "Id": 587,
       "Title": "Cold Shot",
+      "CleanedTitle": "cold-shot",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Couldn't Stand The Weather",
       "Other_Artists": "",
@@ -7047,6 +7634,7 @@
     {
       "Id": 588,
       "Title": "Intro \"Tension\"",
+      "CleanedTitle": "intro-tension",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -7059,6 +7647,7 @@
     {
       "Id": 589,
       "Title": "Glenn Tipton",
+      "CleanedTitle": "glenn-tipton",
       "Artist": "Sun Kil Moon",
       "Album": "Ghosts of the Great Highway",
       "Other_Artists": "",
@@ -7071,6 +7660,7 @@
     {
       "Id": 590,
       "Title": "I Want You",
+      "CleanedTitle": "i-want-you",
       "Artist": "Bob Dylan",
       "Album": "Blonde on Blonde",
       "Other_Artists": "",
@@ -7083,6 +7673,7 @@
     {
       "Id": 591,
       "Title": "Simple Twist of Fate",
+      "CleanedTitle": "simple-twist-of-fate",
       "Artist": "Bob Dylan",
       "Album": "Blood On The Tracks",
       "Other_Artists": "",
@@ -7095,6 +7686,7 @@
     {
       "Id": 592,
       "Title": "Intro \"Soul Embers\"",
+      "CleanedTitle": "intro-soul-embers",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -7107,6 +7699,7 @@
     {
       "Id": 593,
       "Title": "New Sensation (Partial)",
+      "CleanedTitle": "new-sensation-partial",
       "Artist": "INXS",
       "Album": "Kick",
       "Other_Artists": "",
@@ -7119,6 +7712,7 @@
     {
       "Id": 594,
       "Title": "Wish You Were Here",
+      "CleanedTitle": "wish-you-were-here",
       "Artist": "Pink Floyd",
       "Album": "Wish You Were Here",
       "Other_Artists": "",
@@ -7131,6 +7725,7 @@
     {
       "Id": 595,
       "Title": "Erotic Nightmares (Electric riff)",
+      "CleanedTitle": "erotic-nightmares-electric-riff",
       "Artist": "Steve Vai",
       "Album": "Passion And Warfare",
       "Other_Artists": "",
@@ -7143,6 +7738,7 @@
     {
       "Id": 596,
       "Title": "Don't Panic",
+      "CleanedTitle": "don-t-panic",
       "Artist": "Coldplay",
       "Album": "Parachutes",
       "Other_Artists": "",
@@ -7155,6 +7751,7 @@
     {
       "Id": 597,
       "Title": "Intro \"If It's Wrong (It's Alright)\"",
+      "CleanedTitle": "intro-if-it-s-wrong-it-s-alright",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -7167,6 +7764,7 @@
     {
       "Id": 598,
       "Title": "Hunger Strike",
+      "CleanedTitle": "hunger-strike",
       "Artist": "Temple Of The Dog",
       "Album": "Temple Of The Dog",
       "Other_Artists": "",
@@ -7179,6 +7777,7 @@
     {
       "Id": 599,
       "Title": "Intro \"The Longest November\"",
+      "CleanedTitle": "intro-the-longest-november",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -7191,6 +7790,7 @@
     {
       "Id": 600,
       "Title": "Cliffs Of Dover (Partial)",
+      "CleanedTitle": "cliffs-of-dover-partial",
       "Artist": "Eric Johnson",
       "Album": "Ah Via Musicom",
       "Other_Artists": "",
@@ -7203,6 +7803,7 @@
     {
       "Id": 601,
       "Title": "Santeria",
+      "CleanedTitle": "santeria",
       "Artist": "Sublime",
       "Album": "Sublime",
       "Other_Artists": "",
@@ -7215,6 +7816,7 @@
     {
       "Id": 602,
       "Title": "Learning to Fly",
+      "CleanedTitle": "learning-to-fly",
       "Artist": "Tom Petty",
       "Album": "Into The Great Wide Open",
       "Other_Artists": "",
@@ -7227,6 +7829,7 @@
     {
       "Id": 603,
       "Title": "Psycho Killer (Partial)",
+      "CleanedTitle": "psycho-killer-partial",
       "Artist": "Talking Heads",
       "Album": "Talking Heads",
       "Other_Artists": "",
@@ -7239,6 +7842,7 @@
     {
       "Id": 604,
       "Title": "Spanish Romance (Romanza)",
+      "CleanedTitle": "spanish-romance-romanza",
       "Artist": "Unknown",
       "Album": null,
       "Other_Artists": "",
@@ -7251,6 +7855,7 @@
     {
       "Id": 605,
       "Title": "Intro \"Sleepless\"",
+      "CleanedTitle": "intro-sleepless",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -7263,6 +7868,7 @@
     {
       "Id": 606,
       "Title": "Intro \"Hidden in Stone\"",
+      "CleanedTitle": "intro-hidden-in-stone",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -7275,6 +7881,7 @@
     {
       "Id": 607,
       "Title": "Redemption Song",
+      "CleanedTitle": "redemption-song",
       "Artist": "Bob Marley",
       "Album": "Uprising",
       "Other_Artists": "Bob Marley & The Wailers",
@@ -7287,6 +7894,7 @@
     {
       "Id": 608,
       "Title": "Tribute (Partial)",
+      "CleanedTitle": "tribute-partial",
       "Artist": "Tenacious D",
       "Album": "Tenacious D",
       "Other_Artists": "",
@@ -7299,6 +7907,7 @@
     {
       "Id": 609,
       "Title": "Higher Love (Partial)",
+      "CleanedTitle": "higher-love-partial",
       "Artist": "Steve Winwood",
       "Album": "Back In The High Life",
       "Other_Artists": "",
@@ -7311,6 +7920,7 @@
     {
       "Id": 610,
       "Title": "I'll Be",
+      "CleanedTitle": "i-ll-be",
       "Artist": "Edwin McCain",
       "Album": "Misguided Roses",
       "Other_Artists": "",
@@ -7323,6 +7933,7 @@
     {
       "Id": 611,
       "Title": "Intro \"Venus Sky\"",
+      "CleanedTitle": "intro-venus-sky",
       "Artist": "Corey Heuvel",
       "Album": "In Balance",
       "Other_Artists": "",
@@ -7335,6 +7946,7 @@
     {
       "Id": 612,
       "Title": "Walk this Way (Partial)",
+      "CleanedTitle": "walk-this-way-partial",
       "Artist": "Aerosmith",
       "Album": "Toys In The Attic",
       "Other_Artists": "",
@@ -7347,6 +7959,7 @@
     {
       "Id": 613,
       "Title": "Song to the Siren",
+      "CleanedTitle": "song-to-the-siren",
       "Artist": "Tim Buckley",
       "Album": "Starsailor",
       "Other_Artists": "John Frusciante",
@@ -7359,6 +7972,7 @@
     {
       "Id": 614,
       "Title": "Train in Vain (Stand by Me)",
+      "CleanedTitle": "train-in-vain-stand-by-me",
       "Artist": "The Clash",
       "Album": "London Calling",
       "Other_Artists": "",
@@ -7371,6 +7985,7 @@
     {
       "Id": 615,
       "Title": "Seasons",
+      "CleanedTitle": "seasons",
       "Artist": "Chris Cornell",
       "Album": "Chris Cornell",
       "Other_Artists": "",
@@ -7383,6 +7998,7 @@
     {
       "Id": 616,
       "Title": "Michelle",
+      "CleanedTitle": "michelle",
       "Artist": "The Beatles",
       "Album": "Rubber Soul",
       "Other_Artists": "",
@@ -7395,6 +8011,7 @@
     {
       "Id": 617,
       "Title": "Strange Meeting II",
+      "CleanedTitle": "strange-meeting-ii",
       "Artist": "Nick Drake",
       "Album": "Family Tree",
       "Other_Artists": "",
@@ -7407,6 +8024,7 @@
     {
       "Id": 618,
       "Title": "Send My Love (To Your New Lover)",
+      "CleanedTitle": "send-my-love-to-your-new-lover",
       "Artist": "Adele",
       "Album": "25",
       "Other_Artists": "",
@@ -7419,6 +8037,7 @@
     {
       "Id": 619,
       "Title": "The House Is Rockin'",
+      "CleanedTitle": "the-house-is-rockin",
       "Artist": "Stevie Ray Vaughan",
       "Album": "In Step",
       "Other_Artists": "",
@@ -7431,6 +8050,7 @@
     {
       "Id": 620,
       "Title": "Slow Cheetah",
+      "CleanedTitle": "slow-cheetah",
       "Artist": "Red Hot Chili Peppers",
       "Album": "Stadium Arcadium",
       "Other_Artists": "",
@@ -7443,6 +8063,7 @@
     {
       "Id": 621,
       "Title": "My Head's in Mississippi (Electric riff)",
+      "CleanedTitle": "my-head-s-in-mississippi-electric-riff",
       "Artist": "ZZ Top",
       "Album": "Recycler",
       "Other_Artists": "",
@@ -7455,6 +8076,7 @@
     {
       "Id": 622,
       "Title": "Guerrilla Radio (Electric riff)",
+      "CleanedTitle": "guerrilla-radio-electric-riff",
       "Artist": "Rage Against The Machine",
       "Album": "The Battle Of Los Angeles",
       "Other_Artists": "",
@@ -7467,6 +8089,7 @@
     {
       "Id": 623,
       "Title": "For the Love of God (Electric riff)",
+      "CleanedTitle": "for-the-love-of-god-electric-riff",
       "Artist": "Steve Vai",
       "Album": "Passion And Warfare",
       "Other_Artists": "",
@@ -7479,6 +8102,7 @@
     {
       "Id": 624,
       "Title": "Foxey Lady (Electric riff)",
+      "CleanedTitle": "foxey-lady-electric-riff",
       "Artist": "Jimi Hendrix",
       "Album": "Are You Experienced",
       "Other_Artists": "",
@@ -7491,6 +8115,7 @@
     {
       "Id": 625,
       "Title": "Ramblin' Man",
+      "CleanedTitle": "ramblin-man",
       "Artist": "Allman Brothers Band",
       "Album": "Brothers And Sisters",
       "Other_Artists": "",
@@ -7503,6 +8128,7 @@
     {
       "Id": 626,
       "Title": "The Spirit Of Radio (Electric riff)",
+      "CleanedTitle": "the-spirit-of-radio-electric-riff",
       "Artist": "Rush",
       "Album": "Permanent Waves",
       "Other_Artists": "",
@@ -7515,6 +8141,7 @@
     {
       "Id": 627,
       "Title": "Layla (Electric riff)",
+      "CleanedTitle": "layla-electric-riff",
       "Artist": "Eric Clapton",
       "Album": "Layla And Other Assorted Love Songs",
       "Other_Artists": "",
@@ -7527,6 +8154,7 @@
     {
       "Id": 628,
       "Title": "Intro \"Home Again\"",
+      "CleanedTitle": "intro-home-again",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -7539,6 +8167,7 @@
     {
       "Id": 629,
       "Title": "I Shall Be Released",
+      "CleanedTitle": "i-shall-be-released",
       "Artist": "Bob Dylan",
       "Album": "The Essential Bob Dylan",
       "Other_Artists": "Jeff Buckley",
@@ -7551,6 +8180,7 @@
     {
       "Id": 630,
       "Title": "Spooky",
+      "CleanedTitle": "spooky",
       "Artist": "Dusty Springfield",
       "Album": null,
       "Other_Artists": "",
@@ -7563,6 +8193,7 @@
     {
       "Id": 631,
       "Title": "a thousand years",
+      "CleanedTitle": "a-thousand-years",
       "Artist": "Christina Perri",
       "Album": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
       "Other_Artists": "",
@@ -7575,6 +8206,7 @@
     {
       "Id": 632,
       "Title": "Skinny Love",
+      "CleanedTitle": "skinny-love",
       "Artist": "Bon Iver",
       "Album": "For Emma, Forever Ago",
       "Other_Artists": "Birdy",
@@ -7587,6 +8219,7 @@
     {
       "Id": 633,
       "Title": "Creep",
+      "CleanedTitle": "creep",
       "Artist": "Radiohead",
       "Album": "Pablo Honey",
       "Other_Artists": "",
@@ -7599,6 +8232,7 @@
     {
       "Id": 634,
       "Title": "Harvest Moon",
+      "CleanedTitle": "harvest-moon",
       "Artist": "Neil Young",
       "Album": "Harvest Moon",
       "Other_Artists": "",
@@ -7611,6 +8245,7 @@
     {
       "Id": 635,
       "Title": "Karma Police",
+      "CleanedTitle": "karma-police",
       "Artist": "Radiohead",
       "Album": "OK Computer",
       "Other_Artists": "",
@@ -7623,6 +8258,7 @@
     {
       "Id": 636,
       "Title": "Closer To The Heart",
+      "CleanedTitle": "closer-to-the-heart",
       "Artist": "Rush",
       "Album": "A Farewell To Kings",
       "Other_Artists": "",
@@ -7635,6 +8271,7 @@
     {
       "Id": 637,
       "Title": "Don't Look Back In Anger",
+      "CleanedTitle": "don-t-look-back-in-anger",
       "Artist": "Oasis",
       "Album": "(What's The Story) Morning Glory?",
       "Other_Artists": "",
@@ -7647,6 +8284,7 @@
     {
       "Id": 638,
       "Title": "You Give Me Something",
+      "CleanedTitle": "you-give-me-something",
       "Artist": "James Morrison",
       "Album": "Undiscovered",
       "Other_Artists": "",
@@ -7659,6 +8297,7 @@
     {
       "Id": 639,
       "Title": "In Your Atmosphere",
+      "CleanedTitle": "in-your-atmosphere",
       "Artist": "John Mayer",
       "Album": "Where the Light Is: John Mayer Live In Los Angeles",
       "Other_Artists": "",
@@ -7671,6 +8310,7 @@
     {
       "Id": 640,
       "Title": "Little Martha",
+      "CleanedTitle": "little-martha",
       "Artist": "Allman Brothers Band",
       "Album": "Eat A Peach",
       "Other_Artists": "",
@@ -7683,6 +8323,7 @@
     {
       "Id": 641,
       "Title": "California Dreamin'",
+      "CleanedTitle": "california-dreamin",
       "Artist": "The Mamas & The Papas",
       "Album": "If You Can Believe Your Eyes & Ears",
       "Other_Artists": "José Feliciano",
@@ -7695,6 +8336,7 @@
     {
       "Id": 642,
       "Title": "Fire and Rain",
+      "CleanedTitle": "fire-and-rain",
       "Artist": "James Taylor",
       "Album": "Sweet Baby James",
       "Other_Artists": "",
@@ -7707,6 +8349,7 @@
     {
       "Id": 643,
       "Title": "Rollin' and Tumblin'",
+      "CleanedTitle": "rollin-and-tumblin",
       "Artist": "Eric Clapton",
       "Album": "Unplugged (Live)",
       "Other_Artists": "Hambone Willie Newbern+ Muddy Waters+ Cream",
@@ -7719,6 +8362,7 @@
     {
       "Id": 644,
       "Title": "Ziggy Stardust",
+      "CleanedTitle": "ziggy-stardust",
       "Artist": "David Bowie",
       "Album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
       "Other_Artists": "",
@@ -7731,6 +8375,7 @@
     {
       "Id": 645,
       "Title": "Imagine",
+      "CleanedTitle": "imagine",
       "Artist": "John Lennon",
       "Album": "Imagine",
       "Other_Artists": "The Beatles",
@@ -7743,6 +8388,7 @@
     {
       "Id": 646,
       "Title": "Super Mario Bros. Main Theme",
+      "CleanedTitle": "super-mario-bros-main-theme",
       "Artist": "Koji Kondo",
       "Album": null,
       "Other_Artists": "",
@@ -7755,6 +8401,7 @@
     {
       "Id": 647,
       "Title": "Sugar Mountain",
+      "CleanedTitle": "sugar-mountain",
       "Artist": "Neil Young",
       "Album": "Decade",
       "Other_Artists": "",
@@ -7767,6 +8414,7 @@
     {
       "Id": 648,
       "Title": "Adelita",
+      "CleanedTitle": "adelita",
       "Artist": "Francisco Tárrega",
       "Album": null,
       "Other_Artists": "",
@@ -7779,6 +8427,7 @@
     {
       "Id": 649,
       "Title": "Pavana",
+      "CleanedTitle": "pavana",
       "Artist": "Francisco Tárrega",
       "Album": null,
       "Other_Artists": "",
@@ -7791,6 +8440,7 @@
     {
       "Id": 650,
       "Title": "Giant Steps (Partial)",
+      "CleanedTitle": "giant-steps-partial",
       "Artist": "John Coltrane",
       "Album": "Giant Steps",
       "Other_Artists": "",
@@ -7803,6 +8453,7 @@
     {
       "Id": 651,
       "Title": "Rebel Rebel",
+      "CleanedTitle": "rebel-rebel",
       "Artist": "David Bowie",
       "Album": "Diamond Dogs",
       "Other_Artists": "",
@@ -7815,6 +8466,7 @@
     {
       "Id": 652,
       "Title": "You've Got To Hide Your Love Away",
+      "CleanedTitle": "you-ve-got-to-hide-your-love-away",
       "Artist": "The Beatles",
       "Album": "Help!",
       "Other_Artists": "",
@@ -7827,6 +8479,7 @@
     {
       "Id": 653,
       "Title": "(Nice Dream)",
+      "CleanedTitle": "nice-dream",
       "Artist": "Radiohead",
       "Album": "The Bends",
       "Other_Artists": "",
@@ -7839,6 +8492,7 @@
     {
       "Id": 654,
       "Title": "Wild Horses",
+      "CleanedTitle": "wild-horses",
       "Artist": "The Rolling Stones",
       "Album": "Sticky Fingers",
       "Other_Artists": "",
@@ -7851,6 +8505,7 @@
     {
       "Id": 655,
       "Title": "Sweet Thing",
+      "CleanedTitle": "sweet-thing",
       "Artist": "Van Morrison",
       "Album": "Astral Weeks",
       "Other_Artists": "",
@@ -7863,6 +8518,7 @@
     {
       "Id": 656,
       "Title": "Take A Picture",
+      "CleanedTitle": "take-a-picture",
       "Artist": "Filter",
       "Album": "Title Of Record",
       "Other_Artists": "",
@@ -7875,6 +8531,7 @@
     {
       "Id": 657,
       "Title": "White Room",
+      "CleanedTitle": "white-room",
       "Artist": "Cream",
       "Album": "Wheels Of Fire",
       "Other_Artists": "",
@@ -7887,6 +8544,7 @@
     {
       "Id": 658,
       "Title": "Something",
+      "CleanedTitle": "something",
       "Artist": "The Beatles",
       "Album": "Abbey Road",
       "Other_Artists": "George Harrison",
@@ -7899,6 +8557,7 @@
     {
       "Id": 659,
       "Title": "Day Is Done",
+      "CleanedTitle": "day-is-done",
       "Artist": "Nick Drake",
       "Album": "Five Leaves Left",
       "Other_Artists": "",
@@ -7911,6 +8570,7 @@
     {
       "Id": 660,
       "Title": "Heart of Gold",
+      "CleanedTitle": "heart-of-gold",
       "Artist": "Neil Young",
       "Album": "Harvest",
       "Other_Artists": "",
@@ -7923,6 +8583,7 @@
     {
       "Id": 661,
       "Title": "Alive",
+      "CleanedTitle": "alive",
       "Artist": "Pearl Jam",
       "Album": "Ten",
       "Other_Artists": "",
@@ -7935,6 +8596,7 @@
     {
       "Id": 662,
       "Title": "Zombie",
+      "CleanedTitle": "zombie",
       "Artist": "The Cranberries",
       "Album": "No Need To Argue",
       "Other_Artists": "",
@@ -7947,6 +8609,7 @@
     {
       "Id": 663,
       "Title": "Take Me Home, Country Roads",
+      "CleanedTitle": "take-me-home-country-roads",
       "Artist": "John Denver",
       "Album": "Poems, Prayers and Promises",
       "Other_Artists": "",
@@ -7959,6 +8622,7 @@
     {
       "Id": 664,
       "Title": "Diary of a Madman",
+      "CleanedTitle": "diary-of-a-madman",
       "Artist": "Ozzy Osbourne",
       "Album": "Diary Of A Madman",
       "Other_Artists": "",
@@ -7971,6 +8635,7 @@
     {
       "Id": 665,
       "Title": "Desire",
+      "CleanedTitle": "desire",
       "Artist": "U2",
       "Album": "Rattle And Hum",
       "Other_Artists": "",
@@ -7983,6 +8648,7 @@
     {
       "Id": 666,
       "Title": "Funky Monks (Partial)",
+      "CleanedTitle": "funky-monks-partial",
       "Artist": "Red Hot Chili Peppers",
       "Album": "Blood Sugar Sex Magik",
       "Other_Artists": "",
@@ -7995,6 +8661,7 @@
     {
       "Id": 667,
       "Title": "Brain Damage",
+      "CleanedTitle": "brain-damage",
       "Artist": "Pink Floyd",
       "Album": "The Dark Side of the Moon",
       "Other_Artists": "",
@@ -8007,6 +8674,7 @@
     {
       "Id": 668,
       "Title": "Eclipse",
+      "CleanedTitle": "eclipse",
       "Artist": "Pink Floyd",
       "Album": "The Dark Side of the Moon",
       "Other_Artists": "",
@@ -8019,6 +8687,7 @@
     {
       "Id": 669,
       "Title": "Times Like These",
+      "CleanedTitle": "times-like-these",
       "Artist": "Foo Fighters",
       "Album": "One By One",
       "Other_Artists": "",
@@ -8031,6 +8700,7 @@
     {
       "Id": 670,
       "Title": "Lilac Wine",
+      "CleanedTitle": "lilac-wine",
       "Artist": "Jeff Buckley",
       "Album": "Grace",
       "Other_Artists": "Nina Simone+ James Shelton",
@@ -8043,6 +8713,7 @@
     {
       "Id": 671,
       "Title": "My Hero",
+      "CleanedTitle": "my-hero",
       "Artist": "Foo Fighters",
       "Album": "The Colour And the Shape",
       "Other_Artists": "",
@@ -8055,6 +8726,7 @@
     {
       "Id": 672,
       "Title": "McDonald's Jingle",
+      "CleanedTitle": "mcdonald-s-jingle",
       "Artist": "Pusha T",
       "Album": null,
       "Other_Artists": "Tom Batoy+ Franco Tortora",
@@ -8067,6 +8739,7 @@
     {
       "Id": 673,
       "Title": "Bobcaygeon",
+      "CleanedTitle": "bobcaygeon",
       "Artist": "The Tragically Hip",
       "Album": "Phantom Power",
       "Other_Artists": "",
@@ -8079,6 +8752,7 @@
     {
       "Id": 674,
       "Title": "Have You Ever Seen The Rain",
+      "CleanedTitle": "have-you-ever-seen-the-rain",
       "Artist": "Creedence Clearwater Revival",
       "Album": "Pendulum",
       "Other_Artists": "",
@@ -8091,6 +8765,7 @@
     {
       "Id": 675,
       "Title": "Angel from Montgomery",
+      "CleanedTitle": "angel-from-montgomery",
       "Artist": "John Prine",
       "Album": "John Prine",
       "Other_Artists": "",
@@ -8103,6 +8778,7 @@
     {
       "Id": 676,
       "Title": "About A Girl",
+      "CleanedTitle": "about-a-girl",
       "Artist": "Nirvana",
       "Album": "Bleach",
       "Other_Artists": "",
@@ -8115,6 +8791,7 @@
     {
       "Id": 677,
       "Title": "Fruit Tree",
+      "CleanedTitle": "fruit-tree",
       "Artist": "Nick Drake",
       "Album": "Five Leaves Left",
       "Other_Artists": "",
@@ -8127,6 +8804,7 @@
     {
       "Id": 678,
       "Title": "Mama Let Him Play",
+      "CleanedTitle": "mama-let-him-play",
       "Artist": "Doucette",
       "Album": "Mama Let Him Play",
       "Other_Artists": "",
@@ -8139,6 +8817,7 @@
     {
       "Id": 679,
       "Title": "I Know It's Over (Partial)",
+      "CleanedTitle": "i-know-it-s-over-partial",
       "Artist": "The Smiths",
       "Album": "The Queen Is Dead",
       "Other_Artists": "Jeff Buckley",
@@ -8151,6 +8830,7 @@
     {
       "Id": 680,
       "Title": "The Trooper (Partial)",
+      "CleanedTitle": "the-trooper-partial",
       "Artist": "Iron Maiden",
       "Album": "Piece of Mind",
       "Other_Artists": "",
@@ -8163,6 +8843,7 @@
     {
       "Id": 681,
       "Title": "Out of Tune 12-String for Jim",
+      "CleanedTitle": "out-of-tune-12-string-for-jim",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -8175,6 +8856,7 @@
     {
       "Id": 682,
       "Title": "38 Years Old",
+      "CleanedTitle": "38-years-old",
       "Artist": "The Tragically Hip",
       "Album": "Up To Here",
       "Other_Artists": "",
@@ -8187,6 +8869,7 @@
     {
       "Id": 683,
       "Title": "Sharp Dressed Man (Partial)",
+      "CleanedTitle": "sharp-dressed-man-partial",
       "Artist": "ZZ Top",
       "Album": "Eliminator",
       "Other_Artists": "",
@@ -8199,6 +8882,7 @@
     {
       "Id": 684,
       "Title": "Bouree In E Minor",
+      "CleanedTitle": "bouree-in-e-minor",
       "Artist": "Johann Sebastian Bach",
       "Album": null,
       "Other_Artists": "",
@@ -8211,6 +8895,7 @@
     {
       "Id": 685,
       "Title": "\"Alright, Yeah\" Jingle",
+      "CleanedTitle": "alright-yeah-jingle",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -8223,6 +8908,7 @@
     {
       "Id": 686,
       "Title": "Baby, I Love Your Way (Partial)",
+      "CleanedTitle": "baby-i-love-your-way-partial",
       "Artist": "Peter Frampton",
       "Album": "Frampton",
       "Other_Artists": "",
@@ -8235,6 +8921,7 @@
     {
       "Id": 687,
       "Title": "Just a Phase",
+      "CleanedTitle": "just-a-phase",
       "Artist": "Incubus",
       "Album": "Morning View",
       "Other_Artists": "",
@@ -8247,6 +8934,7 @@
     {
       "Id": 688,
       "Title": "Think Of You",
+      "CleanedTitle": "think-of-you",
       "Artist": "Carney",
       "Album": "Mr. Green Vol. 1",
       "Other_Artists": "",
@@ -8259,6 +8947,7 @@
     {
       "Id": 689,
       "Title": "My Sweet Lord",
+      "CleanedTitle": "my-sweet-lord",
       "Artist": "George Harrison",
       "Album": "All Things Must Pass",
       "Other_Artists": "",
@@ -8271,6 +8960,7 @@
     {
       "Id": 690,
       "Title": "Operator (That's Not the Way It Feels)",
+      "CleanedTitle": "operator-that-s-not-the-way-it-feels",
       "Artist": "Jim Croce",
       "Album": "You Don't Mess Around With Jim",
       "Other_Artists": "",
@@ -8283,6 +8973,7 @@
     {
       "Id": 691,
       "Title": "Sex on Fire (Partial)",
+      "CleanedTitle": "sex-on-fire-partial",
       "Artist": "Kings of Leon",
       "Album": "Only By The Night",
       "Other_Artists": "",
@@ -8295,6 +8986,7 @@
     {
       "Id": 692,
       "Title": "Grey Street (Partial)",
+      "CleanedTitle": "grey-street-partial",
       "Artist": "Dave Matthews Band",
       "Album": "Busted Stuff",
       "Other_Artists": "",
@@ -8307,6 +8999,7 @@
     {
       "Id": 693,
       "Title": "Planet Caravan",
+      "CleanedTitle": "planet-caravan",
       "Artist": "Black Sabbath",
       "Album": "Paranoid",
       "Other_Artists": "",
@@ -8319,6 +9012,7 @@
     {
       "Id": 694,
       "Title": "Losing My Religion",
+      "CleanedTitle": "losing-my-religion",
       "Artist": "R.E.M",
       "Album": "Out Of Time",
       "Other_Artists": "",
@@ -8331,6 +9025,7 @@
     {
       "Id": 695,
       "Title": "Kashmir (Partial)",
+      "CleanedTitle": "kashmir-partial",
       "Artist": "Led Zeppelin",
       "Album": "Physical Graffiti",
       "Other_Artists": "",
@@ -8343,6 +9038,7 @@
     {
       "Id": 696,
       "Title": "Man Of Constant Sorrow",
+      "CleanedTitle": "man-of-constant-sorrow",
       "Artist": "The Soggy Bottom Boys",
       "Album": "O Brother, Where Art Thou?",
       "Other_Artists": "Dick Burnett",
@@ -8355,6 +9051,7 @@
     {
       "Id": 697,
       "Title": "Life Without You",
+      "CleanedTitle": "life-without-you",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Soul to Soul",
       "Other_Artists": "",
@@ -8367,6 +9064,7 @@
     {
       "Id": 698,
       "Title": "Parachutes",
+      "CleanedTitle": "parachutes",
       "Artist": "Coldplay",
       "Album": "Parachutes",
       "Other_Artists": "",
@@ -8379,6 +9077,7 @@
     {
       "Id": 699,
       "Title": "Rock N' Roll Duty (Partial)",
+      "CleanedTitle": "rock-n-roll-duty-partial",
       "Artist": "Kim Mitchell",
       "Album": "Greatest Hits",
       "Other_Artists": "",
@@ -8391,6 +9090,7 @@
     {
       "Id": 700,
       "Title": "Intro \"Way to the Sea\"",
+      "CleanedTitle": "intro-way-to-the-sea",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -8403,6 +9103,7 @@
     {
       "Id": 701,
       "Title": "Intro \"Giving Up\"",
+      "CleanedTitle": "intro-giving-up",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -8415,6 +9116,7 @@
     {
       "Id": 702,
       "Title": "To Be With You",
+      "CleanedTitle": "to-be-with-you",
       "Artist": "Mr. Big",
       "Album": "Lean Into It",
       "Other_Artists": "",
@@ -8427,6 +9129,7 @@
     {
       "Id": 703,
       "Title": "Reelin' In The Years",
+      "CleanedTitle": "reelin-in-the-years",
       "Artist": "Steely Dan",
       "Album": "Can't Buy A Thrill",
       "Other_Artists": "",
@@ -8439,6 +9142,7 @@
     {
       "Id": 704,
       "Title": "Lola",
+      "CleanedTitle": "lola",
       "Artist": "The Kinks",
       "Album": "Lola Versus Powerman and the Moneygoround, pt.1",
       "Other_Artists": "",
@@ -8451,6 +9155,7 @@
     {
       "Id": 705,
       "Title": "The Middle",
+      "CleanedTitle": "the-middle",
       "Artist": "Jimmy Eat World",
       "Album": "Bleed American",
       "Other_Artists": "",
@@ -8463,6 +9168,7 @@
     {
       "Id": 706,
       "Title": "Long Cool Woman (In a Black Dress) (Partial)",
+      "CleanedTitle": "long-cool-woman-in-a-black-dress-partial",
       "Artist": "The Hollies",
       "Album": "Distant Light",
       "Other_Artists": "",
@@ -8475,6 +9181,7 @@
     {
       "Id": 707,
       "Title": "Two",
+      "CleanedTitle": "two",
       "Artist": "Ryan Adams",
       "Album": "Easy Tiger",
       "Other_Artists": "",
@@ -8487,6 +9194,7 @@
     {
       "Id": 708,
       "Title": "Intro \"Starbird\"",
+      "CleanedTitle": "intro-starbird",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -8499,6 +9207,7 @@
     {
       "Id": 709,
       "Title": "Inspector Gadget Theme",
+      "CleanedTitle": "inspector-gadget-theme",
       "Artist": "Shuki Levy",
       "Album": null,
       "Other_Artists": "Haim Saban",
@@ -8511,6 +9220,7 @@
     {
       "Id": 710,
       "Title": "What I Got",
+      "CleanedTitle": "what-i-got",
       "Artist": "Sublime",
       "Album": "Sublime",
       "Other_Artists": "",
@@ -8523,6 +9233,7 @@
     {
       "Id": 711,
       "Title": "My Baba",
+      "CleanedTitle": "my-baba",
       "Artist": "Trevor Hall, Krishna Das",
       "Album": "Trevor Hall",
       "Other_Artists": "",
@@ -8535,6 +9246,7 @@
     {
       "Id": 712,
       "Title": "Blues Improv",
+      "CleanedTitle": "blues-improv",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -8547,6 +9259,7 @@
     {
       "Id": 713,
       "Title": "If You Could Only See",
+      "CleanedTitle": "if-you-could-only-see",
       "Artist": "Tonic",
       "Album": "Lemon Parade",
       "Other_Artists": "",
@@ -8559,6 +9272,7 @@
     {
       "Id": 714,
       "Title": "Intro \"Until the End\"",
+      "CleanedTitle": "intro-until-the-end",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -8571,6 +9285,7 @@
     {
       "Id": 715,
       "Title": "Intro \"Time Always Tells\"",
+      "CleanedTitle": "intro-time-always-tells",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -8583,6 +9298,7 @@
     {
       "Id": 716,
       "Title": "All Apologies",
+      "CleanedTitle": "all-apologies",
       "Artist": "Nirvana",
       "Album": "In Utero",
       "Other_Artists": "",
@@ -8595,6 +9311,7 @@
     {
       "Id": 717,
       "Title": "Intro \"Into Light\"",
+      "CleanedTitle": "intro-into-light",
       "Artist": "Corey Heuvel",
       "Album": "Starbird",
       "Other_Artists": "",
@@ -8607,6 +9324,7 @@
     {
       "Id": 718,
       "Title": "Time Has Told Me",
+      "CleanedTitle": "time-has-told-me",
       "Artist": "Nick Drake",
       "Album": "Five Leaves Left",
       "Other_Artists": "",
@@ -8619,6 +9337,7 @@
     {
       "Id": 719,
       "Title": "Angie",
+      "CleanedTitle": "angie",
       "Artist": "The Rolling Stones",
       "Album": "Goats Head Soup",
       "Other_Artists": "",
@@ -8631,6 +9350,7 @@
     {
       "Id": 720,
       "Title": "Animals (Partial)",
+      "CleanedTitle": "animals-partial",
       "Artist": "Nickelback",
       "Album": "All the Right Reasons",
       "Other_Artists": "",
@@ -8643,6 +9363,7 @@
     {
       "Id": 721,
       "Title": "Everything In Its Right Place",
+      "CleanedTitle": "everything-in-its-right-place",
       "Artist": "Radiohead",
       "Album": "Kid A",
       "Other_Artists": "",
@@ -8655,6 +9376,7 @@
     {
       "Id": 722,
       "Title": "Study in E Minor",
+      "CleanedTitle": "study-in-e-minor",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -8667,6 +9389,7 @@
     {
       "Id": 723,
       "Title": "Shine",
+      "CleanedTitle": "shine",
       "Artist": "Collective Soul",
       "Album": "Hints, Allegations & Things Left Unsaid",
       "Other_Artists": "",
@@ -8679,6 +9402,7 @@
     {
       "Id": 724,
       "Title": "Space Oddity",
+      "CleanedTitle": "space-oddity",
       "Artist": "David Bowie",
       "Album": "David Bowie (aka Space Oddity)",
       "Other_Artists": "",
@@ -8691,6 +9415,7 @@
     {
       "Id": 725,
       "Title": "Cause We've Ended as Lovers",
+      "CleanedTitle": "cause-we-ve-ended-as-lovers",
       "Artist": "Jeff Beck",
       "Album": "Blow By Blow",
       "Other_Artists": "",
@@ -8703,6 +9428,7 @@
     {
       "Id": 726,
       "Title": "April Come She Will",
+      "CleanedTitle": "april-come-she-will",
       "Artist": "Simon & Garfunkel",
       "Album": "Sounds Of Silence",
       "Other_Artists": "",
@@ -8715,6 +9441,7 @@
     {
       "Id": 727,
       "Title": "Yesterday",
+      "CleanedTitle": "yesterday",
       "Artist": "The Beatles",
       "Album": "Help!",
       "Other_Artists": "",
@@ -8727,6 +9454,7 @@
     {
       "Id": 728,
       "Title": "When I'm Up - I Can't Get Down",
+      "CleanedTitle": "when-i-m-up-i-can-t-get-down",
       "Artist": "Great Big Sea",
       "Album": "Play",
       "Other_Artists": "",
@@ -8739,6 +9467,7 @@
     {
       "Id": 729,
       "Title": "White Winter Hymnal (Partial)",
+      "CleanedTitle": "white-winter-hymnal-partial",
       "Artist": "Fleet Foxes",
       "Album": "Fleet Foxes",
       "Other_Artists": "",
@@ -8751,6 +9480,7 @@
     {
       "Id": 730,
       "Title": "Stone Free",
+      "CleanedTitle": "stone-free",
       "Artist": "Jimi Hendrix",
       "Album": "Are You Experienced",
       "Other_Artists": "",
@@ -8763,6 +9493,7 @@
     {
       "Id": 731,
       "Title": "I Don't Trust Myself (With Loving You)",
+      "CleanedTitle": "i-don-t-trust-myself-with-loving-you",
       "Artist": "John Mayer",
       "Album": "Continuum",
       "Other_Artists": "",
@@ -8775,6 +9506,7 @@
     {
       "Id": 732,
       "Title": "Teardrop",
+      "CleanedTitle": "teardrop",
       "Artist": "Massive Attack",
       "Album": "Mezzanine",
       "Other_Artists": "",
@@ -8787,6 +9519,7 @@
     {
       "Id": 733,
       "Title": "Intro \"Love Story\"",
+      "CleanedTitle": "intro-love-story",
       "Artist": "Corey Heuvel",
       "Album": "Corey VandenHeuvel - EP",
       "Other_Artists": "",
@@ -8799,6 +9532,7 @@
     {
       "Id": 734,
       "Title": "Echo",
+      "CleanedTitle": "echo",
       "Artist": "Incubus",
       "Album": "Morning View",
       "Other_Artists": "",
@@ -8811,6 +9545,7 @@
     {
       "Id": 735,
       "Title": "Happy Birthday",
+      "CleanedTitle": "happy-birthday",
       "Artist": "Corey Heuvel",
       "Album": null,
       "Other_Artists": "",
@@ -8823,6 +9558,7 @@
     {
       "Id": 736,
       "Title": "Intro \"Reverie\"",
+      "CleanedTitle": "intro-reverie",
       "Artist": "Corey Heuvel",
       "Album": "Bliss from Within",
       "Other_Artists": "",
@@ -8835,6 +9571,7 @@
     {
       "Id": 737,
       "Title": "Fugue in G Minor, BMV 1000",
+      "CleanedTitle": "fugue-in-g-minor-bmv-1000",
       "Artist": "Johann Sebastian Bach",
       "Album": null,
       "Other_Artists": "",
@@ -8847,6 +9584,7 @@
     {
       "Id": 738,
       "Title": "Für Elise (Partial)",
+      "CleanedTitle": "fur-elise-partial",
       "Artist": "Ludwig Van Beethoven",
       "Album": null,
       "Other_Artists": "",
@@ -8859,6 +9597,7 @@
     {
       "Id": 739,
       "Title": "Real World",
+      "CleanedTitle": "real-world",
       "Artist": "Matchbox Twenty",
       "Album": "Yourself or Someone Like You",
       "Other_Artists": "",
@@ -8871,6 +9610,7 @@
     {
       "Id": 740,
       "Title": "Carry Me Ohio",
+      "CleanedTitle": "carry-me-ohio",
       "Artist": "Sun Kil Moon",
       "Album": "Ghosts of the Great Highway",
       "Other_Artists": "",
@@ -8883,6 +9623,7 @@
     {
       "Id": 741,
       "Title": "Salvador Sanchez",
+      "CleanedTitle": "salvador-sanchez",
       "Artist": "Sun Kil Moon",
       "Album": "Ghosts of the Great Highway",
       "Other_Artists": "",
@@ -8895,6 +9636,7 @@
     {
       "Id": 742,
       "Title": "Give A Little Bit",
+      "CleanedTitle": "give-a-little-bit",
       "Artist": "Supertramp",
       "Album": "Even In The Quietest Moments",
       "Other_Artists": "",
@@ -8907,6 +9649,7 @@
     {
       "Id": 743,
       "Title": "Ahead By A Century",
+      "CleanedTitle": "ahead-by-a-century",
       "Artist": "The Tragically Hip",
       "Album": "Trouble At The Henhouse",
       "Other_Artists": "",
@@ -8919,6 +9662,7 @@
     {
       "Id": 744,
       "Title": "Tiny Dancer",
+      "CleanedTitle": "tiny-dancer",
       "Artist": "Elton John",
       "Album": "Madman Across The Water",
       "Other_Artists": "",
@@ -8931,6 +9675,7 @@
     {
       "Id": 745,
       "Title": "I Never Asked to Be Your Mountain",
+      "CleanedTitle": "i-never-asked-to-be-your-mountain",
       "Artist": "Tim Buckley",
       "Album": "Goodbye And Hello",
       "Other_Artists": "",
@@ -8943,6 +9688,7 @@
     {
       "Id": 746,
       "Title": "If You Could Read My Mind",
+      "CleanedTitle": "if-you-could-read-my-mind",
       "Artist": "Gordon Lightfoot",
       "Album": "If You Could Read My Mind",
       "Other_Artists": "",
@@ -8955,6 +9701,7 @@
     {
       "Id": 747,
       "Title": "Let Down",
+      "CleanedTitle": "let-down",
       "Artist": "Radiohead",
       "Album": "OK Computer",
       "Other_Artists": "",
@@ -8967,6 +9714,7 @@
     {
       "Id": 748,
       "Title": "Young Lust",
+      "CleanedTitle": "young-lust",
       "Artist": "Pink Floyd",
       "Album": "The Wall",
       "Other_Artists": "",
@@ -8979,6 +9727,7 @@
     {
       "Id": 749,
       "Title": "Up On Cripple Creek",
+      "CleanedTitle": "up-on-cripple-creek",
       "Artist": "The Band",
       "Album": "The Band",
       "Other_Artists": "",
@@ -8991,6 +9740,7 @@
     {
       "Id": 750,
       "Title": "Life in the Fast Lane (Audio Issues)",
+      "CleanedTitle": "life-in-the-fast-lane-audio-issues",
       "Artist": "The Eagles",
       "Album": "Hotel California",
       "Other_Artists": "",
@@ -9003,6 +9753,7 @@
     {
       "Id": 751,
       "Title": "Wanted Dead Or Alive (Audio Issues)",
+      "CleanedTitle": "wanted-dead-or-alive-audio-issues",
       "Artist": "Bon Jovi",
       "Album": "Slippery When Wet",
       "Other_Artists": "",
@@ -9015,6 +9766,7 @@
     {
       "Id": 752,
       "Title": "Poison Girl (Audio Issues)",
+      "CleanedTitle": "poison-girl-audio-issues",
       "Artist": "Chris Whitley",
       "Album": "Living With The Law",
       "Other_Artists": "",
@@ -9027,6 +9779,7 @@
     {
       "Id": 753,
       "Title": "Crossing Over/Tree of Life (Medley) (Rein Rutnik Performance)",
+      "CleanedTitle": "crossing-over-tree-of-life-medley-rein-rutnik-performance",
       "Artist": "Grant Dermody",
       "Album": "Sun Might Shine On Me",
       "Other_Artists": "",
@@ -9039,6 +9792,7 @@
     {
       "Id": 754,
       "Title": "Smells Like Teen Spirit (Audio Issues)",
+      "CleanedTitle": "smells-like-teen-spirit-audio-issues",
       "Artist": "Nirvana",
       "Album": "Nevermind",
       "Other_Artists": "",
@@ -9051,6 +9805,7 @@
     {
       "Id": 755,
       "Title": "The Weight (Audio Issues)",
+      "CleanedTitle": "the-weight-audio-issues",
       "Artist": "The Band",
       "Album": "Music From Big Pink",
       "Other_Artists": "",
@@ -9063,6 +9818,7 @@
     {
       "Id": 756,
       "Title": "Once I Was (Audio Issues)",
+      "CleanedTitle": "once-i-was-audio-issues",
       "Artist": "Tim Buckley",
       "Album": "Goodbye And Hello",
       "Other_Artists": "",
@@ -9075,6 +9831,7 @@
     {
       "Id": 757,
       "Title": "Claire De Lune (Audio Issues)",
+      "CleanedTitle": "claire-de-lune-audio-issues",
       "Artist": "Claude Debussy",
       "Album": null,
       "Other_Artists": "",
@@ -9087,6 +9844,7 @@
     {
       "Id": 758,
       "Title": "The Wasp & The Jar (Audio Issues)",
+      "CleanedTitle": "the-wasp-the-jar-audio-issues",
       "Artist": "Scott Matthews",
       "Album": "Live In London",
       "Other_Artists": "",
@@ -9099,6 +9857,7 @@
     {
       "Id": 759,
       "Title": "Sweet Home Alabama (Audio Issues)",
+      "CleanedTitle": "sweet-home-alabama-audio-issues",
       "Artist": "Lynyrd Skynyrd",
       "Album": "Second Helping",
       "Other_Artists": "",
@@ -9111,6 +9870,7 @@
     {
       "Id": 760,
       "Title": "Back To You (Audio Issues)",
+      "CleanedTitle": "back-to-you-audio-issues",
       "Artist": "Bryan Adams",
       "Album": "MTV Unplugged",
       "Other_Artists": "",
@@ -9123,6 +9883,7 @@
     {
       "Id": 761,
       "Title": "Crazy Train (Electric riff)",
+      "CleanedTitle": "crazy-train-electric-riff",
       "Artist": "Ozzy Osbourne",
       "Album": "Blizzard Of Ozz",
       "Other_Artists": "",
@@ -9135,6 +9896,7 @@
     {
       "Id": 762,
       "Title": "Cocaine (Electric riff)",
+      "CleanedTitle": "cocaine-electric-riff",
       "Artist": "Eric Clapton",
       "Album": "Slowhand",
       "Other_Artists": "J.J. Cale",
@@ -9147,6 +9909,7 @@
     {
       "Id": 763,
       "Title": "Rude Mood (Electric riff)",
+      "CleanedTitle": "rude-mood-electric-riff",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Texas Flood",
       "Other_Artists": "",
@@ -9159,6 +9922,7 @@
     {
       "Id": 764,
       "Title": "The Heart of Life (Electric riff)",
+      "CleanedTitle": "the-heart-of-life-electric-riff",
       "Artist": "John Mayer",
       "Album": "Continuum",
       "Other_Artists": "",
@@ -9171,6 +9935,7 @@
     {
       "Id": 765,
       "Title": "Smoke on the Water (Audio Issues)",
+      "CleanedTitle": "smoke-on-the-water-audio-issues",
       "Artist": "Deep Purple",
       "Album": "Machine Head",
       "Other_Artists": "",
@@ -9183,6 +9948,7 @@
     {
       "Id": 766,
       "Title": "(I Can't Get No) Satisfaction (Electric riff)",
+      "CleanedTitle": "i-can-t-get-no-satisfaction-electric-riff",
       "Artist": "The Rolling Stones",
       "Album": "Out Of Our Heads",
       "Other_Artists": "",
@@ -9195,6 +9961,7 @@
     {
       "Id": 767,
       "Title": "Autumn Leaves (Electric riff)",
+      "CleanedTitle": "autumn-leaves-electric-riff",
       "Artist": "Joseph Kosma",
       "Album": null,
       "Other_Artists": "Jacques Prevert",
@@ -9207,6 +9974,7 @@
     {
       "Id": 768,
       "Title": "D'yer Mak'er (Electric riff)",
+      "CleanedTitle": "d-yer-mak-er-electric-riff",
       "Artist": "Led Zeppelin",
       "Album": "Houses of the Holy",
       "Other_Artists": "",
@@ -9219,6 +9987,7 @@
     {
       "Id": 769,
       "Title": "Day Tripper (Audio Issues)",
+      "CleanedTitle": "day-tripper-audio-issues",
       "Artist": "The Beatles",
       "Album": "1",
       "Other_Artists": "",
@@ -9231,6 +10000,7 @@
     {
       "Id": 770,
       "Title": "New Orleans Is Sinking (Audio Issues)",
+      "CleanedTitle": "new-orleans-is-sinking-audio-issues",
       "Artist": "The Tragically Hip",
       "Album": "Up To Here",
       "Other_Artists": "",
@@ -9243,6 +10013,7 @@
     {
       "Id": 771,
       "Title": "You Make My Dreams (Come True) (Audio Issues)",
+      "CleanedTitle": "you-make-my-dreams-come-true-audio-issues",
       "Artist": "Daryl Hall and John Oates",
       "Album": "Voices",
       "Other_Artists": "",
@@ -9255,6 +10026,7 @@
     {
       "Id": 772,
       "Title": "Push (Audio Issues)",
+      "CleanedTitle": "push-audio-issues",
       "Artist": "Moist",
       "Album": "Silver",
       "Other_Artists": "",
@@ -9267,6 +10039,7 @@
     {
       "Id": 773,
       "Title": "Ain't No Sunshine (Audio Issues)",
+      "CleanedTitle": "ain-t-no-sunshine-audio-issues",
       "Artist": "Bill Withers",
       "Album": "Just As I Am",
       "Other_Artists": "",
@@ -9279,6 +10052,7 @@
     {
       "Id": 774,
       "Title": "Sex & Candy (Audio Issues)",
+      "CleanedTitle": "sex-candy-audio-issues",
       "Artist": "Marcy Playground",
       "Album": "Marcy Playground",
       "Other_Artists": "",
@@ -9291,6 +10065,7 @@
     {
       "Id": 775,
       "Title": "I'm Gonna Be (500 Miles) (Audio Issues)",
+      "CleanedTitle": "i-m-gonna-be-500-miles-audio-issues",
       "Artist": "The Proclaimers",
       "Album": "Sunshine on Leith",
       "Other_Artists": "",
@@ -9303,6 +10078,7 @@
     {
       "Id": 776,
       "Title": "Asturias (Leyenda) (Audio Issues)",
+      "CleanedTitle": "asturias-leyenda-audio-issues",
       "Artist": "Isaac Albéniz",
       "Album": null,
       "Other_Artists": "",
@@ -9315,6 +10091,7 @@
     {
       "Id": 777,
       "Title": "Come As You Are (Audio Issues)",
+      "CleanedTitle": "come-as-you-are-audio-issues",
       "Artist": "Nirvana",
       "Album": "Nevermind",
       "Other_Artists": "",
@@ -9327,6 +10104,7 @@
     {
       "Id": 778,
       "Title": "Every Breath You Take (Audio Issues)",
+      "CleanedTitle": "every-breath-you-take-audio-issues",
       "Artist": "The Police",
       "Album": "Synchronicity",
       "Other_Artists": "",
@@ -9339,6 +10117,7 @@
     {
       "Id": 779,
       "Title": "Rock Me Baby (Audio Issues)",
+      "CleanedTitle": "rock-me-baby-audio-issues",
       "Artist": "Jimi Hendrix",
       "Album": "Live At Monterey",
       "Other_Artists": "",
@@ -9351,6 +10130,7 @@
     {
       "Id": 780,
       "Title": "S.R.V (Electric riff)",
+      "CleanedTitle": "s-r-v-electric-riff",
       "Artist": "Eric Johnson",
       "Album": "Venus Isle",
       "Other_Artists": "",
@@ -9363,6 +10143,7 @@
     {
       "Id": 781,
       "Title": "Rock and Roll (Electric riff)",
+      "CleanedTitle": "rock-and-roll-electric-riff",
       "Artist": "Led Zeppelin",
       "Album": "Led Zeppelin IV",
       "Other_Artists": "",
@@ -9375,6 +10156,7 @@
     {
       "Id": 782,
       "Title": "Mouth for War (Electric riff)",
+      "CleanedTitle": "mouth-for-war-electric-riff",
       "Artist": "Pantera",
       "Album": "Vulgar Display of Power",
       "Other_Artists": "",
@@ -9387,6 +10169,7 @@
     {
       "Id": 783,
       "Title": "Bulls On Parade (Electric riff)",
+      "CleanedTitle": "bulls-on-parade-electric-riff",
       "Artist": "Rage Against The Machine",
       "Album": "Evil Empire",
       "Other_Artists": "",
@@ -9399,6 +10182,7 @@
     {
       "Id": 784,
       "Title": "Roxanne (Audio Issues)",
+      "CleanedTitle": "roxanne-audio-issues",
       "Artist": "The Police",
       "Album": "Outlandos D'Amour",
       "Other_Artists": "",
@@ -9411,6 +10195,7 @@
     {
       "Id": 785,
       "Title": "Old Time Rock & Rock (Audio Issues)",
+      "CleanedTitle": "old-time-rock-rock-audio-issues",
       "Artist": "Bob Seger",
       "Album": "Stranger In Town",
       "Other_Artists": "",
@@ -9423,6 +10208,7 @@
     {
       "Id": 786,
       "Title": "Feeling Good (Audio Issues)",
+      "CleanedTitle": "feeling-good-audio-issues",
       "Artist": "Nina Simone",
       "Album": "I Put A Spell On You",
       "Other_Artists": "",
@@ -9435,6 +10221,7 @@
     {
       "Id": 787,
       "Title": "It's Not Unusual (Audio Issues)",
+      "CleanedTitle": "it-s-not-unusual-audio-issues",
       "Artist": "Tom Jones",
       "Album": "Along Came Jones",
       "Other_Artists": "",
@@ -9447,6 +10234,7 @@
     {
       "Id": 788,
       "Title": "Rosanna (Audio Issues)",
+      "CleanedTitle": "rosanna-audio-issues",
       "Artist": "Toto",
       "Album": "Toto IV",
       "Other_Artists": "",
@@ -9459,6 +10247,7 @@
     {
       "Id": 789,
       "Title": "Comfortably Numb (Audio Issues)",
+      "CleanedTitle": "comfortably-numb-audio-issues",
       "Artist": "Pink Floyd",
       "Album": "The Wall",
       "Other_Artists": "",
@@ -9471,6 +10260,7 @@
     {
       "Id": 790,
       "Title": "Barracuda (Audio Issues)",
+      "CleanedTitle": "barracuda-audio-issues",
       "Artist": "Heart",
       "Album": "Little Queen",
       "Other_Artists": "",
@@ -9483,6 +10273,7 @@
     {
       "Id": 791,
       "Title": "Riders on the Storm (Audio Issues)",
+      "CleanedTitle": "riders-on-the-storm-audio-issues",
       "Artist": "The Doors",
       "Album": "L.A. Woman",
       "Other_Artists": "",
@@ -9495,6 +10286,7 @@
     {
       "Id": 792,
       "Title": "Canarios (Audio Issues)",
+      "CleanedTitle": "canarios-audio-issues",
       "Artist": "Gaspar Sanz",
       "Album": null,
       "Other_Artists": "",
@@ -9507,6 +10299,7 @@
     {
       "Id": 793,
       "Title": "Tell Me (Audio Issues)",
+      "CleanedTitle": "tell-me-audio-issues",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Texas Flood",
       "Other_Artists": "",
@@ -9519,6 +10312,7 @@
     {
       "Id": 794,
       "Title": "Ice Water Blues (Rein Rutnik Performance)",
+      "CleanedTitle": "ice-water-blues-rein-rutnik-performance",
       "Artist": "Deford Bailey",
       "Album": null,
       "Other_Artists": "",
@@ -9531,6 +10325,7 @@
     {
       "Id": 795,
       "Title": "Recuerdos De la Alhambra (Audio Issues)",
+      "CleanedTitle": "recuerdos-de-la-alhambra-audio-issues",
       "Artist": "Francisco Tárrega",
       "Album": null,
       "Other_Artists": "",
@@ -9543,6 +10338,7 @@
     {
       "Id": 796,
       "Title": "The Scientist (Audio Issues)",
+      "CleanedTitle": "the-scientist-audio-issues",
       "Artist": "Coldplay",
       "Album": "A Rush of Blood to the Head",
       "Other_Artists": "",
@@ -9555,6 +10351,7 @@
     {
       "Id": 797,
       "Title": "Don't Worry Be Happy (Audio Issues)",
+      "CleanedTitle": "don-t-worry-be-happy-audio-issues",
       "Artist": "Bobby McFerrin",
       "Album": "Simple Pleasures",
       "Other_Artists": "",
@@ -9567,6 +10364,7 @@
     {
       "Id": 798,
       "Title": "It's Only Rock'n'Roll (But I Like It) (Audio Issues)",
+      "CleanedTitle": "it-s-only-rock-n-roll-but-i-like-it-audio-issues",
       "Artist": "The Rolling Stones",
       "Album": "It's Only Rock'N'Roll",
       "Other_Artists": "",
@@ -9579,6 +10377,7 @@
     {
       "Id": 799,
       "Title": "Just Breathe (Audio Issues)",
+      "CleanedTitle": "just-breathe-audio-issues",
       "Artist": "Pearl Jam",
       "Album": "Backspacer",
       "Other_Artists": "",
@@ -9591,6 +10390,7 @@
     {
       "Id": 800,
       "Title": "Rock'n Me (Audio Issues)",
+      "CleanedTitle": "rock-n-me-audio-issues",
       "Artist": "Steve Miller Band",
       "Album": "Fly Like An Eagle",
       "Other_Artists": "",
@@ -9603,6 +10403,7 @@
     {
       "Id": 801,
       "Title": "Black or White (Audio Issues)",
+      "CleanedTitle": "black-or-white-audio-issues",
       "Artist": "Michael Jackson",
       "Album": "Dangerous",
       "Other_Artists": "Slash",
@@ -9615,6 +10416,7 @@
     {
       "Id": 802,
       "Title": "Jesus Just Left Chicago (Audio Issues)",
+      "CleanedTitle": "jesus-just-left-chicago-audio-issues",
       "Artist": "ZZ Top",
       "Album": "Tres Hombres",
       "Other_Artists": "",
@@ -9627,6 +10429,7 @@
     {
       "Id": 803,
       "Title": "Change It (Audio Issues)",
+      "CleanedTitle": "change-it-audio-issues",
       "Artist": "Stevie Ray Vaughan",
       "Album": "Soul to Soul",
       "Other_Artists": "",
@@ -9639,6 +10442,7 @@
     {
       "Id": 804,
       "Title": "Venture Highway (Audio Issues)",
+      "CleanedTitle": "venture-highway-audio-issues",
       "Artist": "America, George Martin",
       "Album": "Homecoming",
       "Other_Artists": "",
@@ -9651,6 +10455,7 @@
     {
       "Id": 805,
       "Title": "Someone To Call My Lover (Audio Issues)",
+      "CleanedTitle": "someone-to-call-my-lover-audio-issues",
       "Artist": "Janet Jackson",
       "Album": "All For You",
       "Other_Artists": "",
@@ -9663,6 +10468,7 @@
     {
       "Id": 806,
       "Title": "Across The Universe (Audio Issues)",
+      "CleanedTitle": "across-the-universe-audio-issues",
       "Artist": "The Beatles",
       "Album": "Let It Be",
       "Other_Artists": "",
@@ -9675,6 +10481,7 @@
     {
       "Id": 807,
       "Title": "Rock And Roll All Nite (Audio Issues)",
+      "CleanedTitle": "rock-and-roll-all-nite-audio-issues",
       "Artist": "Kiss",
       "Album": "Dressed To Kill",
       "Other_Artists": "",
@@ -9687,6 +10494,7 @@
     {
       "Id": 808,
       "Title": "Prelude in C Minor, BMV 999 (Audio Issues)",
+      "CleanedTitle": "prelude-in-c-minor-bmv-999-audio-issues",
       "Artist": "Johann Sebastian Bach",
       "Album": null,
       "Other_Artists": "",
@@ -9699,6 +10507,7 @@
     {
       "Id": 809,
       "Title": "Cuts Like A Knife (Audio Issues)",
+      "CleanedTitle": "cuts-like-a-knife-audio-issues",
       "Artist": "Bryan Adams",
       "Album": "Cuts Like A Knife",
       "Other_Artists": "",
@@ -9711,6 +10520,7 @@
     {
       "Id": 810,
       "Title": "The Man Who Sold the World (Audio Issues)",
+      "CleanedTitle": "the-man-who-sold-the-world-audio-issues",
       "Artist": "David Bowie",
       "Album": "The Man Who Sold the World",
       "Other_Artists": "Nirvana",
@@ -9723,6 +10533,7 @@
     {
       "Id": 811,
       "Title": "Photograph (Audio Issues)",
+      "CleanedTitle": "photograph-audio-issues",
       "Artist": "Nickelback",
       "Album": "All the Right Reasons",
       "Other_Artists": "",
@@ -9735,6 +10546,7 @@
     {
       "Id": 812,
       "Title": "Hard To Handle (Audio Issues)",
+      "CleanedTitle": "hard-to-handle-audio-issues",
       "Artist": "The Black Crowes",
       "Album": "Shake Your Money Maker",
       "Other_Artists": "",
@@ -9747,6 +10559,7 @@
     {
       "Id": 813,
       "Title": "The Wheels on the Bus (Audio Issues)",
+      "CleanedTitle": "the-wheels-on-the-bus-audio-issues",
       "Artist": "Nursery Rhyme",
       "Album": null,
       "Other_Artists": "",
@@ -9759,6 +10572,7 @@
     {
       "Id": 814,
       "Title": "Schism (Audio Issues)",
+      "CleanedTitle": "schism-audio-issues",
       "Artist": "Tool",
       "Album": "Lateralus",
       "Other_Artists": "",
@@ -9771,6 +10585,7 @@
     {
       "Id": 815,
       "Title": "If I Ain't Got You (Audio Issues)",
+      "CleanedTitle": "if-i-ain-t-got-you-audio-issues",
       "Artist": "Alicia Keys",
       "Album": "The Diary Of Alicia Keys",
       "Other_Artists": "",
@@ -9783,6 +10598,7 @@
     {
       "Id": 816,
       "Title": "Someday We'll All Be Free (Audio Issues)",
+      "CleanedTitle": "someday-we-ll-all-be-free-audio-issues",
       "Artist": "Donny Hathaway",
       "Album": "Extension of a Man",
       "Other_Artists": "",
@@ -9795,6 +10611,7 @@
     {
       "Id": 817,
       "Title": "Takin' Care Of Business (Audio Issues)",
+      "CleanedTitle": "takin-care-of-business-audio-issues",
       "Artist": "Bachman-Turner Overdrive",
       "Album": "Bachman-Turner Overdrive II",
       "Other_Artists": "",
