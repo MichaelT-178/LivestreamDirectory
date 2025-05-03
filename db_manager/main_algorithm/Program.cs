@@ -12,11 +12,6 @@ class Program
      */
     public static async Task Main()
     {   
-
-        AlbumRepertoireHandler.EnsureAllAlbumsHaveImage();
-
-        Environment.Exit(0);
-
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
         Color.PrintWithColoredPart(@"Do you want to open the ""all-timestamps.txt"" file? : ", "\"all-timestamps.txt\"", "Cyan");
         

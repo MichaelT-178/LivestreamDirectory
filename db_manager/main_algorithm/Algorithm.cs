@@ -182,6 +182,10 @@ class Algorithm
         AlbumRepertoireHandler.CheckForNoRepeatAlbums();
         AlbumRepertoireHandler.SyncAlbumsWithRepertoire();
 
+        // Just ensures all cleaned titles are up to date 
+        // and formatted properly before checking images
+        AlbumRepertoireHandler.UpdateCleanedAlbumTitles();
+
         CreateNewJSON.AddAlbumAttribute();
 
     } //Run method ends 

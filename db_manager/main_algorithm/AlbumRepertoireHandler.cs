@@ -10,6 +10,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  * GetRepertoire | Returns the song list from the repertoire.json file
  * CheckForNoRepeatAlbums | Makes sure there are no repeat albumTitles in albums.json
  * EnsureAllAlbumsHaveImage | Ensures all albums in albums.json have an associated image.
+ * UpdateCleanedAlbumTitles | Updates the CleanedAlbumTitle attributes in albums.json
  * SyncAlbumsWithRepertoire | Ensures every song has an associated album.json
  * UpdateRepertoireFile | Update the repertoire.json file given a list of songs
  *
@@ -123,11 +124,51 @@ class AlbumRepertoireHandler
     }
 
 
+    /**
+     * Updates the CleanedAlbumTitle attributes in albums.json
+     */
+    public static void UpdateCleanedAlbumTitles()
+    {
+        try
+        {
+            string jsonContent = File.ReadAllText(albumJSONFilePath);
+            var data = JsonSerializer.Deserialize<AlbumWrapper>(jsonContent)!;
+            
+            foreach (var album in data.albums)
+            {
+                if (!string.IsNullOrWhiteSpace(album.AlbumTitle))
+                {
+                    album.CleanedAlbumTitle = TextCleaner.CleanText(album.AlbumTitle);
+                }
+                else
+                {
+                    album.CleanedAlbumTitle = null;
+                }
+            }
+            
+            var options = new JsonSerializerOptions
+            {
+                WriteIndented = true,
+                Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+            };
+            
+            string updatedJson = JsonSerializer.Serialize(data, options);
+            File.WriteAllText(albumJSONFilePath, updatedJson);
+        }
+        catch (Exception ex)
+        {
+            Color.DisplayError($"Error updating CleanedAlbumTitle values: {ex.Message}");
+        }
+    }
+
+
+    /**
+     * 
+     */
     public static void EnsureAllAlbumsHaveImage()
     {
         return;
     }
-
 
     /**
      * Ensures every song has an associated album.
