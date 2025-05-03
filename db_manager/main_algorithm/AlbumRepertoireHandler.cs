@@ -115,7 +115,8 @@ class AlbumRepertoireHandler
         
         if (conflictingAlbumGroups.Any())
         {
-            Console.WriteLine("Go fix albums.json!");
+            Color.PrintLine("\nGo fix albums.json!", "Cyan");
+            Color.PrintLine("* song_list.json \"Album\" attribute will be an empty string *", "Cyan");
             Environment.Exit(0);
         }
     }
