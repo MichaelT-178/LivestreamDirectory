@@ -34,7 +34,6 @@ class CreateNewJSON
                     string originalTitle = album.AlbumTitle!;
                     string cleanedTitle = TextCleaner.CleanText(originalTitle);
                     
-                    Console.WriteLine("ALBUM HERE: " + originalTitle);
                     matchingSong.Album = originalTitle;
                     matchingSong.AlbumImage = cleanedTitle + ".jpg";
                 }
