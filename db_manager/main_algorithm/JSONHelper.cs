@@ -72,10 +72,10 @@ class JSONHelper
     public static List<Song> GetDatabaseSongs()
     {
         string jsonData = File.ReadAllText("./database/song_list.json");
-        SongsContainer songsContainer = JsonConvert.DeserializeObject<SongsContainer>(jsonData)
+        SongWrapper songWrapper = JsonConvert.DeserializeObject<SongWrapper>(jsonData)
                                         ?? throw new ArgumentException("Couldn't create SongContainer!");
                                         
-        List<Song> databaseSongs = songsContainer.Songs 
+        List<Song> databaseSongs = songWrapper.Songs 
                                    ?? throw new ArgumentException("Couldn't get database songs!");
 
         return databaseSongs;
