@@ -1,5 +1,5 @@
 using Newtonsoft.Json;
-using SystemTextJsonSerializer = System.Text.Json.JsonSerializer;
+using JsonSerializer = System.Text.Json.JsonSerializer;
 
 /**
  * This class helps perform JSON operations on files.
@@ -113,7 +113,7 @@ class JSONHelper
      */
     public static void WriteJSONToFile(List<string> stringList, string filePath)
     {
-        string jsonString = SystemTextJsonSerializer.Serialize(stringList, new System.Text.Json.JsonSerializerOptions
+        string jsonString = JsonSerializer.Serialize(stringList, new System.Text.Json.JsonSerializerOptions
         {
             WriteIndented = true, 
             Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping

@@ -15,7 +15,11 @@ public class Album
     [JsonPropertyName("AlbumTitle")]
     public string? AlbumTitle { get; set; }    // nullable 
 
+    [JsonPropertyName("CleanedAlbumTitle")]
+    public string? CleanedAlbumTitle { get; set; }    // nullable 
+
     [JsonPropertyName("Artist")]
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
     public string? Artist { get; set; } // nullable
 
     public int Year { get; set; }

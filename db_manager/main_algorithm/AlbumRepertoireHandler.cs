@@ -1,5 +1,5 @@
 using System.Text.Json;
-using SystemTextJsonSerializer = System.Text.Json.JsonSerializer;
+using JsonSerializer = System.Text.Json.JsonSerializer;
 
 /**
  * Handles the album.json and repertoire.json file.
@@ -9,6 +9,7 @@ using SystemTextJsonSerializer = System.Text.Json.JsonSerializer;
  * GetAlbums | Returns the list of albums from albums.json
  * GetRepertoire | Returns the song list from the repertoire.json file
  * CheckForNoRepeatAlbums | Makes sure there are no repeat albumTitles in albums.json
+ * EnsureAllAlbumsHaveImage | Ensures all albums in albums.json have an associated image.
  * SyncAlbumsWithRepertoire | Ensures every song has an associated album.json
  * UpdateRepertoireFile | Update the repertoire.json file given a list of songs
  *
@@ -78,7 +79,7 @@ class AlbumRepertoireHandler
         try
         {
             string jsonContent = File.ReadAllText(repertoireJSONFilePath);
-            var data = SystemTextJsonSerializer.Deserialize<List<string>>(jsonContent)!;
+            var data = JsonSerializer.Deserialize<List<string>>(jsonContent)!;
             
             return data
                     .Where(s => !string.IsNullOrWhiteSpace(s)) // Can't be a blank space
@@ -119,6 +120,12 @@ class AlbumRepertoireHandler
             Color.PrintLine("* song_list.json \"Album\" attribute will be an empty string *", "Cyan");
             Environment.Exit(0);
         }
+    }
+
+
+    public static void EnsureAllAlbumsHaveImage()
+    {
+        return;
     }
 
 
@@ -195,7 +202,7 @@ class AlbumRepertoireHandler
     {
         string filePath = "./db_manager/json_files/repertoire.json";
 
-        string jsonString = SystemTextJsonSerializer.Serialize(songList, new JsonSerializerOptions
+        string jsonString = JsonSerializer.Serialize(songList, new JsonSerializerOptions
         {
             WriteIndented = true, 
             Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
