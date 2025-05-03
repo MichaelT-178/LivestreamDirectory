@@ -11,25 +11,25 @@ public class Song
     public string Title { get; set; }
     public string CleanedTitle { get; set; }
     public string Artist { get; set; }
+    public string ArtistImage { get; set; }
     public string Album { get; set; }
     public string Other_Artists { get; set; }
     public string Instruments { get; set; }
-    public string Image { get; set; }
     public string Search { get; set; }
     public string Appearances { get; set; }
     public string Links { get; set; }
 
-    public Song(int id, string title, string cleanedTitle, string artist, string album, string otherArtists, string instruments, 
-                string artistPic, string search, string appearances, string links)
+    public Song(int id, string title, string cleanedTitle, string artist, string artistPic, 
+                string album, string otherArtists, string instruments, string search, string appearances, string links)
     {
         Id = id;
         Title = title;
         CleanedTitle = cleanedTitle;
         Artist = artist;
+        ArtistImage = artistPic;
         Album = album;
         Other_Artists = otherArtists;
         Instruments = instruments;
-        Image = artistPic;
         Search = search;
         Appearances = appearances;
         Links = links;

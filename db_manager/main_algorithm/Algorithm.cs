@@ -163,7 +163,9 @@ class Algorithm
             string cleanedTitle = TextCleaner.CleanText(title);
             cleanedTitle = JSONHelper.GetRepeatCleanedTitle(cleanedTitle, artist);
 
-            Song jsonSong = new(idCount, title, cleanedTitle, artist, album, otherArtists, instruments, artistPic, search, appearances, links);
+            Song jsonSong = new(idCount, title, cleanedTitle, artist, artistPic, 
+                                album, otherArtists, instruments, search, appearances, links);
+            
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));
             idCount++;
         } //song in allSongs for loop ends 

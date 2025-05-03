@@ -51,10 +51,10 @@ class JSONHelper
         objectString += $"{s}\"Title\": \"{song.Title}\",\n";
         objectString += $"{s}\"CleanedTitle\": \"{song.CleanedTitle}\",\n";
         objectString += $"{s}\"Artist\": \"{song.Artist}\",\n";
+        objectString += $"{s}\"ArtistImage\": \"{song.ArtistImage}\",\n";
         objectString += $"{s}\"Album\": \"{song.Album}\",\n";
         objectString += $"{s}\"Other_Artists\": \"{song.Other_Artists}\",\n";
         objectString += $"{s}\"Instruments\": \"{song.Instruments}\",\n";
-        objectString += $"{s}\"Image\": \"{song.Image}\",\n";
         objectString += $"{s}\"Search\": \"{song.Search}\",\n";
         objectString += $"{s}\"Appearances\": \"{song.Appearances}\",\n";
         objectString += $"{s}\"Links\": \"{song.Links}\"\n";
