@@ -13,7 +13,7 @@ class Program
     public static async Task Main()
     {       
 
-        //CreateNewJSON.CountInstruments();
+        CreateNewJSON.CountInstruments();
 
          List<Instrument> cools = CreateNewJSON.GetInstruments();
 
@@ -51,6 +51,9 @@ class Program
         ErrorFinder.AllArtistPicturesExist();
         
         Color.DisplaySuccess("An image was found for every artist!");
+
+        // Small check I'm not going to display a message.
+        ErrorFinder.CheckDuplicateTitlesWithDifferentArtists();
 
         Console.WriteLine("\nPlease be patient. This will take roughly 25-30 seconds.");
         Console.WriteLine("Currently running algorithm...");

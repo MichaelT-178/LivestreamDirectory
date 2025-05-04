@@ -8,6 +8,7 @@ using Newtonsoft.Json;
  * FindCapErrors | Find capitalization errors.
  * AllArtistPicturesExist | Ensures every artist has picture.
  * FindDuplicates | Find song duplicates in repertoire.json. 
+ * CheckDuplicateTitlesWithDifferentArtists | Checks that a song doesn't have different artists.
  * CleanText | Get rid of parenthesis text in string
  *
  * @author Michael Totaro
@@ -249,6 +250,73 @@ class ErrorFinder
             }
 
             Console.WriteLine("\n");
+            Environment.Exit(0);
+        }
+    }
+    
+    
+    /**
+     * Checks that a song doesn't have different artists.
+     *
+     * Ex. this will cause an error because it's by Hendrix
+     * Voodoo Child (Slight Return) by Jimi Hendrix
+     * Voodoo Child (Slight Return) by Corey Heuvel
+     *
+     * Song titles will different artists should be marked like the following
+     * using different functions (not this one)
+     *
+     * Wish You Were Here by Pink Floyd 
+     * Wish You Were Here (I) by Incubus 
+     */
+    public static void CheckDuplicateTitlesWithDifferentArtists()
+    {
+
+        string filePath = "./db_manager/timestamps/all-timestamps.txt";
+
+        Dictionary<string, HashSet<string>> titleToArtists = new();
+
+        foreach (var line in File.ReadLines(filePath))
+        {
+            string trimmedLine = line.Trim();
+            if (!trimmedLine.Contains(" by ")) continue;
+
+            var songParts = trimmedLine.Split(new[] { " by " }, StringSplitOptions.None);
+            if (songParts.Length != 2) continue;
+
+            // Remove time at the beginning
+            string titleRaw = songParts[0].Contains(" ")
+                ? songParts[0].Substring(songParts[0].IndexOf(" ") + 1)
+                : songParts[0];
+
+            string artist = songParts[1].Split('+')[0].Trim();
+
+            // Clean the title using your custom function
+            string title = Helper.RemoveKeys(titleRaw).Trim();
+
+            if (!titleToArtists.ContainsKey(title))
+            {
+                titleToArtists[title] = new HashSet<string>();
+            }
+
+            titleToArtists[title].Add(artist);
+        }
+        
+        bool errorFound = false;
+
+        // Print titles with multiple different artists
+        foreach (var kvp in titleToArtists)
+        {
+            if (kvp.Value.Count > 1)
+            {
+                Console.WriteLine($"\"{kvp.Key}\" has multiple artists: {string.Join(", ", kvp.Value)}");
+                errorFound = true;
+            }
+        }
+
+        if (errorFound)
+        {   
+            Console.WriteLine();
+            Color.DisplayError("GO FIX THE MULTIPLE DIFFERENT ARTIST!!!!");
             Environment.Exit(0);
         }
     }

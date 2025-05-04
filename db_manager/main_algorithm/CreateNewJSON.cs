@@ -138,6 +138,18 @@ class CreateNewJSON
     //
     // 
 
+    // public static List<string> GetKeysToCount()
+    // {
+    //     List<Instrument> instruments = GetInstruments();
+        
+    //     List<string> keys = instruments
+    //         .Where(instr => !string.IsNullOrWhiteSpace(instr.key))
+    //         .Select(instr => instr.key!)
+    //         .ToList();
+            
+    //     return keys;
+    // }
+
 
     
 }
