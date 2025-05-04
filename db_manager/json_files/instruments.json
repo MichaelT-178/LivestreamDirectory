@@ -4,112 +4,133 @@
             "id": 1,
             "name": "(main) - Stonebridge (Furch) OM32SM",
             "pic": "acoustic-guitar.jpg",
-            "alias": "Acoustic Guitar"
+            "alias": "Acoustic Guitar",
+            "key": null
         },
         {
             "id": 2,
             "name": "Fender Telecaster",
             "pic": "electric-guitar.jpg",
-            "alias": "Electric Guitar"
+            "alias": "Electric Guitar",
+            "key": null
         },
         {
             "id": 3,
             "name": "Asturias Standard S",
             "pic": "classical-guitar.jpg",
-            "alias": "Classical Guitar"
+            "alias": "Classical Guitar",
+            "key": null
         },
         {
             "id": 4,
             "name": "12-String Guitar",
-            "pic": "12-string-guitar.jpg"
+            "pic": "12-string-guitar.jpg",
+            "key": "12-String Guitar"
         },
         {
             "id": 5,
             "name": "Mandolin",
-            "pic": "mandolin.jpg"
+            "pic": "mandolin.jpg",
+            "key": "Mandolin"
         },
         {
             "id": 6,
             "name": "Harmonica",
-            "pic": "harmonica.jpg"
+            "pic": "harmonica.jpg",
+            "key": "H"
         },
         {
             "id": 7,
             "name": "Blues Slide",
-            "pic": "blues-slide.jpg"
+            "pic": "blues-slide.jpg",
+            "key": "Blues Slide"
         },
         {
             "id": 8,
             "name": "(BH) - Brickhouse Demo",
-            "pic": "brickhouse-demo.jpg"
+            "pic": "brickhouse-demo.jpg",
+            "key": "BH"
         },
         {
             "id": 9,
             "name": "(FBG) - Furch Blue Gc-SA",
-            "pic": "furch-blue-gc-sa.jpg"
+            "pic": "furch-blue-gc-sa.jpg",
+            "key": "FBG"
         },
         {
             "id": 10,
             "name": "(DX1R) - Martin DX1R",
-            "pic": "martin-dx1r.jpg"
+            "pic": "martin-dx1r.jpg",
+            "key": "DX1R"
         },
         {
             "id": 11,
             "name": "(MDT) - Maestro Double Top",
-            "pic": "maestro-double-top.jpg"
+            "pic": "maestro-double-top.jpg",
+            "key": "MDT"
         },
         {
             "id": 12,
             "name": "(M15M) - Martin 00-15m",
-            "pic": "martin-00-15m.jpg"
+            "pic": "martin-00-15m.jpg",
+            "key": "M15M"
         },
         {
             "id": 13,
             "name": "(NST) - Norman ST68",
-            "pic": "norman-st68.jpg"
+            "pic": "norman-st68.jpg",
+            "key": "NST"
         },
         {
             "id": 14,
             "name": "(OOM) - Furch OOM-SR-DB",
-            "pic": "furch-oom-sr-db.jpg"
+            "pic": "furch-oom-sr-db.jpg",
+            "key": "OOM"
         },
         {
             "id": 15,
             "name": "(SAS) - Seagull Artist Studio",
-            "pic": "seagull-artist-studio.jpg"
+            "pic": "seagull-artist-studio.jpg",
+            "key": "SAS"
         },
         {
             "id": 16,
             "name": "(SGI) - SGI Avenir CW20",
-            "pic": "sgi-avenir-cw20.jpg"
+            "pic": "sgi-avenir-cw20.jpg",
+            "key": "SGI"
         },
         {
             "id": 17,
             "name": "(SOM) - Stonebridge OM35ASR-DB",
-            "pic": "stonebridge-om35asr-db.jpg"
+            "pic": "stonebridge-om35asr-db.jpg",
+            "key": "SOM"
         },
         {
             "id": 18,
             "name": "(FV2) - Furch Vintage 2 RS-SR",
-            "pic": "furch-vintage-2-rs-sr.jpg"
+            "pic": "furch-vintage-2-rs-sr.jpg",
+            "key": "FV2"
         },
         {
             "id": 19,
             "name": "(DM75) - DeArmond M75",
             "pic": "dearmond-m75.jpg",
             "type": "electric guitar",
+            "key": "DM75",
             "appears": 1
         },
         {
             "id": 20,
             "name": "(OOMV1) - Furch OOM Vintage 1",
             "pic": "furch-oom-vintage-1.jpg",
+            "key": "OOMV1",
             "appears": 2
         },
         {
             "id": 21,
             "name": "(MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack",
             "pic": "maestro-fan-fretted-singa-flamed-maple-adirondack.jpg",
+            "key": "MFF",
             "appears": 1
         },
         {
@@ -117,6 +138,7 @@
             "name": "(GPPCB) - Godin Progression Plus Cherry Burst RN",
             "pic": "godin-progression-plus-cherry-burst-rn.jpg",
             "type": "electric guitar",
+            "key": "GPPCB",
             "appears": 1
         },
         {
@@ -124,6 +146,7 @@
             "name": "(GSDG) - Godin Stadium '59 Desert Green RN",
             "pic": "godin-stadium-59-desert-green-rn.jpg",
             "type": "electric guitar",
+            "key": "GSDG",
             "appears": 1
         },
         {
@@ -131,6 +154,7 @@
             "name": "(GPRG) - Godin Passion RG-3 Indigo Burst RN",
             "pic": "godin-passion-rg-3-indigo-burst-rn.jpg",
             "type": "electric guitar",
+            "key": "GPRG",
             "appears": 1
         },
         {
@@ -138,96 +162,112 @@
             "name": "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream",
             "pic": "godin-5th-ave-uptown-gt-ltd-trans-cream.jpg",
             "type": "electric guitar",
+            "key": "GLTC",
             "appears": 1
         },
         {
             "id": 26,
             "name": "(MHD) - Martin HD-28",
             "pic": "martin-hd-28.jpg",
+            "key": "MHD",
             "appears": 1
         },
         {
             "id": 27,
             "name": "(FVD) - Furch Vintage 2 D-SR",
             "pic": "furch-vintage-2-d-sr.jpg",
+            "key": "FVD",
             "appears": 1
         },
         {
             "id": 28,
             "name": "(BSG) - Boucher SG-52",
             "pic": "boucher-sg-52.jpg",
+            "key": "BSG",
             "appears": 1
         },
         {
             "id": 29,
             "name": "(FBD) - Furch Blue D-CM",
             "pic": "furch-blue-d-cm.jpg",
+            "key": "FBD",
             "appears": 1
         },
         {
             "id": 30,
             "name": "(BSGI) - Boucher SG-52-I",
             "pic": "boucher-sg-52-i.jpg",
+            "key": "BSGI",
             "appears": 1
         },
         {
             "id": 31,
             "name": "(GRSG) - Godin Rialto JR Satina Gray HG Q-Discrete",
             "pic": "godin-rialto-jr-satina-gray-hg-q-discrete.jpg",
+            "key": "GRSG",
             "appears": 1
         },
         {
             "id": 32,
             "name": "(GMNC) - Godin Metropolis Natural Cedar EQ",
             "pic": "godin-metropolis-natural-cedar-eq.jpg",
+            "key": "GMNC",
             "appears": 1
         },
         {
             "id": 33,
             "name": "(GMLN) - Godin Metropolis LTD Natural HG EQ",
             "pic": "godin-metropolis-ltd-natural-hg-eq.jpg",
+            "key": "GMLN",
             "appears": 1
         },
         {
             "id": 34,
             "name": "(GMLHB) - Godin Metropolis LTD Havana Burst HG EQ",
             "pic": "godin-metropolis-ltd-havana-burst-hg-eq.jpg",
+            "key": "GMLHB",
             "appears": 1
         },
         {
             "id": 35,
             "name": "(GFCHN) - Godin Fairmount Concert Hall Natural HG EQ",
             "pic": "godin-fairmount-concert-hall-natural-hg-eq.jpg",
+            "key": "GFCHN",
             "appears": 1
         },
         {
             "id": 36,
             "name": "(BHG) - Boucher HG-56",
             "pic": "boucher-hg-56.jpg",
+            "key": "BHG",
             "appears": 1
         },
         {
             "id": 37,
             "name": "(FOSG) - Furch OM22TSW-C-DB SGI",
             "pic": "furch-om22tsw-c-db-sgi.jpg",
+            "key": "FOSG",
             "appears": 1
         },
         {
             "id": 38,
             "name": "(FG) - Furch G25CR-C",
             "pic": "furch-g25cr-c.jpg",
+            "key": "FG",
             "appears": 1
         },
         {
             "id": 39,
             "name": "(FSD) - Furch *SGI* D22TSR",
             "pic": "furch-sgi-d22tsr.jpg",
+            "key": "FSD",
             "appears": 1
         },
         {
             "id": 40,
             "name": "(FOB) - Furch OM34TSR-DB B2",
             "pic": "furch-om34tsr-db-b2.jpg",
+            "key": "FOB",
             "appears": 1
         },
         {
@@ -235,48 +275,56 @@
             "name": "(LPE) - La Patrie Etude",
             "pic": "la-patrie-etude.jpg",
             "type": "classical guitar",
+            "key": "LPE",
             "appears": 1
         },
         {
             "id": 42,
             "name": "(BDC) - Breedlove Discovery Concert CE",
             "pic": "breedlove-discovery-concert-ce.jpg",
+            "key": "BDC",
             "appears": 1
         },
         {
             "id": 43,
             "name": "(NSPBU) - Norman ST40 Parlor Burnt Umber",
             "pic": "norman-st40-parlor-burnt-umber.jpg",
+            "key": "NSPBU",
             "appears": 1
         },
         {
             "id": 44,
             "name": "(NBDA) - Norman B15 Dark Almond",
             "pic": "norman-b15-dark-almond.jpg",
+            "key": "NBDA",
             "appears": 1
         },
         {
             "id": 45,
             "name": "(NBBU) - Norman B20 Burnt Umber",
             "pic": "norman-b20-burnt-umber.jpg",
+            "key": "NBBU",
             "appears": 1
         },
         {
             "id": 46,
             "name": "(NSCG) - Norman ST40 CW GT Presys",
             "pic": "norman-st40-cw-gt-presys.jpg",
+            "key": "NSCG",
             "appears": 1
         },
         {
             "id": 47,
             "name": "(NSTCW) - Norman ST68 CW",
             "pic": "norman-st68-cw.jpg",
+            "key": "NSTCW",
             "appears": 1
         },
         {
             "id": 48,
             "name": "(SD22) - Stonebridge D22SR",
             "pic": "stonebridge-d22sr.jpg",
+            "key": "SD22",
             "appears": 1
         }
     ]

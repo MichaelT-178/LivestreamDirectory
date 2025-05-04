@@ -130,7 +130,13 @@ class CreateNewJSON
 
     //dotnet run | grep "M15M" | wc -l
 
+    //keysToCount 
+    // if it has an alias do NOT count it 
+    // Count the beginning thing as a key -> (BH) -
+    // Count whole thing if no (key) in front 
+    // Electric riff, Electric Song, Classical Guitar
     //
+    // 
 
 
     
