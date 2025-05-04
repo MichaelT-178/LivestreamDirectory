@@ -11,13 +11,15 @@ class Program
      * Allows the user to run the algorithm and enter input
      */
     public static async Task Main()
-    {   
+    {       
 
-         List<string>  cools = CreateNewJSON.GetKeysToCount();
+        //CreateNewJSON.CountInstruments();
+
+         List<Instrument> cools = CreateNewJSON.GetInstruments();
 
         foreach (var cool in cools)
         {
-            Console.WriteLine(cool);
+            Console.WriteLine(cool.Name);
         }
         
         Environment.Exit(0);
@@ -104,4 +106,7 @@ class Program
         Console.WriteLine("\nAdding changes to GitHub");
         OS.ExecuteGitCommands();
     }
+    // if it has an alias attribute do NOT count it in the list.
+
+
 }

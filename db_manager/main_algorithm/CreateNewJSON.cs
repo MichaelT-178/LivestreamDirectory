@@ -93,7 +93,7 @@ class CreateNewJSON
                         string keyValues = appear.Substring(startIndex + 1, appear.Length - startIndex - 2);
                         List<string> keyValuesList = keyValues.Split('/', StringSplitOptions.RemoveEmptyEntries).ToList();
 
-                        Console.WriteLine($"Inside2: {keyValues}");
+                        // Console.WriteLine($"Inside2: {keyValues}");
                         foreach (var keyValue in keyValuesList)
                         {
                             Console.WriteLine($"Inside: {keyValue}");
@@ -112,40 +112,25 @@ class CreateNewJSON
         }
     }
 
+    public static List<Instrument> GetInstruments()
+{
+    string localInstrumentPath = "./db_manager/json_files/instruments.json";
 
-
-
-
-
-        public static List<string> GetKeysToCount()
+    string jsonContent = File.ReadAllText(localInstrumentPath);
+    var options = new JsonSerializerOptions
     {
-        string localInstrumentPath = "./db_manager/json_files/instruments.json";
+        PropertyNameCaseInsensitive = true
+    };
 
-        string jsonContent = File.ReadAllText(localInstrumentPath);
-        var options = new JsonSerializerOptions
-        {
-            PropertyNameCaseInsensitive = true
-        };
+    InstrumentWrapper data = JsonSerializer.Deserialize<InstrumentWrapper>(jsonContent, options)!;
 
-        InstrumentWrapper data = JsonSerializer.Deserialize<InstrumentWrapper>(jsonContent, options)!;
+    return data.Instruments;
+}
 
-        List<string> keysToCount = new();
 
-        foreach (var instrument in data.Instruments)
-        {
-            if (!string.IsNullOrWhiteSpace(instrument.Alias))
-            {
-                keysToCount.Add(instrument.Alias);
-            }
-            else
-            {
-                keysToCount.Add(instrument.Name);
-            }
-        }
+    //dotnet run | grep "M15M" | wc -l
 
-        return keysToCount;
-    }
-
+    //
 
 
     
