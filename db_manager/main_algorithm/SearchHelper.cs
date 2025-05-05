@@ -135,6 +135,7 @@ class SearchHelper
         if (artists.Contains("Allman")) { AppendNew("The Allman Brothers", search); return; }
         if (artists.Contains("Nelly") || artists.Contains("Flo Rida")) { AppendNew("Rap", search); return; }
         if (artists.Equals("Extreme")) { AppendNew("The Extreme", search); return; }
+        if (artists.Equals("Steve Miller Band")) { AppendNew("The Steve Miller Band", search); return; }
         if (artists.Contains("The Police")) { AppendNew("Sting", search); return; }
         if (artists.Contains("Stevie Ray Vaughan")) { AppendNew("SRV", search); return; }
 

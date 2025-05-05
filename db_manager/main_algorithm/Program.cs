@@ -13,16 +13,16 @@ class Program
     public static async Task Main()
     {       
 
-        CreateNewJSON.CountInstruments();
+        // CreateNewJSON.CountInstruments();
 
-         List<Instrument> cools = CreateNewJSON.GetInstruments();
+        //  List<Instrument> cools = CreateNewJSON.GetInstruments();
 
-        foreach (var cool in cools)
-        {
-            Console.WriteLine(cool.Name);
-        }
+        // foreach (var cool in cools)
+        // {
+        //     Console.WriteLine(cool.Name);
+        // }
         
-        Environment.Exit(0);
+        // Environment.Exit(0);
 
 
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
