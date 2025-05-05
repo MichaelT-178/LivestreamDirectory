@@ -8,6 +8,7 @@ using System.Text.RegularExpressions;
  * Methods
  * CleanText | Cleans text by calling all the other functions.
  * NormalizeToAscii | Converts non-ascii chars into standard ascii chars
+ * PrepareText | Remove apostrophes from text
  * RemoveNonAlphanumeric | Replace any sequence of non-alphanumeric characters with a single space.
  * CollapseSpaces | Replace multiple spaces with a single dash.
  * LowercaseText | Convert the text to lowercase.
@@ -30,7 +31,8 @@ public static class TextCleaner
      */
     public static string CleanText(string text)
     {
-        string ascii = NormalizeToAscii(text);
+        string prepared = PrepareText(text);
+        string ascii = NormalizeToAscii(prepared);
         string alphanumeric = RemoveNonAlphanumeric(ascii);
         string dashed = CollapseSpaces(alphanumeric);
         string cleaned = LowercaseText(dashed);
@@ -68,6 +70,21 @@ public static class TextCleaner
         return asciiBuilder.ToString().Normalize(NormalizationForm.FormC);
     }
 
+    /**
+     * Remove apostrophes from text. it will prevent weird
+     * names like can-t-stop later on.
+     * 
+     * Ex. 
+     * original -> Can't Stop
+     * normalized -> Cant Stop
+     *
+     * @param text Text that contains apostrophes
+     * @return Text that doesn't contain apostrophes
+     */
+    public static string PrepareText(string text)
+    {
+        return text.Replace("'", "");
+    }
 
     /**
      * Replace any sequence of non-alphanumeric characters with a single space.
