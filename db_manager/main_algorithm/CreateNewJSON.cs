@@ -84,24 +84,23 @@ class CreateNewJSON
             {
                 string appearances = song.Appearances;
 
-                foreach (var appear in appearances.Split(","))
-                {
-                    int startIndex = appear.IndexOf('(');
-                    
-                    if (startIndex != -1)
-                    {
-                        string keyValues = appear.Substring(startIndex + 1, appear.Length - startIndex - 2);
-                        List<string> keyValuesList = keyValues.Split('/', StringSplitOptions.RemoveEmptyEntries).ToList();
+                // Console.WriteLine(appearances);
+                // Console.WriteLine("\n");
 
-                        // Console.WriteLine($"Inside2: {keyValues}");
-                        foreach (var keyValue in keyValuesList)
-                        {
-                            Console.WriteLine($"Inside: {keyValue}");
-                        }
-                    } else {
-                        Console.WriteLine(appear);
-                    }
+                string[] appearList = appearances.Split(",");
+
+                foreach (string appear in appearList)
+                {
+                    Console.WriteLine(song.Title);
+                    Console.Write(appear + " | ");
+                    List<string> keyList = AlgorithmHelper.GetAllKeysFromLines("", appear);
+                    
+                    Console.WriteLine(AlgorithmHelper.GetKeysJoinedAsString(keyList));
+
                 }
+
+                Console.WriteLine("\n");
+
 
                 //Console.WriteLine(song.Appearances);
             }
@@ -112,20 +111,44 @@ class CreateNewJSON
         }
     }
 
-    public static List<Instrument> GetInstruments()
-{
-    string localInstrumentPath = "./db_manager/json_files/instruments.json";
 
-    string jsonContent = File.ReadAllText(localInstrumentPath);
-    var options = new JsonSerializerOptions
+
+    public static string[]? AnalyzeTitle(string title, string appearance)
     {
-        PropertyNameCaseInsensitive = true
-    };
 
-    InstrumentWrapper data = JsonSerializer.Deserialize<InstrumentWrapper>(jsonContent, options)!;
+        if (string.IsNullOrEmpty(appearance) || appearance == "(Audio Issues)")
+        {
+            return ["Cool", "Hello"];
+        }
 
-    return data.Instruments;
-}
+
+
+        // (Album Version) -> Album Version
+        string trimmedAppearance = appearance.Substring(1, appearance.Length - 2);
+
+        return null;
+    }
+
+
+
+
+
+
+
+    public static List<Instrument> GetInstruments()
+    {
+        string localInstrumentPath = "./db_manager/json_files/instruments.json";
+
+        string jsonContent = File.ReadAllText(localInstrumentPath);
+        var options = new JsonSerializerOptions
+        {
+            PropertyNameCaseInsensitive = true
+        };
+
+        InstrumentWrapper data = JsonSerializer.Deserialize<InstrumentWrapper>(jsonContent, options)!;
+
+        return data.Instruments;
+    }
 
 
     //dotnet run | grep "M15M" | wc -l

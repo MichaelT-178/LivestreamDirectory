@@ -178,6 +178,8 @@ class Algorithm
         // song_list.json created
         JSONHelper.WriteTextToJSONFile(jsonSongString);
 
+        AlbumRepertoireHandler.UpdateRepertoireFile(Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongsAsString()));
+
         // CREATE NEW FILES
         AlbumRepertoireHandler.CheckForNoRepeatAlbums();
         AlbumRepertoireHandler.SyncAlbumsWithRepertoire();
@@ -187,6 +189,8 @@ class Algorithm
         AlbumRepertoireHandler.UpdateCleanedAlbumTitles();
 
         CreateNewJSON.AddAlbumAttribute();
+        
+        ErrorFinder.FindDuplicates();
 
     } //Run method ends 
 }

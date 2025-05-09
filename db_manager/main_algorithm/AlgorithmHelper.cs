@@ -530,7 +530,7 @@ class AlgorithmHelper
             }
         }
 
-        if (songWithKeys.Contains("Forget Her") || songWithKeys.Contains("Electric Riff Session"))
+        if (songWithKeys.Contains("Forget Her"))
         {
             if (!currentInstruments.Contains("Electric Guitar"))
             {

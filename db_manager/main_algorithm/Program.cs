@@ -12,8 +12,11 @@ class Program
      */
     public static async Task Main()
     {       
+        
+        // AlbumRepertoireHandler.SyncAlbumsWithRepertoire();
+        // Environment.Exit(0);
 
-        // CreateNewJSON.CountInstruments();
+        //CreateNewJSON.CountInstruments();
 
         //  List<Instrument> cools = CreateNewJSON.GetInstruments();
 
@@ -22,7 +25,7 @@ class Program
         //     Console.WriteLine(cool.Name);
         // }
         
-        // Environment.Exit(0);
+        //Environment.Exit(0);
 
 
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
@@ -74,13 +77,9 @@ class Program
         Console.WriteLine("\nUpdating Database");
         Color.DisplaySuccess("Database 'song_list.json' file was successfully updated!");
 
-        AlbumRepertoireHandler.UpdateRepertoireFile(Helper.GetSortedAlphabetList(JSONHelper.GetDatabaseSongsAsString()));
-
         //EXECUTE UPDATE SQLite DATABASE COMMAND 
         OS.UpdateSQLiteDatabase();
         Color.DisplaySuccess("SQLite Database successfully updated!");
-
-        ErrorFinder.FindDuplicates();
         
         //Stop the timer
         stopwatch.Stop();
