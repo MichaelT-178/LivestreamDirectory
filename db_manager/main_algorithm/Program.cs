@@ -14,10 +14,9 @@ class Program
     {
         
         
-        // CreateNewJSON.PopulateInstrumentMap();
-
-
-        // Environment.Exit(0);
+        CreateNewJSON.PopulateInstrumentMap();
+        
+        Environment.Exit(0);
 
 
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
