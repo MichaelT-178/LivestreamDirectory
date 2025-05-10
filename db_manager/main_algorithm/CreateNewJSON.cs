@@ -66,30 +66,57 @@ class CreateNewJSON
         List<Song> songs = JSONHelper.GetDatabaseSongs();
         var instrumentMap = CreateInstrumentMap();
 
+
+        int instrumentSongId = 1;
+
         foreach (var song in songs)
         {
             Console.WriteLine(song.CleanedTitle);
             string appearances = song.Appearances;
+            string links = song.Links;
 
             string[] appearList = appearances.Split(",");
+            string[] linkList = links.Split(",");
             
             
-            foreach (string appear in appearList)
+            for (int i = 0; i < appearList.Length; i++)
             {
+                string appear = appearList[i];
+                string link = linkList[i];
+                
                 Console.WriteLine(song.Title);
                 Console.Write(appear + " | ");
                 List<string> keyList = AlgorithmHelper.GetAllKeysFromLines("", appear);
                 
-                Console.WriteLine(AlgorithmHelper.GetKeysJoinedAsString(keyList));
 
-                //var (instrumentKey, ) = CoolInfo();
+                //var (instrumentKey, instrumentSong) = GetInstrumentMapData(instrumentSongId, keyListStr, song, appear, link);
+                // instrumentMap[instrumentKey].Add(instrumentSong);
 
-                //instrumentMap["electric-guitar"].Add("Did this work");
+                instrumentSongId++;
             }
         }
 
-        PrintInstrumentMap(instrumentMap);
+        //PrintInstrumentMap(instrumentMap);
     }
+
+
+    // public static (string instrumentKey, InstrumentSong instrumentSong) GetInstrumentMapData(
+    //     int id,
+    //     List<string> keyList,
+    //     Song song,
+    //     string appear,
+    //     string link)
+    // {
+
+
+
+
+
+
+    //     return (null, null);
+    // }
+
+    
     
     
     public static Dictionary<string, List<string>> CreateInstrumentMap()

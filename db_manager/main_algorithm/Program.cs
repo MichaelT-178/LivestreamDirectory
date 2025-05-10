@@ -11,20 +11,11 @@ class Program
      * Allows the user to run the algorithm and enter input
      */
     public static async Task Main()
-    {       
-
-        // CreateNewJSON.CountInstruments();
-
-    //CreateNewJSON.PopulateInstrumentMap();
-    //CreateNewJSON.PrintInstrumentMap(map);
-
-
-    List<Instrument> instruments = CreateNewJSON.GetInstruments();
-
-    foreach (var instrument in instruments)
     {
-        Console.WriteLine(instrument.CleanedName);
-    }
+        
+        
+        CreateNewJSON.PopulateInstrumentMap();
+
 
         Environment.Exit(0);
 
