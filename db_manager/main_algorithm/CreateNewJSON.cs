@@ -52,84 +52,85 @@ class CreateNewJSON
         File.WriteAllText("./database/song_list.json", json);
     }
     
+
     
     
-    
-    
-    public static void CountInstruments()
+    public static void PopulateInstrumentMap()
     {
-        try
+        string vueInstrumentPath = "../VueLivestreamDirectory/src/assets/Instruments/instruments.json";
+        string localInstrumentPath = "./db_manager/json_files/instruments.json";
+
+        string jsonContent = File.ReadAllText(vueInstrumentPath);
+        File.WriteAllText(localInstrumentPath, jsonContent);
+        
+        List<Song> songs = JSONHelper.GetDatabaseSongs();
+        var instrumentMap = CreateInstrumentMap();
+
+        foreach (var song in songs)
         {
+            Console.WriteLine(song.CleanedTitle);
+            string appearances = song.Appearances;
 
-            // Write contents of vueInstrumentPath file to 
-            // localInstrumentPath file.
-            string vueInstrumentPath = "../VueLivestreamDirectory/src/assets/Instruments/instruments.json";
-            string localInstrumentPath = "./db_manager/json_files/instruments.json";
-
-            if (File.Exists(vueInstrumentPath))
+            string[] appearList = appearances.Split(",");
+            
+            
+            foreach (string appear in appearList)
             {
-                string jsonContent = File.ReadAllText(vueInstrumentPath);
-                File.WriteAllText(localInstrumentPath, jsonContent);
+                Console.WriteLine(song.Title);
+                Console.Write(appear + " | ");
+                List<string> keyList = AlgorithmHelper.GetAllKeysFromLines("", appear);
+                
+                Console.WriteLine(AlgorithmHelper.GetKeysJoinedAsString(keyList));
+
+                instrumentMap["electric-guitar"].Add("Did this work");
+            }
+        }
+
+        PrintInstrumentMap(instrumentMap);
+    }
+    
+    
+    public static Dictionary<string, List<string>> CreateInstrumentMap()
+    {
+        var instrumentMap = new Dictionary<string, List<string>>();
+        List<Instrument> instruments = GetInstruments();
+        
+        // Create a key for each instrument in the dictionary
+        foreach (var instrument in instruments)
+        {
+            if (!string.IsNullOrWhiteSpace(instrument.CleanedName))
+            {
+                instrumentMap[instrument.CleanedName] = new List<string>();
+            }
+        }
+
+        
+        return instrumentMap;
+    }
+
+
+
+    public static void PrintInstrumentMap(Dictionary<string, List<string>> instrumentMap)
+    {
+        foreach (var entry in instrumentMap)
+        {
+            Console.WriteLine($"Instrument: {entry.Key}");
+            
+            if (entry.Value.Count == 0)
+            {
+                Console.WriteLine("  (No performances listed)");
             }
             else
             {
-                Console.WriteLine("File not found at path: " + vueInstrumentPath);
-            }
-
-            List<Song> songs = JSONHelper.GetDatabaseSongs();
-
-            Console.WriteLine("SONG TITLES HERE");
-
-            foreach (var song in songs)
-            {
-                string appearances = song.Appearances;
-
-                // Console.WriteLine(appearances);
-                // Console.WriteLine("\n");
-
-                string[] appearList = appearances.Split(",");
-
-                foreach (string appear in appearList)
+                foreach (var performance in entry.Value)
                 {
-                    Console.WriteLine(song.Title);
-                    Console.Write(appear + " | ");
-                    List<string> keyList = AlgorithmHelper.GetAllKeysFromLines("", appear);
-                    
-                    Console.WriteLine(AlgorithmHelper.GetKeysJoinedAsString(keyList));
-
+                    Console.WriteLine($"  - {performance}");
                 }
-
-                Console.WriteLine("\n");
-
-
-                //Console.WriteLine(song.Appearances);
             }
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine("An error occurred while reading the file: " + ex.Message);
+            
+            Console.WriteLine(); // Extra line for readability
         }
     }
-
-
-
-    public static string[]? AnalyzeTitle(string title, string appearance)
-    {
-
-        if (string.IsNullOrEmpty(appearance) || appearance == "(Audio Issues)")
-        {
-            return ["Cool", "Hello"];
-        }
-
-
-
-        // (Album Version) -> Album Version
-        string trimmedAppearance = appearance.Substring(1, appearance.Length - 2);
-
-        return null;
-    }
-
-
 
 
 
@@ -149,6 +150,62 @@ class CreateNewJSON
 
         return data.Instruments;
     }
+
+
+
+
+
+// acoustic-guitar
+// electric-guitar
+// classical-guitar
+// 12-string-guitar
+// mandolin
+// harmonica
+// blues-slide
+// brickhouse-demo
+// furch-blue-gc-sa
+// martin-dx1r
+// maestro-double-top
+// martin-00-15m
+// norman-st68
+// furch-oom-sr-db
+// seagull-artist-studio
+// sgi-avenir-cw20
+// stonebridge-om35asr-db
+// furch-vintage-2-rs-sr
+// dearmond-m75
+// furch-oom-vintage-1
+// maestro-fan-fretted-singa-flamed-maple-adirondack
+// godin-progression-plus-cherry-burst-rn
+// godin-stadium-59-desert-green-rn
+// godin-passion-rg-3-indigo-burst-rn
+// godin-5th-ave-uptown-gt-ltd-trans-cream
+// martin-hd-28
+// furch-vintage-2-d-sr
+// boucher-sg-52
+// furch-blue-d-cm
+// boucher-sg-52-i
+// godin-rialto-jr-satina-gray-hg-q-discrete
+// godin-metropolis-natural-cedar-eq
+// godin-metropolis-ltd-natural-hg-eq
+// godin-metropolis-ltd-havana-burst-hg-eq
+// godin-fairmount-concert-hall-natural-hg-eq
+// boucher-hg-56
+// furch-om22tsw-c-db-sgi
+// furch-g25cr-c
+// furch-sgi-d22tsr
+// furch-om34tsr-db-b2
+// la-patrie-etude
+// breedlove-discovery-concert-ce
+// norman-st40-parlor-burnt-umber
+// norman-b15-dark-almond
+// norman-b20-burnt-umber
+// norman-st40-cw-gt-presys
+// norman-st68-cw
+// stonebridge-d22sr
+
+
+
 
 
     //dotnet run | grep "M15M" | wc -l

@@ -12,20 +12,21 @@ class Program
      */
     public static async Task Main()
     {       
-        
-        // AlbumRepertoireHandler.SyncAlbumsWithRepertoire();
-        // Environment.Exit(0);
 
-        //CreateNewJSON.CountInstruments();
+        // CreateNewJSON.CountInstruments();
 
-        //  List<Instrument> cools = CreateNewJSON.GetInstruments();
+    //CreateNewJSON.PopulateInstrumentMap();
+    //CreateNewJSON.PrintInstrumentMap(map);
 
-        // foreach (var cool in cools)
-        // {
-        //     Console.WriteLine(cool.Name);
-        // }
-        
-        //Environment.Exit(0);
+
+    List<Instrument> instruments = CreateNewJSON.GetInstruments();
+
+    foreach (var instrument in instruments)
+    {
+        Console.WriteLine(instrument.CleanedName);
+    }
+
+        Environment.Exit(0);
 
 
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
