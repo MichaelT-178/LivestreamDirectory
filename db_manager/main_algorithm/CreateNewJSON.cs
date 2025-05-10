@@ -57,12 +57,6 @@ class CreateNewJSON
     
     public static void PopulateInstrumentMap()
     {
-        string vueInstrumentPath = "../VueLivestreamDirectory/src/assets/Instruments/instruments.json";
-        string localInstrumentPath = "./db_manager/json_files/instruments.json";
-
-        string jsonContent = File.ReadAllText(vueInstrumentPath);
-        File.WriteAllText(localInstrumentPath, jsonContent);
-        
         List<Song> songs = JSONHelper.GetDatabaseSongs();
         var instrumentMap = CreateInstrumentMap();
 

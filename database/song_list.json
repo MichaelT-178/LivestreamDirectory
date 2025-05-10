@@ -2,8 +2,8 @@
   "songs": [
     {
       "Id": 1,
-      "Title": "Electric Riff Session #1 (Electric riff)",
-      "CleanedTitle": "electric-riff-session-1-electric-riff",
+      "Title": "Electric Riff Session #1",
+      "CleanedTitle": "electric-riff-session-1",
       "Artist": "Various Artists",
       "ArtistImage": "various-artists.jpg",
       "Album": null,
@@ -16,8 +16,8 @@
     },
     {
       "Id": 2,
-      "Title": "Electric Riff Session #2 (Electric riff)",
-      "CleanedTitle": "electric-riff-session-2-electric-riff",
+      "Title": "Electric Riff Session #2",
+      "CleanedTitle": "electric-riff-session-2",
       "Artist": "Various Artists",
       "ArtistImage": "various-artists.jpg",
       "Album": null,
@@ -30,8 +30,8 @@
     },
     {
       "Id": 3,
-      "Title": "Electric Riff Session #3 (Electric riff)",
-      "CleanedTitle": "electric-riff-session-3-electric-riff",
+      "Title": "Electric Riff Session #3",
+      "CleanedTitle": "electric-riff-session-3",
       "Artist": "Various Artists",
       "ArtistImage": "various-artists.jpg",
       "Album": null,
@@ -44,8 +44,8 @@
     },
     {
       "Id": 4,
-      "Title": "Electric Riff Session #4 (Electric riff)",
-      "CleanedTitle": "electric-riff-session-4-electric-riff",
+      "Title": "Electric Riff Session #4",
+      "CleanedTitle": "electric-riff-session-4",
       "Artist": "Various Artists",
       "ArtistImage": "various-artists.jpg",
       "Album": null,
@@ -58,8 +58,8 @@
     },
     {
       "Id": 5,
-      "Title": "Electric Riff Session #5 (Electric riff)",
-      "CleanedTitle": "electric-riff-session-5-electric-riff",
+      "Title": "Electric Riff Session #5",
+      "CleanedTitle": "electric-riff-session-5",
       "Artist": "Various Artists",
       "ArtistImage": "various-artists.jpg",
       "Album": null,
@@ -72,8 +72,8 @@
     },
     {
       "Id": 6,
-      "Title": "Electric Riff Session #6 (Electric riff)",
-      "CleanedTitle": "electric-riff-session-6-electric-riff",
+      "Title": "Electric Riff Session #6",
+      "CleanedTitle": "electric-riff-session-6",
       "Artist": "Various Artists",
       "ArtistImage": "various-artists.jpg",
       "Album": null,
@@ -86,8 +86,8 @@
     },
     {
       "Id": 7,
-      "Title": "Electric Riff Session #7 (Electric riff)",
-      "CleanedTitle": "electric-riff-session-7-electric-riff",
+      "Title": "Electric Riff Session #7",
+      "CleanedTitle": "electric-riff-session-7",
       "Artist": "Various Artists",
       "ArtistImage": "various-artists.jpg",
       "Album": null,
