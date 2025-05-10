@@ -141,6 +141,9 @@ class SearchHelper
 
         if (title.Contains("Grey")) { AppendNew(title.Replace("Grey", "Gray"), search); }
         if (artists.Contains("Grey")) { AppendNew(artists.Replace("Grey", "Gray"), search); return; }
+        
+        if (artists.Contains("Santana")) { AppendNew("Carlos Santana", search); return; }
+        if (artists.Contains("Van Halen")) { AppendNew("Eddie Van Halen", search); return; }
 
         if (title.Contains("Man Of Constant Sorrow")) { AppendNew("I Am A Man of Constant Sorrow", search); return; }
         if (title.Equals("Vincent")) { AppendNew("Vincent (Starry, Starry Night)", search); return; }
