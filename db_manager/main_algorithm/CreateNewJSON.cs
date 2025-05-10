@@ -82,7 +82,9 @@ class CreateNewJSON
                 
                 Console.WriteLine(AlgorithmHelper.GetKeysJoinedAsString(keyList));
 
-                instrumentMap["electric-guitar"].Add("Did this work");
+                //var (instrumentKey, ) = CoolInfo();
+
+                //instrumentMap["electric-guitar"].Add("Did this work");
             }
         }
 
