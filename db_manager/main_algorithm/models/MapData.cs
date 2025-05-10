@@ -5,12 +5,12 @@
  */
 public class MapData
 {
-    public string Artist { get; set; }
+    public string InstrumentKey { get; set; }
     public InstrumentSong InstrumentSong { get; set; }
 
-    public MapData(string artist, InstrumentSong instrumentSong)
+    public MapData(string instrumentKey, InstrumentSong instrumentSong)
     {
-        Artist = artist;
+        InstrumentKey = instrumentKey;
         InstrumentSong = instrumentSong;
     }
 }
