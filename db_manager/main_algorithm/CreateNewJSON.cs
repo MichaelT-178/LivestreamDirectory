@@ -71,7 +71,6 @@ class CreateNewJSON
 
         foreach (var song in songs)
         {
-            Console.WriteLine(song.CleanedTitle);
             string appearances = song.Appearances;
             string links = song.Links;
 
@@ -84,12 +83,10 @@ class CreateNewJSON
                 string appear = appearList[i];
                 string link = linkList[i];
                 
-                Console.WriteLine(song.Title);
-                Console.Write(appear + " | ");
                 List<string> keyList = AlgorithmHelper.GetAllKeysFromLines("", appear);
                 
 
-                //var (instrumentKey, instrumentSong) = GetInstrumentMapData(instrumentSongId, keyListStr, song, appear, link);
+                MapData? mapData = GetInstrumentMapData(instrumentSongId, keyList, song, appear, link);
                 // instrumentMap[instrumentKey].Add(instrumentSong);
 
                 instrumentSongId++;
@@ -100,21 +97,36 @@ class CreateNewJSON
     }
 
 
-    // public static (string instrumentKey, InstrumentSong instrumentSong) GetInstrumentMapData(
-    //     int id,
-    //     List<string> keyList,
-    //     Song song,
-    //     string appear,
-    //     string link)
-    // {
+    public static MapData? GetInstrumentMapData(
+        int id,
+        List<string> keyList,
+        Song song,
+        string appearance,
+        string link)
+    {
+
+        string keyListStr = AlgorithmHelper.GetKeysJoinedAsString(keyList).Trim();
+        link = link.Trim();
+
+
+        Console.WriteLine(id);
+        // Console.WriteLine(keyList);
+        Console.WriteLine(keyListStr);
+        Console.WriteLine(song.Title);
+        Console.WriteLine(appearance);
+        Console.WriteLine(link);
+        Console.WriteLine("\n\n\n");
+
+
+
+        // If (Electric riff) || 
 
 
 
 
 
-
-    //     return (null, null);
-    // }
+        return null;
+    }
 
     
     
