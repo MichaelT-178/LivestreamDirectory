@@ -27,7 +27,7 @@ class AlgorithmHelper
     private static string keysToKeepPath = "./db_manager/json_files/keys_to_keep.json";
     
     /** String List of all the keys to not remove */
-    private static List<string> keysToKeep = JSONHelper.GetFilesJSONData(keysToKeepPath);
+    private static List<string> keysToKeep = JSONHelper.GetKeyListFromFile(keysToKeepPath, "song_keys");
 
     /**
      * Gets all the keys from the current livestream appearance 
