@@ -1,4 +1,5 @@
 using System.Text.Json;
+using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 using JsonSerializer = System.Text.Json.JsonSerializer;
 
@@ -55,7 +56,7 @@ class CreateNewJSON
 
     
     
-    public static void PopulateInstrumentMap()
+    public static Dictionary<string, List<string>> PopulateInstrumentMap()
     {
         List<Song> songs = JSONHelper.GetDatabaseSongs();
         var instrumentMap = CreateInstrumentMap();
@@ -71,27 +72,28 @@ class CreateNewJSON
             string[] appearList = appearances.Split(",");
             string[] linkList = links.Split(",");
             
-            
+
             for (int i = 0; i < appearList.Length; i++)
             {
                 string appear = appearList[i];
                 string link = linkList[i];
                 
-                List<string> keyList = AlgorithmHelper.GetAllKeysFromLines("", appear);
+                List<string> keyList = GetKeysAsList(appear);
                 
 
-                MapData? mapData = GetInstrumentMapData(instrumentSongId, keyList, song, appear, link);
-                // instrumentMap[instrumentKey].Add(instrumentSong);
+                MapData mapData = GetInstrumentMapData(instrumentSongId, keyList, song, appear, link);
+                instrumentMap[mapData.InstrumentKey].Add(mapData.InstrumentSong.SongTitle);
 
                 instrumentSongId++;
             }
         }
 
+        return instrumentMap;
         //PrintInstrumentMap(instrumentMap);
     }
 
 
-    public static MapData? GetInstrumentMapData(
+    public static MapData GetInstrumentMapData(
         int id,
         List<string> keyList,
         Song song,
@@ -103,23 +105,321 @@ class CreateNewJSON
         link = link.Trim();
 
 
-        Console.WriteLine(id);
-        // Console.WriteLine(keyList);
-        Console.WriteLine(keyListStr);
-        Console.WriteLine(song.Title);
-        Console.WriteLine(appearance);
-        Console.WriteLine(link);
-        Console.WriteLine("\n\n\n");
+        // Console.WriteLine(id);
+        //Console.WriteLine(keyList);
+        // Console.WriteLine($"keyList: [{string.Join(", ", keyList)}]");
 
+        // Console.WriteLine(keyListStr);
+        // Console.WriteLine(song.Title);
+        // Console.WriteLine(appearance);
+        // Console.WriteLine(link);
+        // Console.WriteLine("\n\n\n");
 
-
-        // If (Electric riff) || 
-
-
-
-
-
-        return null;
+        if (
+            string.IsNullOrWhiteSpace(keyListStr) 
+            || keyListStr == "(Partial)"
+            || keyListStr == "(Audio Issues)"
+            || keyListStr == "(Audio Issues/Partial)"
+        ) {
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("acoustic-guitar", instrumentSong);
+        }
+        else if (
+            (keyList.Contains("Electric Song") 
+            || keyList.Contains("Electric riff") 
+            || song.Title.Contains("Electric Riff Session")) &&
+            !keyList.Contains("DM75") &&
+            !keyList.Contains("GPPCB") &&
+            !keyList.Contains("GSDG") &&
+            !keyList.Contains("GPRG") &&
+            !keyList.Contains("GLTC")
+        )
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("electric-guitar", instrumentSong);  
+        }
+        else if (keyList.Contains("Classical Guitar") && !keyList.Contains("LPE"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("classical-guitar", instrumentSong);  
+        }
+        else if (keyList.Contains("12-String Guitar"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("12-string-guitar", instrumentSong);  
+        }
+        else if (keyList.Contains("Mandolin"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("mandolin", instrumentSong);  
+        }
+        else if (keyList.Contains("H"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("harmonica", instrumentSong);  
+        }
+        else if (keyList.Contains("Blues Slide"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("blues-slide", instrumentSong);  
+        }
+        // else if (keyList.Contains("BH"))
+        // {
+        //     //ADD BH
+        //     InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+        //     return new MapData("brickhouse-demo", instrumentSong);  
+        // }
+        else if (keyList.Contains("FBG"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-blue-gc-sa", instrumentSong);  
+        }
+        else if (keyList.Contains("DX1R"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("martin-dx1r", instrumentSong);  
+        }
+        else if (keyList.Contains("MDT"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("maestro-double-top", instrumentSong);  
+        }
+        else if (keyList.Contains("M15M"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("martin-00-15m", instrumentSong);  
+        }
+        else if (keyList.Contains("NST"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("norman-st68", instrumentSong);  
+        }
+        else if (keyList.Contains("OOM"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-oom-sr-db", instrumentSong);  
+        }
+        else if (keyList.Contains("SAS"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("seagull-artist-studio", instrumentSong);  
+        }
+        else if (keyList.Contains("SGI"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("sgi-avenir-cw20", instrumentSong);  
+        }
+        else if (keyList.Contains("SOM"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("stonebridge-om35asr-db", instrumentSong);  
+        }
+        else if (keyList.Contains("FV2"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-vintage-2-rs-sr", instrumentSong);  
+        }
+        else if (keyList.Contains("DM75"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("dearmond-m75", instrumentSong);  
+        }
+        else if (keyList.Contains("OOMV1"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-oom-vintage-1", instrumentSong);  
+        }
+        else if (keyList.Contains("MFF"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("maestro-fan-fretted-singa-flamed-maple-adirondack", instrumentSong);  
+        }
+        else if (keyList.Contains("GPPCB"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("godin-progression-plus-cherry-burst-rn", instrumentSong);  
+        }
+        else if (keyList.Contains("GSDG"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("godin-stadium-59-desert-green-rn", instrumentSong);  
+        }
+        else if (keyList.Contains("GPRG"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("godin-passion-rg-3-indigo-burst-rn", instrumentSong);  
+        }
+        else if (keyList.Contains("GLTC"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("godin-5th-ave-uptown-gt-ltd-trans-cream", instrumentSong);  
+        }
+        else if (keyList.Contains("MHD"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("martin-hd-28", instrumentSong);
+        }
+        else if (keyList.Contains("FVD"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-vintage-2-d-sr", instrumentSong);
+        }
+        else if (keyList.Contains("BSG"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("boucher-sg-52", instrumentSong);
+        }
+        else if (keyList.Contains("FBD"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-blue-d-cm", instrumentSong);
+        }
+        else if (keyList.Contains("BSGI"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("boucher-sg-52-i", instrumentSong);
+        }
+        else if (keyList.Contains("GRSG"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("godin-rialto-jr-satina-gray-hg-q-discrete", instrumentSong);
+        }
+        else if (keyList.Contains("GMNC"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("godin-metropolis-natural-cedar-eq", instrumentSong);
+        }
+        else if (keyList.Contains("GMLN"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("godin-metropolis-ltd-natural-hg-eq", instrumentSong);
+        }
+        else if (keyList.Contains("GMLHB"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("godin-metropolis-ltd-havana-burst-hg-eq", instrumentSong);
+        }
+        else if (keyList.Contains("GFCHN"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("godin-fairmount-concert-hall-natural-hg-eq", instrumentSong);
+        }
+        else if (keyList.Contains("BHG"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("boucher-hg-56", instrumentSong);
+        }
+        else if (keyList.Contains("FOSG"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-om22tsw-c-db-sgi", instrumentSong);
+        }
+        else if (keyList.Contains("FG"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-g25cr-c", instrumentSong);
+        }
+        else if (keyList.Contains("FSD"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-sgi-d22tsr", instrumentSong);
+        }
+        else if (keyList.Contains("FOB"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("furch-om34tsr-db-b2", instrumentSong);
+        }
+        else if (keyList.Contains("LPE"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("la-patrie-etude", instrumentSong);
+        }
+        else if (keyList.Contains("BDC"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("breedlove-discovery-concert-ce", instrumentSong);
+        }
+        else if (keyList.Contains("NSPBU"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("norman-st40-parlor-burnt-umber", instrumentSong);
+        }
+        else if (keyList.Contains("NBDA"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("norman-b15-dark-almond", instrumentSong);
+        }
+        else if (keyList.Contains("NBBU"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("norman-b20-burnt-umber", instrumentSong);
+        }
+        else if (keyList.Contains("NSCG"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("norman-st40-cw-gt-presys", instrumentSong);
+        }
+        else if (keyList.Contains("NSTCW"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("norman-st68-cw", instrumentSong);
+        }
+        else if (keyList.Contains("SD22"))
+        {
+            //ADD BH
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("stonebridge-d22sr", instrumentSong);
+        } 
+        
+        else {
+            InstrumentSong instrumentSong = new(id, song.Title, song.Artist, appearance, link);
+            return new MapData("acoustic-guitar", instrumentSong);
+        }
     }
 
     
@@ -185,6 +485,37 @@ class CreateNewJSON
 
         return data.Instruments;
     }
+
+
+
+    // Livestream 22 (Audio Issues) -> ["Audio Issues"]
+    //Livestream 23 (Audio Issues/Partial) -> ["Audio Issues", "Partial"]
+
+        public static List<string> GetKeysAsList(string input)
+{
+    Console.WriteLine($"INPUT {input}");
+
+    var result = new List<string>();
+    string pattern = @"\(([^)]*?)\)"; // Match content inside the first set of parentheses
+
+    var match = Regex.Match(input, pattern);
+    if (match.Success)
+    {
+        string content = match.Groups[1].Value;
+        var splitKeys = content.Split('/');
+
+        foreach (string key in splitKeys)
+        {
+            string trimmed = key.Trim();
+            if (!string.IsNullOrEmpty(trimmed))
+            {
+                result.Add(trimmed);
+            }
+        }
+    }
+
+    return result;
+}
 
 
 
@@ -264,6 +595,11 @@ class CreateNewJSON
             
     //     return keys;
     // }
+
+
+
+
+
 
 
     

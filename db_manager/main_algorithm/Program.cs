@@ -14,7 +14,8 @@ class Program
     {
         
         
-        CreateNewJSON.PopulateInstrumentMap();
+        var instrumentMap = CreateNewJSON.PopulateInstrumentMap();
+        CreateNewJSON.PrintInstrumentMap(instrumentMap);
         
         Environment.Exit(0);
 
