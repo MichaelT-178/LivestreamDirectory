@@ -105,11 +105,12 @@ class CreateNewJSON
         link = link.Trim();
 
 
+
         // Console.WriteLine(id);
         //Console.WriteLine(keyList);
         // Console.WriteLine($"keyList: [{string.Join(", ", keyList)}]");
 
-        // Console.WriteLine(keyListStr);
+        Console.WriteLine(keyListStr);
         // Console.WriteLine(song.Title);
         // Console.WriteLine(appearance);
         // Console.WriteLine(link);
@@ -490,32 +491,31 @@ class CreateNewJSON
 
     // Livestream 22 (Audio Issues) -> ["Audio Issues"]
     //Livestream 23 (Audio Issues/Partial) -> ["Audio Issues", "Partial"]
-
-        public static List<string> GetKeysAsList(string input)
-{
-    Console.WriteLine($"INPUT {input}");
-
-    var result = new List<string>();
-    string pattern = @"\(([^)]*?)\)"; // Match content inside the first set of parentheses
-
-    var match = Regex.Match(input, pattern);
-    if (match.Success)
+    public static List<string> GetKeysAsList(string input)
     {
-        string content = match.Groups[1].Value;
-        var splitKeys = content.Split('/');
+        var result = new List<string>();
+        string pattern = @"\(([^)]*?)\)"; // Match content inside the first set of parentheses
 
-        foreach (string key in splitKeys)
+        var match = Regex.Match(input, pattern);
+        
+        if (match.Success)
         {
-            string trimmed = key.Trim();
-            if (!string.IsNullOrEmpty(trimmed))
+            string content = match.Groups[1].Value;
+            var splitKeys = content.Split('/');
+            
+            foreach (string key in splitKeys)
             {
-                result.Add(trimmed);
+                string trimmed = key.Trim();
+                
+                if (!string.IsNullOrEmpty(trimmed))
+                {
+                    result.Add(trimmed);
+                }
             }
         }
+        
+        return result;
     }
-
-    return result;
-}
 
 
 
