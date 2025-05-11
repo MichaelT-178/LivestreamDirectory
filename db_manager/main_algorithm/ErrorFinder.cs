@@ -10,6 +10,7 @@ using Newtonsoft.Json;
  * FindDuplicates | Find song duplicates in repertoire.json. 
  * CheckDuplicateTitlesWithDifferentArtists | Checks that a song doesn't have different artists.
  * CleanText | Get rid of parenthesis text in string
+ * CheckKeysToKeep | Find new keys to add to keys_to_keep.json
  *
  * @author Michael Totaro
  */
@@ -352,4 +353,92 @@ class ErrorFinder
 
         return string.Join(" by", songParts.Take(songParts.Length - 1)).Trim();
     }
+
+
+
+    /**
+     * Check that there are no new keys to keep.
+     *
+     * Example if a new song has a valid part in parenthesis 
+     * like -> Drops of Jupiter (Tell Me). ALWAYS add it to 
+     * all_keys_from_song_lines and if necessary add it to song_keys
+     * MANUALLY
+     */
+    public static void CheckKeysToKeep()
+    {
+        HashSet<string> uniqueKeys = new HashSet<string>();
+        
+        string[] lines = File.ReadAllLines("./db_manager/timestamps/all-timestamps.txt");
+        
+        foreach (string line in lines)
+        {
+            if (line.Contains("https") || !line.Contains(":") || line.Contains("Control + g") || !line.Contains(" by "))
+            {
+                continue;
+            }
+            
+            MatchCollection matches = Regex.Matches(line, @"\((.*?)\)");
+            
+            foreach (Match match in matches)
+            {
+                string content = match.Groups[1].Value;
+                string[] parts = content.Split('/');
+                
+                foreach (string part in parts)
+                {
+                    string cleaned = part.Trim();
+                    
+                    if (!string.IsNullOrEmpty(cleaned))
+                    {
+                        uniqueKeys.Add(cleaned);
+                    }
+                }
+            }
+        }
+        
+        List<string> newKeys = new List<string>();
+        
+        foreach (string key in uniqueKeys)
+        {
+            newKeys.Add("(" + key + ")");
+        }
+        
+        newKeys.Sort();
+        
+        List<string> oldKeys = JSONHelper.GetKeyListFromFile("./db_manager/json_files/keys_to_keep.json", "all_keys_from_song_lines");
+        
+        List<string> missingFromNew = oldKeys.FindAll(k => !newKeys.Contains(k));
+        List<string> missingFromOld = newKeys.FindAll(k => !oldKeys.Contains(k));
+        
+        if (missingFromNew.Count == 0 && missingFromOld.Count == 0)
+        {
+            return; // Lists are the same, do nothing
+        }
+        
+        if (missingFromNew.Count > 0)
+        {
+            Console.WriteLine("Old keys not in new keys. Remove it from keys_to_keep if necessary!");
+            Console.WriteLine("You really should NEVER see this. It means something changed in all-timestamps");
+
+            foreach (string key in missingFromNew)
+            {
+                Console.WriteLine(key);
+            }
+        }
+        
+        if (missingFromOld.Count > 0)
+        {
+            Console.WriteLine("\nNew keys not in old keys. Go add it!");
+            
+            foreach (string key in missingFromOld)
+            {
+                Console.WriteLine(key);
+            }
+        }
+
+        Color.PrintLine("\nGO UPDATE keys_to_keep.json!!!!!", "red");
+        Color.PrintLine("ALWAYS \"update all_keys_from_song_lines\". Only update \"song_keys\" if necessary.", "CYAN");
+        Environment.Exit(0);
+    }
+
 }

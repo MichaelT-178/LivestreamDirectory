@@ -147,6 +147,8 @@ class SearchHelper
 
         if (title.Contains("Man Of Constant Sorrow")) { AppendNew("I Am A Man of Constant Sorrow", search); return; }
         if (title.Equals("Vincent")) { AppendNew("Vincent (Starry, Starry Night)", search); return; }
+        
+        if (title.Equals("When I'm Up - I Can't Get Down")) { AppendNew("When I'm Up (I Can't Get Down)", search); return; }
 
         if (title.Contains("Xmas")) AppendNew("Happy Christmas", search); 
         if (title.Contains("Xmas")) { AppendNew("Merry Christmas", search); return; }

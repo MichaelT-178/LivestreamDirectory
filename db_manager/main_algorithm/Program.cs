@@ -13,11 +13,10 @@ class Program
     public static async Task Main()
     {
         
+        // var instrumentMap = CreateNewJSON.PopulateInstrumentMap();
+        // CreateNewJSON.PrintInstrumentMap(instrumentMap);
         
-        var instrumentMap = CreateNewJSON.PopulateInstrumentMap();
-        CreateNewJSON.PrintInstrumentMap(instrumentMap);
-        
-        Environment.Exit(0);
+        // Environment.Exit(0);
 
 
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
@@ -36,6 +35,8 @@ class Program
         stopwatch.Start();
 
         Console.WriteLine("\nError Check");
+
+        ErrorFinder.CheckKeysToKeep();
     
         List<string> songsWithKeys = ErrorFinder.FindCapErrors();
 

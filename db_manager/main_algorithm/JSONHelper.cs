@@ -51,7 +51,9 @@ class JSONHelper
                         ?? throw new ArgumentException("Couldn't parse JSON from file: " + filePath);
 
         if (!jsonObject.TryGetValue(keyName, out List<string>? keyList))
+        {
             throw new ArgumentException($"Missing '{keyName}' property in JSON file: {filePath}");
+        }
 
         return keyList;
     }
