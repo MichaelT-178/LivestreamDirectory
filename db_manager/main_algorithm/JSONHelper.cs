@@ -6,6 +6,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  *
  * Methods
  * GetFilesJSONData | Gets JSON data from a list and stores it in a string list.
+ * GetKeyListFromFile | Gets the key list from keys_to_keep.json
  * GetJSONSongAsString | Gets the string of a song object to be added to database file.
  * GetDatabaseSongs | Gets all songs from the song_list.json file
  * GetDatabaseSongsAsString | Gets a string list that contains every songs title and artist the database file.
@@ -31,6 +32,28 @@ class JSONHelper
         List<string> songs = JsonConvert.DeserializeObject<List<string>>(json) 
                              ?? throw new ArgumentException("Couldn't get JSON data!");
         return songs;
+    }
+
+    /**
+     * Gets the key list from keys_to_keep.json
+     * 
+     * Note: The "all_keys_from_song_lines" are key from lines formatted (time) (title) (by) (artist)
+     * 
+     * @param filePath Path to keys_to_keep.json
+     * @param keyName Either "all_keys_from_song_lines" or "song_keys"
+     * @return String list of keys
+     */
+    public static List<string> GetKeyListFromFile(string filePath, string keyName)
+    {
+        string json = File.ReadAllText(filePath);
+
+        var jsonObject = JsonConvert.DeserializeObject<Dictionary<string, List<string>>>(json)
+                        ?? throw new ArgumentException("Couldn't parse JSON from file: " + filePath);
+
+        if (!jsonObject.TryGetValue(keyName, out List<string>? keyList))
+            throw new ArgumentException($"Missing '{keyName}' property in JSON file: {filePath}");
+
+        return keyList;
     }
 
     /**
