@@ -13,10 +13,26 @@ class Program
     public static async Task Main()
     {
         
-        // var instrumentMap = CreateNewJSON.PopulateInstrumentMap();
+        // var instrumentMap = CreateNewJSON.RemoveInstrumentKeys("COOL (FVD/Keep)");
+        // Console.WriteLine(instrumentMap);
+
+
+        List<string> keyList = CreateNewInstrument.GetKeysAsList("Solo Video (Electric Song/GPRG/BH)");
+
+        foreach (var key in keyList)
+{
+    Console.WriteLine(key);
+}
+
+        Environment.Exit(0);
+
+
+        var instrumentMap = CreateNewInstrument.RemoveInstrumentKeys("Livestream 5 (Audio Issues/Electric riff)");
+        Console.WriteLine(instrumentMap);
+
         // CreateNewJSON.PrintInstrumentMap(instrumentMap);
         
-        // Environment.Exit(0);
+        Environment.Exit(0);
 
 
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
