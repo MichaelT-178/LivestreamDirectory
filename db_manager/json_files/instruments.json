@@ -1,331 +1,394 @@
 {
-    "Instruments": [
-        {
-            "id": 1,
-            "name": "(main) - Stonebridge (Furch) OM32SM",
-            "cleaned": "acoustic-guitar",
-            "alias": "Acoustic Guitar",
-            "key": null
-        },
-        {
-            "id": 2,
-            "name": "Fender Telecaster",
-            "cleaned": "electric-guitar",
-            "alias": "Electric Guitar",
-            "key": null
-        },
-        {
-            "id": 3,
-            "name": "Asturias Standard S",
-            "cleaned": "classical-guitar",
-            "alias": "Classical Guitar",
-            "key": "Classical Guitar"
-        },
-        {
-            "id": 4,
-            "name": "12-String Guitar",
-            "cleaned": "12-string-guitar",
-            "key": "12-String Guitar"
-        },
-        {
-            "id": 5,
-            "name": "Mandolin",
-            "cleaned": "mandolin",
-            "key": "Mandolin"
-        },
-        {
-            "id": 6,
-            "name": "Harmonica",
-            "cleaned": "harmonica",
-            "key": "H"
-        },
-        {
-            "id": 7,
-            "name": "Blues Slide",
-            "cleaned": "blues-slide",
-            "key": "Blues Slide"
-        },
-        {
-            "id": 8,
-            "name": "(BH) - Brickhouse Demo",
-            "cleaned": "brickhouse-demo",
-            "key": "BH"
-        },
-        {
-            "id": 9,
-            "name": "(FBG) - Furch Blue Gc-SA",
-            "cleaned": "furch-blue-gc-sa",
-            "key": "FBG"
-        },
-        {
-            "id": 10,
-            "name": "(DX1R) - Martin DX1R",
-            "cleaned": "martin-dx1r",
-            "key": "DX1R"
-        },
-        {
-            "id": 11,
-            "name": "(MDT) - Maestro Double Top",
-            "cleaned": "maestro-double-top",
-            "key": "MDT"
-        },
-        {
-            "id": 12,
-            "name": "(M15M) - Martin 00-15m",
-            "cleaned": "martin-00-15m",
-            "key": "M15M"
-        },
-        {
-            "id": 13,
-            "name": "(NST) - Norman ST68",
-            "cleaned": "norman-st68",
-            "key": "NST"
-        },
-        {
-            "id": 14,
-            "name": "(OOM) - Furch OOM-SR-DB",
-            "cleaned": "furch-oom-sr-db",
-            "key": "OOM"
-        },
-        {
-            "id": 15,
-            "name": "(SAS) - Seagull Artist Studio",
-            "cleaned": "seagull-artist-studio",
-            "key": "SAS"
-        },
-        {
-            "id": 16,
-            "name": "(SGI) - SGI Avenir CW20",
-            "cleaned": "sgi-avenir-cw20",
-            "key": "SGI"
-        },
-        {
-            "id": 17,
-            "name": "(SOM) - Stonebridge OM35ASR-DB",
-            "cleaned": "stonebridge-om35asr-db",
-            "key": "SOM"
-        },
-        {
-            "id": 18,
-            "name": "(FV2) - Furch Vintage 2 RS-SR",
-            "cleaned": "furch-vintage-2-rs-sr",
-            "key": "FV2"
-        },
-        {
-            "id": 19,
-            "name": "(DM75) - DeArmond M75",
-            "cleaned": "dearmond-m75",
-            "type": "electric guitar",
-            "key": "DM75",
-            "appears": 1
-        },
-        {
-            "id": 20,
-            "name": "(OOMV1) - Furch OOM Vintage 1",
-            "cleaned": "furch-oom-vintage-1",
-            "key": "OOMV1",
-            "appears": 2
-        },
-        {
-            "id": 21,
-            "name": "(MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack",
-            "cleaned": "maestro-fan-fretted-singa-flamed-maple-adirondack",
-            "key": "MFF",
-            "appears": 1
-        },
-        {
-            "id": 22,
-            "name": "(GPPCB) - Godin Progression Plus Cherry Burst RN",
-            "cleaned": "godin-progression-plus-cherry-burst-rn",
-            "type": "electric guitar",
-            "key": "GPPCB",
-            "appears": 1
-        },
-        {
-            "id": 23,
-            "name": "(GSDG) - Godin Stadium '59 Desert Green RN",
-            "cleaned": "godin-stadium-59-desert-green-rn",
-            "type": "electric guitar",
-            "key": "GSDG",
-            "appears": 1
-        },
-        {
-            "id": 24,
-            "name": "(GPRG) - Godin Passion RG-3 Indigo Burst RN",
-            "cleaned": "godin-passion-rg-3-indigo-burst-rn",
-            "type": "electric guitar",
-            "key": "GPRG",
-            "appears": 1
-        },
-        {
-            "id": 25,
-            "name": "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream",
-            "cleaned": "godin-5th-ave-uptown-gt-ltd-trans-cream",
-            "type": "electric guitar",
-            "key": "GLTC",
-            "appears": 1
-        },
-        {
-            "id": 26,
-            "name": "(MHD) - Martin HD-28",
-            "cleaned": "martin-hd-28",
-            "key": "MHD",
-            "appears": 1
-        },
-        {
-            "id": 27,
-            "name": "(FVD) - Furch Vintage 2 D-SR",
-            "cleaned": "furch-vintage-2-d-sr",
-            "key": "FVD",
-            "appears": 1
-        },
-        {
-            "id": 28,
-            "name": "(BSG) - Boucher SG-52",
-            "cleaned": "boucher-sg-52",
-            "key": "BSG",
-            "appears": 1
-        },
-        {
-            "id": 29,
-            "name": "(FBD) - Furch Blue D-CM",
-            "cleaned": "furch-blue-d-cm",
-            "key": "FBD",
-            "appears": 1
-        },
-        {
-            "id": 30,
-            "name": "(BSGI) - Boucher SG-52-I",
-            "cleaned": "boucher-sg-52-i",
-            "key": "BSGI",
-            "appears": 1
-        },
-        {
-            "id": 31,
-            "name": "(GRSG) - Godin Rialto JR Satina Gray HG Q-Discrete",
-            "cleaned": "godin-rialto-jr-satina-gray-hg-q-discrete",
-            "key": "GRSG",
-            "appears": 1
-        },
-        {
-            "id": 32,
-            "name": "(GMNC) - Godin Metropolis Natural Cedar EQ",
-            "cleaned": "godin-metropolis-natural-cedar-eq",
-            "key": "GMNC",
-            "appears": 1
-        },
-        {
-            "id": 33,
-            "name": "(GMLN) - Godin Metropolis LTD Natural HG EQ",
-            "cleaned": "godin-metropolis-ltd-natural-hg-eq",
-            "key": "GMLN",
-            "appears": 1
-        },
-        {
-            "id": 34,
-            "name": "(GMLHB) - Godin Metropolis LTD Havana Burst HG EQ",
-            "cleaned": "godin-metropolis-ltd-havana-burst-hg-eq",
-            "key": "GMLHB",
-            "appears": 1
-        },
-        {
-            "id": 35,
-            "name": "(GFCHN) - Godin Fairmount Concert Hall Natural HG EQ",
-            "cleaned": "godin-fairmount-concert-hall-natural-hg-eq",
-            "key": "GFCHN",
-            "appears": 1
-        },
-        {
-            "id": 36,
-            "name": "(BHG) - Boucher HG-56",
-            "cleaned": "boucher-hg-56",
-            "key": "BHG",
-            "appears": 1
-        },
-        {
-            "id": 37,
-            "name": "(FOSG) - Furch OM22TSW-C-DB SGI",
-            "cleaned": "furch-om22tsw-c-db-sgi",
-            "key": "FOSG",
-            "appears": 1
-        },
-        {
-            "id": 38,
-            "name": "(FG) - Furch G25CR-C",
-            "cleaned": "furch-g25cr-c",
-            "key": "FG",
-            "appears": 1
-        },
-        {
-            "id": 39,
-            "name": "(FSD) - Furch *SGI* D22TSR",
-            "cleaned": "furch-sgi-d22tsr",
-            "key": "FSD",
-            "appears": 1
-        },
-        {
-            "id": 40,
-            "name": "(FOB) - Furch OM34TSR-DB B2",
-            "cleaned": "furch-om34tsr-db-b2",
-            "key": "FOB",
-            "appears": 1
-        },
-        {
-            "id": 41,
-            "name": "(LPE) - La Patrie Etude",
-            "cleaned": "la-patrie-etude",
-            "type": "classical guitar",
-            "key": "LPE",
-            "appears": 1
-        },
-        {
-            "id": 42,
-            "name": "(BDC) - Breedlove Discovery Concert CE",
-            "cleaned": "breedlove-discovery-concert-ce",
-            "key": "BDC",
-            "appears": 1
-        },
-        {
-            "id": 43,
-            "name": "(NSPBU) - Norman ST40 Parlor Burnt Umber",
-            "cleaned": "norman-st40-parlor-burnt-umber",
-            "key": "NSPBU",
-            "appears": 1
-        },
-        {
-            "id": 44,
-            "name": "(NBDA) - Norman B15 Dark Almond",
-            "cleaned": "norman-b15-dark-almond",
-            "key": "NBDA",
-            "appears": 1
-        },
-        {
-            "id": 45,
-            "name": "(NBBU) - Norman B20 Burnt Umber",
-            "cleaned": "norman-b20-burnt-umber",
-            "key": "NBBU",
-            "appears": 1
-        },
-        {
-            "id": 46,
-            "name": "(NSCG) - Norman ST40 CW GT Presys",
-            "cleaned": "norman-st40-cw-gt-presys",
-            "key": "NSCG",
-            "appears": 1
-        },
-        {
-            "id": 47,
-            "name": "(NSTCW) - Norman ST68 CW",
-            "cleaned": "norman-st68-cw",
-            "key": "NSTCW",
-            "appears": 1
-        },
-        {
-            "id": 48,
-            "name": "(SD22) - Stonebridge D22SR",
-            "cleaned": "stonebridge-d22sr",
-            "key": "SD22",
-            "appears": 1
-        }
-    ]
+  "Instruments": [
+    {
+      "id": 1,
+      "name": "(main) - Stonebridge (Furch) OM32SM",
+      "cleaned": "acoustic-guitar",
+      "alias": "Acoustic Guitar",
+      "key": null,
+      "appears": 5114
+    },
+    {
+      "id": 2,
+      "name": "Fender Telecaster",
+      "cleaned": "electric-guitar",
+      "alias": "Electric Guitar",
+      "key": null,
+      "appears": 211
+    },
+    {
+      "id": 3,
+      "name": "Asturias Standard S",
+      "cleaned": "classical-guitar",
+      "alias": "Classical Guitar",
+      "key": "Classical Guitar",
+      "appears": 29
+    },
+    {
+      "id": 4,
+      "name": "12-String Guitar",
+      "cleaned": "12-string-guitar",
+      "alias": null,
+      "key": "12-String Guitar",
+      "appears": 0
+    },
+    {
+      "id": 5,
+      "name": "Mandolin",
+      "cleaned": "mandolin",
+      "alias": null,
+      "key": "Mandolin",
+      "appears": 12
+    },
+    {
+      "id": 6,
+      "name": "Harmonica",
+      "cleaned": "harmonica",
+      "alias": null,
+      "key": "H",
+      "appears": 0
+    },
+    {
+      "id": 7,
+      "name": "Blues Slide",
+      "cleaned": "blues-slide",
+      "alias": null,
+      "key": "Blues Slide",
+      "appears": 3
+    },
+    {
+      "id": 8,
+      "name": "(BH) - Brickhouse Demo",
+      "cleaned": "brickhouse-demo",
+      "alias": null,
+      "key": "BH",
+      "appears": 30
+    },
+    {
+      "id": 9,
+      "name": "(FBG) - Furch Blue Gc-SA",
+      "cleaned": "furch-blue-gc-sa",
+      "alias": null,
+      "key": "FBG",
+      "appears": 4
+    },
+    {
+      "id": 10,
+      "name": "(DX1R) - Martin DX1R",
+      "cleaned": "martin-dx1r",
+      "alias": null,
+      "key": "DX1R",
+      "appears": 57
+    },
+    {
+      "id": 11,
+      "name": "(MDT) - Maestro Double Top",
+      "cleaned": "maestro-double-top",
+      "alias": null,
+      "key": "MDT",
+      "appears": 56
+    },
+    {
+      "id": 12,
+      "name": "(M15M) - Martin 00-15m",
+      "cleaned": "martin-00-15m",
+      "alias": null,
+      "key": "M15M",
+      "appears": 179
+    },
+    {
+      "id": 13,
+      "name": "(NST) - Norman ST68",
+      "cleaned": "norman-st68",
+      "alias": null,
+      "key": "NST",
+      "appears": 25
+    },
+    {
+      "id": 14,
+      "name": "(OOM) - Furch OOM-SR-DB",
+      "cleaned": "furch-oom-sr-db",
+      "alias": null,
+      "key": "OOM",
+      "appears": 15
+    },
+    {
+      "id": 15,
+      "name": "(SAS) - Seagull Artist Studio",
+      "cleaned": "seagull-artist-studio",
+      "alias": null,
+      "key": "SAS",
+      "appears": 5
+    },
+    {
+      "id": 16,
+      "name": "(SGI) - SGI Avenir CW20",
+      "cleaned": "sgi-avenir-cw20",
+      "alias": null,
+      "key": "SGI",
+      "appears": 54
+    },
+    {
+      "id": 17,
+      "name": "(SOM) - Stonebridge OM35ASR-DB",
+      "cleaned": "stonebridge-om35asr-db",
+      "alias": null,
+      "key": "SOM",
+      "appears": 1
+    },
+    {
+      "id": 18,
+      "name": "(FV2) - Furch Vintage 2 RS-SR",
+      "cleaned": "furch-vintage-2-rs-sr",
+      "alias": null,
+      "key": "FV2",
+      "appears": 10
+    },
+    {
+      "id": 19,
+      "name": "(DM75) - DeArmond M75",
+      "cleaned": "dearmond-m75",
+      "alias": null,
+      "key": "DM75",
+      "type": "electric guitar",
+      "appears": 1
+    },
+    {
+      "id": 20,
+      "name": "(OOMV1) - Furch OOM Vintage 1",
+      "cleaned": "furch-oom-vintage-1",
+      "alias": null,
+      "key": "OOMV1",
+      "appears": 1
+    },
+    {
+      "id": 21,
+      "name": "(MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack",
+      "cleaned": "maestro-fan-fretted-singa-flamed-maple-adirondack",
+      "alias": null,
+      "key": "MFF",
+      "appears": 1
+    },
+    {
+      "id": 22,
+      "name": "(GPPCB) - Godin Progression Plus Cherry Burst RN",
+      "cleaned": "godin-progression-plus-cherry-burst-rn",
+      "alias": null,
+      "key": "GPPCB",
+      "type": "electric guitar",
+      "appears": 1
+    },
+    {
+      "id": 23,
+      "name": "(GSDG) - Godin Stadium '59 Desert Green RN",
+      "cleaned": "godin-stadium-59-desert-green-rn",
+      "alias": null,
+      "key": "GSDG",
+      "type": "electric guitar",
+      "appears": 1
+    },
+    {
+      "id": 24,
+      "name": "(GPRG) - Godin Passion RG-3 Indigo Burst RN",
+      "cleaned": "godin-passion-rg-3-indigo-burst-rn",
+      "alias": null,
+      "key": "GPRG",
+      "type": "electric guitar",
+      "appears": 1
+    },
+    {
+      "id": 25,
+      "name": "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream",
+      "cleaned": "godin-5th-ave-uptown-gt-ltd-trans-cream",
+      "alias": null,
+      "key": "GLTC",
+      "type": "electric guitar",
+      "appears": 1
+    },
+    {
+      "id": 26,
+      "name": "(MHD) - Martin HD-28",
+      "cleaned": "martin-hd-28",
+      "alias": null,
+      "key": "MHD",
+      "appears": 1
+    },
+    {
+      "id": 27,
+      "name": "(FVD) - Furch Vintage 2 D-SR",
+      "cleaned": "furch-vintage-2-d-sr",
+      "alias": null,
+      "key": "FVD",
+      "appears": 1
+    },
+    {
+      "id": 28,
+      "name": "(BSG) - Boucher SG-52",
+      "cleaned": "boucher-sg-52",
+      "alias": null,
+      "key": "BSG",
+      "appears": 1
+    },
+    {
+      "id": 29,
+      "name": "(FBD) - Furch Blue D-CM",
+      "cleaned": "furch-blue-d-cm",
+      "alias": null,
+      "key": "FBD",
+      "appears": 1
+    },
+    {
+      "id": 30,
+      "name": "(BSGI) - Boucher SG-52-I",
+      "cleaned": "boucher-sg-52-i",
+      "alias": null,
+      "key": "BSGI",
+      "appears": 1
+    },
+    {
+      "id": 31,
+      "name": "(GRSG) - Godin Rialto JR Satina Gray HG Q-Discrete",
+      "cleaned": "godin-rialto-jr-satina-gray-hg-q-discrete",
+      "alias": null,
+      "key": "GRSG",
+      "appears": 1
+    },
+    {
+      "id": 32,
+      "name": "(GMNC) - Godin Metropolis Natural Cedar EQ",
+      "cleaned": "godin-metropolis-natural-cedar-eq",
+      "alias": null,
+      "key": "GMNC",
+      "appears": 1
+    },
+    {
+      "id": 33,
+      "name": "(GMLN) - Godin Metropolis LTD Natural HG EQ",
+      "cleaned": "godin-metropolis-ltd-natural-hg-eq",
+      "alias": null,
+      "key": "GMLN",
+      "appears": 1
+    },
+    {
+      "id": 34,
+      "name": "(GMLHB) - Godin Metropolis LTD Havana Burst HG EQ",
+      "cleaned": "godin-metropolis-ltd-havana-burst-hg-eq",
+      "alias": null,
+      "key": "GMLHB",
+      "appears": 1
+    },
+    {
+      "id": 35,
+      "name": "(GFCHN) - Godin Fairmount Concert Hall Natural HG EQ",
+      "cleaned": "godin-fairmount-concert-hall-natural-hg-eq",
+      "alias": null,
+      "key": "GFCHN",
+      "appears": 1
+    },
+    {
+      "id": 36,
+      "name": "(BHG) - Boucher HG-56",
+      "cleaned": "boucher-hg-56",
+      "alias": null,
+      "key": "BHG",
+      "appears": 1
+    },
+    {
+      "id": 37,
+      "name": "(FOSG) - Furch OM22TSW-C-DB SGI",
+      "cleaned": "furch-om22tsw-c-db-sgi",
+      "alias": null,
+      "key": "FOSG",
+      "appears": 1
+    },
+    {
+      "id": 38,
+      "name": "(FG) - Furch G25CR-C",
+      "cleaned": "furch-g25cr-c",
+      "alias": null,
+      "key": "FG",
+      "appears": 1
+    },
+    {
+      "id": 39,
+      "name": "(FSD) - Furch *SGI* D22TSR",
+      "cleaned": "furch-sgi-d22tsr",
+      "alias": null,
+      "key": "FSD",
+      "appears": 1
+    },
+    {
+      "id": 40,
+      "name": "(FOB) - Furch OM34TSR-DB B2",
+      "cleaned": "furch-om34tsr-db-b2",
+      "alias": null,
+      "key": "FOB",
+      "appears": 1
+    },
+    {
+      "id": 41,
+      "name": "(LPE) - La Patrie Etude",
+      "cleaned": "la-patrie-etude",
+      "alias": null,
+      "key": "LPE",
+      "type": "classical guitar",
+      "appears": 1
+    },
+    {
+      "id": 42,
+      "name": "(BDC) - Breedlove Discovery Concert CE",
+      "cleaned": "breedlove-discovery-concert-ce",
+      "alias": null,
+      "key": "BDC",
+      "appears": 1
+    },
+    {
+      "id": 43,
+      "name": "(NSPBU) - Norman ST40 Parlor Burnt Umber",
+      "cleaned": "norman-st40-parlor-burnt-umber",
+      "alias": null,
+      "key": "NSPBU",
+      "appears": 1
+    },
+    {
+      "id": 44,
+      "name": "(NBDA) - Norman B15 Dark Almond",
+      "cleaned": "norman-b15-dark-almond",
+      "alias": null,
+      "key": "NBDA",
+      "appears": 1
+    },
+    {
+      "id": 45,
+      "name": "(NBBU) - Norman B20 Burnt Umber",
+      "cleaned": "norman-b20-burnt-umber",
+      "alias": null,
+      "key": "NBBU",
+      "appears": 1
+    },
+    {
+      "id": 46,
+      "name": "(NSCG) - Norman ST40 CW GT Presys",
+      "cleaned": "norman-st40-cw-gt-presys",
+      "alias": null,
+      "key": "NSCG",
+      "appears": 1
+    },
+    {
+      "id": 47,
+      "name": "(NSTCW) - Norman ST68 CW",
+      "cleaned": "norman-st68-cw",
+      "alias": null,
+      "key": "NSTCW",
+      "appears": 1
+    },
+    {
+      "id": 48,
+      "name": "(SD22) - Stonebridge D22SR",
+      "cleaned": "stonebridge-d22sr",
+      "alias": null,
+      "key": "SD22",
+      "appears": 1
+    }
+  ]
 }

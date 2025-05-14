@@ -9,6 +9,7 @@ using System.Diagnostics;
  * ExecuteGitCommands | Adds, commits, and pushes project to 
  * ExecuteCommand | Executes a command on the operating system.
  * UpdateSQLiteDatabase | Runs the run_all.py file to update the SQLite table.
+ * PushChangesInVue | Push changes that were made in the VueLivestreamDirectory folder
  *
  * @author Michael Totaro
  */
@@ -47,13 +48,14 @@ class OS
 
     /**
      * Executes the git commands git add, git commit, and git push commands. 
+     * @param commitMsg The optional commit message.
      */
-    public static void ExecuteGitCommands()
+    public static void ExecuteGitCommands(string commitMsg = "Adding changes")
     {   
         ExecuteCommand("git add .");
         Color.DisplaySuccess("git add completed successfully");
 
-        ExecuteCommand("git commit -m \"Adding changes\"");
+        ExecuteCommand($"git commit -m \"{commitMsg}\"");
         Color.DisplaySuccess("git commit completed successfully");
 
         ExecuteCommand("git push");
@@ -124,4 +126,49 @@ class OS
         Environment.CurrentDirectory = originalDirectory;
     }
 
+    /**
+     * Push changes that were made in the VueLivestreamDirectory folder
+     */
+     public static void PushChangesInVue()
+     {
+        string originalDirectory = Environment.CurrentDirectory;
+        string vueLivestreamDirectoryPath = Path.Combine(originalDirectory, "../VueLivestreamDirectory");
+
+        OpenFileInVSCode(vueLivestreamDirectoryPath);
+
+        Color.DisplaySuccess("PUSHING TO VueLivestreamDirectory!!!\n", "\n\n");
+        
+        Console.Write("Enter commit message (press 'p' to pass): ");
+        string? commitMsg = Console.ReadLine()?.Trim();
+        
+        if (commitMsg?.ToLower() == "p")
+        {
+            Color.PrintLine("Push skipped.", "Magenta");
+            return;
+        }
+
+        if (string.IsNullOrWhiteSpace(commitMsg))
+        {
+            Color.DisplayError("Commit message cannot be empty.");
+            return;
+        }
+
+        try
+        {
+            Environment.CurrentDirectory = Path.GetFullPath(vueLivestreamDirectoryPath);
+            ExecuteGitCommands(commitMsg);
+
+            Console.WriteLine(""); //Whitespace
+        }
+        catch (Exception ex)
+        {
+            Color.DisplayError("Failed to push Vue changes.");
+            Console.WriteLine(ex.ToString());
+        }
+        finally
+        {
+            Environment.CurrentDirectory = originalDirectory;
+        }
+    }
+    
 }

@@ -7,6 +7,8 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  *
  * Methods
  * PopulateInstrumentMap | Populate the lists of the instrument map with songs.
+ * WriteInstrumentMapToFile | Writes the instrumentMap to the InstrumentData.json file in VueLivestreamDirectory
+ * UpdateInstrumentFiles | Update local and Vue instrument.json with new appearance attribute.
  * CreateInstrumentMap | Creates the skeleton of the instrument map.
  * GetKeysAsList | Gets a string list of keys from an appearance line.
  * GetInstruments | Get an Instrument list from instruments.json
@@ -22,7 +24,8 @@ class CreateNewInstrument
     
     /**
      * Populate the lists of the instrument map with songs. Works by looping
-     * through database songs
+     * through database songs. Calls WriteInstrumentMapToFile at the end 
+     * to update InstrumentData.json in Vue.
      * 
      * @return The fully populated instrument map.
      */
@@ -64,8 +67,116 @@ class CreateNewInstrument
             }
         }
 
+        WriteInstrumentMapToFile(instrumentMap);
+
         return instrumentMap;
         // PrintInstrumentMap(instrumentMap);
+    }
+
+    /**
+     * Writes the instrumentMap to the InstrumentData.json file in 
+     * VueLivestreamDirectory
+     *
+     * @param instrumentMap The populated instrumentMap
+     * @return 
+     * InstrumentSong
+     */
+    public static void WriteInstrumentMapToFile(Dictionary<string, List<InstrumentSong>> instrumentMap)
+    {
+        string filePath = "../VueLivestreamDirectory/src/assets/Data/InstrumentData.json";
+
+        List<Instrument> instruments = GetInstruments();
+        
+        Dictionary<string, string> instrumentNameMap = instruments
+            .Where(inst => !string.IsNullOrWhiteSpace(inst.CleanedName))
+            .ToDictionary(inst => inst.CleanedName, inst => inst.Name);
+            
+        var formattedMap = new Dictionary<string, object>();
+        
+        foreach (var entry in instrumentMap)
+        {
+            string cleanedKey = entry.Key;
+            string displayName = instrumentNameMap.ContainsKey(cleanedKey) ? instrumentNameMap[cleanedKey] : cleanedKey;
+            
+            // Create the value JSON object
+            var formattedEntry = new
+            {
+                instrument = displayName,
+                pic = cleanedKey + ".jpg",
+                numOfAppearances = entry.Value.Count,
+                appearances = entry.Value
+            };
+            
+            formattedMap[cleanedKey] = formattedEntry;
+        }
+        
+        var options = new JsonSerializerOptions
+        {
+            WriteIndented = true,
+            PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+            Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+        };
+        
+        string jsonContent = JsonSerializer.Serialize(formattedMap, options);
+        File.WriteAllText(filePath, jsonContent);
+
+        UpdateInstrumentFiles(instrumentMap);
+
+        OS.PushChangesInVue();
+    }
+
+    /**
+     * Update local and Vue instrument.json with new appearance attribute.
+     *
+     * @param The instrumentMap that's data will be used to update the 
+     *        appearance attribute of the two files.
+     */
+    public static void UpdateInstrumentFiles(Dictionary<string, List<InstrumentSong>> instrumentMap)
+    {
+        string localInstrumentPath = "./db_manager/json_files/instruments.json";
+        string vueInstrumentPath = "../VueLivestreamDirectory/src/assets/Data/instruments.json";
+
+        
+        string jsonContent = File.ReadAllText(localInstrumentPath);
+
+        var options = new JsonSerializerOptions
+        {
+            PropertyNameCaseInsensitive = true
+        };
+
+        InstrumentWrapper wrapper = JsonSerializer.Deserialize<InstrumentWrapper>(jsonContent, options)!;
+
+        foreach (var instrument in wrapper.Instruments)
+        {
+            if (!string.IsNullOrWhiteSpace(instrument.CleanedName))
+            {
+                instrument.Appears = instrumentMap.TryGetValue(instrument.CleanedName, out var list) ? list.Count : 0;
+            }
+        }
+
+        // Save updated JSON
+        var writeOptions = new JsonSerializerOptions
+        {
+            WriteIndented = true,
+            Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+        };
+
+        string updatedJson = JsonSerializer.Serialize(wrapper, writeOptions);
+        File.WriteAllText(localInstrumentPath, updatedJson);
+        
+
+        // If the the local and vue instruments.json aren't the same 
+        // override the vue file with the local and push the changes
+        // in Livestream directory.
+        string vueJson = File.ReadAllText(vueInstrumentPath).Trim();
+        string localJson = File.ReadAllText(localInstrumentPath).Trim();
+
+        if (vueJson != localJson)
+        {
+            Console.WriteLine("NOT THE SAME");
+            File.WriteAllText(vueInstrumentPath, localJson);
+            Console.WriteLine("Vue JSON file has been updated.");
+        }
     }
 
     
@@ -451,9 +562,9 @@ class CreateNewInstrument
             var parts = content.Split('/');
             
             var filtered = parts
-            .Select(part => part.Trim())
-            .Where(part => !REMOVE_KEYS.Contains(part))
-            .ToList();
+                .Select(part => part.Trim())
+                .Where(part => !REMOVE_KEYS.Contains(part))
+                .ToList();
             
             return filtered.Count > 0 ? $"({string.Join("/", filtered)})" : "";
         });

@@ -2,8 +2,6 @@ using System.Text.Json.Serialization;
 
 /** 
  * The Instrument object model found in instruments.json.
- *
- * @author Michael Totaro
  */
 public class Instrument
 {
@@ -18,4 +16,14 @@ public class Instrument
 
     [JsonPropertyName("alias")]
     public string? Alias { get; set; }
+
+    [JsonPropertyName("key")]
+    public string? Key { get; set; }
+
+    [JsonPropertyName("type")]
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)] 
+    public string? Type { get; set; }
+
+    [JsonPropertyName("appears")]
+    public int Appears { get; set; } = 0;
 }

@@ -43,19 +43,21 @@ class Color
     /**
      * Prints a green success message with checkmark in front.
      * @param message The message to be displayed
+     * @start optional starting newlines
      */
-    public static void DisplaySuccess(string message)
+    public static void DisplaySuccess(string message, string start = "")
     {
-        PrintLine($"✅ {message}", "Green");
+        PrintLine($"{start}✅ {message}", "Green");
     }
 
     /**
      * Prints a red colored error message.
      * @param message The message to be displayed
+     * @start optional starting newlines
      */
-    public static void DisplayError(string message)
+    public static void DisplayError(string message, string start = "")
     {
-        PrintLine($"❌ {message}", "Red");
+        PrintLine($"{start}❌ {message}", "Red");
     }
 
     /**

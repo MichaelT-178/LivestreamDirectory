@@ -12,29 +12,6 @@ class Program
      */
     public static async Task Main()
     {
-        
-        // var instrumentMap = CreateNewJSON.RemoveInstrumentKeys("COOL (FVD/Keep)");
-        // Console.WriteLine(instrumentMap);
-
-
-        List<string> keyList = CreateNewInstrument.GetKeysAsList("Solo Video (Electric Song/GPRG/BH)");
-
-        foreach (var key in keyList)
-{
-    Console.WriteLine(key);
-}
-
-        Environment.Exit(0);
-
-
-        var instrumentMap = CreateNewInstrument.RemoveInstrumentKeys("Livestream 5 (Audio Issues/Electric riff)");
-        Console.WriteLine(instrumentMap);
-
-        // CreateNewJSON.PrintInstrumentMap(instrumentMap);
-        
-        Environment.Exit(0);
-
-
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
         Color.PrintWithColoredPart(@"Do you want to open the ""all-timestamps.txt"" file? : ", "\"all-timestamps.txt\"", "Cyan");
         
@@ -96,6 +73,11 @@ class Program
         string seconds = elapsedSeconds.ToString("0.00");
         Color.PrintWithColoredPart($"\nProgram took {seconds} seconds to run!", seconds, "Blue", true);
 
+
+        //UPDATE ALL JSON FILES
+        CreateNewInstrument.PopulateInstrumentMap();
+
+        
         Color.PrintWithColoredPart("\nDo you want to open the \"song_list.json\" file? : ", "\"song_list.json\"", "Cyan");
         string question = Console.ReadLine() ?? "";
         
