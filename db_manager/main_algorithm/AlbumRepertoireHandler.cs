@@ -9,7 +9,6 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  * GetAlbums | Returns the list of albums from albums.json
  * GetRepertoire | Returns the song list from the repertoire.json file
  * CheckForNoRepeatAlbums | Makes sure there are no repeat albumTitles in albums.json
- * EnsureAllAlbumsHaveImage | Ensures all albums in albums.json have an associated image.
  * UpdateCleanedAlbumTitles | Updates the CleanedAlbumTitle attributes in albums.json
  * SyncAlbumsWithRepertoire | Ensures every song has an associated album.json
  * UpdateRepertoireFile | Update the repertoire.json file given a list of songs
@@ -160,16 +159,8 @@ class AlbumRepertoireHandler
             Color.DisplayError($"Error updating CleanedAlbumTitle values: {ex.Message}");
         }
     }
-
-
-    /**
-     * 
-     */
-    public static void EnsureAllAlbumsHaveImage()
-    {
-        return;
-    }
-
+    
+    
     /**
      * Ensures every song has an associated album.
      * 
@@ -180,13 +171,13 @@ class AlbumRepertoireHandler
     {
         List<Album> albums = GetAlbums();
         List<string> repertoire = GetRepertoire();
-        
+
         List<string> removeFromAlbums = new();
         List<string> addToAlbums = new();
-        
+
         HashSet<string> albumSongs = albums.Select(a => a.Song).ToHashSet();
         HashSet<string> repertoireSongs = repertoire.ToHashSet();
-        
+
         foreach (var song in albumSongs)
         {
             if (!repertoireSongs.Contains(song))
@@ -194,8 +185,8 @@ class AlbumRepertoireHandler
                 removeFromAlbums.Add(song);
             }
         }
-        
-        
+
+
         foreach (var song in repertoireSongs)
         {
             if (!albumSongs.Contains(song))

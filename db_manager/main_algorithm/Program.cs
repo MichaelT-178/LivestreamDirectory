@@ -12,6 +12,12 @@ class Program
      */
     public static async Task Main()
     {
+
+        ErrorFinder.AllAlbumPicturesExist();
+
+        Environment.Exit(0);
+
+
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
         Color.PrintWithColoredPart(@"Do you want to open the ""all-timestamps.txt"" file? : ", "\"all-timestamps.txt\"", "Cyan");
         
@@ -37,7 +43,8 @@ class Program
 
         Color.DisplaySuccess("No capitalization errors found!");
 
-        ErrorFinder.AllArtistPicturesExist();
+        ErrorFinder.AllLocalArtistPicturesExist();
+        //ErrorFinder.AllVueArtistPicturesExist();
         
         Color.DisplaySuccess("An image was found for every artist!");
 
@@ -76,6 +83,10 @@ class Program
 
         //UPDATE ALL JSON FILES
         CreateNewInstrument.PopulateInstrumentMap();
+
+        //ErrorFinder.AllAlbumPicturesExist();
+
+
 
         
         Color.PrintWithColoredPart("\nDo you want to open the \"song_list.json\" file? : ", "\"song_list.json\"", "Cyan");

@@ -6,16 +6,18 @@ using Newtonsoft.Json;
  *
  * Methods
  * FindCapErrors | Find capitalization errors.
- * AllArtistPicturesExist | Ensures every artist has picture.
+ * AllLocalArtistPicturesExist | Ensures every artist has picture.
+ * AllVueArtistPicturesExist | Ensures evert artist pic exists in VueLivestreamDirectory
  * FindDuplicates | Find song duplicates in repertoire.json. 
  * CheckDuplicateTitlesWithDifferentArtists | Checks that a song doesn't have different artists.
  * CleanText | Get rid of parenthesis text in string
  * CheckKeysToKeep | Find new keys to add to keys_to_keep.json
- *
+ * AllAlbumPicturesExist | Ensures every album pic exists in VueLivestreamDirectory
+ * 
  * @author Michael Totaro
  */
 class ErrorFinder
-{   
+{
 
     /** Static character array with one empty string */
     private static readonly char[] SpaceSeparator = [' '];
@@ -38,9 +40,9 @@ class ErrorFinder
         {
             throw new FileNotFoundException("Timestamp file path is incorrect!");
         }
-        
+
         string[] file = File.ReadAllLines(timestampsFilePath);
-        
+
         List<string> songs = [];
         List<string> allSongs = [];
         List<string> lowerSongs = [];
@@ -48,11 +50,11 @@ class ErrorFinder
         bool capErrorFound = false;
         int lineNum = 0;
 
-        foreach (string line in file) 
-        {   
+        foreach (string line in file)
+        {
             string[]? songAndArtist = Helper.GetSongAndArtist(line);
 
-            if (songAndArtist != null) 
+            if (songAndArtist != null)
             {
                 string song = songAndArtist[0];
 
@@ -65,7 +67,7 @@ class ErrorFinder
                     capErrorFound = true;
                 }
 
-                if (!Helper.ListContainsSongWithCorrectQuotes(songs, song)) 
+                if (!Helper.ListContainsSongWithCorrectQuotes(songs, song))
                 {
                     songs.Add(Helper.ReplaceWithCorrectQuotes(song.Trim()));
                     lowerSongs.Add(Helper.ReplaceWithCorrectQuotes(song.Trim().ToLower()));
@@ -92,7 +94,7 @@ class ErrorFinder
      * has a picture. If error occurs, message is printed 
      * and the program is exited.
      */
-    public static void AllArtistPicturesExist()
+    public static void AllLocalArtistPicturesExist()
     {
         string filePath = "./db_manager/timestamps/all-timestamps.txt";
 
@@ -116,7 +118,7 @@ class ErrorFinder
                         if (!checkedArtists.Contains(artist))
                         {
                             checkedArtists.Add(artist);
-                            
+
                             artist = TextCleaner.CleanText(artist);
 
                             string imagePath = "../LivestreamDirectory/pics/" + artist + ".jpg";
@@ -151,7 +153,77 @@ class ErrorFinder
             Environment.Exit(0);
         }
     }
-    
+
+
+    /**
+     * Ensures EVERY single artist has an associated image in 
+     * VueLivestreamDirectory/src/assets/ArtistPics. If error
+     * occurs program is exited and an error is printed.
+     */
+    public static void AllVueArtistPicturesExist()
+    {
+        string filePath = "./db_manager/timestamps/all-timestamps.txt";
+
+        if (File.Exists(filePath))
+        {
+            using (StreamReader reader = new StreamReader(filePath))
+            {
+                HashSet<string> checkedArtists = new HashSet<string>();
+                List<string> artistsWithoutImage = new List<string>();
+
+                while (!reader.EndOfStream)
+                {
+                    string? line = reader.ReadLine();
+                    string[]? songAndArtist = Helper.GetSongAndArtist(line ?? "");
+
+                    if (songAndArtist != null)
+                    {
+                        string artistsField = songAndArtist[1];
+                        string[] artistArray = artistsField.Split('+');
+
+                        foreach (string rawArtist in artistArray)
+                        {
+                            string artist = rawArtist.Trim();
+
+                            if (!checkedArtists.Contains(artist))
+                            {
+                                checkedArtists.Add(artist);
+
+                                string cleanedArtist = TextCleaner.CleanText(artist);
+                                string imagePath = $"../VueLivestreamDirectory/src/assets/ArtistPics/{cleanedArtist}.jpg";
+
+                                if (!File.Exists(imagePath))
+                                {
+                                    artistsWithoutImage.Add(artist);
+                                }
+                            }
+                        }
+                    }
+                }
+
+                if (artistsWithoutImage.Count != 0)
+                {
+                    Console.WriteLine();
+
+                    foreach (string artist in artistsWithoutImage)
+                    {
+                        Color.Print("Image not found", "Red");
+                        Console.WriteLine($": {artist}");
+                    }
+
+                    Console.WriteLine("Go find images for these artists and rerun\n");
+                    Environment.Exit(0);
+                }
+            }
+        }
+        else
+        {
+            Color.DisplayError("File not found: " + filePath);
+            Environment.Exit(0);
+        }
+    }
+
+
 
     /**
      * Find song duplicates in repertoire.json. 
@@ -215,7 +287,7 @@ class ErrorFinder
             var originals = kvp.Value;
 
             // Skip if there's less than 2 instances of song in originals.
-            if (originals.Count <= 1) 
+            if (originals.Count <= 1)
             {
                 continue;
             }
@@ -254,8 +326,8 @@ class ErrorFinder
             Environment.Exit(0);
         }
     }
-    
-    
+
+
     /**
      * Checks that a song doesn't have different artists.
      *
@@ -301,7 +373,7 @@ class ErrorFinder
 
             titleToArtists[title].Add(artist);
         }
-        
+
         bool errorFound = false;
 
         // Print titles with multiple different artists
@@ -315,7 +387,7 @@ class ErrorFinder
         }
 
         if (errorFound)
-        {   
+        {
             Console.WriteLine();
             Color.DisplayError("GO FIX THE MULTIPLE DIFFERENT ARTIST!!!!");
             Environment.Exit(0);
@@ -367,27 +439,27 @@ class ErrorFinder
     public static void CheckKeysToKeep()
     {
         HashSet<string> uniqueKeys = new HashSet<string>();
-        
+
         string[] lines = File.ReadAllLines("./db_manager/timestamps/all-timestamps.txt");
-        
+
         foreach (string line in lines)
         {
             if (line.Contains("https") || !line.Contains(":") || line.Contains("Control + g") || !line.Contains(" by "))
             {
                 continue;
             }
-            
+
             MatchCollection matches = Regex.Matches(line, @"\((.*?)\)");
-            
+
             foreach (Match match in matches)
             {
                 string content = match.Groups[1].Value;
                 string[] parts = content.Split('/');
-                
+
                 foreach (string part in parts)
                 {
                     string cleaned = part.Trim();
-                    
+
                     if (!string.IsNullOrEmpty(cleaned))
                     {
                         uniqueKeys.Add(cleaned);
@@ -395,26 +467,26 @@ class ErrorFinder
                 }
             }
         }
-        
+
         List<string> newKeys = new List<string>();
-        
+
         foreach (string key in uniqueKeys)
         {
             newKeys.Add("(" + key + ")");
         }
-        
+
         newKeys.Sort();
-        
+
         List<string> oldKeys = JSONHelper.GetKeyListFromFile("./db_manager/json_files/keys_to_keep.json", "all_keys_from_song_lines");
-        
+
         List<string> missingFromNew = oldKeys.FindAll(k => !newKeys.Contains(k));
         List<string> missingFromOld = newKeys.FindAll(k => !oldKeys.Contains(k));
-        
+
         if (missingFromNew.Count == 0 && missingFromOld.Count == 0)
         {
             return; // Lists are the same, do nothing
         }
-        
+
         if (missingFromNew.Count > 0)
         {
             Console.WriteLine("Old keys not in new keys. Remove it from keys_to_keep if necessary!");
@@ -425,11 +497,11 @@ class ErrorFinder
                 Console.WriteLine(key);
             }
         }
-        
+
         if (missingFromOld.Count > 0)
         {
             Console.WriteLine("\nNew keys not in old keys. Go add it!");
-            
+
             foreach (string key in missingFromOld)
             {
                 Console.WriteLine(key);
@@ -439,6 +511,48 @@ class ErrorFinder
         Color.PrintLine("\nGO UPDATE keys_to_keep.json!!!!!", "red");
         Color.PrintLine("ALWAYS \"update all_keys_from_song_lines\". Only update \"song_keys\" if necessary.", "CYAN");
         Environment.Exit(0);
+    }
+
+
+    /**
+     * Ensures all albums have an associated image in 
+     * VueLivestreamDirectory/src/assets/AlbumPics. If error
+     * occurs program is exited and an error is printed.
+     */
+    public static void AllAlbumPicturesExist()
+    {
+        List<Album> albums = AlbumRepertoireHandler.GetAlbums();
+
+        List<string> albumsWithOutImage = new List<string>();
+
+        foreach (var album in albums)
+        {
+            if (!string.IsNullOrWhiteSpace(album.CleanedAlbumTitle))
+            {
+
+                string imagePath = $"../VueLivestreamDirectory/src/assets/AlbumPics/{album.CleanedAlbumTitle}.jpg";
+
+                if (!File.Exists(imagePath))
+                {
+                    albumsWithOutImage.Add(album.CleanedAlbumTitle);
+                }
+            }
+        }
+
+        if (albumsWithOutImage.Count != 0)
+        {
+            Console.WriteLine();
+
+            foreach (string album in albumsWithOutImage)
+            {
+                Color.Print("Image not found", "Red");
+                Console.WriteLine($": {album}");
+            }
+
+            Console.WriteLine("Go find images for these albums and rerun\n");
+            Environment.Exit(0);
+        }
+
     }
 
 }
