@@ -128,7 +128,7 @@ class SearchHelper
         if (artists.Contains("Red Hot Chili")) { AppendNew("RHCP", search); return; }
         if (artists.Contains("Young") && !artists.Equals("Neil Young")) { AppendNew("Neil Young", search); return; }
         if (artists.Contains("Guns N' Roses")) { AppendNew("GNR", search); }
-        if (artists.Contains("Guns N' Roses")) { AppendNew("Guns and Roses", search); return; }
+        if (artists.Contains("Guns N' Roses")) { AppendNew("Guns and Roses", search); }
         if (artists.Contains("Guns N' Roses")) { AppendNew("Slash", search); return; }
         
         if (title.Contains("Starbird")) { AppendNew("Star bird", search); return; }
@@ -139,10 +139,9 @@ class SearchHelper
         if (artists.Equals("Extreme")) { AppendNew("The Extreme", search); return; }
         if (artists.Equals("Steve Miller Band")) { AppendNew("The Steve Miller Band", search); return; }
         
-        if (artists.Contains("Velvet Revolver")) { AppendNew("Guns N' Roses", search); return; }
+        if (artists.Contains("Velvet Revolver")) { AppendNew("Guns N' Roses", search); }
         if (artists.Contains("Velvet Revolver")) { AppendNew("Slash", search); return; }
         
-        if (artists.Contains("Stevie Ray Vaughan")) { AppendNew("SRV", search); return; }
         if (artists.Contains("Stevie Ray Vaughan")) { AppendNew("SRV", search); return; }
 
         if (title.Contains("Grey")) { AppendNew(title.Replace("Grey", "Gray"), search); }
