@@ -35,12 +35,12 @@ class CreateNewJSON
                     string cleanedTitle = TextCleaner.CleanText(originalTitle);
                     
                     matchingSong.Album = originalTitle;
-                    matchingSong.AlbumImage = cleanedTitle + ".jpg";
+                    matchingSong.CleanedAlbum = cleanedTitle;
                 }
                 else
                 {
                     matchingSong.Album = album.AlbumTitle!;
-                    matchingSong.AlbumImage = null!;
+                    matchingSong.CleanedAlbum = null!;
                 }
             }
         }

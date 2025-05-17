@@ -4,7 +4,7 @@ import json
 with open('albums.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
-# Rebuild each album with "AlbumImage" before "Year"
+# Rebuild each album with "cleanedAlbum" before "Year"
 updated_albums = []
 for album in data.get("albums", []):
     updated_album = {}

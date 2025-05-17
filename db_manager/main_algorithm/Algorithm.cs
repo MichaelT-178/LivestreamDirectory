@@ -161,13 +161,13 @@ class Algorithm
 
             // Handled later. Just leave as a blank string for now.
             string album = "";
-            string albumImage = "";
+            string cleanedAlbum = "";
 
             string cleanedTitle = TextCleaner.CleanText(title);
             cleanedTitle = JSONHelper.GetRepeatCleanedTitle(cleanedTitle, artist);
 
             Song jsonSong = new(idCount, title, cleanedTitle, artist, cleanedArtist, 
-                                album, albumImage, otherArtists, instruments, search, 
+                                album, cleanedAlbum, otherArtists, instruments, search, 
                                 appearances, links);
             
             songListBuilder.Append(JSONHelper.GetJSONSongAsString(jsonSong));

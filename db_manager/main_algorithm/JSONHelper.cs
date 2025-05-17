@@ -78,7 +78,7 @@ class JSONHelper
         objectString += $"{s}\"Artist\": \"{song.Artist}\",\n";
         objectString += $"{s}\"CleanedArtist\": \"{song.CleanedArtist}\",\n";
         objectString += $"{s}\"Album\": \"{song.Album}\",\n";
-        objectString += $"{s}\"AlbumImage\": \"{song.AlbumImage}\",\n";
+        objectString += $"{s}\"CleanedAlbum\": \"{song.CleanedAlbum}\",\n";
         objectString += $"{s}\"Other_Artists\": \"{song.Other_Artists}\",\n";
         objectString += $"{s}\"Instruments\": \"{song.Instruments}\",\n";
         objectString += $"{s}\"Search\": \"{song.Search}\",\n";
