@@ -1426,7 +1426,7 @@ Electric guitar
 1:55:22 Improv
 1:57:00 Whole Lotta Love (Electric riff) by Led Zeppelin
 1:57:34 Pride and Joy (Electric riff) by Stevie Ray Vaughan
-1:58:13 Texas Flood (Electric riff) by Stevie Ray Vaughan
+1:58:13 Texas Flood (Electric riff) by Stevie Ray Vaughan+Larry Davis
 1:59:11 Wish You Were Here (I) (Electric riff) by Incubus
 2:00:06 Nothing Else Matters (Electric riff) by Metallica
 2:00:41 Hallelujah (Electric riff) by Jeff Buckley+Leonard Cohen
@@ -2209,7 +2209,7 @@ Electric Guitar
 2:00:24 Blues-Rock Improv
 2:01:35 The Pot (Electric riff) by Tool
 2:02:49 Bold as Love (Electric riff) by Jimi Hendrix+John Mayer
-2:03:22 Texas Flood (Electric riff) by Stevie Ray Vaughan
+2:03:22 Texas Flood (Electric riff) by Stevie Ray Vaughan+Larry Davis
 2:04:37 Purple Haze (Electric riff) by Jimi Hendrix
 2:06:15 Neon (Electric riff) by John Mayer
 2:07:05 Johnny B. Goode (Electric riff) by Chuck Berry
@@ -3281,7 +3281,7 @@ https://youtu.be/jdD05keNX5w
 1:18:04 What I'm About to Do by Corey Heuvel
 1:23:34 Over the Hills and Far Away by Led Zeppelin
 1:32:23 You Are the Best Thing by Ray LaMontagne
-1:37:07 Texas Flood (Partial) by Stevie Ray Vaughan
+1:37:07 Texas Flood (Partial) by Stevie Ray Vaughan+Larry Davis
 1:40:29 La Grange (Partial) by ZZ Top
 1:44:06 God Knows (I Love You Madly) by Corey Heuvel
 1:50:03 Starlight by Muse
@@ -6678,7 +6678,7 @@ Electric Guitar
 1:50:26 Blues
 1:51:58 La Grange (Electric riff) by ZZ Top
 1:52:20 Life in the Fast Lane (Electric riff) by The Eagles
-1:52:58 Texas Flood (Electric riff) by Stevie Ray Vaughan
+1:52:58 Texas Flood (Electric riff) by Stevie Ray Vaughan+Larry Davis
 1:53:31 Couldn't Stand the Weather (Electric riff) by Stevie Ray Vaughan
 1:54:11 Castles Made of Sand (Electric riff) by Jimi Hendrix
 1:54:53 Eruption (Electric riff) by Van Halen
@@ -7020,7 +7020,7 @@ https://www.youtube.com/watch?v=kQ22XhKN3Jw
 22:27 Hey Joe by Jimi Hendrix
 29:19 Ordinary Girl by Corey Heuvel
 34:23 Behind Blue Eyes by The Who
-39:30 Texas Flood by Stevie Ray Vaughan
+39:30 Texas Flood by Stevie Ray Vaughan+Larry Davis
 45:08 Paranoid Android by Radiohead
 51:26 Riptide by Vance Joy
 56:30 Midnight Rider by Allman Brothers Band
