@@ -5,7 +5,7 @@ window.addEventListener('load', () => {
     const other_artists = localStorage.getItem("theOtherArt");
     const appears = localStorage.getItem("Appears");
     let instruments = localStorage.getItem("theInstruments");
-    const image = `../pics/${localStorage.getItem("theImage")}`;
+    const image = `../pics/${localStorage.getItem("theImage")}.jpg`;
     const theLinks = localStorage.getItem("theLinks");
 
     let theTitle = title + (title.includes("Session #") ? " (Check comments for full timestamp)" : "");
