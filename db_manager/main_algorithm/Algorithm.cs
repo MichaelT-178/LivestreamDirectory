@@ -137,7 +137,7 @@ class Algorithm
 
             string otherArtists = AlgorithmHelper.GetOtherArtistsAsString(otherArtistsList);
 
-            string artistPic = AlgorithmHelper.GetArtistPic(artist);
+            string cleanedArtist = TextCleaner.CleanText(artist);
             
             string search = searchBuilder.ToString();
 
@@ -166,7 +166,7 @@ class Algorithm
             string cleanedTitle = TextCleaner.CleanText(title);
             cleanedTitle = JSONHelper.GetRepeatCleanedTitle(cleanedTitle, artist);
 
-            Song jsonSong = new(idCount, title, cleanedTitle, artist, artistPic, 
+            Song jsonSong = new(idCount, title, cleanedTitle, artist, cleanedArtist, 
                                 album, albumImage, otherArtists, instruments, search, 
                                 appearances, links);
             

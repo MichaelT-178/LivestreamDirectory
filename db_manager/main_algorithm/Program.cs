@@ -13,9 +13,9 @@ class Program
     public static async Task Main()
     {
 
-        ErrorFinder.AllAlbumPicturesExist();
+        // ErrorFinder.AllAlbumPicturesExist();
 
-        Environment.Exit(0);
+        // Environment.Exit(0);
 
 
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");

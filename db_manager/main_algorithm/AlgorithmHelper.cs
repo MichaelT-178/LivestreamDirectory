@@ -10,7 +10,6 @@ using System.Text.RegularExpressions;
  * GetKeysJoinedAsString | Takes a key list and joins them as a string separated by '/' characters.
  * GetSongTitlePartialAndIssuesKey | Gets any partial or issue keys from the title.
  * GetYouTubeLink | Gets a timestamped youtube link.
- * GetArtistPic | Gets the artists picture file path as a valid string.
  * GetOtherArtistsAsString | Joins the other artists as a string by commas.
  * AddDefaultAcousticGuitar | Adds acoustic guitar to instruments if conditions are met
  * AddDefaultElectricGuitar | Adds electric guitar to instruments if conditions are met
@@ -197,18 +196,6 @@ class AlgorithmHelper
         int seconds = (t.Length == 2) ? t[1] + (t[0] * 60) : t[2] + (t[1] * 60) + (t[0] * 3600);
 
         return $"https://youtu.be/{videoId}&t={seconds} , ";
-    }
-    
-    /**
-     * Cleans the artist picture and returns as a valid string. 
-     *
-     * @param artist Artist whose picture will be cleaned.
-     * @return The cleaned filepath for the artists image as a string.
-     */
-    public static string GetArtistPic(string artist)
-    {
-        string cleanedArtist = TextCleaner.CleanText(artist);
-        return  cleanedArtist + ".jpg";
     }
 
     /**

@@ -20,7 +20,7 @@ for song in data['songs']:
     song_id = song["Id"]
     title = song["Title"]
     artist = song["Artist"]
-    artist_pic = song["ArtistImage"]
+    artist_pic = song["CleanedArtist"]
     other_artists = song["Other_Artists"]
     instruments = song["Instruments"]
     search = song["Search"]

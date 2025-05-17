@@ -11,7 +11,7 @@ public class Song
     public string Title { get; set; }
     public string CleanedTitle { get; set; }
     public string Artist { get; set; }
-    public string ArtistImage { get; set; }
+    public string CleanedArtist { get; set; }
     public string Album { get; set; }
     public string AlbumImage { get; set; }
     public string Other_Artists { get; set; }
@@ -20,7 +20,7 @@ public class Song
     public string Appearances { get; set; }
     public string Links { get; set; }
 
-    public Song(int id, string title, string cleanedTitle, string artist, string artistPic, 
+    public Song(int id, string title, string cleanedTitle, string artist, string cleanedArtist, 
                 string album, string albumImage, string otherArtists, string instruments, 
                 string search, string appearances, string links)
     {
@@ -28,7 +28,7 @@ public class Song
         Title = title;
         CleanedTitle = cleanedTitle;
         Artist = artist;
-        ArtistImage = artistPic;
+        CleanedArtist = cleanedArtist;
         Album = album;
         AlbumImage = albumImage;
         Other_Artists = otherArtists;

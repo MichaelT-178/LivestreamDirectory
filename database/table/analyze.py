@@ -13,7 +13,7 @@ for song in data['songs']:
     print(song["Id"])
     print(song["Title"])
     print(song["Artist"])
-    print(song["ArtistImage"])
+    print(song["CleanedArtist"])
     print(song["Other_Artists"])
     print(song["Instruments"])
     print(song["Search"])

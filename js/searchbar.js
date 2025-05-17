@@ -105,7 +105,7 @@ const goToSongInfo = (id) => {
     localStorage.setItem("theOtherArt", match.Other_Artists);
     localStorage.setItem("Appears", match.Appearances);
     localStorage.setItem("theInstruments", match.Instruments);
-    localStorage.setItem("theImage", match.ArtistImage);
+    localStorage.setItem("theImage", match.CleanedArtist);
     localStorage.setItem("theLinks", match.Links);
 
     document.getElementById('search').value = "";

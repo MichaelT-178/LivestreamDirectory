@@ -545,7 +545,7 @@ class ErrorFinder
 
             foreach (string album in albumsWithOutImage)
             {
-                Color.Print("Image not found", "Red");
+                Color.Print("Image COOL not found", "Red");
                 Console.WriteLine($": {album}");
             }
 
