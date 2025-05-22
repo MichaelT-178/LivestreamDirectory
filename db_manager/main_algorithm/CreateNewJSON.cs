@@ -19,21 +19,21 @@ class CreateNewJSON
     {
         List<Album> albums = AlbumRepertoireHandler.GetAlbums();
         List<Song> songs = JSONHelper.GetDatabaseSongs();
-        
+
         foreach (var album in albums)
         {
             var matchingSong = songs.FirstOrDefault(song =>
                 song.Title == album.Song &&
                 (album.Artist == null || song.Artist == album.Artist)
             );
-            
+
             if (matchingSong != null)
             {
                 if (!string.IsNullOrWhiteSpace(album.AlbumTitle))
                 {
                     string originalTitle = album.AlbumTitle!;
                     string cleanedTitle = TextCleaner.CleanText(originalTitle);
-                    
+
                     matchingSong.Album = originalTitle;
                     matchingSong.CleanedAlbum = cleanedTitle;
                 }
@@ -44,9 +44,21 @@ class CreateNewJSON
                 }
             }
         }
-        
+
         var updatedData = new { songs };
         string json = JsonConvert.SerializeObject(updatedData, Formatting.Indented);
         File.WriteAllText("./database/song_list.json", json);
     }
+
+    /**
+     * 
+     */
+    public static void UpdateAlbums()
+    {
+        List<Song> albums = JSONHelper.GetDatabaseSongs();
+
+
+    }
+
+
 }

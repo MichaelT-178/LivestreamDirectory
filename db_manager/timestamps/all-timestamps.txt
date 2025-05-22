@@ -1,4 +1,4 @@
-Control + g. Type 1224 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1229 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1222,6 +1222,10 @@ https://youtu.be/qUe_1Jqb5k8?si=yqZ0VDpCAe8D9EF0
 Solo Video
 https://youtu.be/khq53DWmW1o?si=rqXBO0YBAmLvARbx
 0:00 Slither by Velvet Revolver
+
+Solo Video
+https://youtu.be/-JOWWJG61Zk?si=7EV3AX73sX2deoJ7
+0:00 Diary of a Madman by Ozzy Osbourne
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI

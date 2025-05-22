@@ -15,6 +15,8 @@ class Program
 
         // ErrorFinder.AllAlbumPicturesExist();
 
+        // CreateNewJSON.UpdateAlbums();
+
         // Environment.Exit(0);
 
 
