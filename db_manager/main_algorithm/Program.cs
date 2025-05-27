@@ -13,10 +13,8 @@ class Program
     public static async Task Main()
     {
 
-        // ErrorFinder.AllAlbumPicturesExist();
 
-        // CreateNewJSON.UpdateAlbums();
-
+        // CreateNewJSON.UpdateFavoriteCovers();
         // Environment.Exit(0);
 
 
@@ -87,6 +85,8 @@ class Program
         CreateNewInstrument.PopulateInstrumentMap();
 
         //ErrorFinder.AllAlbumPicturesExist();
+
+        CreateNewJSON.UpdateFavoriteCovers();
 
 
 

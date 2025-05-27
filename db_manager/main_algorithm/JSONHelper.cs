@@ -1,4 +1,5 @@
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using JsonSerializer = System.Text.Json.JsonSerializer;
 
 /**
@@ -10,13 +11,14 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  * GetJSONSongAsString | Gets the string of a song object to be added to database file.
  * GetDatabaseSongs | Gets all songs from the song_list.json file
  * GetDatabaseSongsAsString | Gets a string list that contains every songs title and artist the database file.
- * WriteJSONToFile | Writes a JSON list to a file
+ * WriteJSONToFile | Writes a string list to a JSON file
  * GetRepeatCleanedTitle | Gets cleaned title for repeat songs.
+ * WriteJSONToDifferentFile | Writes the content of one JSON file to another JSON file.
  *
  * @author Michael Totaro
  */
 class JSONHelper
-{   
+{
     /**
      * Gets the contents of a JSON file and returns it as 
      * a string list. 
@@ -29,7 +31,7 @@ class JSONHelper
     {
         string json = File.ReadAllText(filePath);
 
-        List<string> songs = JsonConvert.DeserializeObject<List<string>>(json) 
+        List<string> songs = JsonConvert.DeserializeObject<List<string>>(json)
                              ?? throw new ArgumentException("Couldn't get JSON data!");
         return songs;
     }
@@ -67,7 +69,7 @@ class JSONHelper
     public static string GetJSONSongAsString(Song song)
     {
         string objectString = "";
-        
+
         //Space in json file
         string s = "			";
 
@@ -89,7 +91,7 @@ class JSONHelper
         return objectString;
 
     }
-    
+
     /**
      * Get all Song objects from the song_list.json file.
      *
@@ -102,8 +104,8 @@ class JSONHelper
         string jsonData = File.ReadAllText("./database/song_list.json");
         SongWrapper songWrapper = JsonConvert.DeserializeObject<SongWrapper>(jsonData)
                                         ?? throw new ArgumentException("Couldn't create SongContainer!");
-                                        
-        List<Song> databaseSongs = songWrapper.Songs 
+
+        List<Song> databaseSongs = songWrapper.Songs
                                    ?? throw new ArgumentException("Couldn't get database songs!");
 
         return databaseSongs;
@@ -116,7 +118,7 @@ class JSONHelper
      * @return String list containing every song and associated artist
      */
     public static List<string> GetDatabaseSongsAsString()
-    {                      
+    {
         List<Song> databaseSongs = GetDatabaseSongs();
 
         List<string> databaseSongInfo = new();
@@ -131,7 +133,7 @@ class JSONHelper
     }
 
     /**
-     * Writes a JSON list to a file
+     * Writes a string list to a JSON file
      *
      * @param stringList List of strings
      * @param filePath File path to write JSON songs to.
@@ -140,10 +142,10 @@ class JSONHelper
     {
         string jsonString = JsonSerializer.Serialize(stringList, new System.Text.Json.JsonSerializerOptions
         {
-            WriteIndented = true, 
+            WriteIndented = true,
             Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
         });
-        
+
         File.WriteAllText(filePath, jsonString);
     }
 
@@ -170,8 +172,8 @@ class JSONHelper
      * @param artist The artist associated with the title
      * @return The cleaned title 
      */
-     public static string GetRepeatCleanedTitle(string cleanedTitle, string artist)
-     {
+    public static string GetRepeatCleanedTitle(string cleanedTitle, string artist)
+    {
         var titleArtistOverrides = new Dictionary<(string title, string artist), string>(
             new CaseInsensitiveTupleComparer())
         {
@@ -179,49 +181,66 @@ class JSONHelper
             { ("wish-you-were-here", "Incubus"), "wish-you-were-here-incubus" },
             { ("grace", "Corey Heuvel"), "grace-corey-heuvel" },
         };
-        
+
         if (titleArtistOverrides.TryGetValue((cleanedTitle, artist), out string? result))
         {
             return result;
         }
-        
+
         return cleanedTitle;
     }
-    
-   /**
-    * Custom comparer for (string, string) tuples that performs
-    * case-insensitive comparisons for both elements.
-    *
-    * Methods
-    * Equals | Determines whether two (string, string) tuples are equal using case-insensitive comparison.
-    * GetHashCode | 
-    *
-    * @author Michael Totaro
-    */
+
+    /**
+     * Writes the content of one JSON file to another JSON file.
+     *
+     * @param path Path of JSON file to be copied
+     * @param newPath The path of the file where the contents will be copied
+     */
+    public static void WriteJSONToDifferentFile(string path, string newPath)
+    {
+        string jsonContent = File.ReadAllText(path);
+        
+        // Parse to ensure it's valid JSON (optional)
+        var parsedJson = JToken.Parse(jsonContent);
+
+        // Write the JSON string to the new file
+        File.WriteAllText(newPath, parsedJson.ToString());
+    }
+
+    /**
+       * Custom comparer for (string, string) tuples that performs
+       * case-insensitive comparisons for both elements.
+       *
+       * Methods
+       * Equals | Determines whether two (string, string) tuples are equal using case-insensitive comparison.
+       * GetHashCode | 
+       *
+       * @author Michael Totaro
+       */
     private class CaseInsensitiveTupleComparer : IEqualityComparer<(string, string)>
     {
 
-       /**
-        * Determines whether two (string, string) tuples are equal using 
-        * case-insensitive comparison.
-        * 
-        * @param x The first tuple to compare
-        * @param y The second tuple to compare
-        * @return True if both items are equal (ignoring case); otherwise, false.
-        */
+        /**
+         * Determines whether two (string, string) tuples are equal using 
+         * case-insensitive comparison.
+         * 
+         * @param x The first tuple to compare
+         * @param y The second tuple to compare
+         * @return True if both items are equal (ignoring case); otherwise, false.
+         */
         public bool Equals((string, string) x, (string, string) y)
         {
             return string.Equals(x.Item1, y.Item1, StringComparison.OrdinalIgnoreCase)
                 && string.Equals(x.Item2, y.Item2, StringComparison.OrdinalIgnoreCase);
         }
-        
-       /**
-        * Returns a hash code for the specified (string, string) tuple,
-        * using case-insensitive hashing.
-        *
-        * @param obj The tuple for which a hash code is to be returned.
-        * @return A hash code for the specified object
-        */
+
+        /**
+         * Returns a hash code for the specified (string, string) tuple,
+         * using case-insensitive hashing.
+         *
+         * @param obj The tuple for which a hash code is to be returned.
+         * @return A hash code for the specified object
+         */
         public int GetHashCode((string, string) obj)
         {
             return HashCode.Combine(

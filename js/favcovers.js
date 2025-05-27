@@ -23,7 +23,7 @@ fetch("../db_manager/json_files/fav_covers.json")
             const header = card.querySelector("[data-header]");
             const body = card.querySelector("[data-body]");
             
-            header.textContent = user.Song
+            header.textContent = user.Song + " by " + user.Artist
             body.textContent = user.Appearance  
             card.href = user.Link;
 

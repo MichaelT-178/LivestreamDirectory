@@ -5,6 +5,8 @@ using Newtonsoft.Json;
  *
  * Methods
  * AddAlbumAttribute | Sets the "Album" attribute in song_list.json
+ * UpdateAlbums | 
+ * UpdateFavoriteCovers | Update VueLivestreamDirectory FavCovers.json file.
  *
  * @author Michael Totaro
  */
@@ -58,6 +60,18 @@ class CreateNewJSON
         List<Song> albums = JSONHelper.GetDatabaseSongs();
 
 
+    }
+
+    /**
+     * Write the contents of the local fav_covers.json file 
+     * to the VueLivestreamDirectory FavCovers.json file
+     */
+    public static void UpdateFavoriteCovers()
+    {
+        string ogPath = "./db_manager/json_files/fav_covers.json";
+        string newPath = "../VueLivestreamDirectory/src/assets/Data/FavCovers.json";
+
+        JSONHelper.WriteJSONToDifferentFile(ogPath, newPath);
     }
 
 
