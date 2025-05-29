@@ -14,7 +14,10 @@ class Program
     {
 
 
-        // CreateNewJSON.UpdateFavoriteCovers();
+        //CreateNewJSON.UpdateFavoriteCovers();
+
+        // CreateNewJSON.UpdateAlbums();
+        // CreateNewJSON.UpdateAlbums();
         // Environment.Exit(0);
 
 
@@ -87,6 +90,10 @@ class Program
         //ErrorFinder.AllAlbumPicturesExist();
 
         CreateNewJSON.UpdateFavoriteCovers();
+
+        CreateNewJSON.UpdateAlbums();
+
+        OS.RunFixIndentationScript();
 
 
 

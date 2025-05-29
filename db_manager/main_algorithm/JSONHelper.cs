@@ -14,6 +14,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  * WriteJSONToFile | Writes a string list to a JSON file
  * GetRepeatCleanedTitle | Gets cleaned title for repeat songs.
  * WriteJSONToDifferentFile | Writes the content of one JSON file to another JSON file.
+ * WriteJSONToVueData | Write string JSON data to a data file in VueLivestreamDirectory
  *
  * @author Michael Totaro
  */
@@ -205,6 +206,18 @@ class JSONHelper
 
         // Write the JSON string to the new file
         File.WriteAllText(newPath, parsedJson.ToString());
+    }
+
+    /**
+     * Write string JSON data to a data file in VueLivestreamDirectory
+     *
+     * @param fileName name of file in src/assets/data. Ex. "albums.json", "FavCovers.json"
+     * @param newJSONData The new JSON data as a string.
+     */
+    public static void WriteJSONToVueData(string fileName, string newJSONData)
+    {
+        string pathToVueData = $"../VueLivestreamDirectory/src/assets/Data/{fileName}";
+        File.WriteAllText(pathToVueData, newJSONData);
     }
 
     /**

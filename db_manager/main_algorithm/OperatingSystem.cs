@@ -10,18 +10,19 @@ using System.Diagnostics;
  * ExecuteCommand | Executes a command on the operating system.
  * UpdateSQLiteDatabase | Runs the run_all.py file to update the SQLite table.
  * PushChangesInVue | Push changes that were made in the VueLivestreamDirectory folder
+ * RunFixIndentationScript | Run fix_indentation.py in VueLivestreamDirectory
  *
  * @author Michael Totaro
  */
-class OS 
+class OS
 {
 
-     /**
-      * Opens a file in Visual Studio Code.
-      * @param path The path of the file to opened.
-      */
-     public static void OpenFileInVSCode(string filePath)
-     {
+    /**
+     * Opens a file in Visual Studio Code.
+     * @param path The path of the file to opened.
+     */
+    public static void OpenFileInVSCode(string filePath)
+    {
         try
         {
             string path = "code";
@@ -51,7 +52,7 @@ class OS
      * @param commitMsg The optional commit message.
      */
     public static void ExecuteGitCommands(string commitMsg = "Adding changes")
-    {   
+    {
         ExecuteCommand("git add .");
         Color.DisplaySuccess("git add completed successfully");
 
@@ -97,7 +98,7 @@ class OS
      * to update the SQLite table.
      */
     public static void UpdateSQLiteDatabase()
-    {   
+    {
         // Directory Livestream/
         string originalDirectory = Environment.CurrentDirectory;
 
@@ -116,12 +117,12 @@ class OS
             CreateNoWindow = true
         };
 
-        using (Process process = new () { StartInfo = startInfo })
+        using (Process process = new() { StartInfo = startInfo })
         {
             process.Start();
             process.WaitForExit();
         }
-        
+
         // Directory Livestream/
         Environment.CurrentDirectory = originalDirectory;
     }
@@ -129,18 +130,18 @@ class OS
     /**
      * Push changes that were made in the VueLivestreamDirectory folder
      */
-     public static void PushChangesInVue()
-     {
+    public static void PushChangesInVue()
+    {
         string originalDirectory = Environment.CurrentDirectory;
         string vueLivestreamDirectoryPath = Path.Combine(originalDirectory, "../VueLivestreamDirectory");
 
         OpenFileInVSCode(vueLivestreamDirectoryPath);
 
         Color.DisplaySuccess("PUSHING TO VueLivestreamDirectory!!!\n", "\n\n");
-        
+
         Console.Write("Enter commit message (press 'p' to pass): ");
         string? commitMsg = Console.ReadLine()?.Trim();
-        
+
         if (commitMsg?.ToLower() == "p")
         {
             Color.PrintLine("Push skipped.", "Magenta");
@@ -170,5 +171,34 @@ class OS
             Environment.CurrentDirectory = originalDirectory;
         }
     }
-    
+
+    /**
+     * Run fix_indentation.py in VueLivestreamDirectory
+     * 
+     * python3 ../../../VueLivestreamDirectory/python/fix_indentation.py
+     */
+    public static void RunFixIndentationScript()
+    {
+        var process = new Process
+        {
+            StartInfo = new ProcessStartInfo
+            {
+                FileName = "python3",
+                Arguments = "../../../VueLivestreamDirectory/python/fix_indentation.py",
+                UseShellExecute = false,
+                RedirectStandardError = true
+            }
+        };
+
+        process.Start();
+
+        string error = process.StandardError.ReadToEnd();
+        process.WaitForExit();
+
+        if (!string.IsNullOrWhiteSpace(error))
+        {
+            Console.WriteLine("Python script error:\n" + error);
+        }
+    }
+
 }

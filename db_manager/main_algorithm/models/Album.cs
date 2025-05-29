@@ -10,17 +10,19 @@ public class Album
     public int id { get; set; }
 
     [JsonPropertyName("Song")]
-    public required string Song { get; set; }  // non-nullable and required
+    public required string Song { get; set; }
 
     [JsonPropertyName("AlbumTitle")]
-    public string? AlbumTitle { get; set; }    // nullable 
+    public string? AlbumTitle { get; set; }
 
     [JsonPropertyName("CleanedAlbumTitle")]
-    public string? CleanedAlbumTitle { get; set; }    // nullable 
+    public string? CleanedAlbumTitle { get; set; }
 
     [JsonPropertyName("Artist")]
-    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
-    public string? Artist { get; set; } // nullable
+    public required string Artist { get; set; }
+
+    [JsonPropertyName("CleanedArtist")]
+    public required string CleanedArtist { get; set; }
 
     public int Year { get; set; }
 }

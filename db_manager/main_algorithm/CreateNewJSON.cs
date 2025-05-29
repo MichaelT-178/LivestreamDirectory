@@ -5,7 +5,7 @@ using Newtonsoft.Json;
  *
  * Methods
  * AddAlbumAttribute | Sets the "Album" attribute in song_list.json
- * UpdateAlbums | 
+ * UpdateAlbums | Creates the VueLivestreamDirectory albums.json file
  * UpdateFavoriteCovers | Update VueLivestreamDirectory FavCovers.json file.
  *
  * @author Michael Totaro
@@ -53,15 +53,44 @@ class CreateNewJSON
     }
 
     /**
-     * 
+     * Creates the VueLivestreamDirectory albums.json file by 
+     * converting db_manager/json_files/albums.json to 
+     * VueLivestreamDirectory/src/assets/Data/albums.json.
      */
     public static void UpdateAlbums()
     {
-        List<Song> albums = JSONHelper.GetDatabaseSongs();
+        List<Album> albums = AlbumRepertoireHandler.GetAlbums();
 
+        var grouped = albums
+            .Where(album => !string.IsNullOrEmpty(album.CleanedAlbumTitle))
+            .GroupBy(album => album.CleanedAlbumTitle)
+            .OrderBy(g => g.Key)
+            .ToDictionary(
+                group => group.Key!,
+                group =>
+                {
+                    var first = group.First();
+                    return new
+                    {
+                        AlbumTitle = first.AlbumTitle,
+                        CleanedAlbumTitle = group.Key,
+                        Artist = first.Artist,
+                        CleanedArtist = first.CleanedArtist,
+                        Year = first.Year,
+                        Songs = group.Select(song => new
+                        {
+                            Song = song.Song,
+                            CleanedSong = TextCleaner.CleanText(song.Song)
+                        }).ToList()
+                    };
+                }
+            );
 
+        string json = JsonConvert.SerializeObject(grouped, Formatting.Indented);
+        JSONHelper.WriteJSONToVueData("albums.json", json);
     }
 
+    
     /**
      * Write the contents of the local fav_covers.json file 
      * to the VueLivestreamDirectory FavCovers.json file
