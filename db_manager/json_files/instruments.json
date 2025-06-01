@@ -163,14 +163,6 @@
     },
     {
       "id": 21,
-      "name": "(MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack",
-      "cleaned": "maestro-fan-fretted-singa-flamed-maple-adirondack",
-      "alias": null,
-      "key": "MFF",
-      "appears": 1
-    },
-    {
-      "id": 22,
       "name": "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream",
       "cleaned": "godin-5th-ave-uptown-gt-ltd-trans-cream",
       "alias": null,
@@ -179,7 +171,7 @@
       "appears": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "name": "(GPPCB) - Godin Progression Plus Cherry Burst RN",
       "cleaned": "godin-progression-plus-cherry-burst-rn",
       "alias": null,
@@ -188,7 +180,7 @@
       "appears": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "name": "(GSDG) - Godin Stadium '59 Desert Green RN",
       "cleaned": "godin-stadium-59-desert-green-rn",
       "alias": null,
@@ -197,12 +189,20 @@
       "appears": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "name": "(GPRG) - Godin Passion RG-3 Indigo Burst RN",
       "cleaned": "godin-passion-rg-3-indigo-burst-rn",
       "alias": null,
       "key": "GPRG",
       "type": "electric guitar",
+      "appears": 1
+    },
+    {
+      "id": 25,
+      "name": "(MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack",
+      "cleaned": "maestro-fan-fretted-singa-flamed-maple-adirondack",
+      "alias": null,
+      "key": "MFF",
       "appears": 1
     },
     {
