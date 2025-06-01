@@ -150,6 +150,8 @@ class Algorithm
             if (title.Contains("Led Boots")) appearances = appearances.Replace(" 50 (Electric Song)", " 50 (Electric riff)");
 
             if (title.Contains("Electric Riff Session #")) title = title.Replace(" (Electric riff)", "");
+            
+            if (title.Contains("Fox Chase")) title = title.Replace(" (H)", "");
 
             if (instruments.Length > 2)
             {
