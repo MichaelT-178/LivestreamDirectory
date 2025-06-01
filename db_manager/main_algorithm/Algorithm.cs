@@ -130,7 +130,7 @@ class Algorithm
 
             title = title.Replace("\"", "\\\"");
             //Removes the keys that are used to identify songs with the same name but different artists.
-            title = title.Replace("(I)", "").Replace("(H)", "").Replace("(C)", "").Trim();
+            title = title.Replace("(I)", "").Replace("(C)", "").Trim();
 
             string titlePartialAndIssueKey = AlgorithmHelper.GetSongTitlePartialAndIssuesKey(appearances);
             title += titlePartialAndIssueKey;

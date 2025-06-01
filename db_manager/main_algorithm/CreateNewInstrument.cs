@@ -234,7 +234,6 @@ class CreateNewInstrument
                 if (!string.IsNullOrEmpty(trimmed))
                 {
                     result.Add(trimmed);
-                    Console.WriteLine($"Trimmed: {trimmed}");
                 }
             }
         }
@@ -327,6 +326,10 @@ class CreateNewInstrument
                 result.Add(new MapData("mandolin", instrumentSong));
             }
             else if (key == "H")
+            {
+                result.Add(new MapData("harmonica", instrumentSong));
+            }
+            else if (key == "Rein Rutnik Performance")
             {
                 result.Add(new MapData("harmonica", instrumentSong));
             }
@@ -554,7 +557,7 @@ class CreateNewInstrument
             "DM75", "DX1R", "Electric Song", "Electric riff", "FBD", "FBG", "FG", "FOB", "FOSG",
             "FSD", "FV2", "FVD", "GFCHN", "GLTC", "GMLHB", "GMLN", "GMNC", "GPPCB", "GPRG", "GRSG",
             "GSDG", "LPE", "M15M", "MDT", "MFF", "MHD", "Mandolin", "NBBU", "NBDA", "NSCG", "NSPBU",
-            "NST", "NSTCW", "OOM", "OOMV1", "SAS", "SD22", "SGI", "SOM"
+            "NST", "NSTCW", "OOM", "OOMV1", "SAS", "SD22", "SGI", "SOM", "H", "Rein Rutnik Performance"
         ];
         
         string result = Regex.Replace(line, @"\(([^()]+)\)", match =>

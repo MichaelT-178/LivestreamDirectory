@@ -6,7 +6,7 @@
       "cleaned": "acoustic-guitar",
       "alias": "Acoustic Guitar",
       "key": null,
-      "appears": 5112
+      "appears": 5104
     },
     {
       "id": 2,
@@ -46,7 +46,7 @@
       "cleaned": "harmonica",
       "alias": null,
       "key": "H",
-      "appears": 0
+      "appears": 12
     },
     {
       "id": 7,
