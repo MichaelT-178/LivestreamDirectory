@@ -171,6 +171,15 @@
     },
     {
       "id": 22,
+      "name": "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream",
+      "cleaned": "godin-5th-ave-uptown-gt-ltd-trans-cream",
+      "alias": null,
+      "key": "GLTC",
+      "type": "electric guitar",
+      "appears": 1
+    },
+    {
+      "id": 23,
       "name": "(GPPCB) - Godin Progression Plus Cherry Burst RN",
       "cleaned": "godin-progression-plus-cherry-burst-rn",
       "alias": null,
@@ -179,7 +188,7 @@
       "appears": 1
     },
     {
-      "id": 23,
+      "id": 24,
       "name": "(GSDG) - Godin Stadium '59 Desert Green RN",
       "cleaned": "godin-stadium-59-desert-green-rn",
       "alias": null,
@@ -188,20 +197,11 @@
       "appears": 1
     },
     {
-      "id": 24,
+      "id": 25,
       "name": "(GPRG) - Godin Passion RG-3 Indigo Burst RN",
       "cleaned": "godin-passion-rg-3-indigo-burst-rn",
       "alias": null,
       "key": "GPRG",
-      "type": "electric guitar",
-      "appears": 1
-    },
-    {
-      "id": 25,
-      "name": "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream",
-      "cleaned": "godin-5th-ave-uptown-gt-ltd-trans-cream",
-      "alias": null,
-      "key": "GLTC",
       "type": "electric guitar",
       "appears": 1
     },
