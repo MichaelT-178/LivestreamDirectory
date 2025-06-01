@@ -159,7 +159,7 @@ class Algorithm
             instruments = AlgorithmHelper.RemoveDuplicateGuitars(instruments);
             instruments = AlgorithmHelper.MoveAcousticGuitarToFront(instruments);
 
-            // Handled later. Just leave as a blank string for now.
+            // Handled later. Just leave as a blank string for now. AddAlbumAttribute
             string album = "";
             string cleanedAlbum = "";
 

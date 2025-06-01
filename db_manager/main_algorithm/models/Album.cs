@@ -12,6 +12,9 @@ public class Album
     [JsonPropertyName("Song")]
     public required string Song { get; set; }
 
+    [JsonPropertyName("CleanedSong")]
+    public required string CleanedSong { get; set; }
+
     [JsonPropertyName("AlbumTitle")]
     public string? AlbumTitle { get; set; }
 

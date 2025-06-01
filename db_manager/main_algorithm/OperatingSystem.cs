@@ -137,6 +137,8 @@ class OS
 
         OpenFileInVSCode(vueLivestreamDirectoryPath);
 
+        RunFixIndentationScript();
+
         Color.DisplaySuccess("PUSHING TO VueLivestreamDirectory!!!\n", "\n\n");
 
         Console.Write("Enter commit message (press 'p' to pass): ");
@@ -179,26 +181,52 @@ class OS
      */
     public static void RunFixIndentationScript()
     {
-        var process = new Process
+        try
         {
-            StartInfo = new ProcessStartInfo
+            string vuePath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "../VueLivestreamDirectory/python/fix_indentation.py"));
+
+            if (!File.Exists(vuePath))
             {
-                FileName = "python3",
-                Arguments = "../../../VueLivestreamDirectory/python/fix_indentation.py",
-                UseShellExecute = false,
-                RedirectStandardError = true
+                Console.WriteLine($"Warning: fix_indentation.py not found at path: {vuePath}");
+                return;
             }
-        };
 
-        process.Start();
+            var process = new Process
+            {
+                StartInfo = new ProcessStartInfo
+                {
+                    FileName = "python3",
+                    Arguments = $"\"{vuePath}\"",
+                    UseShellExecute = false,
+                    RedirectStandardError = true,
+                    RedirectStandardOutput = true,
+                    CreateNoWindow = true
+                }
+            };
 
-        string error = process.StandardError.ReadToEnd();
-        process.WaitForExit();
+            process.Start();
 
-        if (!string.IsNullOrWhiteSpace(error))
+            string output = process.StandardOutput.ReadToEnd();
+            string error = process.StandardError.ReadToEnd();
+
+            process.WaitForExit();
+
+            if (!string.IsNullOrWhiteSpace(output))
+            {
+                Console.WriteLine("Python script output:\n" + output);
+            }
+
+            if (!string.IsNullOrWhiteSpace(error))
+            {
+                Console.WriteLine("Python script error:\n" + error);
+            }
+        }
+        catch (Exception ex)
         {
-            Console.WriteLine("Python script error:\n" + error);
+            Console.WriteLine("An error occurred while running fix_indentation.py:");
+            Console.WriteLine(ex.Message);
         }
     }
+
 
 }

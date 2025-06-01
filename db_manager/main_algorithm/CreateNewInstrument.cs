@@ -234,6 +234,7 @@ class CreateNewInstrument
                 if (!string.IsNullOrEmpty(trimmed))
                 {
                     result.Add(trimmed);
+                    Console.WriteLine($"Trimmed: {trimmed}");
                 }
             }
         }
@@ -317,7 +318,7 @@ class CreateNewInstrument
             {
                 result.Add(new MapData("classical-guitar", instrumentSong));
             }
-            else if (key == "12-String Guitar")
+            else if (key == "12-String")
             {
                 result.Add(new MapData("12-string-guitar", instrumentSong));
             }
