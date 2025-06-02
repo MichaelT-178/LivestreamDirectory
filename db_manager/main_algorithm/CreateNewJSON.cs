@@ -8,6 +8,8 @@ using Newtonsoft.Json;
  * UpdateAlbums | Creates the VueLivestreamDirectory albums.json file
  * UpdateFavoriteCovers | Update VueLivestreamDirectory FavCovers.json file.
  * CreateVueRepertoire | Create the repertoire.json file in VueLivestreamDirectory.
+ * CreateArtistFile | Create the artists.json file in VueLivestreamDirectory.
+ * AddArtistToMap | Adds a song and its associated album to the artist entry in the map.
  *
  * @author Michael Totaro
  */
@@ -135,6 +137,100 @@ class CreateNewJSON
 
         string json = JsonConvert.SerializeObject(grouped, Formatting.Indented);
         JSONHelper.WriteJSONToVueData("repertoire.json", json);
+    }
+
+    /**
+     * Create the artists.json file in VueLivestreamDirectory.
+     */
+    public static void CreateArtistFile()
+    {
+        List<Song> songs = JSONHelper.GetDatabaseSongs();
+        List<Album> albums = AlbumRepertoireHandler.GetAlbums();
+
+        var artistMap = new Dictionary<string, ArtistEntry>();
+
+        foreach (var song in songs)
+        {
+            AddArtistToMap(song.Artist, song, artistMap, albums);
+
+            if (!string.IsNullOrWhiteSpace(song.Other_Artists))
+            {
+                var otherArtists = song.Other_Artists.Split("+ ");
+
+                foreach (var otherArtist in otherArtists)
+                {
+                    string trimmed = otherArtist.Trim();
+
+                    if (!string.IsNullOrEmpty(trimmed))
+                    {
+                        AddArtistToMap(trimmed, song, artistMap, albums);
+                    }
+                }
+            }
+        }
+
+        string json = JsonConvert.SerializeObject(artistMap, Formatting.Indented);
+        JSONHelper.WriteJSONToVueData("artists.json", json);
+    }
+
+    /**
+     * Adds a song and its associated album to the artist entry in the map.
+     *
+     * @param artistName The name of the artist to associate with the song
+     * @param song The song object
+     * @param map The dictionary mapping cleaned artist names to their corresponding ArtistEntry objects
+     * @param allAlbums The full list of album entries
+     */
+    private static void AddArtistToMap(
+        string artistName,
+        Song song,
+        Dictionary<string, ArtistEntry> map,
+        List<Album> allAlbums)
+    {
+        string cleanedArtist = TextCleaner.CleanText(artistName);
+
+        if (!map.TryGetValue(cleanedArtist, out var entry))
+        {
+            entry = new ArtistEntry
+            {
+                Artist = artistName,
+                CleanedArtist = cleanedArtist,
+                Songs = new List<ArtistSong>(),
+                Albums = new List<AlbumArtist>()
+            };
+
+            map[cleanedArtist] = entry;
+        }
+
+        entry.Songs.Add(new ArtistSong
+        {
+            Id = song.Id,
+            Title = song.Title,
+            CleanedTitle = song.CleanedTitle,
+            Album = song.Album,
+            CleanedAlbum = song.CleanedAlbum
+        });
+
+        if (!string.IsNullOrWhiteSpace(song.Album))
+        {
+            string cleanedAlbum = song.CleanedAlbum ?? TextCleaner.CleanText(song.Album);
+
+            bool albumAlreadyExists = entry.Albums.Any(a => a.CleanedTitle == cleanedAlbum);
+
+            if (!albumAlreadyExists)
+            {
+                var albumData = allAlbums.FirstOrDefault(a =>
+                    a.CleanedSong == song.CleanedTitle
+                );
+
+                entry.Albums.Add(new AlbumArtist
+                {
+                    Title = song.Album,
+                    CleanedTitle = cleanedAlbum,
+                    Year = albumData?.Year ?? 0
+                });
+            }
+        }
     }
 
 

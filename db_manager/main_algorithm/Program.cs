@@ -17,6 +17,9 @@ class Program
 
         // CreateNewJSON.UpdateAlbums();
         // CreateNewJSON.UpdateAlbums();
+
+        // CreateNewJSON.CreateArtistFile();
+
         // Environment.Exit(0);
 
 
@@ -93,6 +96,8 @@ class Program
         CreateNewJSON.CreateVueRepertoire();
 
         CreateNewJSON.UpdateAlbums();
+
+        CreateNewJSON.CreateArtistFile();
 
         OS.RunFixIndentationScript();
 

@@ -11,6 +11,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  * GetJSONSongAsString | Gets the string of a song object to be added to database file.
  * GetDatabaseSongs | Gets all songs from the song_list.json file
  * GetDatabaseSongsAsString | Gets a string list that contains every songs title and artist the database file.
+ * GetDatabaseArtists | Get all artists from the song_list.json file.
  * WriteJSONToFile | Writes a string list to a JSON file
  * GetRepeatCleanedTitle | Gets cleaned title for repeat songs.
  * WriteJSONToDifferentFile | Writes the content of one JSON file to another JSON file.
@@ -132,6 +133,50 @@ class JSONHelper
 
         return databaseSongInfo;
     }
+
+    /**
+     * Get all artists from the song_list.json file.
+     *
+     * @return A list of all BasicArtist information
+     */
+    public static List<BasicArtist> GetDatabaseArtists()
+    {
+        List<Song> databaseSongs = GetDatabaseSongs();
+        var artistMap = new Dictionary<string, BasicArtist>();
+
+        foreach (var song in databaseSongs)
+        {
+            var allArtists = new List<string> { song.Artist };
+
+            if (!string.IsNullOrWhiteSpace(song.Other_Artists))
+            {
+                allArtists.AddRange(
+                    song.Other_Artists
+                        .Split("+ ")
+                        .Select(a => a.Trim())
+                        .Where(a => !string.IsNullOrEmpty(a))
+                );
+            }
+
+            foreach (var artist in allArtists)
+            {
+                string cleaned = TextCleaner.CleanText(artist);
+                
+                if (!artistMap.ContainsKey(cleaned))
+                {
+                    artistMap[cleaned] = new BasicArtist
+                    {
+                        Artist = artist,
+                        CleanedArtist = cleaned
+                    };
+                }
+            }
+        }
+
+        return artistMap.Values.ToList();
+    }
+
+
 
     /**
      * Writes a string list to a JSON file
