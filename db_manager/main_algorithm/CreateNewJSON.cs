@@ -7,6 +7,7 @@ using Newtonsoft.Json;
  * AddAlbumAttribute | Sets the "Album" attribute in song_list.json
  * UpdateAlbums | Creates the VueLivestreamDirectory albums.json file
  * UpdateFavoriteCovers | Update VueLivestreamDirectory FavCovers.json file.
+ * CreateVueRepertoire | Create the repertoire.json file in VueLivestreamDirectory.
  *
  * @author Michael Totaro
  */
@@ -90,7 +91,7 @@ class CreateNewJSON
         JSONHelper.WriteJSONToVueData("albums.json", json);
     }
 
-    
+
     /**
      * Write the contents of the local fav_covers.json file 
      * to the VueLivestreamDirectory FavCovers.json file
@@ -101,6 +102,39 @@ class CreateNewJSON
         string newPath = "../VueLivestreamDirectory/src/assets/Data/FavCovers.json";
 
         JSONHelper.WriteJSONToDifferentFile(ogPath, newPath);
+    }
+
+
+    /**
+     * Create the repertoire.json file in VueLivestreamDirectory.
+     */
+    public static void CreateVueRepertoire()
+    {
+        List<Album> albums = AlbumRepertoireHandler.GetAlbums();
+
+        List<Album> sortedAlbums = albums
+            .OrderBy(album => album.Song, StringComparer.OrdinalIgnoreCase)
+            .ToList();
+
+        var grouped = sortedAlbums
+            .GroupBy(album =>
+            {
+                char firstChar = string.IsNullOrWhiteSpace(album.Song) ? '#' : char.ToUpper(album.Song[0]);
+                return char.IsLetter(firstChar) ? $"{firstChar} Songs" : "Miscellaneous";
+            })
+            .OrderBy(group => group.Key == "Miscellaneous" ? "" : group.Key)
+            .ToDictionary(group => group.Key, group => group.Select(album => new
+            {
+                album.Song,
+                album.CleanedSong,
+                album.AlbumTitle,
+                album.CleanedAlbumTitle,
+                album.Artist,
+                album.CleanedArtist,
+            }).ToList());
+
+        string json = JsonConvert.SerializeObject(grouped, Formatting.Indented);
+        JSONHelper.WriteJSONToVueData("repertoire.json", json);
     }
 
 

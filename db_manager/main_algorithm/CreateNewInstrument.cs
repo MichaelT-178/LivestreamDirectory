@@ -121,8 +121,6 @@ class CreateNewInstrument
         File.WriteAllText(filePath, jsonContent);
 
         UpdateInstrumentFiles(instrumentMap);
-
-        OS.PushChangesInVue();
     }
 
     /**

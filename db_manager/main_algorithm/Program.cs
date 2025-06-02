@@ -13,7 +13,6 @@ class Program
     public static async Task Main()
     {
 
-
         //CreateNewJSON.UpdateFavoriteCovers();
 
         // CreateNewJSON.UpdateAlbums();
@@ -91,9 +90,13 @@ class Program
 
         CreateNewJSON.UpdateFavoriteCovers();
 
+        CreateNewJSON.CreateVueRepertoire();
+
         CreateNewJSON.UpdateAlbums();
 
         OS.RunFixIndentationScript();
+
+        OS.PushChangesInVue();
 
 
 
