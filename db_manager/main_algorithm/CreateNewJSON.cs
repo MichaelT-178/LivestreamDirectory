@@ -8,6 +8,7 @@ using Newtonsoft.Json;
  * UpdateAlbums | Creates the VueLivestreamDirectory albums.json file
  * UpdateFavoriteCovers | Update VueLivestreamDirectory FavCovers.json file.
  * CreateVueRepertoire | Create the repertoire.json file in VueLivestreamDirectory.
+ * CreateSongsFile | Create the songs.json file in VueLivestreamDirectory.
  * CreateArtistFile | Create the artists.json file in VueLivestreamDirectory.
  * AddArtistToMap | Adds a song and its associated album to the artist entry in the map.
  *
@@ -138,6 +139,36 @@ class CreateNewJSON
         string json = JsonConvert.SerializeObject(grouped, Formatting.Indented);
         JSONHelper.WriteJSONToVueData("repertoire.json", json);
     }
+
+    /**
+     * Create the songs.json file in VueLivestreamDirectory.
+     */
+    public static void CreateSongsFile()
+    {
+        List<Song> songs = JSONHelper.GetDatabaseSongs();
+
+        var songDict = songs
+            .Where(song => !string.IsNullOrWhiteSpace(song.CleanedTitle))
+            .ToDictionary(song => song.CleanedTitle, song => new
+            {
+                song.Id,
+                song.Title,
+                song.CleanedTitle,
+                song.Artist,
+                song.CleanedArtist,
+                song.Album,
+                song.CleanedAlbum,
+                song.Other_Artists,
+                song.Instruments,
+                song.Search,
+                song.Appearances,
+                song.Links
+            });
+
+        string json = JsonConvert.SerializeObject(songDict, Formatting.Indented);
+        JSONHelper.WriteJSONToVueData("songs.json", json);
+    }
+
 
     /**
      * Create the artists.json file in VueLivestreamDirectory.

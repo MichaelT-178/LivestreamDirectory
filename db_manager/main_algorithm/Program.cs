@@ -99,6 +99,8 @@ class Program
 
         CreateNewJSON.CreateArtistFile();
 
+        CreateNewJSON.CreateSongsFile();
+
         OS.RunFixIndentationScript();
 
         OS.PushChangesInVue();
