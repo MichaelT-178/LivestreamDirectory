@@ -120,7 +120,7 @@ class CreateNewJSON
             .GroupBy(album =>
             {
                 char firstChar = string.IsNullOrWhiteSpace(album.Song) ? '#' : char.ToUpper(album.Song[0]);
-                return char.IsLetter(firstChar) ? $"{firstChar} Songs" : "Miscellaneous";
+                return char.IsLetter(firstChar) ? $"{firstChar}" : "Miscellaneous";
             })
             .OrderBy(group => group.Key == "Miscellaneous" ? "" : group.Key)
             .ToDictionary(group => group.Key, group => group.Select(album => new
