@@ -75,6 +75,7 @@ class CreateNewJSON
                 group =>
                 {
                     var first = group.First();
+
                     return new
                     {
                         AlbumTitle = first.AlbumTitle,
@@ -198,6 +199,7 @@ class CreateNewJSON
             otherArtists = s.Other_Artists,
             instruments = s.Instruments,
             search = s.Search,
+            CleanedPicture = !string.IsNullOrWhiteSpace(s.CleanedAlbum) ? s.CleanedAlbum : s.CleanedArtist,
             Type = "Song"
         });
 
