@@ -101,6 +101,8 @@ class Program
 
         CreateNewJSON.CreateSongsFile();
 
+        CreateNewJSON.CreateSongDataFile();
+
         OS.RunFixIndentationScript();
 
         OS.PushChangesInVue();

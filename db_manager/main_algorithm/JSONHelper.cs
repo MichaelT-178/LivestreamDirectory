@@ -142,6 +142,7 @@ class JSONHelper
     public static List<BasicArtist> GetDatabaseArtists()
     {
         List<Song> databaseSongs = GetDatabaseSongs();
+        
         var artistMap = new Dictionary<string, BasicArtist>();
 
         foreach (var song in databaseSongs)
@@ -161,11 +162,12 @@ class JSONHelper
             foreach (var artist in allArtists)
             {
                 string cleaned = TextCleaner.CleanText(artist);
-                
+
                 if (!artistMap.ContainsKey(cleaned))
                 {
                     artistMap[cleaned] = new BasicArtist
                     {
+                        // Id added later
                         Artist = artist,
                         CleanedArtist = cleaned
                     };
@@ -173,9 +175,15 @@ class JSONHelper
             }
         }
 
+        int id = 1;
+
+        foreach (var artist in artistMap.Values)
+        {
+            artist.Id = id++;
+        }
+
         return artistMap.Values.ToList();
     }
-
 
 
     /**

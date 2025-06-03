@@ -9,6 +9,7 @@ using Newtonsoft.Json;
  * UpdateFavoriteCovers | Update VueLivestreamDirectory FavCovers.json file.
  * CreateVueRepertoire | Create the repertoire.json file in VueLivestreamDirectory.
  * CreateSongsFile | Create the songs.json file in VueLivestreamDirectory.
+ * CreateSongDataFile | Create the SongData.json file in VueLivestreamDirectory.
  * CreateArtistFile | Create the artists.json file in VueLivestreamDirectory.
  * AddArtistToMap | Adds a song and its associated album to the artist entry in the map.
  *
@@ -168,6 +169,44 @@ class CreateNewJSON
         string json = JsonConvert.SerializeObject(songDict, Formatting.Indented);
         JSONHelper.WriteJSONToVueData("songs.json", json);
     }
+
+    /**
+     * Create the SongData.json file in VueLivestreamDirectory.
+     */
+    public static void CreateSongDataFile()
+    {
+        List<BasicArtist> artists = JSONHelper.GetDatabaseArtists();
+        List<Song> songs = JSONHelper.GetDatabaseSongs();
+
+        var artistData = artists.Select(a => new
+        {
+            id = a.Id,
+            name = a.Artist,
+            cleanedName = a.CleanedArtist,
+            Type = "Artist"
+        });
+
+        var songData = songs.Select(s => new
+        {
+            id = s.Id,
+            title = s.Title,
+            cleanedTitle = s.CleanedTitle,
+            artist = s.Artist,
+            cleanedArtist = s.CleanedArtist,
+            album = s.Album,
+            cleanedAlbum = s.CleanedAlbum,
+            otherArtists = s.Other_Artists,
+            instruments = s.Instruments,
+            search = s.Search,
+            Type = "Song"
+        });
+
+        var combinedData = artistData.Concat<object>(songData).ToList();
+
+        string json = JsonConvert.SerializeObject(combinedData, Formatting.Indented);
+        JSONHelper.WriteJSONToVueData("SongData.json", json);
+    }
+
 
 
     /**
