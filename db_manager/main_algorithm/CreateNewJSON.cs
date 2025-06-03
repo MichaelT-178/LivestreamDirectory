@@ -203,7 +203,9 @@ class CreateNewJSON
 
         var combinedData = artistData.Concat<object>(songData).ToList();
 
-        string json = JsonConvert.SerializeObject(combinedData, Formatting.Indented);
+        var wrappedData = new { SearchData = combinedData };
+
+        string json = JsonConvert.SerializeObject(wrappedData, Formatting.Indented);
         JSONHelper.WriteJSONToVueData("SongData.json", json);
     }
 
