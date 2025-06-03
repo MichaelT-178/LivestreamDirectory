@@ -9,7 +9,7 @@ using Newtonsoft.Json;
  * UpdateFavoriteCovers | Update VueLivestreamDirectory FavCovers.json file.
  * CreateVueRepertoire | Create the repertoire.json file in VueLivestreamDirectory.
  * CreateSongsFile | Create the songs.json file in VueLivestreamDirectory.
- * CreateSongDataFile | Create the SongData.json file in VueLivestreamDirectory.
+ * CreateSearchData | Create the SearchData.json file in VueLivestreamDirectory.
  * CreateArtistFile | Create the artists.json file in VueLivestreamDirectory.
  * AddArtistToMap | Adds a song and its associated album to the artist entry in the map.
  *
@@ -172,9 +172,9 @@ class CreateNewJSON
     }
 
     /**
-     * Create the SongData.json file in VueLivestreamDirectory.
+     * Create the SearchData.json file in VueLivestreamDirectory.
      */
-    public static void CreateSongDataFile()
+    public static void CreateSearchData()
     {
         List<BasicArtist> artists = JSONHelper.GetDatabaseArtists();
         List<Song> songs = JSONHelper.GetDatabaseSongs();
@@ -208,7 +208,7 @@ class CreateNewJSON
         var wrappedData = new { SearchData = combinedData };
 
         string json = JsonConvert.SerializeObject(wrappedData, Formatting.Indented);
-        JSONHelper.WriteJSONToVueData("SongData.json", json);
+        JSONHelper.WriteJSONToVueData("SearchData.json", json);
     }
 
 
