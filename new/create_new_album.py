@@ -26,7 +26,7 @@ print("\n")
 
 album_str = ""
 
-album_str +=  '    {\n'
+album_str +=  '  {\n'
 album_str += f'      "id": 1000,\n'
 album_str += f'      "Song": "{song}",\n'
 album_str += f'      "CleanedSong": "{cleaned_song}",\n'
@@ -34,7 +34,7 @@ album_str += f'      "AlbumTitle": "{album}",\n'
 album_str += f'      "CleanedAlbumTitle": "{cleaned_album}",\n'
 album_str += f'      "Artist": "{artist}",\n'
 album_str += f'      "CleanedArtist": "{cleaned_artist}",\n'
-album_str += f'      "Year": 0\n'
+album_str += f'      "Year": {year}\n'
 album_str +=  '    },'
 
 

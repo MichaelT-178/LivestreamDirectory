@@ -2972,12 +2972,12 @@
     },
     {
       "id": 298,
-      "Song": "Horse With No Name (Partial)",
-      "CleanedSong": "horse-with-no-name-partial",
+      "Song": "A Horse with No Name (Partial)",
+      "CleanedSong": "a-horse-with-no-name-partial",
       "AlbumTitle": "America",
       "CleanedAlbumTitle": "america",
-      "Artist": "America",
-      "CleanedArtist": "america",
+      "Artist": "America, George Martin",
+      "CleanedArtist": "america-george-martin",
       "Year": 1972
     },
     {
@@ -7662,8 +7662,8 @@
     },
     {
       "id": 767,
-      "Song": "Venture Highway (Audio Issues)",
-      "CleanedSong": "venture-highway-audio-issues",
+      "Song": "Ventura Highway (Audio Issues)",
+      "CleanedSong": "ventura-highway-audio-issues",
       "AlbumTitle": "Homecoming",
       "CleanedAlbumTitle": "homecoming",
       "Artist": "America, George Martin",
