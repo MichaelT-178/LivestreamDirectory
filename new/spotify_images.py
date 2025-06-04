@@ -174,7 +174,10 @@ class SpotifyApi:
         
     
     @staticmethod
-    def process_song_image(song: dict, access_token: str) -> None:
+    def process_album_image(song: dict) -> None:
+
+        access_token = SpotifyApi.get_access_token(CLIENT_ID, CLIENT_SECRET)
+
         title = song.get("title")
         album = song.get("album")
         cleaned_album = song.get("cleanedAlbum")
@@ -183,10 +186,8 @@ class SpotifyApi:
         if not title or not album or not cleaned_album:
             return
 
-        # Construct the image path
         image_path = f"../../VueLivestreamDirectory/src/assets/AlbumPics/{cleaned_album}.jpg"
 
-        # Check if the image already exists
         if os.path.exists(image_path):
             print(c(f"Image already exists: {cleaned_album}.jpg", 'blue'))
             return
@@ -207,4 +208,38 @@ class SpotifyApi:
             album_saved_image_name=cleaned_album,
             all_good=False
         )
+        
 
+    @staticmethod
+    def process_artist_image(artist: dict) -> None:
+        access_token = SpotifyApi.get_access_token(CLIENT_ID, CLIENT_SECRET)
+
+        name = artist.get("name")
+        cleaned_name = artist.get("cleanedName")
+        artist_id = artist.get("id")
+
+        if not name or not cleaned_name:
+            return
+
+        image_path = f"../../VueLivestreamDirectory/src/assets/ArtistPics/{cleaned_name}.jpg"
+
+        if os.path.exists(image_path):
+            print(c(f"Image already exists: {cleaned_name}.jpg", 'blue'))
+            return
+
+        print(c(f"Searching image for artist '{name}'...", 'cyan'))
+
+        image_url = SpotifyApi.get_artist_image_url(name, access_token)
+
+        if not image_url:
+            print(c("No image found for this artist.", 'yellow'))
+            return
+
+        SpotifyApi.decide_image(
+            image_id=str(artist_id),
+            image_url=image_url,
+            song_name=name,  # Reusing song_name for label. It's actually the artists name
+            album_name="(Artist)",  # Just a placeholder since we're not using albums here
+            album_saved_image_name=cleaned_name,
+            all_good=False
+        )

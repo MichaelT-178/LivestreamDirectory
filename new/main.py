@@ -1,15 +1,16 @@
 from music_data import MusicData
-from spotify_images import CLIENT_ID, CLIENT_SECRET, SpotifyApi
+from spotify_images import SpotifyApi
 
 artists = MusicData.get_artists()
 songs = MusicData.get_songs()
 
 
-
-
-
-access_token = SpotifyApi.get_access_token(CLIENT_ID, CLIENT_SECRET)
-
-
 for song in songs:
-    SpotifyApi.process_song_image(song, access_token)
+    SpotifyApi.process_album_image(song)
+
+
+cool = input("Done? : ")
+
+
+for artist in artists:
+    SpotifyApi.process_artist_image(artist)
