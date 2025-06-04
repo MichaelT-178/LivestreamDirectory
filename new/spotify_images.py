@@ -26,37 +26,37 @@ class SpotifyApi:
         r = requests.post(token_url, data=token_data, headers=token_headers)
         token_response_data = r.json()
         return token_response_data.get("access_token")
-
+    
     @staticmethod
     def get_album_image_url(title, album, access_token):
         search_url = "https://api.spotify.com/v1/search"
         headers = {"Authorization": f"Bearer {access_token}"}
-        query = f'track:{title} album:{album}'
-        params = {
-            "q": query,
-            "type": "track",
-            "limit": 1
-        }
 
+        # Try to find track within the specified album first
+        query = f'track:"{title}" album:"{album}"'
+        params = {"q": query, "type": "track", "limit": 1}
         r = requests.get(search_url, headers=headers, params=params)
         result = r.json()
         tracks = result.get('tracks', {}).get('items', [])
 
-        if not tracks:
+        if tracks:
+            images = tracks[0]['album']['images']
+            return images[0]['url'] if images else None
+
+        # If no match, fallback to album search directly
+        print(c(f"Track+album search failed. Trying album search only for '{album}'...", 'yellow'))
+
+        album_params = {"q": f'album:"{album}"', "type": "album", "limit": 1}
+        r = requests.get(search_url, headers=headers, params=album_params)
+        album_result = r.json()
+        albums = album_result.get('albums', {}).get('items', [])
+
+        if not albums:
             return None
 
-        images = tracks[0]['album']['images']
+        images = albums[0]['images']
+        return images[0]['url'] if images else None
 
-        # Default to None if not all images are available
-        large_image = images[0]['url'] if len(images) > 0 else None
-
-        # medium_image
-        _ = images[1]['url'] if len(images) > 1 else None
-
-        # small_image
-        _ = images[2]['url'] if len(images) > 2 else None
-
-        return large_image
 
     @staticmethod
     def get_artist_image_url(artist_name: str, access_token: str) -> str | None:
