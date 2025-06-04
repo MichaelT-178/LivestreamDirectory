@@ -19,7 +19,7 @@ def prepare_text(text):
     """
     Replace ' with "" so you don't get weird names like 
     """
-    return text.replace("'", "")
+    return text.replace("'", "").replace(".", "")
 
 def remove_non_alphanumeric(text):
     """

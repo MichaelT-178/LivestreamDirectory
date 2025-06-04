@@ -85,7 +85,7 @@
       "Song": "A Certain Shade of Green",
       "CleanedSong": "a-certain-shade-of-green",
       "AlbumTitle": "S.C.I.E.N.C.E",
-      "CleanedAlbumTitle": "s-c-i-e-n-c-e",
+      "CleanedAlbumTitle": "science",
       "Artist": "Incubus",
       "CleanedArtist": "incubus",
       "Year": 1997
@@ -1435,7 +1435,7 @@
       "Song": "Dancing In the Dark",
       "CleanedSong": "dancing-in-the-dark",
       "AlbumTitle": "Born In The U.S.A",
-      "CleanedAlbumTitle": "born-in-the-u-s-a",
+      "CleanedAlbumTitle": "born-in-the-usa",
       "Artist": "Bruce Springsteen",
       "CleanedArtist": "bruce-springsteen",
       "Year": 1984
@@ -2395,7 +2395,7 @@
       "Song": "Glass",
       "CleanedSong": "glass",
       "AlbumTitle": "S.C.I.E.N.C.E",
-      "CleanedAlbumTitle": "s-c-i-e-n-c-e",
+      "CleanedAlbumTitle": "science",
       "Artist": "Incubus",
       "CleanedArtist": "incubus",
       "Year": 1997
@@ -2415,7 +2415,7 @@
       "Song": "Glory Days",
       "CleanedSong": "glory-days",
       "AlbumTitle": "Born In The U.S.A",
-      "CleanedAlbumTitle": "born-in-the-u-s-a",
+      "CleanedAlbumTitle": "born-in-the-usa",
       "Artist": "Bruce Springsteen",
       "CleanedArtist": "bruce-springsteen",
       "Year": 1984
@@ -3195,7 +3195,7 @@
       "Song": "I'm On Fire",
       "CleanedSong": "im-on-fire",
       "AlbumTitle": "Born In The U.S.A",
-      "CleanedAlbumTitle": "born-in-the-u-s-a",
+      "CleanedAlbumTitle": "born-in-the-usa",
       "Artist": "Bruce Springsteen",
       "CleanedArtist": "bruce-springsteen",
       "Year": 1984
@@ -3915,7 +3915,7 @@
       "Song": "L.A. Woman",
       "CleanedSong": "l-a-woman",
       "AlbumTitle": "L.A. Woman",
-      "CleanedAlbumTitle": "l-a-woman",
+      "CleanedAlbumTitle": "la-woman",
       "Artist": "The Doors",
       "CleanedArtist": "the-doors",
       "Year": 1971
@@ -4225,7 +4225,7 @@
       "Song": "Lola",
       "CleanedSong": "lola",
       "AlbumTitle": "Lola Versus Powerman and the Moneygoround, pt.1",
-      "CleanedAlbumTitle": "lola-versus-powerman-and-the-moneygoround-pt-1",
+      "CleanedAlbumTitle": "lola-versus-powerman-and-the-moneygoround-pt1",
       "Artist": "The Kinks",
       "CleanedArtist": "the-kinks",
       "Year": 1970
@@ -4295,7 +4295,7 @@
       "Song": "Love Her Madly",
       "CleanedSong": "love-her-madly",
       "AlbumTitle": "L.A. Woman",
-      "CleanedAlbumTitle": "l-a-woman",
+      "CleanedAlbumTitle": "la-woman",
       "Artist": "The Doors",
       "CleanedArtist": "the-doors",
       "Year": 1971
@@ -5695,7 +5695,7 @@
       "Song": "Riders on the Storm (Audio Issues)",
       "CleanedSong": "riders-on-the-storm-audio-issues",
       "AlbumTitle": "L.A. Woman",
-      "CleanedAlbumTitle": "l-a-woman",
+      "CleanedAlbumTitle": "la-woman",
       "Artist": "The Doors",
       "CleanedArtist": "the-doors",
       "Year": 1971
@@ -7745,7 +7745,7 @@
       "Song": "Wagon Wheel (Partial)",
       "CleanedSong": "wagon-wheel-partial",
       "AlbumTitle": "O.C.M.S",
-      "CleanedAlbumTitle": "o-c-m-s",
+      "CleanedAlbumTitle": "ocms",
       "Artist": "Old Crow Medicine Show",
       "CleanedArtist": "old-crow-medicine-show",
       "Year": 2004

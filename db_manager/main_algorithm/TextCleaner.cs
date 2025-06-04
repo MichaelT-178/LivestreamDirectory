@@ -83,7 +83,7 @@ public static class TextCleaner
      */
     public static string PrepareText(string text)
     {
-        return text.Replace("'", "");
+        return text.Replace("'", "").Replace(".", "");
     }
 
     /**
