@@ -1,7 +1,7 @@
 import subprocess
 from clean_text import clean_text
 from termcolor import colored as c 
-
+from spotify_images import SpotifyApi
 
 def write_to_clipboard(output: str):
 	process = subprocess.Popen('pbcopy', env={'LANG': 'en_US.UTF-8'}, stdin=subprocess.PIPE)
@@ -13,7 +13,17 @@ song = input("\nWhat's the song title? : ")
 
 album = input("\nWhat's the album title? : ")
 
+album_spotify_link = input("\nWhat's the album's spotify link? : ")
+
+
+# Download album image
+SpotifyApi.get_album_image_by_url(album_spotify_link, album)
+print(c('\nSuccessfully downloaded album image!', 'green'))
+
+
 artist = input("\nWho's the artist? : ")
+
+
 
 cleaned_song = clean_text(song)
 cleaned_album = clean_text(album)
