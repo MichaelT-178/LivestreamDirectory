@@ -9,7 +9,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  * GetAlbums | Returns the list of albums from albums.json
  * GetRepertoire | Returns the song list from the repertoire.json file
  * CheckForNoRepeatAlbums | Makes sure there are no repeat albumTitles in albums.json
- * UpdateCleanedAlbumTitles | Updates the CleanedAlbumTitle attributes in albums.json
+ * UpdateCleanedAttributes | Ensures all cleaned attributes are up to date in albums.json.
  * SyncAlbumsWithRepertoire | Ensures every song has an associated album.json
  * UpdateRepertoireFile | Update the repertoire.json file given a list of songs
  *
@@ -32,7 +32,7 @@ class AlbumRepertoireHandler
         {
             string jsonContent = File.ReadAllText(albumJSONFilePath);
             var data = JsonSerializer.Deserialize<AlbumWrapper>(jsonContent)!;
-            
+
             foreach (var album in data.albums)
             {
                 Console.WriteLine($"ID: {album.id}");
@@ -74,13 +74,13 @@ class AlbumRepertoireHandler
      * 
      * @return The List of songs from repertoire.json
      */
-     public static List<string> GetRepertoire()
-     {
+    public static List<string> GetRepertoire()
+    {
         try
         {
             string jsonContent = File.ReadAllText(repertoireJSONFilePath);
             var data = JsonSerializer.Deserialize<List<string>>(jsonContent)!;
-            
+
             return data
                     .Where(s => !string.IsNullOrWhiteSpace(s)) // Can't be a blank space
                     .Select(s => s.Substring(0, s.LastIndexOf(" by "))) // get song title
@@ -99,21 +99,21 @@ class AlbumRepertoireHandler
      * It's considered a repeat if they have the same AlbumTitle
      * but different Year attributes. 
      */
-     public static void CheckForNoRepeatAlbums()
-     {
+    public static void CheckForNoRepeatAlbums()
+    {
         List<Album> albums = GetAlbums();
-        
+
         var conflictingAlbumGroups = albums
             .Where(a => !string.IsNullOrWhiteSpace(a.AlbumTitle)) // Skip null or empty titles
             .GroupBy(a => a.AlbumTitle)
             .Where(g => g.Count() > 1 && g.Select(a => a.Year).Distinct().Count() > 1);
-        
+
         foreach (var group in conflictingAlbumGroups)
         {
             var years = string.Join(", ", group.Select(a => a.Year));
             Color.DisplayError($"Conflict: Album title \"{group.Key}\" has multiple different years: {years}");
         }
-        
+
         if (conflictingAlbumGroups.Any())
         {
             Color.PrintLine("\nGo fix albums.json!", "Cyan");
@@ -122,19 +122,26 @@ class AlbumRepertoireHandler
         }
     }
 
-
     /**
-     * Updates the CleanedAlbumTitle attributes in albums.json
+     * Ensures all cleaned attributes are up to date in albums.json
      */
-    public static void UpdateCleanedAlbumTitles()
+    public static void UpdateCleanedAttributes()
     {
         try
         {
             string jsonContent = File.ReadAllText(albumJSONFilePath);
             var data = JsonSerializer.Deserialize<AlbumWrapper>(jsonContent)!;
-            
+
             foreach (var album in data.albums)
             {
+
+                // Updated CleanedSong
+                if (album.RepeatSong != true)
+                {
+                    album.CleanedSong = TextCleaner.CleanText(album.Song);
+                }
+
+                // Updated CleanedAlbumTitle
                 if (!string.IsNullOrWhiteSpace(album.AlbumTitle))
                 {
                     album.CleanedAlbumTitle = TextCleaner.CleanText(album.AlbumTitle);
@@ -143,24 +150,26 @@ class AlbumRepertoireHandler
                 {
                     album.CleanedAlbumTitle = null;
                 }
+                
+                //CleanedArtist
+                album.CleanedArtist = TextCleaner.CleanText(album.Artist);
             }
-            
+
             var options = new JsonSerializerOptions
             {
                 WriteIndented = true,
                 Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
             };
-            
+
             string updatedJson = JsonSerializer.Serialize(data, options);
             File.WriteAllText(albumJSONFilePath, updatedJson);
         }
         catch (Exception ex)
         {
-            Color.DisplayError($"Error updating CleanedAlbumTitle values: {ex.Message}");
+            Color.DisplayError($"Error updating cleaned attributes: {ex.Message}");
         }
     }
-    
-    
+
     /**
      * Ensures every song has an associated album.
      * 
@@ -236,10 +245,10 @@ class AlbumRepertoireHandler
 
         string jsonString = JsonSerializer.Serialize(songList, new JsonSerializerOptions
         {
-            WriteIndented = true, 
+            WriteIndented = true,
             Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
         });
-        
+
         File.WriteAllText(filePath, jsonString);
     }
 

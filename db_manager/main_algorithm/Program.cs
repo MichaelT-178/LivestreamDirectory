@@ -20,6 +20,7 @@ class Program
 
         // CreateNewJSON.CreateArtistFile();
 
+        // AlbumRepertoireHandler.UpdateCleanedAttributes();
         // Environment.Exit(0);
 
 

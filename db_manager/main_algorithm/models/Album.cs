@@ -15,6 +15,10 @@ public class Album
     [JsonPropertyName("CleanedSong")]
     public required string CleanedSong { get; set; }
 
+    [JsonPropertyName("RepeatSong")]
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)]
+    public bool RepeatSong { get; set; }
+
     [JsonPropertyName("AlbumTitle")]
     public string? AlbumTitle { get; set; }
 
@@ -28,4 +32,5 @@ public class Album
     public required string CleanedArtist { get; set; }
 
     public int Year { get; set; }
+
 }

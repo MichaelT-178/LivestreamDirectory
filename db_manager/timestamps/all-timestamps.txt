@@ -1926,7 +1926,7 @@ https://youtu.be/RCraRcpxmDo
 1:29:20 Memories by Corey Heuvel
 
 Classical Guitar
-1:35:42 Prelude in E major BWV 1006a (Classical Guitar) by Johann Sebastian Bach
+1:35:42 Prelude in E major (BWV 1006a) (Classical Guitar) by Johann Sebastian Bach
 
 Acoustic Guitar
 1:44:39 In Your Eyes (OOM) by Peter Gabriel
@@ -2497,7 +2497,7 @@ Acoustic Guitar
 1:41:10 Until the End by Corey Heuvel
 
 Classical Guitar
-1:48:21 Cello Suite No. 1 in G Major BMV 1007 (Prelude) (Classical Guitar) by Johann Sebastian Bach
+1:48:21 Cello Suite No. 1 in G Major BWV 1007 (Prelude) (Classical Guitar) by Johann Sebastian Bach
 1:51:00 Julia Florida (Barcarola) (Classical Guitar) by Agustín Barrios Mangoré
 
 Acoustic Guitar
@@ -3898,7 +3898,7 @@ https://youtu.be/JpKnYI_-2OA
 1:58:29 Lover, You Should've Come Over by Jeff Buckley
 2:13:51 Can't Find My Way Home (M15M) by Blind Faith
 2:18:27 No Whining (No Complaining) by Corey Heuvel
-2:25:04 Cello Suite No. 1 in G Major BMV 1007 (Prelude) by Johann Sebastian Bach
+2:25:04 Cello Suite No. 1 in G Major BWV 1007 (Prelude) by Johann Sebastian Bach
 2:27:34 Heroes by David Bowie
 2:31:56 Super Mario Bros. Main Theme by Koji Kondo
 2:33:05 Starbird by Corey Heuvel
@@ -5774,7 +5774,7 @@ https://youtu.be/8jK6wYjrnw4
 44:56 April Come She Will by Simon & Garfunkel
 46:47 Vincent by Don McLean
 53:01 She Talks To Angels by The Black Crowes
-1:01:26 Prelude in E major BWV 1006a (Partial) by Johann Sebastian Bach
+1:01:26 Prelude in E major (BWV 1006a) (Partial) by Johann Sebastian Bach
 1:04:03 Manic Depression by Jimi Hendrix
 1:08:32 Everlong by Foo Fighters
 1:14:56 About A Girl by Nirvana
@@ -6094,7 +6094,7 @@ Livestream 155
 https://www.youtube.com/live/v56fDp25FcM?feature=share
 0:11 Intro “Reverie” by Corey Heuvel
 9:04 At the Creek (SGI) by Corey Heuvel
-18:20 Fugue in G Minor, BMV 1000 (Partial) by Johann Sebastian Bach
+18:20 Fugue in G Minor (BWV 1000) (Partial) by Johann Sebastian Bach
 19:12 Für Elise (Partial) by Ludwig Van Beethoven
 19:40 Before You Accuse Me by Eric Clapton+Bo Diddley 
 26:19 While My Guitar Gently Weeps by The Beatles
@@ -6329,7 +6329,7 @@ https://www.youtube.com/live/Mm_r2XHf7kw?feature=share
 1:24:03 Cello Song by Nick Drake
 1:28:59 Rise (Mandolin) by Eddie Vedder
 1:34:26 The Cave (SGI) by Mumford & Sons
-1:40:46 Fugue in G Minor, BMV 1000 (Classical Guitar) by Johann Sebastian Bach 
+1:40:46 Fugue in G Minor (BWV 1000) (Classical Guitar) by Johann Sebastian Bach 
 1:47:33 Human Nature by Michael Jackson+John Mayer
 1:52:14 Interstate Love Song by Stone Temple Pilots
 1:56:29 Starbird by Corey Heuvel
@@ -6818,7 +6818,7 @@ https://www.youtube.com/watch?v=F7kc9DzOJgk
 3:01:32 Paranoid (Partial) by Black Sabbath
 3:01:40 War Pigs (Partial) by Black Sabbath
 3:01:53 Bouree In E Minor by Johann Sebastian Bach 
-3:02:36 Prelude in E major BWV 1006a by Johann Sebastian Bach
+3:02:36 Prelude in E major (BWV 1006a) by Johann Sebastian Bach
 3:08:00 Little Wing by Jimi Hendrix
 3:13:50 Wanted Dead Or Alive (Partial) by Bon Jovi 
 3:14:46 Crazy by Gnarls Barkley 
@@ -7143,7 +7143,7 @@ https://www.youtube.com/watch?v=H_j-P2w0QaA
 1:03:14 Kiss from a Rose by Seal
 1:08:11 Going to California (Partial) by Led Zeppelin
 1:09:58 Eleanor Rigby by The Beatles
-1:17:03 Prelude in C Minor (BMV 999) by Johann Sebastian Bach+Billy Strings
+1:17:03 Prelude in C Minor (BWV 999) by Johann Sebastian Bach+Billy Strings
 1:19:47 The Boy with the Thorn in His Side by The Smiths
 1:25:37 Bouree In E Minor (Classical Guitar) by Johann Sebastian Bach
 1:27:29 Study in B-Minor (Classical Guitar) by Fernando Sor

@@ -1082,8 +1082,8 @@
     },
     {
       "id": 109,
-      "Song": "Cello Suite No. 1 in G Major BMV 1007 (Prelude)",
-      "CleanedSong": "cello-suite-no-1-in-g-major-bmv-1007-prelude",
+      "Song": "Cello Suite No. 1 in G Major BWV 1007 (Prelude)",
+      "CleanedSong": "cello-suite-no-1-in-g-major-bwv-1007-prelude",
       "AlbumTitle": null,
       "CleanedAlbumTitle": null,
       "Artist": "Johann Sebastian Bach",
@@ -2242,8 +2242,8 @@
     },
     {
       "id": 225,
-      "Song": "Fugue in G Minor, BMV 1000",
-      "CleanedSong": "fugue-in-g-minor-bmv-1000",
+      "Song": "Fugue in G Minor (BWV 1000)",
+      "CleanedSong": "fugue-in-g-minor-bwv-1000",
       "AlbumTitle": null,
       "CleanedAlbumTitle": null,
       "Artist": "Johann Sebastian Bach",
@@ -2564,6 +2564,7 @@
       "id": 257,
       "Song": "Grace",
       "CleanedSong": "grace-corey-heuvel",
+      "RepeatSong": true,
       "AlbumTitle": "In Balance",
       "CleanedAlbumTitle": "in-balance",
       "Artist": "Corey Heuvel",
@@ -3913,7 +3914,7 @@
     {
       "id": 392,
       "Song": "L.A. Woman",
-      "CleanedSong": "l-a-woman",
+      "CleanedSong": "la-woman",
       "AlbumTitle": "L.A. Woman",
       "CleanedAlbumTitle": "la-woman",
       "Artist": "The Doors",
@@ -4277,7 +4278,7 @@
       "AlbumTitle": "Out Of Time",
       "CleanedAlbumTitle": "out-of-time",
       "Artist": "R.E.M",
-      "CleanedArtist": "r-e-m",
+      "CleanedArtist": "rem",
       "Year": 1991
     },
     {
@@ -5492,8 +5493,8 @@
     },
     {
       "id": 550,
-      "Song": "Prelude in C Minor (BMV 999) (Audio Issues)",
-      "CleanedSong": "prelude-in-c-minor-bmv-999-audio-issues",
+      "Song": "Prelude in C Minor (BWV 999) (Audio Issues)",
+      "CleanedSong": "prelude-in-c-minor-bwv-999-audio-issues",
       "AlbumTitle": null,
       "CleanedAlbumTitle": null,
       "Artist": "Johann Sebastian Bach",
@@ -5502,7 +5503,7 @@
     },
     {
       "id": 551,
-      "Song": "Prelude in E major BWV 1006a",
+      "Song": "Prelude in E major (BWV 1006a)",
       "CleanedSong": "prelude-in-e-major-bwv-1006a",
       "AlbumTitle": null,
       "CleanedAlbumTitle": null,
@@ -5893,7 +5894,7 @@
     {
       "id": 590,
       "Song": "S.R.V (Electric riff)",
-      "CleanedSong": "s-r-v-electric-riff",
+      "CleanedSong": "srv-electric-riff",
       "AlbumTitle": "Venus Isle",
       "CleanedAlbumTitle": "venus-isle",
       "Artist": "Eric Johnson",
@@ -7984,6 +7985,7 @@
       "id": 799,
       "Song": "Wish You Were Here",
       "CleanedSong": "wish-you-were-here-incubus",
+      "RepeatSong": true,
       "AlbumTitle": "Morning View",
       "CleanedAlbumTitle": "morning-view",
       "Artist": "Incubus",
