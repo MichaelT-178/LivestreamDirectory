@@ -63,5 +63,3 @@ def clean_text(text):
     clean_text = lowercase_text(spaced_text)
 
     return clean_text
-
-print(clean_text("Talking Heads '77"))
