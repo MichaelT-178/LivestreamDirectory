@@ -1,5 +1,6 @@
 import base64
 import os
+import re
 from dotenv import load_dotenv
 import requests
 from termcolor import colored as c
@@ -81,7 +82,6 @@ class SpotifyApi:
         large_image = images[0]['url'] if len(images) > 0 else None
 
         return large_image
-
 
 
 
@@ -243,3 +243,76 @@ class SpotifyApi:
             album_saved_image_name=cleaned_name,
             all_good=False
         )
+
+
+    @staticmethod
+    def fallback_album_image_url_by_album_only(song: dict):
+        access_token = SpotifyApi.get_access_token(CLIENT_ID, CLIENT_SECRET)
+
+        search_url = "https://api.spotify.com/v1/search"
+        headers = {"Authorization": f"Bearer {access_token}"}
+
+        album = song.get("album")
+        cleaned_album = song.get("cleanedAlbum")
+        song_id = song.get("id")
+        title = song.get("title")
+        artist = song.get("artist")
+
+        if not album or not cleaned_album or not artist:
+            print("Missing album or artist info for fallback.")
+            return
+
+        print(c(f"Trying fallback album-only search for '{album}' by '{artist}'...", 'magenta'))
+
+        params = {"q": album, "type": "album", "limit": 10}
+        r = requests.get(search_url, headers=headers, params=params)
+
+        if r.status_code != 200:
+            print(c(f"Spotify API error: {r.status_code}", 'red'))
+            print(r.text)
+            return
+
+        try:
+            result = r.json()
+        except Exception as e:
+            print(c(f"Error parsing JSON: {str(e)}", 'red'))
+            print(r.text)
+            return
+
+        albums = result.get('albums', {}).get('items', [])
+        if not albums:
+            print(c("No albums found at all.", 'yellow'))
+            return
+
+        # Normalize function
+        def normalize(s):
+            return re.sub(r'\W+', '', s.lower())
+
+        norm_album = normalize(album)
+        norm_artist = normalize(artist)
+
+        for item in albums:
+            name = item.get("name")
+            album_artists = item.get("artists", [])
+
+            # Normalize and match artist name
+            artist_names = [normalize(a.get("name", "")) for a in album_artists]
+            name_match = normalize(name) == norm_album
+            artist_match = any(norm_artist in a for a in artist_names)
+
+            if name_match and artist_match:
+                images = item.get("images")
+                if images:
+                    image_url = images[0]['url']
+                    SpotifyApi.decide_image(
+                        image_id=str(song_id),
+                        image_url=image_url,
+                        song_name=title,
+                        album_name=name,
+                        album_saved_image_name=cleaned_album,
+                        all_good=False
+                    )
+                    return
+
+        print(c("Fallback failed: No matching album+artist found.", 'red'))
+
