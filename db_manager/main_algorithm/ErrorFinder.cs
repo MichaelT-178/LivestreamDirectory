@@ -500,7 +500,7 @@ class ErrorFinder
 
         if (missingFromOld.Count > 0)
         {
-            Console.WriteLine("\nNew keys not in old keys. Go add it!");
+            Console.WriteLine("\nNew keys not in old keys. Go add it to \"all_keys_from_song_lines\" in \"keys_to_keep.json\"!");
 
             foreach (string key in missingFromOld)
             {
@@ -509,7 +509,7 @@ class ErrorFinder
         }
 
         Color.PrintLine("\nGO UPDATE keys_to_keep.json!!!!!", "red");
-        Color.PrintLine("ALWAYS \"update all_keys_from_song_lines\". Only update \"song_keys\" if necessary.", "CYAN");
+        Color.PrintLine("ALWAYS update the \"all_keys_from_song_lines\" attribute. Only update \"song_keys\" if necessary.", "CYAN");
         Environment.Exit(0);
     }
 
