@@ -7,6 +7,7 @@ from termcolor import colored as c
 import tkinter as tk
 from PIL import Image, ImageTk
 from io import BytesIO
+from clean_text import clean_text
 
 load_dotenv()
 
@@ -316,3 +317,142 @@ class SpotifyApi:
 
         print(c("Fallback failed: No matching album+artist found.", 'red'))
 
+
+
+
+
+    """
+    
+    Other useful methods 
+    fallback_album_image_by_album_and_artist_exact -> Simple fallback
+    get_album_image_by_url -> When "James Taylor" by James Taylor 
+
+
+    get_album_image_by_url -> If nothing else works, get image by album url.
+    
+    """
+
+
+
+
+
+
+
+    @staticmethod
+    def fallback_album_image_by_album_and_artist_exact(song: dict, lower_artist_name: str, release_year: int):
+        """
+        Good for when the album name and artist are the same.
+
+        Ex.
+        James Taylor by James Taylor
+        Blur by Blur
+        """
+        access_token = SpotifyApi.get_access_token(CLIENT_ID, CLIENT_SECRET)
+
+        artist_name = song.get("artist")
+        album = song.get("album")
+        cleaned_album = song.get("cleanedAlbum")
+        song_id = song.get("id")
+        title = song.get("title")
+
+        if not artist_name or not album or not cleaned_album:
+            print("Missing song fields.")
+            return
+
+        print(c(f"Searching for album '{album}' by artist '{artist_name}' (looking for original release)...", 'magenta'))
+
+        # 1. Search for the artist ID
+        search_url = "https://api.spotify.com/v1/search"
+        headers = {"Authorization": f"Bearer {access_token}"}
+        params = {"q": artist_name, "type": "artist", "limit": 1}
+        r = requests.get(search_url, headers=headers, params=params)
+        artist_result = r.json()
+        artist_items = artist_result.get("artists", {}).get("items", [])
+        
+        if not artist_items:
+            print(c("Artist not found.", 'red'))
+            return
+
+        artist_id = artist_items[0]["id"]
+
+        # 2. Get albums from that artist
+        albums_url = f"https://api.spotify.com/v1/artists/{artist_id}/albums"
+        params = {"include_groups": "album", "limit": 50}
+        r = requests.get(albums_url, headers=headers, params=params)
+        albums = r.json().get("items", [])
+
+        found = False
+        for i, item in enumerate(albums):
+            name = item.get("name", "")
+            release_date = item.get("release_date", "")
+            images = item.get("images")
+
+            if name.lower() == lower_artist_name and release_date.startswith(str(release_year)) and images:
+                image_url = images[0]["url"]
+                SpotifyApi.decide_image(
+                    image_id=f"{song_id}_{i}",
+                    image_url=image_url,
+                    song_name=title,
+                    album_name=name,
+                    album_saved_image_name=cleaned_album,
+                    all_good=False
+                )
+                found = True
+                break
+
+        if not found:
+            print(c(f"Could not find {release_year} album version for {lower_artist_name}.", 'yellow'))
+        
+
+
+
+
+
+
+    @staticmethod
+    def get_album_image_by_url(spotify_album_url: str, album_title: str):
+
+        """
+        album_title is completely normal album title
+        """
+
+        cleaned_album_title = clean_text(album_title)
+
+        access_token = SpotifyApi.get_access_token(CLIENT_ID, CLIENT_SECRET)
+        headers = {"Authorization": f"Bearer {access_token}"}
+
+        # Extract album ID from Spotify URL
+        match = re.search(r"album/([a-zA-Z0-9]+)", spotify_album_url)
+        if not match:
+            print(c("Invalid Spotify album URL.", "red"))
+            return
+
+        album_id = match.group(1)
+        album_api_url = f"https://api.spotify.com/v1/albums/{album_id}"
+
+        response = requests.get(album_api_url, headers=headers)
+        if response.status_code != 200:
+            print(c(f"Failed to fetch album metadata: {response.status_code}", "red"))
+            print(response.text)
+            return
+
+        album_data = response.json()
+        album_name = album_data.get("name", "Unknown Album")
+        artists = album_data.get("artists", [])
+        artist_name = artists[0]["name"] if artists else "Unknown Artist"
+        images = album_data.get("images", [])
+
+        if not images:
+            print(c("No images found for album.", "yellow"))
+            return
+
+        image_url = images[0]["url"]
+
+        SpotifyApi.decide_image(
+            image_id=album_id,
+            image_url=image_url,
+            song_name=artist_name,
+            album_name=album_name,
+            album_saved_image_name=cleaned_album_title,
+            all_good=False
+        )
