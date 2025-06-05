@@ -64,3 +64,4 @@ def clean_text(text):
 
     return clean_text
 
+print(clean_text("Talking Heads '77"))
