@@ -83,21 +83,18 @@ class SpotifyApi:
         large_image = images[0]['url'] if len(images) > 0 else None
 
         return large_image
-
-
-
+    
     @staticmethod
-    def download_image(image_url: str, image_name: str) -> None:
+    def download_image(image_url: str, image_name: str, directory: str = "AlbumPics") -> None:
         response = requests.get(image_url)
 
         if response.status_code == 200:
-            with open(f"../../VueLivestreamDirectory/src/assets/AlbumPics/{image_name}.jpg", "wb") as f:
+            path = f"../../VueLivestreamDirectory/src/assets/{directory}/{image_name}.jpg"
+            with open(path, "wb") as f:
                 f.write(response.content)
-
-            print(c("Image downloaded successfully!", 'green'))
+            print(c(f"Image downloaded successfully to {directory}!", 'green'))
         else:
             print(f"Failed to download image. Status code: {response.status_code}")
-
 
 
     @staticmethod
@@ -106,12 +103,13 @@ class SpotifyApi:
                     song_name: str, 
                     album_name: str, 
                     album_saved_image_name: str,
-                    all_good: bool
+                    all_good: bool,
+                    directory: str = "AlbumPics"
                     ) -> None:
         
         def download_and_close():
             if not all_good:
-                SpotifyApi.download_image(image_url, album_saved_image_name)
+                SpotifyApi.download_image(image_url, album_saved_image_name, directory)
 
             root.destroy()
 
@@ -242,7 +240,8 @@ class SpotifyApi:
             song_name=name,  # Reusing song_name for label. It's actually the artists name
             album_name="(Artist)",  # Just a placeholder since we're not using albums here
             album_saved_image_name=cleaned_name,
-            all_good=False
+            all_good=False,
+            directory="ArtistPics"
         )
 
 
