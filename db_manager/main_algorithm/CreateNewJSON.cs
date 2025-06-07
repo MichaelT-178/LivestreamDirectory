@@ -200,6 +200,7 @@ class CreateNewJSON
             instruments = s.Instruments,
             search = s.Search,
             CleanedPicture = !string.IsNullOrWhiteSpace(s.CleanedAlbum) ? s.CleanedAlbum : s.CleanedArtist,
+            ArtistPic = string.IsNullOrWhiteSpace(s.CleanedAlbum),
             Type = "Song"
         });
 
