@@ -550,7 +550,7 @@ https://youtu.be/hBUl2k84VRY
 
 Solo Video
 https://youtu.be/oiKIsVUTgmw
-0:00 I Don't Need No Doctor by John Mayer
+0:00 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 
 Solo Video
 https://youtu.be/51iwx-8UcAc
@@ -1269,7 +1269,7 @@ Acoustic Guitar
 Livestream 26
 https://youtu.be/3S74O7KIY5k
 5:01 Subterranean Homesick Alien by Radiohead
-10:46 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford
+10:46 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 16:33 Spanish Castle Magic by Jimi Hendrix
 22:53 Time Always Tells by Corey Heuvel
 29:15 Little Black Submarines by The Black Keys
@@ -1388,7 +1388,7 @@ https://youtu.be/6r4e55Yo27A
 1:54:00 Black Mountain Side (Partial) by Led Zeppelin
 1:56:48 Lover, You Should've Come Over by Jeff Buckley
 2:04:08 Life by the Drop by Stevie Ray Vaughan
-2:07:10 I Don't Need No Doctor by John Mayer+Ray Charles
+2:07:10 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 2:12:14 River Man by Nick Drake
 2:18:47 Street Fighting Man by The Rolling Stones
 2:21:45 Can't Find My Way Home by Blind Faith
@@ -1689,7 +1689,7 @@ https://youtu.be/mwrkFoGJsqU
 1:00:06 Out of the Mist by Corey Heuvel
 1:03:40 At the Creek by Corey Heuvel
 1:09:54 Everlong by Foo Fighters
-1:17:22 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford
+1:17:22 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:24:20 Champagne Supernova by Oasis
 1:30:35 Neon by John Mayer
 1:40:52 Little Wing by Jimi Hendrix
@@ -1858,7 +1858,7 @@ Mandolin
 1:46:29 Rise (Mandolin) by Eddie Vedder
 
 Acoustic guitar
-1:50:52 I Don't Need No Doctor (NST) by John Mayer+Nick Ashford
+1:50:52 I Don't Need No Doctor (NST) by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:59:01 The Wind Cries Mary (NST) by Jimi Hendrix
 2:04:06 Phone Call from Leavenworth (NST) by Chris Whitley
 2:10:41 Neon (NST) by John Mayer
@@ -2272,7 +2272,7 @@ https://youtu.be/CxcBGVkfVMc
 1:27:04 If It's Wrong (It's Alright) by Corey Heuvel
 1:32:51 Society by Eddie Vedder
 1:38:45 Life by the Drop by Stevie Ray Vaughan
-1:42:04 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford
+1:42:04 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:46:17 Street Fighting Man by The Rolling Stones
 1:50:23 Dust in a Baggie by Billy Strings
 1:54:02 Streets of Philadelphia by Bruce Springsteen
@@ -2491,7 +2491,7 @@ Acoustic Guitar
 57:13 Do It Again by Steely Dan
 1:05:02 Melissa by Allman Brothers Band
 1:11:12 Grace by Jeff Buckley
-1:21:48 I Don't Need No Doctor by John Mayer+Nick Ashford
+1:21:48 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:29:10 Queenstown by Corey Heuvel
 1:34:51 Cello Song (M15M) by Nick Drake
 1:41:10 Until the End by Corey Heuvel
@@ -2766,7 +2766,7 @@ https://youtu.be/Qih3Nx18Yas
 1:44:14 Ordinary Day by Great Big Sea
 1:49:59 Virtual Insanity by Jamiroquai
 1:55:00 Fast Car by Tracy Chapman
-2:01:50 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford
+2:01:50 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 2:07:59 Until the End by Corey Heuvel
 2:14:52 Crossroads by Cream+Robert Johnson
 2:18:43 Mama, You Been on My Mind by Jeff Buckley+Bob Dylan
@@ -2957,7 +2957,7 @@ https://youtu.be/Y473wJBI_Y8
 0:08 Intro “Tension” by Corey Heuvel
 6:26 Tell Me Why (M15M) by Neil Young
 10:45 At the Creek by Corey Heuvel
-19:39 I Don't Need No Doctor by John Mayer+Nick Ashford
+19:39 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 26:23 Glenn Tipton by Sun Kil Moon
 34:46 Time Always Tells by Corey Heuvel
 42:22 I Want You by Bob Dylan
@@ -3244,7 +3244,7 @@ https://youtu.be/q0SOrSxKE90
 1:02:12 God Knows Improv
 1:03:33 God Knows (I Love You Madly) by Corey Heuvel
 1:09:18 Down In A Hole (M15M) by Alice In Chains
-1:16:22 I Don't Need No Doctor by John Mayer+Nick Ashford
+1:16:22 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:22:09 Why Georgia by John Mayer
 1:27:58 Into the Mystic by Van Morrison
 1:32:39 Dust in a Baggie by Billy Strings
@@ -3597,7 +3597,7 @@ https://youtu.be/DqQEPSThDlg
 34:04 Fall to Pieces by Velvet Revolver
 39:12 Giving Up by Corey Heuvel
 44:07 No Diggity by Blackstreet
-52:27 Hey Hey by Eric Clapton+Big Bill Bronzy
+52:27 Hey Hey by Eric Clapton+Big Bill Broonzy
 57:18 Let It Be Me by Ray LaMontagne
 1:06:29 What I'm About to Do by Corey Heuvel
 1:12:32 Big Love by Fleetwood Mac
@@ -3917,7 +3917,7 @@ https://youtu.be/y83VDXWJbQE
 24:25 Midnight Rider (M15M) by Allman Brothers Band
 31:10 Way to the Sea by Corey Heuvel
 37:28 L.A. Woman by The Doors
-45:43 I Don't Need No Doctor by John Mayer+Nick Ashford
+45:43 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 53:07 Flowers Field by Corey Heuvel
 54:35 Queenstown by Corey Heuvel
 1:00:22 Oceans by Pearl Jam
@@ -4279,7 +4279,7 @@ https://youtu.be/yT-ZTr6ntP4
 1:28:57 Castles Made of Sand by Jimi Hendrix
 1:33:01 Crazy In Love by Beyoncé, JAY-Z
 1:38:48 Evers by Corey Heuvel
-1:44:50 I Don't Need No Doctor by John Mayer+John Scofield
+1:44:50 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:49:57 While My Guitar Gently Weeps by The Beatles
 1:55:16 Glass by Incubus
 2:00:10 Dani California by Red Hot Chili Peppers
@@ -4454,7 +4454,7 @@ https://youtu.be/seLDpNLZFDU
 50:22 No Rain (M15M) by Blind Melon
 55:56 While My Guitar Gently Weeps by The Beatles
 1:02:15 Shiver by Coldplay
-1:08:45 I Don't Need No Doctor by John Mayer
+1:08:45 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:14:24 Times Like These by Foo Fighters
 1:20:02 Sage Trees by Corey Heuvel
 1:26:32 Bold as Love by Jimi Hendrix+John Mayer
@@ -4702,7 +4702,7 @@ https://youtu.be/h_KbDQybQmE
 8:26 What I'm About to Do by Corey Heuvel
 16:08 Fly Like An Eagle by Steve Miller Band
 22:20 Solsbury Hill by Peter Gabriel
-30:25 I Don't Need No Doctor by John Mayer+Ray Charles
+30:25 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 34:38 The Trooper (Partial) by Iron Maiden
 36:18 On My Skin (M15M) by Corey Heuvel
 42:03 Layla (Unplugged) by Eric Clapton
@@ -4894,7 +4894,7 @@ https://youtu.be/MmxzKv8Mw2E
 8:46 Improv
 10:35 Morning Wish by Corey Heuvel
 17:36 Doin' Time by Sublime
-23:52 I Don't Need No Doctor by John Mayer
+23:52 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 29:19 Wondering Where The Lions Are by Bruce Cockburn
 34:43 If It's Wrong (It's Alright) by Corey Heuvel
 40:57 Behind Blue Eyes by The Who
@@ -5111,7 +5111,7 @@ https://youtu.be/bEBVkT9SWFY
 7:40 What I'm About to Do by Corey Heuvel
 16:09 Plush by Stone Temple Pilots
 21:48 Solsbury Hill by Peter Gabriel
-28:39 I Don't Need No Doctor by John Mayer
+28:39 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 36:21 Crimson Fools by Corey Heuvel
 43:25 Money by Pink Floyd
 48:58 Explanation of my website and how to use it. Available on Corey's Patreon page.
@@ -5481,7 +5481,7 @@ https://youtu.be/HQCt4rx-y8Q
 1:18:25 Eleanor Rigby by The Beatles
 1:27:26 Never Going Back Again by Fleetwood Mac
 1:31:50 Things Behind The Sun by Nick Drake
-1:37:15 I Don't Need No Doctor by John Mayer+Ray Charles
+1:37:15 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:43:08 Kaijie by Corey Heuvel
 1:48:33 Cherry Wine by Hozier
 1:53:46 Plush by Stone Temple Pilots
@@ -6000,7 +6000,7 @@ https://www.youtube.com/live/s-v4qoUK0tU?feature=share
 1:19:08 Old Man by Neil Young
 1:23:55 Kiss Me by Sixpence None The Richer
 1:27:59 You Are the Best Thing by Ray LaMontagne
-1:31:38 I Don't Need No Doctor by John Mayer
+1:31:38 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:36:43 Heart-Shaped Box by Nirvana
 1:44:34 Sir Duke by Stevie Wonder
 1:49:01 Wish You Were Here by Pink Floyd
@@ -6352,7 +6352,7 @@ https://www.youtube.com/live/1HkYscBWtp8?feature=share
 18:22 Stones In My Passway by Robert Johnson
 24:06 Dream Song by Scott Matthews
 30:46 Behind Blue Eyes by The Who
-35:21 I Don't Need No Doctor by John Mayer
+35:21 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 40:47 Crazy by Gnarls Barkley 
 47:16 Shine (M15M) by Collective Soul
 55:41 Bring It on Home (M15M) by Led Zeppelin+Sonny Boy Williamson II
@@ -6702,7 +6702,7 @@ Electric Guitar
 2:02:00 Hey Joe (Electric riff) by Jimi Hendrix+Billy Roberts
 2:02:25 The Heart of Life (Electric riff) by John Mayer 
 2:02:53 Cowboys from Hell (Electric riff) by Pantera
-2:03:24 I Don't Need No Doctor (Electric riff) by John Mayer+Nick Ashford
+2:03:24 I Don't Need No Doctor (Electric riff) by John Mayer+Ray Charles+Nick Ashford+John Scofield
 2:03:45 Smoke on the Water (Electric riff) by Deep Purple
 2:04:11 (I Can't Get No) Satisfaction (Electric riff) by The Rolling Stones 
 2:04:50 Autumn Leaves (Electric riff) by Joseph Kosma+Jacques Prevert 
@@ -6743,7 +6743,7 @@ https://www.youtube.com/watch?v=uQLC-GCPpV0
 1:01:44 No Diggity by Blackstreet
 1:08:18 Ramble On by Led Zeppelin 
 1:13:38 Superstition by Stevie Wonder 
-1:20:53 I Don't Need No Doctor by John Mayer
+1:20:53 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:21:04 Pinball Wizard by The Who
 1:26:18 Improv 
 1:27:40 Big Yellow Taxi by Joni Mitchell 
@@ -7075,7 +7075,7 @@ https://www.youtube.com/watch?v=oGvWPFlm1fM
 1:30:55 Wondering Where The Lions Are (Partial) by Bruce Cockburn
 1:32:31 Hey You by Pink Floyd 
 1:39:33 So Real by Jeff Buckley
-1:44:58 I Don't Need No Doctor by John Mayer+Nick Ashford
+1:44:58 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:50:24 Wonderwall by Ryan Adams+Oasis
 1:56:51 Heart-Shaped Box by Nirvana
 2:02:58 Doin' Time by Sublime
@@ -7271,7 +7271,7 @@ https://www.youtube.com/watch?v=9rSlmMNfOkY
 1:57:14 Beast Of Burden by The Rolling Stones
 2:02:13 I Still Haven't Found What I'm Looking For by U2
 2:07:48 All Apologies by Nirvana
-2:12:49 I Don't Need No Doctor by John Mayer
+2:12:49 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 2:18:48 Evers by Corey Heuvel
 2:24:45 Walkin' On The Sun by Smash Mouth
 2:29:43 Solsbury Hill by Peter Gabriel
@@ -7379,7 +7379,7 @@ https://www.youtube.com/watch?v=0nRONZ-KEQk
 1:11:21 Ordinary Girl by Corey Heuvel 
 1:16:53 My Sweet Lord by George Harrison
 1:21:32 Angelina by Tommy Emmanuel 
-1:25:25 I Don't Need No Doctor by John Mayer
+1:25:25 I Don't Need No Doctor by John Mayer+Ray Charles+Nick Ashford+John Scofield
 1:30:48 People's Parties by Joni Mitchell
 1:34:15 Parchman Farm Blues by Jeff Buckley+Bukka White
 1:40:57 Someday We'll All Be Free by Donny Hathaway 

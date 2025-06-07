@@ -50,7 +50,7 @@ class Program
         Color.DisplaySuccess("No capitalization errors found!");
 
         ErrorFinder.AllLocalArtistPicturesExist();
-        //ErrorFinder.AllVueArtistPicturesExist();
+        ErrorFinder.AllVueArtistPicturesExist();
         
         Color.DisplaySuccess("An image was found for every artist!");
 
@@ -90,13 +90,13 @@ class Program
         //UPDATE ALL JSON FILES
         CreateNewInstrument.PopulateInstrumentMap();
 
-        //ErrorFinder.AllAlbumPicturesExist();
-
         CreateNewJSON.UpdateFavoriteCovers();
 
         CreateNewJSON.CreateVueRepertoire();
 
         CreateNewJSON.UpdateAlbums();
+
+        ErrorFinder.AllAlbumPicturesExist();
 
         CreateNewJSON.CreateArtistFile();
 
