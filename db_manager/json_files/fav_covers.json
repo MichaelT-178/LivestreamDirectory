@@ -88,7 +88,8 @@
             "Artist": "Blind Boy Fuller",
             "Appearance": "Livestream 43",
             "Link": "https://youtu.be/RCraRcpxmDo&t=4559",
-            "AlbumImage": "rory-gallagher"
+            "AlbumImage": "rory-gallagher",
+            "ArtistPic": true
         },
         {
             "id": 12,

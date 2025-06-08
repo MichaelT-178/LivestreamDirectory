@@ -151,8 +151,18 @@ class CreateNewInstrument
                 instrument.Appears = instrumentMap.TryGetValue(instrument.CleanedName, out var list) ? list.Count : 0;
             }
         }
+        
+        // Only sort if at least one instrument has more than 1 appearance
+        bool shouldSort = wrapper.Instruments.Any(inst => inst.Appears > 1);
 
-        // Save updated JSON
+        if (shouldSort)
+        {
+            wrapper.Instruments = wrapper.Instruments
+                .OrderByDescending(inst => inst.Appears)
+                .ThenBy(inst => inst.Name)
+                .ToList();
+        }
+
         var writeOptions = new JsonSerializerOptions
         {
             WriteIndented = true,
