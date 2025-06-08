@@ -6,6 +6,7 @@
       "cleaned": "acoustic-guitar",
       "alias": "Acoustic Guitar",
       "key": null,
+      "type": "Acoustic",
       "appears": 5104
     },
     {
@@ -14,6 +15,7 @@
       "cleaned": "electric-guitar",
       "alias": "Electric Guitar",
       "key": null,
+      "type": "Electric",
       "appears": 211
     },
     {
@@ -22,6 +24,7 @@
       "cleaned": "martin-00-15m",
       "alias": null,
       "key": "M15M",
+      "type": "Acoustic",
       "appears": 179
     },
     {
@@ -30,6 +33,7 @@
       "cleaned": "martin-dx1r",
       "alias": null,
       "key": "DX1R",
+      "type": "Acoustic",
       "appears": 57
     },
     {
@@ -38,6 +42,7 @@
       "cleaned": "maestro-double-top",
       "alias": null,
       "key": "MDT",
+      "type": "Acoustic",
       "appears": 56
     },
     {
@@ -46,6 +51,7 @@
       "cleaned": "sgi-avenir-cw20",
       "alias": null,
       "key": "SGI",
+      "type": "Acoustic",
       "appears": 54
     },
     {
@@ -54,6 +60,7 @@
       "cleaned": "brickhouse-demo",
       "alias": null,
       "key": "BH",
+      "type": "Acoustic",
       "appears": 30
     },
     {
@@ -62,6 +69,7 @@
       "cleaned": "classical-guitar",
       "alias": "Classical Guitar",
       "key": "Classical Guitar",
+      "type": "Classical",
       "appears": 29
     },
     {
@@ -70,6 +78,7 @@
       "cleaned": "norman-st68",
       "alias": null,
       "key": "NST",
+      "type": "Acoustic",
       "appears": 25
     },
     {
@@ -78,6 +87,7 @@
       "cleaned": "furch-oom-sr-db",
       "alias": null,
       "key": "OOM",
+      "type": "Acoustic",
       "appears": 15
     },
     {
@@ -86,6 +96,7 @@
       "cleaned": "harmonica",
       "alias": null,
       "key": "H",
+      "type": "Harmonica",
       "appears": 12
     },
     {
@@ -94,6 +105,7 @@
       "cleaned": "mandolin",
       "alias": null,
       "key": "Mandolin",
+      "type": "Mandolin",
       "appears": 12
     },
     {
@@ -102,6 +114,7 @@
       "cleaned": "furch-vintage-2-rs-sr",
       "alias": null,
       "key": "FV2",
+      "type": "Acoustic",
       "appears": 10
     },
     {
@@ -110,6 +123,7 @@
       "cleaned": "seagull-artist-studio",
       "alias": null,
       "key": "SAS",
+      "type": "Acoustic",
       "appears": 5
     },
     {
@@ -118,6 +132,7 @@
       "cleaned": "furch-blue-gc-sa",
       "alias": null,
       "key": "FBG",
+      "type": "Acoustic",
       "appears": 4
     },
     {
@@ -126,6 +141,7 @@
       "cleaned": "12-string-guitar",
       "alias": null,
       "key": "12-String Guitar",
+      "type": "Acoustic",
       "appears": 3
     },
     {
@@ -134,6 +150,7 @@
       "cleaned": "blues-slide",
       "alias": null,
       "key": "Blues Slide",
+      "type": "Blues Slide",
       "appears": 3
     },
     {
@@ -142,6 +159,7 @@
       "cleaned": "breedlove-discovery-concert-ce",
       "alias": null,
       "key": "BDC",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -150,6 +168,7 @@
       "cleaned": "boucher-hg-56",
       "alias": null,
       "key": "BHG",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -158,6 +177,7 @@
       "cleaned": "boucher-sg-52",
       "alias": null,
       "key": "BSG",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -166,6 +186,7 @@
       "cleaned": "boucher-sg-52-i",
       "alias": null,
       "key": "BSGI",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -174,7 +195,7 @@
       "cleaned": "dearmond-m75",
       "alias": null,
       "key": "DM75",
-      "type": "electric guitar",
+      "type": "Electric",
       "appears": 1
     },
     {
@@ -183,6 +204,7 @@
       "cleaned": "furch-blue-d-cm",
       "alias": null,
       "key": "FBD",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -191,6 +213,7 @@
       "cleaned": "furch-g25cr-c",
       "alias": null,
       "key": "FG",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -199,6 +222,7 @@
       "cleaned": "furch-om34tsr-db-b2",
       "alias": null,
       "key": "FOB",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -207,6 +231,7 @@
       "cleaned": "furch-om22tsw-c-db-sgi",
       "alias": null,
       "key": "FOSG",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -215,6 +240,7 @@
       "cleaned": "furch-sgi-d22tsr",
       "alias": null,
       "key": "FSD",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -223,6 +249,7 @@
       "cleaned": "furch-vintage-2-d-sr",
       "alias": null,
       "key": "FVD",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -231,6 +258,7 @@
       "cleaned": "godin-fairmount-concert-hall-natural-hg-eq",
       "alias": null,
       "key": "GFCHN",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -239,7 +267,7 @@
       "cleaned": "godin-5th-ave-uptown-gt-ltd-trans-cream",
       "alias": null,
       "key": "GLTC",
-      "type": "electric guitar",
+      "type": "Electric",
       "appears": 1
     },
     {
@@ -248,6 +276,7 @@
       "cleaned": "godin-metropolis-ltd-havana-burst-hg-eq",
       "alias": null,
       "key": "GMLHB",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -256,6 +285,7 @@
       "cleaned": "godin-metropolis-ltd-natural-hg-eq",
       "alias": null,
       "key": "GMLN",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -264,6 +294,7 @@
       "cleaned": "godin-metropolis-natural-cedar-eq",
       "alias": null,
       "key": "GMNC",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -272,7 +303,7 @@
       "cleaned": "godin-progression-plus-cherry-burst-rn",
       "alias": null,
       "key": "GPPCB",
-      "type": "electric guitar",
+      "type": "Electric",
       "appears": 1
     },
     {
@@ -281,7 +312,7 @@
       "cleaned": "godin-passion-rg-3-indigo-burst-rn",
       "alias": null,
       "key": "GPRG",
-      "type": "electric guitar",
+      "type": "Electric",
       "appears": 1
     },
     {
@@ -290,6 +321,7 @@
       "cleaned": "godin-rialto-jr-satina-gray-hg-q-discrete",
       "alias": null,
       "key": "GRSG",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -298,7 +330,7 @@
       "cleaned": "godin-stadium-59-desert-green-rn",
       "alias": null,
       "key": "GSDG",
-      "type": "electric guitar",
+      "type": "Electric",
       "appears": 1
     },
     {
@@ -307,7 +339,7 @@
       "cleaned": "la-patrie-etude",
       "alias": null,
       "key": "LPE",
-      "type": "classical guitar",
+      "type": "Classical",
       "appears": 1
     },
     {
@@ -316,6 +348,7 @@
       "cleaned": "maestro-fan-fretted-singa-flamed-maple-adirondack",
       "alias": null,
       "key": "MFF",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -324,6 +357,7 @@
       "cleaned": "martin-hd-28",
       "alias": null,
       "key": "MHD",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -332,6 +366,7 @@
       "cleaned": "norman-b20-burnt-umber",
       "alias": null,
       "key": "NBBU",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -340,6 +375,7 @@
       "cleaned": "norman-b15-dark-almond",
       "alias": null,
       "key": "NBDA",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -348,6 +384,7 @@
       "cleaned": "norman-st40-cw-gt-presys",
       "alias": null,
       "key": "NSCG",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -356,6 +393,7 @@
       "cleaned": "norman-st40-parlor-burnt-umber",
       "alias": null,
       "key": "NSPBU",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -364,6 +402,7 @@
       "cleaned": "norman-st68-cw",
       "alias": null,
       "key": "NSTCW",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -372,6 +411,7 @@
       "cleaned": "furch-oom-vintage-1",
       "alias": null,
       "key": "OOMV1",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -380,6 +420,7 @@
       "cleaned": "stonebridge-d22sr",
       "alias": null,
       "key": "SD22",
+      "type": "Acoustic",
       "appears": 1
     },
     {
@@ -388,6 +429,7 @@
       "cleaned": "stonebridge-om35asr-db",
       "alias": null,
       "key": "SOM",
+      "type": "Acoustic",
       "appears": 1
     }
   ]

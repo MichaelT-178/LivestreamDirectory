@@ -21,8 +21,7 @@ public class Instrument
     public string? Key { get; set; }
 
     [JsonPropertyName("type")]
-    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)] 
-    public string? Type { get; set; }
+    public string Type { get; set; } = "";
 
     [JsonPropertyName("appears")]
     public int Appears { get; set; } = 0;
