@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "(main) - Stonebridge (Furch) OM32SM",
+      "nameNoKey": "Acoustic Guitar",
       "cleaned": "acoustic-guitar",
       "alias": "Acoustic Guitar",
       "key": null,
@@ -12,6 +13,7 @@
     {
       "id": 2,
       "name": "Fender Telecaster",
+      "nameNoKey": "Electric Guitar",
       "cleaned": "electric-guitar",
       "alias": "Electric Guitar",
       "key": null,
@@ -21,6 +23,7 @@
     {
       "id": 3,
       "name": "(M15M) - Martin 00-15m",
+      "nameNoKey": "Martin 00-15m",
       "cleaned": "martin-00-15m",
       "alias": null,
       "key": "M15M",
@@ -30,6 +33,7 @@
     {
       "id": 4,
       "name": "(DX1R) - Martin DX1R",
+      "nameNoKey": "Martin DX1R",
       "cleaned": "martin-dx1r",
       "alias": null,
       "key": "DX1R",
@@ -39,6 +43,7 @@
     {
       "id": 5,
       "name": "(MDT) - Maestro Double Top",
+      "nameNoKey": "Maestro Double Top",
       "cleaned": "maestro-double-top",
       "alias": null,
       "key": "MDT",
@@ -48,6 +53,7 @@
     {
       "id": 6,
       "name": "(SGI) - SGI Avenir CW20",
+      "nameNoKey": "SGI Avenir CW20",
       "cleaned": "sgi-avenir-cw20",
       "alias": null,
       "key": "SGI",
@@ -57,6 +63,7 @@
     {
       "id": 7,
       "name": "(BH) - Brickhouse Demo",
+      "nameNoKey": "Brickhouse Demo",
       "cleaned": "brickhouse-demo",
       "alias": null,
       "key": "BH",
@@ -66,6 +73,7 @@
     {
       "id": 8,
       "name": "Asturias Standard S",
+      "nameNoKey": "Classical Guitar",
       "cleaned": "classical-guitar",
       "alias": "Classical Guitar",
       "key": "Classical Guitar",
@@ -75,6 +83,7 @@
     {
       "id": 9,
       "name": "(NST) - Norman ST68",
+      "nameNoKey": "Norman ST68",
       "cleaned": "norman-st68",
       "alias": null,
       "key": "NST",
@@ -84,6 +93,7 @@
     {
       "id": 10,
       "name": "(OOM) - Furch OOM-SR-DB",
+      "nameNoKey": "Furch OOM-SR-DB",
       "cleaned": "furch-oom-sr-db",
       "alias": null,
       "key": "OOM",
@@ -93,6 +103,7 @@
     {
       "id": 11,
       "name": "Harmonica",
+      "nameNoKey": "Harmonica",
       "cleaned": "harmonica",
       "alias": null,
       "key": "H",
@@ -102,6 +113,7 @@
     {
       "id": 12,
       "name": "Mandolin",
+      "nameNoKey": "Mandolin",
       "cleaned": "mandolin",
       "alias": null,
       "key": "Mandolin",
@@ -111,6 +123,7 @@
     {
       "id": 13,
       "name": "(FV2) - Furch Vintage 2 RS-SR",
+      "nameNoKey": "Furch Vintage 2 RS-SR",
       "cleaned": "furch-vintage-2-rs-sr",
       "alias": null,
       "key": "FV2",
@@ -120,6 +133,7 @@
     {
       "id": 14,
       "name": "(SAS) - Seagull Artist Studio",
+      "nameNoKey": "Seagull Artist Studio",
       "cleaned": "seagull-artist-studio",
       "alias": null,
       "key": "SAS",
@@ -129,6 +143,7 @@
     {
       "id": 15,
       "name": "(FBG) - Furch Blue Gc-SA",
+      "nameNoKey": "Furch Blue Gc-SA",
       "cleaned": "furch-blue-gc-sa",
       "alias": null,
       "key": "FBG",
@@ -138,6 +153,7 @@
     {
       "id": 16,
       "name": "12-String Guitar",
+      "nameNoKey": "12-String Guitar",
       "cleaned": "12-string-guitar",
       "alias": null,
       "key": "12-String Guitar",
@@ -147,6 +163,7 @@
     {
       "id": 17,
       "name": "Blues Slide",
+      "nameNoKey": "Blues Slide",
       "cleaned": "blues-slide",
       "alias": null,
       "key": "Blues Slide",
@@ -156,6 +173,7 @@
     {
       "id": 18,
       "name": "(BDC) - Breedlove Discovery Concert CE",
+      "nameNoKey": "Breedlove Discovery Concert CE",
       "cleaned": "breedlove-discovery-concert-ce",
       "alias": null,
       "key": "BDC",
@@ -165,6 +183,7 @@
     {
       "id": 19,
       "name": "(BHG) - Boucher HG-56",
+      "nameNoKey": "Boucher HG-56",
       "cleaned": "boucher-hg-56",
       "alias": null,
       "key": "BHG",
@@ -174,6 +193,7 @@
     {
       "id": 20,
       "name": "(BSG) - Boucher SG-52",
+      "nameNoKey": "Boucher SG-52",
       "cleaned": "boucher-sg-52",
       "alias": null,
       "key": "BSG",
@@ -183,6 +203,7 @@
     {
       "id": 21,
       "name": "(BSGI) - Boucher SG-52-I",
+      "nameNoKey": "Boucher SG-52-I",
       "cleaned": "boucher-sg-52-i",
       "alias": null,
       "key": "BSGI",
@@ -192,6 +213,7 @@
     {
       "id": 22,
       "name": "(DM75) - DeArmond M75",
+      "nameNoKey": "DeArmond M75",
       "cleaned": "dearmond-m75",
       "alias": null,
       "key": "DM75",
@@ -201,6 +223,7 @@
     {
       "id": 23,
       "name": "(FBD) - Furch Blue D-CM",
+      "nameNoKey": "Furch Blue D-CM",
       "cleaned": "furch-blue-d-cm",
       "alias": null,
       "key": "FBD",
@@ -210,6 +233,7 @@
     {
       "id": 24,
       "name": "(FG) - Furch G25CR-C",
+      "nameNoKey": "Furch G25CR-C",
       "cleaned": "furch-g25cr-c",
       "alias": null,
       "key": "FG",
@@ -219,6 +243,7 @@
     {
       "id": 25,
       "name": "(FOB) - Furch OM34TSR-DB B2",
+      "nameNoKey": "Furch OM34TSR-DB B2",
       "cleaned": "furch-om34tsr-db-b2",
       "alias": null,
       "key": "FOB",
@@ -228,6 +253,7 @@
     {
       "id": 26,
       "name": "(FOSG) - Furch OM22TSW-C-DB SGI",
+      "nameNoKey": "Furch OM22TSW-C-DB SGI",
       "cleaned": "furch-om22tsw-c-db-sgi",
       "alias": null,
       "key": "FOSG",
@@ -237,6 +263,7 @@
     {
       "id": 27,
       "name": "(FSD) - Furch *SGI* D22TSR",
+      "nameNoKey": "Furch *SGI* D22TSR",
       "cleaned": "furch-sgi-d22tsr",
       "alias": null,
       "key": "FSD",
@@ -246,6 +273,7 @@
     {
       "id": 28,
       "name": "(FVD) - Furch Vintage 2 D-SR",
+      "nameNoKey": "Furch Vintage 2 D-SR",
       "cleaned": "furch-vintage-2-d-sr",
       "alias": null,
       "key": "FVD",
@@ -255,6 +283,7 @@
     {
       "id": 29,
       "name": "(GFCHN) - Godin Fairmount Concert Hall Natural HG EQ",
+      "nameNoKey": "Godin Fairmount Concert Hall Natural HG EQ",
       "cleaned": "godin-fairmount-concert-hall-natural-hg-eq",
       "alias": null,
       "key": "GFCHN",
@@ -264,6 +293,7 @@
     {
       "id": 30,
       "name": "(GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream",
+      "nameNoKey": "Godin 5th Ave Uptown GT LTD Trans Cream",
       "cleaned": "godin-5th-ave-uptown-gt-ltd-trans-cream",
       "alias": null,
       "key": "GLTC",
@@ -273,6 +303,7 @@
     {
       "id": 31,
       "name": "(GMLHB) - Godin Metropolis LTD Havana Burst HG EQ",
+      "nameNoKey": "Godin Metropolis LTD Havana Burst HG EQ",
       "cleaned": "godin-metropolis-ltd-havana-burst-hg-eq",
       "alias": null,
       "key": "GMLHB",
@@ -282,6 +313,7 @@
     {
       "id": 32,
       "name": "(GMLN) - Godin Metropolis LTD Natural HG EQ",
+      "nameNoKey": "Godin Metropolis LTD Natural HG EQ",
       "cleaned": "godin-metropolis-ltd-natural-hg-eq",
       "alias": null,
       "key": "GMLN",
@@ -291,6 +323,7 @@
     {
       "id": 33,
       "name": "(GMNC) - Godin Metropolis Natural Cedar EQ",
+      "nameNoKey": "Godin Metropolis Natural Cedar EQ",
       "cleaned": "godin-metropolis-natural-cedar-eq",
       "alias": null,
       "key": "GMNC",
@@ -300,6 +333,7 @@
     {
       "id": 34,
       "name": "(GPPCB) - Godin Progression Plus Cherry Burst RN",
+      "nameNoKey": "Godin Progression Plus Cherry Burst RN",
       "cleaned": "godin-progression-plus-cherry-burst-rn",
       "alias": null,
       "key": "GPPCB",
@@ -309,6 +343,7 @@
     {
       "id": 35,
       "name": "(GPRG) - Godin Passion RG-3 Indigo Burst RN",
+      "nameNoKey": "Godin Passion RG-3 Indigo Burst RN",
       "cleaned": "godin-passion-rg-3-indigo-burst-rn",
       "alias": null,
       "key": "GPRG",
@@ -318,6 +353,7 @@
     {
       "id": 36,
       "name": "(GRSG) - Godin Rialto JR Satina Gray HG Q-Discrete",
+      "nameNoKey": "Godin Rialto JR Satina Gray HG Q-Discrete",
       "cleaned": "godin-rialto-jr-satina-gray-hg-q-discrete",
       "alias": null,
       "key": "GRSG",
@@ -327,6 +363,7 @@
     {
       "id": 37,
       "name": "(GSDG) - Godin Stadium '59 Desert Green RN",
+      "nameNoKey": "Godin Stadium '59 Desert Green RN",
       "cleaned": "godin-stadium-59-desert-green-rn",
       "alias": null,
       "key": "GSDG",
@@ -336,6 +373,7 @@
     {
       "id": 38,
       "name": "(LPE) - La Patrie Etude",
+      "nameNoKey": "La Patrie Etude",
       "cleaned": "la-patrie-etude",
       "alias": null,
       "key": "LPE",
@@ -345,6 +383,7 @@
     {
       "id": 39,
       "name": "(MFF) - Maestro Fan Fretted Singa Flamed maple / Adirondack",
+      "nameNoKey": "Maestro Fan Fretted Singa Flamed maple / Adirondack",
       "cleaned": "maestro-fan-fretted-singa-flamed-maple-adirondack",
       "alias": null,
       "key": "MFF",
@@ -354,6 +393,7 @@
     {
       "id": 40,
       "name": "(MHD) - Martin HD-28",
+      "nameNoKey": "Martin HD-28",
       "cleaned": "martin-hd-28",
       "alias": null,
       "key": "MHD",
@@ -363,6 +403,7 @@
     {
       "id": 41,
       "name": "(NBBU) - Norman B20 Burnt Umber",
+      "nameNoKey": "Norman B20 Burnt Umber",
       "cleaned": "norman-b20-burnt-umber",
       "alias": null,
       "key": "NBBU",
@@ -372,6 +413,7 @@
     {
       "id": 42,
       "name": "(NBDA) - Norman B15 Dark Almond",
+      "nameNoKey": "Norman B15 Dark Almond",
       "cleaned": "norman-b15-dark-almond",
       "alias": null,
       "key": "NBDA",
@@ -381,6 +423,7 @@
     {
       "id": 43,
       "name": "(NSCG) - Norman ST40 CW GT Presys",
+      "nameNoKey": "Norman ST40 CW GT Presys",
       "cleaned": "norman-st40-cw-gt-presys",
       "alias": null,
       "key": "NSCG",
@@ -390,6 +433,7 @@
     {
       "id": 44,
       "name": "(NSPBU) - Norman ST40 Parlor Burnt Umber",
+      "nameNoKey": "Norman ST40 Parlor Burnt Umber",
       "cleaned": "norman-st40-parlor-burnt-umber",
       "alias": null,
       "key": "NSPBU",
@@ -399,6 +443,7 @@
     {
       "id": 45,
       "name": "(NSTCW) - Norman ST68 CW",
+      "nameNoKey": "Norman ST68 CW",
       "cleaned": "norman-st68-cw",
       "alias": null,
       "key": "NSTCW",
@@ -408,6 +453,7 @@
     {
       "id": 46,
       "name": "(OOMV1) - Furch OOM Vintage 1",
+      "nameNoKey": "Furch OOM Vintage 1",
       "cleaned": "furch-oom-vintage-1",
       "alias": null,
       "key": "OOMV1",
@@ -417,6 +463,7 @@
     {
       "id": 47,
       "name": "(SD22) - Stonebridge D22SR",
+      "nameNoKey": "Stonebridge D22SR",
       "cleaned": "stonebridge-d22sr",
       "alias": null,
       "key": "SD22",
@@ -426,6 +473,7 @@
     {
       "id": 48,
       "name": "(SOM) - Stonebridge OM35ASR-DB",
+      "nameNoKey": "Stonebridge OM35ASR-DB",
       "cleaned": "stonebridge-om35asr-db",
       "alias": null,
       "key": "SOM",

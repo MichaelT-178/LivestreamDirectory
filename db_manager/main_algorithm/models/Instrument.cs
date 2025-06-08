@@ -11,6 +11,9 @@ public class Instrument
     [JsonPropertyName("name")]
     public string Name { get; set; } = "";
 
+    [JsonPropertyName("nameNoKey")]
+    public string NameNoKey { get; set; } = "";
+
     [JsonPropertyName("cleaned")]
     public string CleanedName { get; set; } = "";
 
