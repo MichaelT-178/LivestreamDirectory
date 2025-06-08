@@ -163,6 +163,11 @@ class CreateNewInstrument
                 .ToList();
         }
 
+        for (int i = 0; i < wrapper.Instruments.Count; i++)
+        {
+            wrapper.Instruments[i].Id = i + 1;
+        }
+
         var writeOptions = new JsonSerializerOptions
         {
             WriteIndented = true,
