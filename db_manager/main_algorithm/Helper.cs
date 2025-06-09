@@ -216,6 +216,7 @@ class Helper
                 .Replace("(BSG)", "")
                 .Replace("(MFF)", "")
                 .Replace("(Electric Song/DM75)", "")
+                .Replace("(Electric Song/Strat)", "")
                 .Replace("(Electric riff/Blues Slide)", "")
 
                 .Replace("(OOMV1)", "")

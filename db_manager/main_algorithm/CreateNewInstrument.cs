@@ -318,6 +318,7 @@ class CreateNewInstrument
         {
             if ((key == "Electric Song" || key == "Electric riff" || song.Title.Contains("Electric Riff Session")) &&
                 !keyList.Contains("DM75") &&
+                !keyList.Contains("Strat") &&
                 !keyList.Contains("GPPCB") &&
                 !keyList.Contains("GSDG") &&
                 !keyList.Contains("GPRG") &&
@@ -401,6 +402,10 @@ class CreateNewInstrument
             else if (key == "DM75")
             {
                 result.Add(new MapData("dearmond-m75", instrumentSong));
+            }
+            else if (key == "Strat")
+            {
+                result.Add(new MapData("fender-stratocaster", instrumentSong));
             }
             else if (key == "MFF")
             {
@@ -567,7 +572,7 @@ class CreateNewInstrument
      {
         HashSet<string> REMOVE_KEYS = [
             "12-String", "BDC", "BH", "BHG", "BSG", "BSGI", "Blues Slide", "Classical Guitar",
-            "DM75", "DX1R", "Electric Song", "Electric riff", "FBD", "FBG", "FG", "FOB", "FOSG",
+            "DM75", "Strat", "DX1R", "Electric Song", "Electric riff", "FBD", "FBG", "FG", "FOB", "FOSG",
             "FSD", "FV2", "FVD", "GFCHN", "GLTC", "GMLHB", "GMLN", "GMNC", "GPPCB", "GPRG", "GRSG",
             "GSDG", "LPE", "M15M", "MDT", "MFF", "MHD", "Mandolin", "NBBU", "NBDA", "NSCG", "NSPBU",
             "NST", "NSTCW", "OOM", "OOMV1", "SAS", "SD22", "SGI", "SOM", "H", "Rein Rutnik Performance"

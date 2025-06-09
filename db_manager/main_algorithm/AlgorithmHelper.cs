@@ -227,7 +227,7 @@ class AlgorithmHelper
      {
         string[] excludedKeys = { 
             "(Electric riff", "(Electric Song", "(Classical Guitar", "(Mandolin", "(H)", 
-            "Electric Riff Session #", "DM75", "GPPCB", "GSDG", "GPRG", "GLTC", "FBG", "DX1R",
+            "Electric Riff Session #", "DM75", "Strat", "GPPCB", "GSDG", "GPRG", "GLTC", "FBG", "DX1R",
             "MDT", "M15M", "NST", "OOM", "SAS", "SGI", "SOM", "FV2", "12-String Guitar", "MHD", 
             "FVD", "BSG", "BSGI", "MFF", "OOMV1", "FBD", "GRSG", "GMNC", "GMLN", "GMLHB", 
             "GFCHN", "BHG", "FOSG", "FG", "FSD", "FOB", "BDC", "NSPBU", "NBDA", "NBBU", 
@@ -268,6 +268,7 @@ class AlgorithmHelper
             !songWithKeys.Contains("GSDG") &&
             !songWithKeys.Contains("GPRG") &&
             !songWithKeys.Contains("GLTC") && 
+            !songWithKeys.Contains("Strat") && 
             !currentInstruments.Contains("Electric Guitar") &&
             !currentInstruments.Contains("Fender Telecaster")
         )
@@ -457,6 +458,7 @@ class AlgorithmHelper
             {"(12-String)", "Acoustic Guitar, 12-String Guitar"},
 
             {"(DM75)", "Electric Guitar, (DM75) - DeArmond M75"},
+            {"(Strat)", "Electric Guitar, (Strat) - Fender Stratocaster"},
             {"(GPPCB)", "Electric Guitar, (GPPCB) - Godin Progression Plus Cherry Burst RN"},
             {"(GSDG)", "Electric Guitar, (GSDG) - Godin Stadium '59 Desert Green RN"},
             {"(GPRG)", "Electric Guitar, (GPRG) - Godin Passion RG-3 Indigo Burst RN"},
