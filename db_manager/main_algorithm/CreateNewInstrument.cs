@@ -301,7 +301,8 @@ class CreateNewInstrument
         string cleanedSongTitle = RemoveAllKeysFromSong(song.Title);
         string cleanedAppearance = RemoveInstrumentKeys(appearance);
 
-        InstrumentSong instrumentSong = new(id, cleanedSongTitle, song.Artist, cleanedAppearance, link);
+        InstrumentSong instrumentSong = new(id, cleanedSongTitle, song.Artist,
+                                        cleanedAppearance, song.CleanedAlbum, song.CleanedArtist, link);
         
         if (
             string.IsNullOrWhiteSpace(keyListStr)
