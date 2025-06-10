@@ -1,4 +1,4 @@
-Control + g. Type 1229 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1233 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1226,6 +1226,10 @@ https://youtu.be/khq53DWmW1o?si=rqXBO0YBAmLvARbx
 Solo Video
 https://youtu.be/-JOWWJG61Zk?si=7EV3AX73sX2deoJ7
 0:00 Diary of a Madman by Ozzy Osbourne
+
+Solo Video
+https://youtu.be/oEGizdHR2Fs?si=T4RJds3qTs_9WMFh
+5:01 Improv Funk Jam (Electric Song/Strat) by Corey Heuvel
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
