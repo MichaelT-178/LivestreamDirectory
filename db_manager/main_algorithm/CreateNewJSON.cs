@@ -9,6 +9,7 @@ using Newtonsoft.Json;
  * UpdateFavoriteCovers | Update VueLivestreamDirectory FavCovers.json file.
  * CreateVueRepertoire | Create the repertoire.json file in VueLivestreamDirectory.
  * CreateSongsFile | Create the songs.json file in VueLivestreamDirectory.
+ * MergeAppearancesAndLinks | Make an object list out of appearances and links
  * CreateSearchData | Create the SearchData.json file in VueLivestreamDirectory.
  * CreateArtistFile | Create the artists.json file in VueLivestreamDirectory.
  * AddArtistToMap | Adds a song and its associated album to the artist entry in the map.
@@ -163,13 +164,45 @@ class CreateNewJSON
                 song.Other_Artists,
                 song.Instruments,
                 song.Search,
-                song.Appearances,
-                song.Links
+                Appearances = MergeAppearancesAndLinks(song.Appearances, song.Links),
             });
 
         string json = JsonConvert.SerializeObject(songDict, Formatting.Indented);
         JSONHelper.WriteJSONToVueData("songs.json", json);
     }
+
+
+    /**
+     * Make an object list out of appearances and links
+     *
+     * @param appearances String of all appearances separated by ","
+     * @param links String of all links separated by " , " 
+     * @return List of new appearance objects
+     */
+    private static List<object> MergeAppearancesAndLinks(string appearancesStr, string linksStr)
+    {
+        var appearanceList = appearancesStr.Split(',').Select(a => a.Trim()).ToList();
+        var linkList = linksStr.Split([" , "], StringSplitOptions.None).Select(l => l.Trim()).ToList();
+
+        int count = Math.Max(appearanceList.Count, linkList.Count);
+
+        var combinedList = new List<object>();
+
+        for (int i = 0; i < count; i++)
+        {
+            string appearance = i < appearanceList.Count ? appearanceList[i] : "";
+            string link = i < linkList.Count ? linkList[i] : "";
+
+            combinedList.Add(new
+            {
+                appearance,
+                link
+            });
+        }
+
+        return combinedList;
+    }
+
 
     /**
      * Create the SearchData.json file in VueLivestreamDirectory.
