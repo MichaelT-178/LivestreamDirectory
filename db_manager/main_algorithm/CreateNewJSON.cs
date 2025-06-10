@@ -185,25 +185,32 @@ class CreateNewJSON
         var linkList = linksStr.Split([" , "], StringSplitOptions.None).Select(l => l.Trim()).ToList();
 
         int count = Math.Max(appearanceList.Count, linkList.Count);
-
         var combinedList = new List<object>();
 
         for (int i = 0; i < count; i++)
         {
-            string appearance = i < appearanceList.Count ? appearanceList[i] : "";
+            string fullAppearance = i < appearanceList.Count ? appearanceList[i] : "";
+            string appearance = AlgorithmHelper.CleanAppearance(fullAppearance);
             string link = i < linkList.Count ? linkList[i] : "";
+            List<string> keys = AlgorithmHelper.ExtractKeysFromAppearance(fullAppearance);
+
+            if (fullAppearance == CreateNewInstrument.RemoveInstrumentKeys(fullAppearance))
+            {
+                keys.Insert(0, "main");
+            }
 
             combinedList.Add(new
             {
                 appearance,
-                link
+                link,
+                keys
             });
         }
 
         return combinedList;
     }
 
-
+    
     /**
      * Create the SearchData.json file in VueLivestreamDirectory.
      */

@@ -17,14 +17,16 @@ using System.Text.RegularExpressions;
  * RemoveDuplicateGuitars | Removes duplicate acoustic, classical, and electric substrings
  * MoveAcousticGuitarToFront | Takes a string of instruments and moves Acoustic Guitar to the front.
  * GetInstrumentsFromSong | Gets the instruments from a song title based on it's keys.
+ * CleanAppearance | Gets the instruments from a song title based on it's keys.
+ * ExtractKeysFromAppearance | Gets the keys from an appearance as a string list
  *
  * @author Michael Totaro
  */
 class AlgorithmHelper
-{   
+{
     /** Path to the keys_to_keep file*/
     private static string keysToKeepPath = "./db_manager/json_files/keys_to_keep.json";
-    
+
     /** String List of all the keys to not remove */
     private static List<string> keysToKeep = JSONHelper.GetKeyListFromFile(keysToKeepPath, "song_keys");
 
@@ -37,7 +39,7 @@ class AlgorithmHelper
      * @return A string list of the keys for 
      */
     public static List<string> GetAllKeysFromLines(string currLs, string song)
-        {
+    {
         string pattern = @"\((.*?)\)";
         Regex regex = new(pattern);
 
@@ -78,7 +80,7 @@ class AlgorithmHelper
      *         no keys.
      */
     public static string GetKeysJoinedAsString(List<string> keyList)
-    {   
+    {
         // Guard clause. If list is empty, just return empty string.
         if (keyList.Count == 0) return "";
 
@@ -92,7 +94,7 @@ class AlgorithmHelper
             resultString += keyNoParenthesis + "/";
         }
 
-        if (resultString.Count(c => c == '/') == 1) 
+        if (resultString.Count(c => c == '/') == 1)
         {
             resultString = resultString.Replace("Blocked in US ", "Blocked in US");
         }
@@ -113,7 +115,7 @@ class AlgorithmHelper
     {
 
         string[] specialKeys = { "(Electric riff/Blues Slide)" };
-    
+
         foreach (var specialKey in specialKeys)
         {
             if (appearances.Contains(specialKey))
@@ -124,9 +126,9 @@ class AlgorithmHelper
 
         int numOfAppearances = appearances.Split(",").Length;
         List<string> appearanceKeys = GetAllKeysFromLines(appearances, "");
-        
+
         List<string> allAppearanceKeys = [];
-        
+
         foreach (string appKey in appearanceKeys)
         {
             List<string> appKeysList = appKey.Split("/").ToList();
@@ -145,9 +147,9 @@ class AlgorithmHelper
 
         if (
             numOfElectricRiffs == 0 &&
-            numOfAudioIssues == 0 && 
-            numOfReinPerformances == 0 && 
-            numOfInstrumental == 0 && 
+            numOfAudioIssues == 0 &&
+            numOfReinPerformances == 0 &&
+            numOfInstrumental == 0 &&
             numOfPartial == 0
         )
         {
@@ -223,14 +225,14 @@ class AlgorithmHelper
      * @param currentInstruments is the currentInstruments string that contains instrument keys.
      * @return Acoustic guitar string if condition met, else a blank string
      */
-     public static string AddDefaultAcousticGuitar(string songWithKeys, string currentInstruments)
-     {
-        string[] excludedKeys = { 
-            "(Electric riff", "(Electric Song", "(Classical Guitar", "(Mandolin", "(H)", 
+    public static string AddDefaultAcousticGuitar(string songWithKeys, string currentInstruments)
+    {
+        string[] excludedKeys = {
+            "(Electric riff", "(Electric Song", "(Classical Guitar", "(Mandolin", "(H)",
             "Electric Riff Session #", "DM75", "Strat", "GPPCB", "GSDG", "GPRG", "GLTC", "FBG", "DX1R",
-            "MDT", "M15M", "NST", "OOM", "SAS", "SGI", "SOM", "FV2", "12-String Guitar", "MHD", 
-            "FVD", "BSG", "BSGI", "MFF", "OOMV1", "FBD", "GRSG", "GMNC", "GMLN", "GMLHB", 
-            "GFCHN", "BHG", "FOSG", "FG", "FSD", "FOB", "BDC", "NSPBU", "NBDA", "NBBU", 
+            "MDT", "M15M", "NST", "OOM", "SAS", "SGI", "SOM", "FV2", "12-String Guitar", "MHD",
+            "FVD", "BSG", "BSGI", "MFF", "OOMV1", "FBD", "GRSG", "GMNC", "GMLN", "GMLHB",
+            "GFCHN", "BHG", "FOSG", "FG", "FSD", "FOB", "BDC", "NSPBU", "NBDA", "NBBU",
             "NSCG", "NSTCW", "SD22"
         };
 
@@ -267,8 +269,8 @@ class AlgorithmHelper
             !songWithKeys.Contains("GPPCB") &&
             !songWithKeys.Contains("GSDG") &&
             !songWithKeys.Contains("GPRG") &&
-            !songWithKeys.Contains("GLTC") && 
-            !songWithKeys.Contains("Strat") && 
+            !songWithKeys.Contains("GLTC") &&
+            !songWithKeys.Contains("Strat") &&
             !currentInstruments.Contains("Electric Guitar") &&
             !currentInstruments.Contains("Fender Telecaster")
         )
@@ -301,7 +303,7 @@ class AlgorithmHelper
             songWithKeys.Contains("Classical Guitar") &&
             !songWithKeys.Contains("LPE") &&
             !currentInstruments.Contains("Classical Guitar") &&
-            !currentInstruments.Contains("Asturias Standard S") 
+            !currentInstruments.Contains("Asturias Standard S")
         )
         {
             return "Classical Guitar, Asturias Standard S, ";
@@ -338,7 +340,7 @@ class AlgorithmHelper
                 // Keep first occurrence, remove all the other ones
                 int startIndex = firstIndex + substring.Length;
                 string before = input.Substring(0, startIndex);
-                
+
                 string after = input.Substring(startIndex).Replace(substring, "");
                 input = before + after;
             }
@@ -400,7 +402,7 @@ class AlgorithmHelper
             }
         }
 
-        if (acousticGuitar != null) 
+        if (acousticGuitar != null)
         {
             reordered.Add(acousticGuitar);
         }
@@ -463,7 +465,7 @@ class AlgorithmHelper
             {"(GSDG)", "Electric Guitar, (GSDG) - Godin Stadium '59 Desert Green RN"},
             {"(GPRG)", "Electric Guitar, (GPRG) - Godin Passion RG-3 Indigo Burst RN"},
             {"(GLTC)", "Electric Guitar, (GLTC) - Godin 5th Ave Uptown GT LTD Trans Cream"},
-            
+
             {"(LPE)", "Classical Guitar, (LPE) - La Patrie Etude"},
 
 
@@ -529,5 +531,46 @@ class AlgorithmHelper
 
         return instrumentsToAdd.ToString();
     }
+
+    /**
+     * Gets the instruments from a song title based on it's keys.
+     *
+     * Livestream 47 (Electric riff/Blues Slide) - > Livestream 47
+     *
+     * @param appearance The appearance with it's parenthesis keys
+     * @return The appearnce without it's parenthesis keys.
+     */
+    public static string CleanAppearance(string appearance)
+    {
+        int parenIndex = appearance.IndexOf('(');
+        return parenIndex > 0 ? appearance.Substring(0, parenIndex).Trim() : appearance;
+    }
+    
+    /**
+     * Gets the keys from an appearance as a string list
+     *
+     * Livestream 47 (Electric riff/Blues Slide) - > ["Electric riff", "Blues Slide"]
+     *
+     * @param appearance The appearance with it's parenthesis keys
+     * @return A string list of keys
+     */
+    public static List<string> ExtractKeysFromAppearance(string appearance)
+    {
+        var match = Regex.Match(appearance, @"\((.*?)\)");
+
+        if (!match.Success)
+        {
+            return new List<string>();
+        }
+
+        string inner = match.Groups[1].Value;
+
+        return inner.Split('/')
+                    .Select(k => k.Trim())
+                    .Where(k => !string.IsNullOrWhiteSpace(k))
+                    .ToList();
+    }
+
+
 
 }
