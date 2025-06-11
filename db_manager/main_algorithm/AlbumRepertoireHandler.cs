@@ -133,6 +133,7 @@ class AlbumRepertoireHandler
             var data = JsonSerializer.Deserialize<AlbumWrapper>(jsonContent)!;
 
             int idCounter = 1;
+
             foreach (var album in data.albums)
             {
                 album.id = idCounter++;
@@ -165,6 +166,7 @@ class AlbumRepertoireHandler
 
             string updatedJson = JsonSerializer.Serialize(data, options);
             File.WriteAllText(albumJSONFilePath, updatedJson);
+            
             Color.PrintLine("Cleaned attributes and IDs updated successfully.", "green");
         }
         catch (Exception ex)

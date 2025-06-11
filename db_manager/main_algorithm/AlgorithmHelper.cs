@@ -141,7 +141,7 @@ class AlgorithmHelper
 
         int numOfElectricRiffs = allAppearanceKeys.Count(s => s == "Electric riff");
         int numOfAudioIssues = allAppearanceKeys.Count(s => s == "Audio Issues");
-        int numOfReinPerformances = allAppearanceKeys.Count(s => s == "Rein Rutnik Performance");
+        int numOfReinPerformances = allAppearanceKeys.Count(s => s == "Rein Rutnik");
         int numOfInstrumental = allAppearanceKeys.Count(s => s == "Instrumental");
         int numOfPartial = allAppearanceKeys.Count(s => s == "Partial");
 
@@ -162,7 +162,7 @@ class AlgorithmHelper
         }
         else if (numOfReinPerformances == numOfAppearances)
         {
-            return " (Rein Rutnik Performance)";
+            return " (Rein Rutnik)";
         }
         else if (numOfAudioIssues == numOfAppearances)
         {
@@ -456,7 +456,7 @@ class AlgorithmHelper
             {"(FV2)",  "Acoustic Guitar, (FV2) - Furch Vintage 2 RS-SR"},
             {"(Mandolin)", "Mandolin"},
             {"(Blues Slide)", "Blues Slide"},
-            {"(Rein Rutnik Performance)", "Harmonica"},
+            {"(Rein Rutnik)", "Harmonica"},
             {"(12-String)", "Acoustic Guitar, 12-String Guitar"},
 
             {"(DM75)", "Electric Guitar, (DM75) - DeArmond M75"},

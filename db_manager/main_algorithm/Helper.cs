@@ -190,7 +190,7 @@ class Helper
                 .Replace("(Partial)", "")
                 .Replace("(w/ Blues Slide)", "")
                 .Replace("(Electric riff)", "")
-                .Replace("(Rein Rutnik Performance)", "")
+                .Replace("(Rein Rutnik)", "")
                 .Replace("(Chords)", "")
                 .Replace("(Short Reggae Version)", "")
                 .Replace("(Instrumental)", "")
