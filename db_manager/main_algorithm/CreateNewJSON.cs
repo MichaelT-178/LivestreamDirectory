@@ -201,6 +201,7 @@ class CreateNewJSON
 
             combinedList.Add(new
             {
+                id = i + 1,
                 appearance,
                 link,
                 keys
@@ -210,7 +211,7 @@ class CreateNewJSON
         return combinedList;
     }
 
-    
+
     /**
      * Create the SearchData.json file in VueLivestreamDirectory.
      */
