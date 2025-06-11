@@ -132,16 +132,18 @@ class AlbumRepertoireHandler
             string jsonContent = File.ReadAllText(albumJSONFilePath);
             var data = JsonSerializer.Deserialize<AlbumWrapper>(jsonContent)!;
 
+            int idCounter = 1;
             foreach (var album in data.albums)
             {
+                album.id = idCounter++;
 
-                // Updated CleanedSong
+                // Update CleanedSong if it's not a repeat
                 if (album.RepeatSong != true)
                 {
                     album.CleanedSong = TextCleaner.CleanText(album.Song);
                 }
 
-                // Updated CleanedAlbumTitle
+                // Update CleanedAlbumTitle
                 if (!string.IsNullOrWhiteSpace(album.AlbumTitle))
                 {
                     album.CleanedAlbumTitle = TextCleaner.CleanText(album.AlbumTitle);
@@ -150,8 +152,8 @@ class AlbumRepertoireHandler
                 {
                     album.CleanedAlbumTitle = null;
                 }
-                
-                //CleanedArtist
+
+                // Update CleanedArtist
                 album.CleanedArtist = TextCleaner.CleanText(album.Artist);
             }
 
@@ -163,12 +165,14 @@ class AlbumRepertoireHandler
 
             string updatedJson = JsonSerializer.Serialize(data, options);
             File.WriteAllText(albumJSONFilePath, updatedJson);
+            Color.PrintLine("Cleaned attributes and IDs updated successfully.", "green");
         }
         catch (Exception ex)
         {
             Color.DisplayError($"Error updating cleaned attributes: {ex.Message}");
         }
     }
+
 
     /**
      * Ensures every song has an associated album.
