@@ -485,7 +485,7 @@ class AlgorithmHelper
             { "(BHG)" ,   "Acoustic Guitar, (BHG) - Boucher HG-56" },
             { "(FOSG)" ,  "Acoustic Guitar, (FOSG) - Furch OM22TSW-C-DB SGI" },
             { "(FG)" ,    "Acoustic Guitar, (FG) - Furch G25CR-C" },
-            { "(FSD)" ,   "Acoustic Guitar, (FSD) - Furch *SGI* D22TSR" },
+            { "(FSD)" ,   "Acoustic Guitar, (FSD) - Furch SGI D22TSR" },
             { "(FOB)" ,   "Acoustic Guitar, (FOB) - Furch OM34TSR-DB B2" },
             { "(BDC)" ,   "Acoustic Guitar, (BDC) - Breedlove Discovery Concert CE" },
             { "(NSPBU)" , "Acoustic Guitar, (NSPBU) - Norman ST40 Parlor Burnt Umber" },
