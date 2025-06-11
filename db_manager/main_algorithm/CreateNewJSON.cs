@@ -4,7 +4,7 @@ using Newtonsoft.Json;
  * This class creates the new JSON file for the VueLivestreamDirectory.
  *
  * Methods
- * AddAlbumAttribute | Sets the "Album" attribute in song_list.json
+ * AddAlbumAttribute | Sets the "Album" and "Year" attributes in song_list.json
  * UpdateAlbums | Creates the VueLivestreamDirectory albums.json file
  * UpdateFavoriteCovers | Update VueLivestreamDirectory FavCovers.json file.
  * CreateVueRepertoire | Create the repertoire.json file in VueLivestreamDirectory.
@@ -20,7 +20,7 @@ class CreateNewJSON
 {
 
     /**
-     * Sets the "Album" attribute in song_list.json to the songs 
+     * Sets the "Album" and "Year" attributes in song_list.json to the songs 
      * album based on the values from albums.json.
      */
     public static void AddAlbumAttribute()
@@ -50,6 +50,12 @@ class CreateNewJSON
                     matchingSong.Album = album.AlbumTitle!;
                     matchingSong.CleanedAlbum = null!;
                 }
+
+                // Set Year if currently 0
+                if (matchingSong.Year == 0 && album.Year != 0)
+                {
+                    matchingSong.Year = album.Year;
+                }
             }
         }
 
@@ -57,6 +63,7 @@ class CreateNewJSON
         string json = JsonConvert.SerializeObject(updatedData, Formatting.Indented);
         File.WriteAllText("./database/song_list.json", json);
     }
+
 
     /**
      * Creates the VueLivestreamDirectory albums.json file by 
@@ -163,6 +170,7 @@ class CreateNewJSON
                 song.CleanedAlbum,
                 song.Other_Artists,
                 song.Instruments,
+                song.Year,
                 song.Search,
                 Appearances = MergeAppearancesAndLinks(song.Appearances, song.Links),
             });
