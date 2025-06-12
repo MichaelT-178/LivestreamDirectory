@@ -2,6 +2,7 @@ import subprocess
 from clean_text import clean_text
 from termcolor import colored as c 
 from spotify_images import SpotifyApi
+from push_to_vue import push_to_vue
 
 def write_to_clipboard(output: str):
 	process = subprocess.Popen('pbcopy', env={'LANG': 'en_US.UTF-8'}, stdin=subprocess.PIPE)
@@ -53,3 +54,5 @@ print(album_str)
 write_to_clipboard(album_str)
 
 print(c("\nSuccessfully copied to clipboard! Paste in albums.json", 'green'))
+
+push_to_vue()
