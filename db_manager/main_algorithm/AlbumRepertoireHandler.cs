@@ -166,8 +166,6 @@ class AlbumRepertoireHandler
 
             string updatedJson = JsonSerializer.Serialize(data, options);
             File.WriteAllText(albumJSONFilePath, updatedJson);
-            
-            Color.PrintLine("Cleaned attributes and IDs updated successfully.", "green");
         }
         catch (Exception ex)
         {

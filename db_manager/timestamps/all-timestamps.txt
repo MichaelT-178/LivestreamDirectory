@@ -1,4 +1,4 @@
-Control + g. Type 1233 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1237 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1230,6 +1230,10 @@ https://youtu.be/-JOWWJG61Zk?si=7EV3AX73sX2deoJ7
 Solo Video
 https://youtu.be/oEGizdHR2Fs?si=T4RJds3qTs_9WMFh
 5:01 Improv Funk Jam (Electric Song/Strat) by Corey Heuvel
+
+Solo Video
+https://youtu.be/SsehGg9bQUY?si=JrPy5hNObmlQ9IM-
+0:00 That's All by Genesis
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
