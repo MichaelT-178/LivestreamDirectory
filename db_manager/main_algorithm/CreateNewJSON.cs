@@ -168,7 +168,14 @@ class CreateNewJSON
                 song.CleanedArtist,
                 song.Album,
                 song.CleanedAlbum,
-                song.Other_Artists,
+                Other_Artists = string.IsNullOrWhiteSpace(song.Other_Artists)
+                    ? new List<object>()
+                    : song.Other_Artists.Split("+ ")
+                        .Select(artistName => (object) new {
+                            artist = artistName.Trim(),
+                            cleanedArtist = TextCleaner.CleanText(artistName),
+                        }).ToList(),
+
                 song.Instruments,
                 song.Year,
                 song.Search,
