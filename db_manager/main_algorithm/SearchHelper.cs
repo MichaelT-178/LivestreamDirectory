@@ -152,6 +152,7 @@ class SearchHelper
 
         if (title.Contains("Man Of Constant Sorrow")) { AppendNew("I Am A Man of Constant Sorrow", search); return; }
         if (title.Equals("Vincent")) { AppendNew("Vincent (Starry, Starry Night)", search); return; }
+        if (title.Equals("That's All")) { AppendNew("Phil Collins", search); return; }
         
         if (title.Equals("When I'm Up - I Can't Get Down")) { AppendNew("When I'm Up (I Can't Get Down)", search); return; }
 
