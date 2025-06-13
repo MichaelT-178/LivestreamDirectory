@@ -16,12 +16,13 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  * PrintInstrumentMap | Prints the instrument map
  * RemoveInstrumentKeys | Removes all the instrument keys from livestream appearances.
  * RemoveAllKeysFromSong | Removes all keys from the song (except keys_to_keeps)
+ * CleanInstrument | Clean an instrument by it's name 
  *
  * @author Michael Totaro
  */
 class CreateNewInstrument
 {
-    
+
     /**
      * Populate the lists of the instrument map with songs. Works by looping
      * through database songs. Calls WriteInstrumentMapToFile at the end 
@@ -33,9 +34,9 @@ class CreateNewInstrument
     {
         List<Song> songs = JSONHelper.GetDatabaseSongs();
         var instrumentMap = CreateInstrumentMap();
-        
+
         int instrumentSongId = 1;
-        
+
         foreach (var song in songs)
         {
             string appearances = song.Appearances;
@@ -86,18 +87,18 @@ class CreateNewInstrument
         string filePath = "../VueLivestreamDirectory/src/assets/Data/InstrumentData.json";
 
         List<Instrument> instruments = GetInstruments();
-        
+
         Dictionary<string, string> instrumentNameMap = instruments
             .Where(inst => !string.IsNullOrWhiteSpace(inst.CleanedName))
             .ToDictionary(inst => inst.CleanedName, inst => inst.Name);
-            
+
         var formattedMap = new Dictionary<string, object>();
-        
+
         foreach (var entry in instrumentMap)
         {
             string cleanedKey = entry.Key;
             string displayName = instrumentNameMap.ContainsKey(cleanedKey) ? instrumentNameMap[cleanedKey] : cleanedKey;
-            
+
             // Create the value JSON object
             var formattedEntry = new
             {
@@ -106,17 +107,17 @@ class CreateNewInstrument
                 numOfAppearances = entry.Value.Count,
                 appearances = entry.Value
             };
-            
+
             formattedMap[cleanedKey] = formattedEntry;
         }
-        
+
         var options = new JsonSerializerOptions
         {
             WriteIndented = true,
             PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
             Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
         };
-        
+
         string jsonContent = JsonSerializer.Serialize(formattedMap, options);
         File.WriteAllText(filePath, jsonContent);
 
@@ -134,7 +135,7 @@ class CreateNewInstrument
         string localInstrumentPath = "./db_manager/json_files/instruments.json";
         string vueInstrumentPath = "../VueLivestreamDirectory/src/assets/Data/instruments.json";
 
-        
+
         string jsonContent = File.ReadAllText(localInstrumentPath);
 
         var options = new JsonSerializerOptions
@@ -151,7 +152,7 @@ class CreateNewInstrument
                 instrument.Appears = instrumentMap.TryGetValue(instrument.CleanedName, out var list) ? list.Count : 0;
             }
         }
-        
+
         // Only sort if at least one instrument has more than 1 appearance
         bool shouldSort = wrapper.Instruments.Any(inst => inst.Appears > 1);
 
@@ -176,7 +177,7 @@ class CreateNewInstrument
 
         string updatedJson = JsonSerializer.Serialize(wrapper, writeOptions);
         File.WriteAllText(localInstrumentPath, updatedJson);
-        
+
 
         // If the the local and vue instruments.json aren't the same 
         // override the vue file with the local and push the changes
@@ -192,7 +193,7 @@ class CreateNewInstrument
         }
     }
 
-    
+
     /**
      * Creates the skeleton of the instrument map. CHANGE AND FILL THIS IN
      *
@@ -203,7 +204,7 @@ class CreateNewInstrument
     {
         var instrumentMap = new Dictionary<string, List<InstrumentSong>>();
         List<Instrument> instruments = GetInstruments();
-        
+
         foreach (var instrument in instruments)
         {
             if (!string.IsNullOrWhiteSpace(instrument.CleanedName))
@@ -234,23 +235,23 @@ class CreateNewInstrument
         string pattern = @"\(([^)]*?)\)"; // Match content inside the first set of parentheses
 
         var match = Regex.Match(input, pattern);
-        
+
         if (match.Success)
         {
             string content = match.Groups[1].Value;
             var splitKeys = content.Split('/');
-            
+
             foreach (string key in splitKeys)
             {
                 string trimmed = key.Trim();
-                
+
                 if (!string.IsNullOrEmpty(trimmed))
                 {
                     result.Add(trimmed);
                 }
             }
         }
-        
+
         return result;
     }
 
@@ -274,8 +275,8 @@ class CreateNewInstrument
 
         return data.Instruments;
     }
-    
-    
+
+
     /**
      * Returns a MapData object with a cleaned instrument as 
      * a key and InstrumentSong as a value
@@ -303,7 +304,7 @@ class CreateNewInstrument
 
         InstrumentSong instrumentSong = new(id, cleanedSongTitle, song.Artist,
                                         cleanedAppearance, song.CleanedAlbum, song.CleanedArtist, link);
-        
+
         if (
             string.IsNullOrWhiteSpace(keyListStr)
             || keyListStr == "(Partial)"
@@ -314,7 +315,7 @@ class CreateNewInstrument
             result.Add(new MapData("acoustic-guitar", instrumentSong));
             return result;
         }
-        
+
         foreach (var key in keyList)
         {
             if ((key == "Electric Song" || key == "Electric riff" || song.Title.Contains("Electric Riff Session")) &&
@@ -541,7 +542,7 @@ class CreateNewInstrument
         foreach (var entry in instrumentMap)
         {
             Console.WriteLine($"Instrument: {entry.Key}");
-            
+
             if (entry.Value.Count == 0)
             {
                 Console.WriteLine("  (No performances listed)");
@@ -553,7 +554,7 @@ class CreateNewInstrument
                     Console.WriteLine($"  - {instrumentSong.SongTitle}");
                 }
             }
-            
+
             Console.WriteLine();
         }
     }
@@ -569,8 +570,8 @@ class CreateNewInstrument
      * @param The Livestream line with all it's keys
      * @return The Livestream line without it's instruments keys
      */
-     public static string RemoveInstrumentKeys(string line)
-     {
+    public static string RemoveInstrumentKeys(string line)
+    {
         HashSet<string> REMOVE_KEYS = [
             "12-String", "BDC", "BH", "BHG", "BSG", "BSGI", "Blues Slide", "Classical Guitar",
             "DM75", "Strat", "DX1R", "Electric Song", "Electric riff", "FBD", "FBG", "FG", "FOB", "FOSG",
@@ -578,20 +579,20 @@ class CreateNewInstrument
             "GSDG", "LPE", "M15M", "MDT", "MFF", "MHD", "Mandolin", "NBBU", "NBDA", "NSCG", "NSPBU",
             "NST", "NSTCW", "OOM", "OOMV1", "SAS", "SD22", "SGI", "SOM", "H", "Rein Rutnik"
         ];
-        
+
         string result = Regex.Replace(line, @"\(([^()]+)\)", match =>
         {
             string content = match.Groups[1].Value;
             var parts = content.Split('/');
-            
+
             var filtered = parts
                 .Select(part => part.Trim())
                 .Where(part => !REMOVE_KEYS.Contains(part))
                 .ToList();
-            
+
             return filtered.Count > 0 ? $"({string.Join("/", filtered)})" : "";
         });
-        
+
         // Clean up extra spaces caused by removal
         return Regex.Replace(result, @"\s{2,}", " ").Trim();
     }
@@ -620,6 +621,44 @@ class CreateNewInstrument
         });
 
         return Regex.Replace(result, @"\s{2,}", " ").Trim();
+    }
+
+    /**
+     * Clean an instrument by it's name.
+     * 
+     * Ex. 
+     * (M15M) - Martin 00-15m -> Martin 00-15m
+     * 
+     *
+     * @param name The name of the instrument with the key at the front
+     * @return The cleaned version of the 
+     */
+    public static string? CleanInstrument(string name)
+    {
+        if (name == "Electric Guitar" || name == "Acoustic Guitar" || name == "Classical Guitar")
+        {
+            return null;
+        }
+
+        if (name == "(main) - Stonebridge (Furch) OM32SM")
+        {
+            return "acoustic-guitar";
+        }
+        else if (name == "Fender Telecaster")
+        {
+            return "electric-guitar";
+        }
+        else if (name == "Asturias Standard S")
+        {
+            return "classical-guitar";
+        }
+
+        var pattern = @"^\([^)]*\)\s*-\s*";
+        
+        // Turns (M15M) - Martin 00-15m -> Martin 00-15m
+        string noKeyInstrumentName = Regex.Replace(name, pattern, "");
+
+        return TextCleaner.CleanText(noKeyInstrumentName);
     }
 
 }

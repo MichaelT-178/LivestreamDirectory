@@ -176,7 +176,16 @@ class CreateNewJSON
                             cleanedArtist = TextCleaner.CleanText(artistName),
                         }).ToList(),
 
-                song.Instruments,
+                Instruments = string.IsNullOrWhiteSpace(song.Instruments)
+                    ? new List<object>()
+                    : song.Instruments.Split(", ")
+                        .Select(instr => instr.Trim())
+                        .Where(instr => !string.IsNullOrEmpty(instr))
+                        .Select(instr => (object) new {
+                            name = instr,
+                            cleanedName = CreateNewInstrument.CleanInstrument(instr)
+                        }).ToList(),
+                        
                 song.Year,
                 song.Search,
                 Appearances = MergeAppearancesAndLinks(song.Appearances, song.Links),
