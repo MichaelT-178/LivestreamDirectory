@@ -148,7 +148,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Francisco Tárrega",
       "CleanedArtist": "francisco-tarrega",
-      "Year": 0
+      "Year": 1892
     },
     {
       "id": 16,
@@ -308,7 +308,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Corey Heuvel",
       "CleanedArtist": "corey-heuvel",
-      "Year": 0
+      "Year": 2018
     },
     {
       "id": 32,
@@ -328,7 +328,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Isaac Albéniz",
       "CleanedArtist": "isaac-albeniz",
-      "Year": 0
+      "Year": 1892
     },
     {
       "id": 34,
@@ -348,7 +348,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Joseph Kosma",
       "CleanedArtist": "joseph-kosma",
-      "Year": 0
+      "Year": 1945
     },
     {
       "id": 36,
@@ -848,7 +848,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Johann Sebastian Bach",
       "CleanedArtist": "johann-sebastian-bach",
-      "Year": 0
+      "Year": 1710
     },
     {
       "id": 86,
@@ -978,7 +978,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Gaspar Sanz",
       "CleanedArtist": "gaspar-sanz",
-      "Year": 0
+      "Year": 1674
     },
     {
       "id": 99,
@@ -1088,7 +1088,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Johann Sebastian Bach",
       "CleanedArtist": "johann-sebastian-bach",
-      "Year": 0
+      "Year": 1723
     },
     {
       "id": 110,
@@ -2178,7 +2178,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Joe Filisko",
       "CleanedArtist": "joe-filisko",
-      "Year": 0
+      "Year": 1920
     },
     {
       "id": 219,
@@ -2248,7 +2248,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Johann Sebastian Bach",
       "CleanedArtist": "johann-sebastian-bach",
-      "Year": 0
+      "Year": 1710
     },
     {
       "id": 226,
@@ -3939,7 +3939,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Corey Heuvel",
       "CleanedArtist": "corey-heuvel",
-      "Year": 0
+      "Year": 1836
     },
     {
       "id": 395,
@@ -4529,7 +4529,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Corey Heuvel",
       "CleanedArtist": "corey-heuvel",
-      "Year": 0
+      "Year": 2013
     },
     {
       "id": 454,
@@ -5359,7 +5359,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Francisco Tárrega",
       "CleanedArtist": "francisco-tarrega",
-      "Year": 0
+      "Year": 1891
     },
     {
       "id": 537,
@@ -5499,7 +5499,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Johann Sebastian Bach",
       "CleanedArtist": "johann-sebastian-bach",
-      "Year": 0
+      "Year": 1717
     },
     {
       "id": 551,
@@ -5509,7 +5509,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Johann Sebastian Bach",
       "CleanedArtist": "johann-sebastian-bach",
-      "Year": 0
+      "Year": 1720
     },
     {
       "id": 552,
@@ -5639,7 +5639,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Francisco Tárrega",
       "CleanedArtist": "francisco-tarrega",
-      "Year": 0
+      "Year": 1896
     },
     {
       "id": 565,
@@ -6209,7 +6209,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Rein Rutnik",
       "CleanedArtist": "rein-rutnik",
-      "Year": 0
+      "Year": 2013
     },
     {
       "id": 622,
@@ -6479,7 +6479,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Unknown",
       "CleanedArtist": "unknown",
-      "Year": 0
+      "Year": 1900
     },
     {
       "id": 649,
@@ -6659,7 +6659,7 @@
       "CleanedAlbumTitle": null,
       "Artist": "Fernando Sor",
       "CleanedArtist": "fernando-sor",
-      "Year": 0
+      "Year": 1830
     },
     {
       "id": 667,
