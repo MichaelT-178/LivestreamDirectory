@@ -140,6 +140,8 @@ class SearchHelper
         if (artists.Equals("Steve Miller Band")) { AppendNew("The Steve Miller Band", search); return; }
         
         if (title.Contains("La Patrie Etude")) { AppendNew("Op. 35 No. 17 op 35 no 17", search); return; }
+        if (title.Contains("Study No. 6 in D")) { AppendNew("Op. 35 No. 17 op 35 no 17", search); return; }
+        
         if (title.Contains("Study in B-Minor")) { AppendNew("Op. 35 No. 22 op 35 no 22", search); return; }
 
 
