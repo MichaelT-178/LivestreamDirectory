@@ -162,6 +162,8 @@ class SearchHelper
         
         if (title.Equals("When I'm Up - I Can't Get Down")) { AppendNew("When I'm Up (I Can't Get Down)", search); return; }
 
+        if (title.Contains("Spanish Romance")) { AppendNew("Jeux Interdits", search); return; }
+
         if (title.Contains("Xmas")) AppendNew("Happy Christmas", search); 
         if (title.Contains("Xmas")) { AppendNew("Merry Christmas", search); return; }
         if (title.Contains("Somebody That I Used")) { AppendNew("Somebody I Used", search); return; }

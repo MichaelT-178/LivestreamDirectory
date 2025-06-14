@@ -26,7 +26,7 @@ class Program
 
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
         Color.PrintWithColoredPart(@"Do you want to open the ""all-timestamps.txt"" file? : ", "\"all-timestamps.txt\"", "Cyan");
-        
+
         string openTimestamps = Console.ReadLine() ?? "";
 
         if (Helper.GetAnsweredYes(openTimestamps))
@@ -42,7 +42,7 @@ class Program
         Console.WriteLine("\nError Check");
 
         ErrorFinder.CheckKeysToKeep();
-    
+
         List<string> songsWithKeys = ErrorFinder.FindCapErrors();
 
         List<string> songsWithoutKeys = Helper.GetSongListWithoutKeys(songsWithKeys);
@@ -51,13 +51,13 @@ class Program
 
         ErrorFinder.AllLocalArtistPicturesExist();
         ErrorFinder.AllVueArtistPicturesExist();
-        
+
         Color.DisplaySuccess("An image was found for every artist!");
 
         // Small check I'm not going to display a message.
         ErrorFinder.CheckDuplicateTitlesWithDifferentArtists();
 
-        Console.WriteLine("\nPlease be patient. This will take roughly 25-30 seconds.");
+        Console.WriteLine("\nPlease be patient. This will take roughly 30-35 seconds.");
         Console.WriteLine("Currently running algorithm...");
 
         //RUN THE MAIN ALGORITHM and print when 5 seconds pass
@@ -79,7 +79,7 @@ class Program
         //EXECUTE UPDATE SQLite DATABASE COMMAND 
         OS.UpdateSQLiteDatabase();
         Color.DisplaySuccess("SQLite Database successfully updated!");
-        
+
         //Stop the timer
         stopwatch.Stop();
         double elapsedSeconds = stopwatch.Elapsed.TotalSeconds;
@@ -110,10 +110,10 @@ class Program
 
 
 
-        
+
         Color.PrintWithColoredPart("\nDo you want to open the \"song_list.json\" file? : ", "\"song_list.json\"", "Cyan");
         string question = Console.ReadLine() ?? "";
-        
+
         if (Helper.GetAnsweredYes(question))
         {
             OS.OpenFileInVSCode("database/song_list.json");
@@ -130,9 +130,17 @@ class Program
 
         //EXECUTE GITHUB COMMANDS 
         Console.WriteLine("\nAdding changes to GitHub");
-        OS.ExecuteGitCommands();
+
+        Console.Write("\nEnter commit message (press 'p' to pass): ");
+        string? commitMessage = Console.ReadLine();
+
+        if (!string.IsNullOrWhiteSpace(commitMessage) && commitMessage != "p")
+        {
+            OS.ExecuteGitCommands(commitMessage);
+        }
+        else
+        {
+            OS.ExecuteGitCommands();
+        }
     }
-    // if it has an alias attribute do NOT count it in the list.
-
-
 }
