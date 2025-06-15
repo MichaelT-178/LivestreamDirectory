@@ -30,15 +30,16 @@ if not os.path.isfile(file_path):
     os.system(f'cp ../../VueLivestreamDirectory/src/assets/ArtistPics/{clean_artist_name}.jpg ../pics/')
     print(c('\n\nCopied new image to the pics folder!', 'green'))
 
-
-
     artist_output = f'''"{clean_artist_name}": {{
         "Artist": "{artist.strip()}",
         "CleanedArtist": "{clean_artist_name}",
         "Location": "",
         "YearFormed": 0,
-        "Genre": ""
+        "Genre": "",
+        "Country": "",
+        "Emoji": ""
     }}'''
+
 
     print("\n")
     print(artist_output)

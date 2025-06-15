@@ -8,4 +8,6 @@ public class LocalArtist
     public required string Location { get; set; } = "";
     public required int YearFormed { get; set; } = 0;
     public required string Genre { get; set; } = "";
+    public required string Country { get; set; } = "";
+    public required string Emoji { get; set; } = "";
 }

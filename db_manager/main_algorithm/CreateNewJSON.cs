@@ -348,6 +348,8 @@ class CreateNewJSON
                 Location = meta!.Location,
                 YearFormed = meta.YearFormed,
                 Genre = meta.Genre,
+                Country = meta.Country,
+                Emoji = meta.Emoji,
                 Songs = new List<ArtistSong>(),
                 Albums = new List<AlbumArtist>()
             };

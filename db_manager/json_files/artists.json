@@ -4,2442 +4,3140 @@
         "CleanedArtist": "various-artists",
         "Location": "Places, Earth",
         "YearFormed": 1960,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "corey-heuvel": {
         "Artist": "Corey Heuvel",
         "CleanedArtist": "corey-heuvel",
         "Location": "Ontario, Canada",
         "YearFormed": 1990,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "joni-mitchell": {
         "Artist": "Joni Mitchell",
         "CleanedArtist": "joni-mitchell",
         "Location": "Alberta, Canada",
         "YearFormed": 1943,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "jeff-buckley": {
         "Artist": "Jeff Buckley",
         "CleanedArtist": "jeff-buckley",
         "Location": "Anaheim, California",
         "YearFormed": 1966,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-smiths": {
         "Artist": "The Smiths",
         "CleanedArtist": "the-smiths",
         "Location": "Manchester, England",
         "YearFormed": 1982,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "scott-matthews": {
         "Artist": "Scott Matthews",
         "CleanedArtist": "scott-matthews",
         "Location": "Wolverhampton, England",
         "YearFormed": 1976,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "eddie-vedder": {
         "Artist": "Eddie Vedder",
         "CleanedArtist": "eddie-vedder",
         "Location": "Evanston, Illinois",
         "YearFormed": 1964,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "eric-clapton": {
         "Artist": "Eric Clapton",
         "CleanedArtist": "eric-clapton",
         "Location": "Surrey, England",
         "YearFormed": 1945,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "big-bill-broonzy": {
         "Artist": "Big Bill Broonzy",
         "CleanedArtist": "big-bill-broonzy",
         "Location": "Scott, Mississippi",
         "YearFormed": 1893,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "incubus": {
         "Artist": "Incubus",
         "CleanedArtist": "incubus",
         "Location": "Calabasas, California",
         "YearFormed": 1991,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "fleetwood-mac": {
         "Artist": "Fleetwood Mac",
         "CleanedArtist": "fleetwood-mac",
         "Location": "London, England",
         "YearFormed": 1967,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "lindsey-buckingham": {
         "Artist": "Lindsey Buckingham",
         "CleanedArtist": "lindsey-buckingham",
         "Location": "Palo Alto, California",
         "YearFormed": 1949,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "john-mayer": {
         "Artist": "John Mayer",
         "CleanedArtist": "john-mayer",
         "Location": "Bridgeport, Connecticut",
         "YearFormed": 1977,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "nick-drake": {
         "Artist": "Nick Drake",
         "CleanedArtist": "nick-drake",
         "Location": "Rangoon, Burma",
         "YearFormed": 1948,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "",
+        "Emoji": ""
     },
     "john-martyn": {
         "Artist": "John Martyn",
         "CleanedArtist": "john-martyn",
         "Location": "Surrey, England",
         "YearFormed": 1948,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "flo-rida-t-pain": {
         "Artist": "Flo Rida, T-Pain",
         "CleanedArtist": "flo-rida-t-pain",
         "Location": "Miami Gardens, Florida",
         "YearFormed": 1979,
-        "Genre": "Hip-Hop/Rap"
+        "Genre": "Hip-Hop/Rap",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "michael-jackson": {
         "Artist": "Michael Jackson",
         "CleanedArtist": "michael-jackson",
         "Location": "Gary, Indiana",
         "YearFormed": 1958,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "stevie-wonder": {
         "Artist": "Stevie Wonder",
         "CleanedArtist": "stevie-wonder",
         "Location": "Saginaw, Michigan",
         "YearFormed": 1950,
-        "Genre": "R&B/Soul"
+        "Genre": "R&B/Soul",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "bob-dylan": {
         "Artist": "Bob Dylan",
         "CleanedArtist": "bob-dylan",
         "Location": "Duluth, Minnesota",
         "YearFormed": 1941,
-        "Genre": "Folk"
+        "Genre": "Folk",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "eric-johnson": {
         "Artist": "Eric Johnson",
         "CleanedArtist": "eric-johnson",
         "Location": "Austin, Texas",
         "YearFormed": 1954,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "tommy-emmanuel": {
         "Artist": "Tommy Emmanuel",
         "CleanedArtist": "tommy-emmanuel",
         "Location": "Muswellbrook, Australia",
         "YearFormed": 1955,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "",
+        "Emoji": ""
     },
     "stevie-ray-vaughan": {
         "Artist": "Stevie Ray Vaughan",
         "CleanedArtist": "stevie-ray-vaughan",
         "Location": "Dallas, Texas",
         "YearFormed": 1954,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "joe-satriani": {
         "Artist": "Joe Satriani",
         "CleanedArtist": "joe-satriani",
         "Location": "Westbury, New York",
         "YearFormed": 1956,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "jamiroquai": {
         "Artist": "Jamiroquai",
         "CleanedArtist": "jamiroquai",
         "Location": "London, England",
         "YearFormed": 1992,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "jimi-hendrix": {
         "Artist": "Jimi Hendrix",
         "CleanedArtist": "jimi-hendrix",
         "Location": "Seattle, Washington",
         "YearFormed": 1942,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "gnarls-barkley": {
         "Artist": "Gnarls Barkley",
         "CleanedArtist": "gnarls-barkley",
         "Location": "Atlanta, Georgia",
         "YearFormed": 2006,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "ray-lamontagne": {
         "Artist": "Ray LaMontagne",
         "CleanedArtist": "ray-lamontagne",
         "Location": "Nashua, New Hampshire",
         "YearFormed": 1973,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "van-morrison": {
         "Artist": "Van Morrison",
         "CleanedArtist": "van-morrison",
         "Location": "Belfast, North Ireland",
         "YearFormed": 1945,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "patrick-watson": {
         "Artist": "Patrick Watson",
         "CleanedArtist": "patrick-watson",
         "Location": "Lancaster, California",
         "YearFormed": 1979,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "pendulum": {
         "Artist": "Pendulum",
         "CleanedArtist": "pendulum",
         "Location": "Perth, Australia",
         "YearFormed": 2002,
-        "Genre": "Electronic"
+        "Genre": "Electronic",
+        "Country": "",
+        "Emoji": ""
     },
     "peter-gabriel": {
         "Artist": "Peter Gabriel",
         "CleanedArtist": "peter-gabriel",
         "Location": "Surrey, England",
         "YearFormed": 1950,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "steve-miller-band": {
         "Artist": "Steve Miller Band",
         "CleanedArtist": "steve-miller-band",
         "Location": "San Francisco, California",
         "YearFormed": 1966,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "justin-timberlake-ft-jay-z": {
         "Artist": "Justin Timberlake ft. JAY-Z",
         "CleanedArtist": "justin-timberlake-ft-jay-z",
         "Location": "Memphis, Tennessee",
         "YearFormed": 1981,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "crosby-stills-nash-young": {
         "Artist": "Crosby, Stills, Nash & Young",
         "CleanedArtist": "crosby-stills-nash-young",
         "Location": "Los Angeles, California",
         "YearFormed": 1969,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "pink-floyd": {
         "Artist": "Pink Floyd",
         "CleanedArtist": "pink-floyd",
         "Location": "London, England",
         "YearFormed": 1965,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "heart": {
         "Artist": "Heart",
         "CleanedArtist": "heart",
         "Location": "Seattle, Washington",
         "YearFormed": 1973,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-goo-goo-dolls": {
         "Artist": "The Goo Goo Dolls",
         "CleanedArtist": "the-goo-goo-dolls",
         "Location": "Buffalo, New York",
         "YearFormed": 1986,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "jim-croce": {
         "Artist": "Jim Croce",
         "CleanedArtist": "jim-croce",
         "Location": "Philadelphia, Pennsylvania",
         "YearFormed": 1943,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "michael-buble": {
         "Artist": "Michael Bublé",
         "CleanedArtist": "michael-buble",
         "Location": "Burnaby, Canada",
         "YearFormed": 1975,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "vanessa-carlton": {
         "Artist": "Vanessa Carlton",
         "CleanedArtist": "vanessa-carlton",
         "Location": "Milford, Pennsylvania",
         "YearFormed": 1980,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "neil-young": {
         "Artist": "Neil Young",
         "CleanedArtist": "neil-young",
         "Location": "Ontario, Canada",
         "YearFormed": 1945,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "sam-sparro": {
         "Artist": "Sam Sparro",
         "CleanedArtist": "sam-sparro",
         "Location": "Sydney, Australia",
         "YearFormed": 1982,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "ariana-grande-ft-zedd": {
         "Artist": "Ariana Grande ft. Zedd",
         "CleanedArtist": "ariana-grande-ft-zedd",
         "Location": "Boca Raton, Florida",
         "YearFormed": 1993,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "kansas": {
         "Artist": "Kansas",
         "CleanedArtist": "kansas",
         "Location": "Topeka, Kansas",
         "YearFormed": 1973,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "steely-dan": {
         "Artist": "Steely Dan",
         "CleanedArtist": "steely-dan",
         "Location": "Los Angeles, California",
         "YearFormed": 1972,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "seal": {
         "Artist": "Seal",
         "CleanedArtist": "seal",
         "Location": "London, England",
         "YearFormed": 1963,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "lyle-lovett": {
         "Artist": "Lyle Lovett",
         "CleanedArtist": "lyle-lovett",
         "Location": "Klein, Texas",
         "YearFormed": 1957,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "doyle-bramhall": {
         "Artist": "Doyle Bramhall",
         "CleanedArtist": "doyle-bramhall",
         "Location": "Dallas, Texas",
         "YearFormed": 1949,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "alanis-morissette": {
         "Artist": "Alanis Morissette",
         "CleanedArtist": "alanis-morissette",
         "Location": "Ontario, Canada",
         "YearFormed": 1974,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "tears-for-fears": {
         "Artist": "Tears For Fears",
         "CleanedArtist": "tears-for-fears",
         "Location": "Somerset, England",
         "YearFormed": 1981,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "led-zeppelin": {
         "Artist": "Led Zeppelin",
         "CleanedArtist": "led-zeppelin",
         "Location": "London, England",
         "YearFormed": 1968,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "bruce-springsteen": {
         "Artist": "Bruce Springsteen",
         "CleanedArtist": "bruce-springsteen",
         "Location": "Long Branch, New Jersey",
         "YearFormed": 1949,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "bo-diddley": {
         "Artist": "Bo Diddley",
         "CleanedArtist": "bo-diddley",
         "Location": "McComb, Mississippi",
         "YearFormed": 1928,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "stone-temple-pilots": {
         "Artist": "Stone Temple Pilots",
         "CleanedArtist": "stone-temple-pilots",
         "Location": "Los Angeles, California",
         "YearFormed": 1990,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "tracy-chapman": {
         "Artist": "Tracy Chapman",
         "CleanedArtist": "tracy-chapman",
         "Location": "Cleveland, Ohio",
         "YearFormed": 1964,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "queen": {
         "Artist": "Queen",
         "CleanedArtist": "queen",
         "Location": "London, England",
         "YearFormed": 1970,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "sublime": {
         "Artist": "Sublime",
         "CleanedArtist": "sublime",
         "Location": "Long Beach, California",
         "YearFormed": 1988,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-band": {
         "Artist": "The Band",
         "CleanedArtist": "the-band",
         "Location": "Ontario, Canada",
         "YearFormed": 1964,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "third-eye-blind": {
         "Artist": "Third Eye Blind",
         "CleanedArtist": "third-eye-blind",
         "Location": "San Francisco, California",
         "YearFormed": 1993,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "blackstreet": {
         "Artist": "Blackstreet",
         "CleanedArtist": "blackstreet",
         "Location": "New York, New York",
         "YearFormed": 1991,
-        "Genre": "R&B/Soul"
+        "Genre": "R&B/Soul",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "francisco-tarrega": {
         "Artist": "Francisco Tárrega",
         "CleanedArtist": "francisco-tarrega",
         "Location": "Castellón, Spain",
         "YearFormed": 1852,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "the-beatles": {
         "Artist": "The Beatles",
         "CleanedArtist": "the-beatles",
         "Location": "Liverpool, England",
         "YearFormed": 1960,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "matteo-carcassi": {
         "Artist": "Matteo Carcassi",
         "CleanedArtist": "matteo-carcassi",
         "Location": "Florence, Italy",
         "YearFormed": 1792,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "cream": {
         "Artist": "Cream",
         "CleanedArtist": "cream",
         "Location": "London, England",
         "YearFormed": 1966,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "robert-johnson": {
         "Artist": "Robert Johnson",
         "CleanedArtist": "robert-johnson",
         "Location": "Hazlehurst, Mississippi",
         "YearFormed": 1911,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-black-keys": {
         "Artist": "The Black Keys",
         "CleanedArtist": "the-black-keys",
         "Location": "Akron, Ohio",
         "YearFormed": 2001,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "radiohead": {
         "Artist": "Radiohead",
         "CleanedArtist": "radiohead",
         "Location": "Oxford, England",
         "YearFormed": 1985,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "david-bowie": {
         "Artist": "David Bowie",
         "CleanedArtist": "david-bowie",
         "Location": "London, England",
         "YearFormed": 1947,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "soundgarden": {
         "Artist": "Soundgarden",
         "CleanedArtist": "soundgarden",
         "Location": "Seattle, Washington",
         "YearFormed": 1984,
-        "Genre": "Grunge"
+        "Genre": "Grunge",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-who": {
         "Artist": "The Who",
         "CleanedArtist": "the-who",
         "Location": "London, England",
         "YearFormed": 1964,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "kiesza": {
         "Artist": "Kiesza",
         "CleanedArtist": "kiesza",
         "Location": "Alberta, Canada",
         "YearFormed": 1989,
-        "Genre": "Electronic"
+        "Genre": "Electronic",
+        "Country": "",
+        "Emoji": ""
     },
     "bob-seger": {
         "Artist": "Bob Seger",
         "CleanedArtist": "bob-seger",
         "Location": "Detroit, Michigan",
         "YearFormed": 1945,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-leaves": {
         "Artist": "The Leaves",
         "CleanedArtist": "the-leaves",
         "Location": "San Fernando Valley, California",
         "YearFormed": 1963,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "billy-roberts": {
         "Artist": "Billy Roberts",
         "CleanedArtist": "billy-roberts",
         "Location": "Greenville, South Carolina",
         "YearFormed": 1936,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "porter-wagoner": {
         "Artist": "Porter Wagoner",
         "CleanedArtist": "porter-wagoner",
         "Location": "West Plains, Missouri",
         "YearFormed": 1927,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "red-hayes": {
         "Artist": "Red Hayes",
         "CleanedArtist": "red-hayes",
         "Location": "Garden Valley, Texas",
         "YearFormed": 1926,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "edith-piaf": {
         "Artist": "Édith Piaf",
         "CleanedArtist": "edith-piaf",
         "Location": "Paris, France",
         "YearFormed": 1915,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "hank-williams": {
         "Artist": "Hank Williams",
         "CleanedArtist": "hank-williams",
         "Location": "Butler County, Alabama",
         "YearFormed": 1923,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "leon-payne": {
         "Artist": "Leon Payne",
         "CleanedArtist": "leon-payne",
         "Location": "Alba, Texas",
         "YearFormed": 1917,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "red-hot-chili-peppers": {
         "Artist": "Red Hot Chili Peppers",
         "CleanedArtist": "red-hot-chili-peppers",
         "Location": "Los Angeles, California",
         "YearFormed": 1983,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-jeff-healey-band": {
         "Artist": "The Jeff Healey Band",
         "CleanedArtist": "the-jeff-healey-band",
         "Location": "Ontario, Canada",
         "YearFormed": 1966,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "",
+        "Emoji": ""
     },
     "coldplay": {
         "Artist": "Coldplay",
         "CleanedArtist": "coldplay",
         "Location": "London, England",
         "YearFormed": 1997,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "the-doors": {
         "Artist": "The Doors",
         "CleanedArtist": "the-doors",
         "Location": "Los Angeles, California",
         "YearFormed": 1965,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "ray-charles": {
         "Artist": "Ray Charles",
         "CleanedArtist": "ray-charles",
         "Location": "Albany, Georgia",
         "YearFormed": 1930,
-        "Genre": "R&B/Soul"
+        "Genre": "R&B/Soul",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "nick-ashford": {
         "Artist": "Nick Ashford",
         "CleanedArtist": "nick-ashford",
         "Location": "Fairfield, South Carolina",
         "YearFormed": 1942,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "john-scofield": {
         "Artist": "John Scofield",
         "CleanedArtist": "john-scofield",
         "Location": "Dayton, Ohio",
         "YearFormed": 1951,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "frank-sinatra": {
         "Artist": "Frank Sinatra",
         "CleanedArtist": "frank-sinatra",
         "Location": "Hoboken, New Jersey",
         "YearFormed": 1915,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "marion-montgomery": {
         "Artist": "Marion Montgomery",
         "CleanedArtist": "marion-montgomery",
         "Location": "Natchez, Mississippi",
         "YearFormed": 1934,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "muse": {
         "Artist": "Muse",
         "CleanedArtist": "muse",
         "Location": "Devon, England",
         "YearFormed": 1994,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "supertramp": {
         "Artist": "Supertramp",
         "CleanedArtist": "supertramp",
         "Location": "London, England",
         "YearFormed": 1969,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "bob-marley": {
         "Artist": "Bob Marley",
         "CleanedArtist": "bob-marley",
         "Location": "Kingston, Jamaica",
         "YearFormed": 1945,
-        "Genre": "Reggae"
+        "Genre": "Reggae",
+        "Country": "",
+        "Emoji": ""
     },
     "bob-marley-the-wailers": {
         "Artist": "Bob Marley & The Wailers",
         "CleanedArtist": "bob-marley-the-wailers",
         "Location": "Kingston, Jamaica",
         "YearFormed": 1963,
-        "Genre": "Reggae"
+        "Genre": "Reggae",
+        "Country": "",
+        "Emoji": ""
     },
     "queens-of-the-stone-age": {
         "Artist": "Queens of the Stone Age",
         "CleanedArtist": "queens-of-the-stone-age",
         "Location": "Seattle, Washington",
         "YearFormed": 1996,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "doyle-bramhall-ii-smokestack": {
         "Artist": "Doyle Bramhall II, Smokestack",
         "CleanedArtist": "doyle-bramhall-ii-smokestack",
         "Location": "Dallas, Texas",
         "YearFormed": 1968,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "pearl-jam": {
         "Artist": "Pearl Jam",
         "CleanedArtist": "pearl-jam",
         "Location": "Seattle, Washington",
         "YearFormed": 1990,
-        "Genre": "Grunge"
+        "Genre": "Grunge",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "leonard-cohen": {
         "Artist": "Leonard Cohen",
         "CleanedArtist": "leonard-cohen",
         "Location": "Quebec, Canada",
         "YearFormed": 1934,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "jesse-cook": {
         "Artist": "Jesse Cook",
         "CleanedArtist": "jesse-cook",
         "Location": "Ontario, Canada",
         "YearFormed": 1964,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "billy-strings": {
         "Artist": "Billy Strings",
         "CleanedArtist": "billy-strings",
         "Location": "Lansing, Michigan",
         "YearFormed": 1992,
-        "Genre": "Bluegrass"
+        "Genre": "Bluegrass",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "buddy-guy": {
         "Artist": "Buddy Guy",
         "CleanedArtist": "buddy-guy",
         "Location": "Lettsworth, Louisiana",
         "YearFormed": 1936,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "tones-and-i": {
         "Artist": "Tones And I",
         "CleanedArtist": "tones-and-i",
         "Location": "Victoria, Australia",
         "YearFormed": 1993,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "",
+        "Emoji": ""
     },
     "joe-walsh": {
         "Artist": "Joe Walsh",
         "CleanedArtist": "joe-walsh",
         "Location": "Wichita, Kansas",
         "YearFormed": 1947,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "pantera": {
         "Artist": "Pantera",
         "CleanedArtist": "pantera",
         "Location": "Arlington, Texas",
         "YearFormed": 1982,
-        "Genre": "Metal"
+        "Genre": "Metal",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "ozzy-osbourne": {
         "Artist": "Ozzy Osbourne",
         "CleanedArtist": "ozzy-osbourne",
         "Location": "Birmingham, England",
         "YearFormed": 1948,
-        "Genre": "Metal"
+        "Genre": "Metal",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "dire-straits": {
         "Artist": "Dire Straits",
         "CleanedArtist": "dire-straits",
         "Location": "London, England",
         "YearFormed": 1977,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "sting": {
         "Artist": "Sting",
         "CleanedArtist": "sting",
         "Location": "Newcastle, England",
         "YearFormed": 1951,
-        "Genre": "1951"
+        "Genre": "1951",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "the-rolling-stones": {
         "Artist": "The Rolling Stones",
         "CleanedArtist": "the-rolling-stones",
         "Location": "London, England",
         "YearFormed": 1962,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "u2": {
         "Artist": "U2",
         "CleanedArtist": "u2",
         "Location": "Dublin, Ireland",
         "YearFormed": 1976,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "rush": {
         "Artist": "Rush",
         "CleanedArtist": "rush",
         "Location": "Ontario, Canada",
         "YearFormed": 1968,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "jeff-beck": {
         "Artist": "Jeff Beck",
         "CleanedArtist": "jeff-beck",
         "Location": "Surrey, England",
         "YearFormed": 1944,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "blind-faith": {
         "Artist": "Blind Faith",
         "CleanedArtist": "blind-faith",
         "Location": "London, England",
         "YearFormed": 1968,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "steve-winwood": {
         "Artist": "Steve Winwood",
         "CleanedArtist": "steve-winwood",
         "Location": "Birmingham, England",
         "YearFormed": 1948,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "fernando-sor": {
         "Artist": "Fernando Sor",
         "CleanedArtist": "fernando-sor",
         "Location": "Barcelona, Spain",
         "YearFormed": 1778,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "beck": {
         "Artist": "Beck",
         "CleanedArtist": "beck",
         "Location": "Los Angeles, California",
         "YearFormed": 1970,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "wings": {
         "Artist": "Wings",
         "CleanedArtist": "wings",
         "Location": "Liverpool, England",
         "YearFormed": 1942,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "paul-mccartney": {
         "Artist": "Paul McCartney",
         "CleanedArtist": "paul-mccartney",
         "Location": "Liverpool, England",
         "YearFormed": 1942,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "kenny-wayne-shepherd": {
         "Artist": "Kenny Wayne Shepherd",
         "CleanedArtist": "kenny-wayne-shepherd",
         "Location": "Bossier City, Louisiana",
         "YearFormed": 1977,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "traffic": {
         "Artist": "Traffic",
         "CleanedArtist": "traffic",
         "Location": "Birmingham, England",
         "YearFormed": 1967,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "the-verve": {
         "Artist": "The Verve",
         "CleanedArtist": "the-verve",
         "Location": "Manchester, England",
         "YearFormed": 1989,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "crosby-stills-nash": {
         "Artist": "Crosby, Stills & Nash",
         "CleanedArtist": "crosby-stills-nash",
         "Location": "Los Angeles, California",
         "YearFormed": 1969,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "elliott-smith": {
         "Artist": "Elliott Smith",
         "CleanedArtist": "elliott-smith",
         "Location": "Omaha, Nebraska",
         "YearFormed": 1969,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "moby": {
         "Artist": "Moby",
         "CleanedArtist": "moby",
         "Location": "New York, New York",
         "YearFormed": 1965,
-        "Genre": "Electronic"
+        "Genre": "Electronic",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "vera-hall": {
         "Artist": "Vera Hall",
         "CleanedArtist": "vera-hall",
         "Location": "Livingston, Alabama",
         "YearFormed": 1902,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "creedence-clearwater-revival": {
         "Artist": "Creedence Clearwater Revival",
         "CleanedArtist": "creedence-clearwater-revival",
         "Location": "El Cerrito, California",
         "YearFormed": 1959,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "amanda-marshall": {
         "Artist": "Amanda Marshall",
         "CleanedArtist": "amanda-marshall",
         "Location": "Ontario, Canada",
         "YearFormed": 1972,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "colin-james": {
         "Artist": "Colin James",
         "CleanedArtist": "colin-james",
         "Location": "Saskatchewan, Canada",
         "YearFormed": 1964,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "sixpence-none-the-richer": {
         "Artist": "Sixpence None The Richer",
         "CleanedArtist": "sixpence-none-the-richer",
         "Location": "New Braunfels, Texas",
         "YearFormed": 1993,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "anne-bredon": {
         "Artist": "Anne Bredon",
         "CleanedArtist": "anne-bredon",
         "Location": "Berkeley, California",
         "YearFormed": 1930,
-        "Genre": "Folk"
+        "Genre": "Folk",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "rory-gallagher": {
         "Artist": "Rory Gallagher",
         "CleanedArtist": "rory-gallagher",
         "Location": "Donegal, Ireland",
         "YearFormed": 1948,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "lead-belly": {
         "Artist": "Lead Belly",
         "CleanedArtist": "lead-belly",
         "Location": "Mooringsport, Louisiana",
         "YearFormed": 1888,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "robert-petway": {
         "Artist": "Robert Petway",
         "CleanedArtist": "robert-petway",
         "Location": "Yazoo City, Mississippi",
         "YearFormed": 1908,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "beyonce-jay-z": {
         "Artist": "Beyoncé, JAY-Z",
         "CleanedArtist": "beyonce-jay-z",
         "Location": "Houston, Texas",
         "YearFormed": 1981,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-las": {
         "Artist": "The La's",
         "CleanedArtist": "the-las",
         "Location": "Liverpool, England",
         "YearFormed": 1983,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "velvet-revolver": {
         "Artist": "Velvet Revolver",
         "CleanedArtist": "velvet-revolver",
         "Location": "Rancho Santa Margarita, California",
         "YearFormed": 2002,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "genesis": {
         "Artist": "Genesis",
         "CleanedArtist": "genesis",
         "Location": "Surrey, England",
         "YearFormed": 1967,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "chris-whitley": {
         "Artist": "Chris Whitley",
         "CleanedArtist": "chris-whitley",
         "Location": "Houston, Texas",
         "YearFormed": 1960,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "amy-winehouse": {
         "Artist": "Amy Winehouse",
         "CleanedArtist": "amy-winehouse",
         "Location": "London, England",
         "YearFormed": 1983,
-        "Genre": "R&B/Soul"
+        "Genre": "R&B/Soul",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "the-zutons": {
         "Artist": "The Zutons",
         "CleanedArtist": "the-zutons",
         "Location": "Liverpool, England",
         "YearFormed": 2001,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "mark-ronson": {
         "Artist": "Mark Ronson",
         "CleanedArtist": "mark-ronson",
         "Location": "London, England",
         "YearFormed": 1975,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "the-smashing-pumpkins": {
         "Artist": "The Smashing Pumpkins",
         "CleanedArtist": "the-smashing-pumpkins",
         "Location": "Chicago, Illinois",
         "YearFormed": 1988,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-doobie-brothers": {
         "Artist": "The Doobie Brothers",
         "CleanedArtist": "the-doobie-brothers",
         "Location": "San Jose, California",
         "YearFormed": 1970,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "grateful-dead": {
         "Artist": "Grateful Dead",
         "CleanedArtist": "grateful-dead",
         "Location": "Palo Alto, California",
         "YearFormed": 1965,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "goyte": {
         "Artist": "Goyte",
         "CleanedArtist": "goyte",
         "Location": "Bruges, Belgium",
         "YearFormed": 1980,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "",
+        "Emoji": ""
     },
     "roy-orbison": {
         "Artist": "Roy Orbison",
         "CleanedArtist": "roy-orbison",
         "Location": "Vernon, Texas",
         "YearFormed": 1936,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "smash-mouth": {
         "Artist": "Smash Mouth",
         "CleanedArtist": "smash-mouth",
         "Location": "San Jose, California",
         "YearFormed": 1994,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "john-frusciante": {
         "Artist": "John Frusciante",
         "CleanedArtist": "john-frusciante",
         "Location": "New York, New York",
         "YearFormed": 1970,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "nina-simone": {
         "Artist": "Nina Simone",
         "CleanedArtist": "nina-simone",
         "Location": "Tryon, North Carolina",
         "YearFormed": 1933,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "big-wreck": {
         "Artist": "Big Wreck",
         "CleanedArtist": "big-wreck",
         "Location": "Boston, Massachusetts",
         "YearFormed": 1993,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "jack-johnson": {
         "Artist": "Jack Johnson",
         "CleanedArtist": "jack-johnson",
         "Location": "Oahu, Hawaii",
         "YearFormed": 1975,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "eurythmics": {
         "Artist": "Eurythmics",
         "CleanedArtist": "eurythmics",
         "Location": "London, England",
         "YearFormed": 1980,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "annie-lennox": {
         "Artist": "Annie Lennox",
         "CleanedArtist": "annie-lennox",
         "Location": "Aberdeen, Scotland",
         "YearFormed": 1954,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "dave-stewart": {
         "Artist": "Dave Stewart",
         "CleanedArtist": "dave-stewart",
         "Location": "Sunderland, England",
         "YearFormed": 1952,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "james-taylor": {
         "Artist": "James Taylor",
         "CleanedArtist": "james-taylor",
         "Location": "Boston, Massachusetts",
         "YearFormed": 1948,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-moody-blues": {
         "Artist": "The Moody Blues",
         "CleanedArtist": "the-moody-blues",
         "Location": "Birmingham, England",
         "YearFormed": 1964,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "bruce-cockburn": {
         "Artist": "Bruce Cockburn",
         "CleanedArtist": "bruce-cockburn",
         "Location": "Ontario, Canada",
         "YearFormed": 1945,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "",
+        "Emoji": ""
     },
     "the-animals": {
         "Artist": "The Animals",
         "CleanedArtist": "the-animals",
         "Location": "Newcastle Upon Tyne, England",
         "YearFormed": 1962,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "big-star": {
         "Artist": "Big Star",
         "CleanedArtist": "big-star",
         "Location": "Memphis, Tennessee",
         "YearFormed": 1971,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "david-gray": {
         "Artist": "David Gray",
         "CleanedArtist": "david-gray",
         "Location": "Cheshire, England",
         "YearFormed": 1968,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "the-black-crowes": {
         "Artist": "The Black Crowes",
         "CleanedArtist": "the-black-crowes",
         "Location": "Atlanta, Georgia",
         "YearFormed": 1984,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "george-gershwin": {
         "Artist": "George Gershwin",
         "CleanedArtist": "george-gershwin",
         "Location": "New York, New York",
         "YearFormed": 1898,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "ella-fitzgerald": {
         "Artist": "Ella Fitzgerald",
         "CleanedArtist": "ella-fitzgerald",
         "Location": "Newport News, Virginia",
         "YearFormed": 1917,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-killers": {
         "Artist": "The Killers",
         "CleanedArtist": "the-killers",
         "Location": "Las Vegas, Nevada",
         "YearFormed": 2001,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "allman-brothers-band": {
         "Artist": "Allman Brothers Band",
         "CleanedArtist": "allman-brothers-band",
         "Location": "Jacksonville, Florida",
         "YearFormed": 1969,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "danny-elfman": {
         "Artist": "Danny Elfman",
         "CleanedArtist": "danny-elfman",
         "Location": "Los Angeles, California",
         "YearFormed": 1953,
-        "Genre": "Soundtrack"
+        "Genre": "Soundtrack",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "robbie-basho": {
         "Artist": "Robbie Basho",
         "CleanedArtist": "robbie-basho",
         "Location": "Baltimore, Maryland",
         "YearFormed": 1940,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "arborea": {
         "Artist": "Arborea",
         "CleanedArtist": "arborea",
         "Location": "Lewiston, Maine",
         "YearFormed": 2005,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "ac-dc": {
         "Artist": "AC/DC",
         "CleanedArtist": "ac-dc",
         "Location": "Sydney, Australia",
         "YearFormed": 1973,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "larry-davis": {
         "Artist": "Larry Davis",
         "CleanedArtist": "larry-davis",
         "Location": "Kansas City, Missouri",
         "YearFormed": 1936,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "metallica": {
         "Artist": "Metallica",
         "CleanedArtist": "metallica",
         "Location": "Los Angeles, California",
         "YearFormed": 1981,
-        "Genre": "Metal"
+        "Genre": "Metal",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "van-halen": {
         "Artist": "Van Halen",
         "CleanedArtist": "van-halen",
         "Location": "Pasadena, California",
         "YearFormed": 1972,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "chuck-berry": {
         "Artist": "Chuck Berry",
         "CleanedArtist": "chuck-berry",
         "Location": "St. Louis, Missouri",
         "YearFormed": 1926,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "blue-oyster-cult": {
         "Artist": "Blue Öyster Cult",
         "CleanedArtist": "blue-oyster-cult",
         "Location": "Stony Brook, New York",
         "YearFormed": 1967,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "zz-top": {
         "Artist": "ZZ Top",
         "CleanedArtist": "zz-top",
         "Location": "Houston, Texas",
         "YearFormed": 1969,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "vance-joy": {
         "Artist": "Vance Joy",
         "CleanedArtist": "vance-joy",
         "Location": "Melbourne, Australia",
         "YearFormed": 1987,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "",
+        "Emoji": ""
     },
     "otis-redding": {
         "Artist": "Otis Redding",
         "CleanedArtist": "otis-redding",
         "Location": "Melbourne, Australia",
         "YearFormed": 1987,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "",
+        "Emoji": ""
     },
     "jonny-lang": {
         "Artist": "Jonny Lang",
         "CleanedArtist": "jonny-lang",
         "Location": "Fargo, North Dakota",
         "YearFormed": 1981,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "foo-fighters": {
         "Artist": "Foo Fighters",
         "CleanedArtist": "foo-fighters",
         "Location": "Seattle, Washington",
         "YearFormed": 1994,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-eagles": {
         "Artist": "The Eagles",
         "CleanedArtist": "the-eagles",
         "Location": "Los Angeles, California",
         "YearFormed": 1971,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-police": {
         "Artist": "The Police",
         "CleanedArtist": "the-police",
         "Location": "London, England",
         "YearFormed": 1977,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "santo-johnny": {
         "Artist": "Santo & Johnny",
         "CleanedArtist": "santo-johnny",
         "Location": "Brooklyn, New York",
         "YearFormed": 1959,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "betsy-brye": {
         "Artist": "Betsy Brye",
         "CleanedArtist": "betsy-brye",
         "Location": "Richmond, Virginia",
         "YearFormed": 1932,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "matchbox-twenty": {
         "Artist": "Matchbox Twenty",
         "CleanedArtist": "matchbox-twenty",
         "Location": "Orlando, Florida",
         "YearFormed": 1995,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "sonny-boy-williamson-ii": {
         "Artist": "Sonny Boy Williamson II",
         "CleanedArtist": "sonny-boy-williamson-ii",
         "Location": "Glendora, Mississippi",
         "YearFormed": 1912,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "shania-twain": {
         "Artist": "Shania Twain",
         "CleanedArtist": "shania-twain",
         "Location": "Ontario, Canada",
         "YearFormed": 1965,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "",
+        "Emoji": ""
     },
     "tom-petty": {
         "Artist": "Tom Petty",
         "CleanedArtist": "tom-petty",
         "Location": "Gainesville, Florida",
         "YearFormed": 1950,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "johnny-cash": {
         "Artist": "Johnny Cash",
         "CleanedArtist": "johnny-cash",
         "Location": "Kingsland, Arkansas",
         "YearFormed": 1932,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "don-mclean": {
         "Artist": "Don McLean",
         "CleanedArtist": "don-mclean",
         "Location": "New Rochelle, New York",
         "YearFormed": 1945,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "oasis": {
         "Artist": "Oasis",
         "CleanedArtist": "oasis",
         "Location": "Manchester, England",
         "YearFormed": 1991,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "nirvana": {
         "Artist": "Nirvana",
         "CleanedArtist": "nirvana",
         "Location": "Seattle, Washington",
         "YearFormed": 1987,
-        "Genre": "Grunge"
+        "Genre": "Grunge",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "mountain": {
         "Artist": "Mountain",
         "CleanedArtist": "mountain",
         "Location": "Long Island, New York",
         "YearFormed": 1969,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "hozier": {
         "Artist": "Hozier",
         "CleanedArtist": "hozier",
         "Location": "County Wicklow, Ireland",
         "YearFormed": 1990,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "",
+        "Emoji": ""
     },
     "canned-heat": {
         "Artist": "Canned Heat",
         "CleanedArtist": "canned-heat",
         "Location": "Los Angeles, California",
         "YearFormed": 1965,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "john-brim": {
         "Artist": "John Brim",
         "CleanedArtist": "john-brim",
         "Location": "Hopkinsville, Kentucky",
         "YearFormed": 1922,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "guns-n-roses": {
         "Artist": "Guns N' Roses",
         "CleanedArtist": "guns-n-roses",
         "Location": "Los Angeles, California",
         "YearFormed": 1985,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "free": {
         "Artist": "Free",
         "CleanedArtist": "free",
         "Location": "London, England",
         "YearFormed": 1968,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "the-white-stripes": {
         "Artist": "The White Stripes",
         "CleanedArtist": "the-white-stripes",
         "Location": "Detroit, Michigan",
         "YearFormed": 1997,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "black-sabbath": {
         "Artist": "Black Sabbath",
         "CleanedArtist": "black-sabbath",
         "Location": "Birmingham, England",
         "YearFormed": 1968,
-        "Genre": "Metal"
+        "Genre": "Metal",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "dick-dale": {
         "Artist": "Dick Dale",
         "CleanedArtist": "dick-dale",
         "Location": "Boston, Massachusetts",
         "YearFormed": 1937,
-        "Genre": "Surf-Rock"
+        "Genre": "Surf-Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "depeche-mode": {
         "Artist": "Depeche Mode",
         "CleanedArtist": "depeche-mode",
         "Location": "Essex, England",
         "YearFormed": 1980,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "wolfmother": {
         "Artist": "Wolfmother",
         "CleanedArtist": "wolfmother",
         "Location": "Sydney, Australia",
         "YearFormed": 2003,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "paul-gilbert": {
         "Artist": "Paul Gilbert",
         "CleanedArtist": "paul-gilbert",
         "Location": "Carbondale, Illinois",
         "YearFormed": 1966,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "steppenwolf": {
         "Artist": "Steppenwolf",
         "CleanedArtist": "steppenwolf",
         "Location": "Los Angeles, California",
         "YearFormed": 1961,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "extreme": {
         "Artist": "Extreme",
         "CleanedArtist": "extreme",
         "Location": "Boston, Massachusetts",
         "YearFormed": 1985,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "audioslave": {
         "Artist": "Audioslave",
         "CleanedArtist": "audioslave",
         "Location": "Glendale, California",
         "YearFormed": 2001,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "alice-in-chains": {
         "Artist": "Alice In Chains",
         "CleanedArtist": "alice-in-chains",
         "Location": "Seattle, Washington",
         "YearFormed": 1987,
-        "Genre": "Grunge"
+        "Genre": "Grunge",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-cure": {
         "Artist": "The Cure",
         "CleanedArtist": "the-cure",
         "Location": "West Sussex, England",
         "YearFormed": 1977,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "chet-atkins": {
         "Artist": "Chet Atkins",
         "CleanedArtist": "chet-atkins",
         "Location": "Luttrell, Tennessee",
         "YearFormed": 1924,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-chordettes": {
         "Artist": "The Chordettes",
         "CleanedArtist": "the-chordettes",
         "Location": "Sheboygan, Wisconsin",
         "YearFormed": 1946,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "chris-cornell": {
         "Artist": "Chris Cornell",
         "CleanedArtist": "chris-cornell",
         "Location": "Seattle, Washington",
         "YearFormed": 1964,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "blind-boy-fuller": {
         "Artist": "Blind Boy Fuller",
         "CleanedArtist": "blind-boy-fuller",
         "Location": "Wadesboro, North Carolina",
         "YearFormed": 1907,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "johann-sebastian-bach": {
         "Artist": "Johann Sebastian Bach",
         "CleanedArtist": "johann-sebastian-bach",
         "Location": "Eisenbach, Germany",
         "YearFormed": 1685,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "jack-savoretti": {
         "Artist": "Jack Savoretti",
         "CleanedArtist": "jack-savoretti",
         "Location": "London, England",
         "YearFormed": 1983,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "rodriguez": {
         "Artist": "Rodriguez",
         "CleanedArtist": "rodriguez",
         "Location": "Detroit, Michigan",
         "YearFormed": 1942,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "stephen-stills": {
         "Artist": "Stephen Stills",
         "CleanedArtist": "stephen-stills",
         "Location": "Dallas, Texas",
         "YearFormed": 1945,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "doc-watson": {
         "Artist": "Doc Watson",
         "CleanedArtist": "doc-watson",
         "Location": "Deep Gap, North Carolina",
         "YearFormed": 1923,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "prince": {
         "Artist": "Prince",
         "CleanedArtist": "prince",
         "Location": "Minneapolis, Minnesota",
         "YearFormed": 1958,
-        "Genre": "R&B/Soul"
+        "Genre": "R&B/Soul",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "yusuf-cat-stevens": {
         "Artist": "Yusuf / Cat Stevens",
         "CleanedArtist": "yusuf-cat-stevens",
         "Location": "London, England",
         "YearFormed": 1948,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "america-george-martin": {
         "Artist": "America, George Martin",
         "CleanedArtist": "america-george-martin",
         "Location": "London, England",
         "YearFormed": 1970,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "david-wilcox": {
         "Artist": "David Wilcox",
         "CleanedArtist": "david-wilcox",
         "Location": "Quebec, Canada",
         "YearFormed": 1949,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "",
+        "Emoji": ""
     },
     "aerosmith": {
         "Artist": "Aerosmith",
         "CleanedArtist": "aerosmith",
         "Location": "Boston, Massachusetts",
         "YearFormed": 1970,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "train": {
         "Artist": "Train",
         "CleanedArtist": "train",
         "Location": "San Francisco, California",
         "YearFormed": 1994,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "steve-vai": {
         "Artist": "Steve Vai",
         "CleanedArtist": "steve-vai",
         "Location": "Carle Place, New York",
         "YearFormed": 1960,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "george-thorogood-the-destroyers": {
         "Artist": "George Thorogood & The Destroyers",
         "CleanedArtist": "george-thorogood-the-destroyers",
         "Location": "Newark, Delaware",
         "YearFormed": 1976,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "boston": {
         "Artist": "Boston",
         "CleanedArtist": "boston",
         "Location": "Boston, Massachusetts",
         "YearFormed": 1975,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "linkin-park": {
         "Artist": "Linkin Park",
         "CleanedArtist": "linkin-park",
         "Location": "Agoura Hills, California",
         "YearFormed": 1996,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "elton-john": {
         "Artist": "Elton John",
         "CleanedArtist": "elton-john",
         "Location": "Middlesex, England",
         "YearFormed": 1947,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "bukka-white": {
         "Artist": "Bukka White",
         "CleanedArtist": "bukka-white",
         "Location": "Houston, Mississippi",
         "YearFormed": 1906,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "mumford-sons": {
         "Artist": "Mumford & Sons",
         "CleanedArtist": "mumford-sons",
         "Location": "London, England",
         "YearFormed": 2007,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "blue-rodeo": {
         "Artist": "Blue Rodeo",
         "CleanedArtist": "blue-rodeo",
         "Location": "Ontario, Canada",
         "YearFormed": 1984,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "damien-rice": {
         "Artist": "Damien Rice",
         "CleanedArtist": "damien-rice",
         "Location": "Dublin, Ireland",
         "YearFormed": 1973,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "",
+        "Emoji": ""
     },
     "john-lennon-yoko-ono": {
         "Artist": "John Lennon, Yoko Ono",
         "CleanedArtist": "john-lennon-yoko-ono",
         "Location": "Liverpool, England",
         "YearFormed": 1940,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "trans-siberian-orchestra": {
         "Artist": "Trans Siberian Orchestra",
         "CleanedArtist": "trans-siberian-orchestra",
         "Location": "Tampa, Florida",
         "YearFormed": 1996,
-        "Genre": "Holiday"
+        "Genre": "Holiday",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "mykola-leontovych": {
         "Artist": "Mykola Leontovych",
         "CleanedArtist": "mykola-leontovych",
         "Location": "Monastyrok, Ukraine",
         "YearFormed": 1877,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "ted-nugent": {
         "Artist": "Ted Nugent",
         "CleanedArtist": "ted-nugent",
         "Location": "Detroit, Michigan",
         "YearFormed": 1948,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "tool": {
         "Artist": "Tool",
         "CleanedArtist": "tool",
         "Location": "Los Angeles, California",
         "YearFormed": 1990,
-        "Genre": "Metal"
+        "Genre": "Metal",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "blur": {
         "Artist": "Blur",
         "CleanedArtist": "blur",
         "Location": "Essex, England",
         "YearFormed": 1990,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "francis-scott-key": {
         "Artist": "Francis Scott Key",
         "CleanedArtist": "francis-scott-key",
         "Location": "Frederick County, Maryland",
         "YearFormed": 1779,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "rage-against-the-machine": {
         "Artist": "Rage Against The Machine",
         "CleanedArtist": "rage-against-the-machine",
         "Location": "Los Angeles, California",
         "YearFormed": 1991,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-offspring": {
         "Artist": "The Offspring",
         "CleanedArtist": "the-offspring",
         "Location": "Orange County, California,",
         "YearFormed": 1984,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-knack": {
         "Artist": "The Knack",
         "CleanedArtist": "the-knack",
         "Location": "Los Angeles, California",
         "YearFormed": 1978,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "eddie-van-halen": {
         "Artist": "Eddie Van Halen",
         "CleanedArtist": "eddie-van-halen",
         "Location": "Amsterdam, The Netherlands",
         "YearFormed": 1955,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "santana": {
         "Artist": "Santana",
         "CleanedArtist": "santana",
         "Location": "San Francisco, California",
         "YearFormed": 1966,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "spirit": {
         "Artist": "Spirit",
         "CleanedArtist": "spirit",
         "Location": "Los Angeles, California",
         "YearFormed": 1967,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "dave-matthews-band": {
         "Artist": "Dave Matthews Band",
         "CleanedArtist": "dave-matthews-band",
         "Location": "Charlottesville, Virginia",
         "YearFormed": 1991,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "eva-cassidy": {
         "Artist": "Eva Cassidy",
         "CleanedArtist": "eva-cassidy",
         "Location": "Bowie, Maryland",
         "YearFormed": 1963,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "lynyrd-skynyrd": {
         "Artist": "Lynyrd Skynyrd",
         "CleanedArtist": "lynyrd-skynyrd",
         "Location": "Jacksonville, Florida",
         "YearFormed": 1964,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "mason-williams": {
         "Artist": "Mason Williams",
         "CleanedArtist": "mason-williams",
         "Location": "Abilene, Texas",
         "YearFormed": 1938,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "jimmie-cox": {
         "Artist": "Jimmie Cox",
         "CleanedArtist": "jimmie-cox",
         "Location": "Richmond, Virginia",
         "YearFormed": 1882,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "rein-rutnik": {
         "Artist": "Rein Rutnik",
         "CleanedArtist": "rein-rutnik",
         "Location": "Ontario, Canada",
         "YearFormed": 1990,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "",
+        "Emoji": ""
     },
     "milton-ager-jack-yellen": {
         "Artist": "Milton Ager & Jack Yellen",
         "CleanedArtist": "milton-ager-jack-yellen",
         "Location": "Chicago, Illinois",
         "YearFormed": 1893,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "mississippi-john-hurt": {
         "Artist": "Mississippi John Hurt",
         "CleanedArtist": "mississippi-john-hurt",
         "Location": "Avalon, Mississippi",
         "YearFormed": 1893,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "joe-filisko": {
         "Artist": "Joe Filisko",
         "CleanedArtist": "joe-filisko",
         "Location": "Giessen, Germany",
         "YearFormed": 1990,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "",
+        "Emoji": ""
     },
     "semisonic": {
         "Artist": "Semisonic",
         "CleanedArtist": "semisonic",
         "Location": "Minneapolis, Minnesota",
         "YearFormed": 1993,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "a-ha": {
         "Artist": "A-Ha",
         "CleanedArtist": "a-ha",
         "Location": "Oslo, Norway",
         "YearFormed": 1983,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "p-nk": {
         "Artist": "P!nk",
         "CleanedArtist": "p-nk",
         "Location": "Doylestown, Pennsylvania",
         "YearFormed": 1979,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "agustin-barrios-mangore": {
         "Artist": "Agustín Barrios Mangoré",
         "CleanedArtist": "agustin-barrios-mangore",
         "Location": "San Juan Bautista, Paraguay",
         "YearFormed": 1885,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "ryan-adams": {
         "Artist": "Ryan Adams",
         "CleanedArtist": "ryan-adams",
         "Location": "Jacksonville, North Carolina",
         "YearFormed": 1974,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "bryan-adams": {
         "Artist": "Bryan Adams",
         "CleanedArtist": "bryan-adams",
         "Location": "Ontario, Canada",
         "YearFormed": 1959,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "rusted-root": {
         "Artist": "Rusted Root",
         "CleanedArtist": "rusted-root",
         "Location": "Pittsburgh, Pennsylvania",
         "YearFormed": 1990,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "ben-howard": {
         "Artist": "Ben Howard",
         "CleanedArtist": "ben-howard",
         "Location": "London, England",
         "YearFormed": 1987,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "george-harrison": {
         "Artist": "George Harrison",
         "CleanedArtist": "george-harrison",
         "Location": "Liverpool, England",
         "YearFormed": 1943,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "old-crow-medicine-show": {
         "Artist": "Old Crow Medicine Show",
         "CleanedArtist": "old-crow-medicine-show",
         "Location": "Harrisonburg, Virginia",
         "YearFormed": 1998,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "darius-rucker": {
         "Artist": "Darius Rucker",
         "CleanedArtist": "darius-rucker",
         "Location": "Charleston, South Carolina",
         "YearFormed": 1966,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "blink-182": {
         "Artist": "Blink-182",
         "CleanedArtist": "blink-182",
         "Location": "Poway, California",
         "YearFormed": 1992,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "nelly": {
         "Artist": "Nelly",
         "CleanedArtist": "nelly",
         "Location": "Austin, Texas",
         "YearFormed": 1974,
-        "Genre": "Hip-Hop/Rap"
+        "Genre": "Hip-Hop/Rap",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "great-big-sea": {
         "Artist": "Great Big Sea",
         "CleanedArtist": "great-big-sea",
         "Location": "Newfoundland, Canada",
         "YearFormed": 1993,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "",
+        "Emoji": ""
     },
     "ben-harper": {
         "Artist": "Ben Harper",
         "CleanedArtist": "ben-harper",
         "Location": "Pomona, California",
         "YearFormed": 1969,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-tragically-hip": {
         "Artist": "The Tragically Hip",
         "CleanedArtist": "the-tragically-hip",
         "Location": "Ontario, Canada",
         "YearFormed": 1983,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "blind-melon": {
         "Artist": "Blind Melon",
         "CleanedArtist": "blind-melon",
         "Location": "Los Angeles, California",
         "YearFormed": 1989,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "fuel": {
         "Artist": "Fuel",
         "CleanedArtist": "fuel",
         "Location": "Harrisburg, Pennsylvania",
         "YearFormed": 1994,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "green-day": {
         "Artist": "Green Day",
         "CleanedArtist": "green-day",
         "Location": "East Bay, California",
         "YearFormed": 1989,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "sun-kil-moon": {
         "Artist": "Sun Kil Moon",
         "CleanedArtist": "sun-kil-moon",
         "Location": "San Francisco, California",
         "YearFormed": 2002,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "inxs": {
         "Artist": "INXS",
         "CleanedArtist": "inxs",
         "Location": "Sydney, Australia",
         "YearFormed": 1977,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "temple-of-the-dog": {
         "Artist": "Temple Of The Dog",
         "CleanedArtist": "temple-of-the-dog",
         "Location": "Seattle, Washington",
         "YearFormed": 1990,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "talking-heads": {
         "Artist": "Talking Heads",
         "CleanedArtist": "talking-heads",
         "Location": "New York, New York",
         "YearFormed": 1975,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "unknown": {
         "Artist": "Unknown",
         "CleanedArtist": "unknown",
         "Location": "Places, Spain",
         "YearFormed": 1900,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "tenacious-d": {
         "Artist": "Tenacious D",
         "CleanedArtist": "tenacious-d",
         "Location": "Los Angeles, California",
         "YearFormed": 1994,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "edwin-mccain": {
         "Artist": "Edwin McCain",
         "CleanedArtist": "edwin-mccain",
         "Location": "Charleston, South Carolina",
         "YearFormed": 1970,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "tim-buckley": {
         "Artist": "Tim Buckley",
         "CleanedArtist": "tim-buckley",
         "Location": "Washington, D.C.",
         "YearFormed": 1947,
-        "Genre": "Folk"
+        "Genre": "Folk",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-clash": {
         "Artist": "The Clash",
         "CleanedArtist": "the-clash",
         "Location": "London, England",
         "YearFormed": 1976,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "adele": {
         "Artist": "Adele",
         "CleanedArtist": "adele",
         "Location": "London, England",
         "YearFormed": 1988,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "dusty-springfield": {
         "Artist": "Dusty Springfield",
         "CleanedArtist": "dusty-springfield",
         "Location": "London, England",
         "YearFormed": 1939,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "christina-perri": {
         "Artist": "Christina Perri",
         "CleanedArtist": "christina-perri",
         "Location": "Bensalem, Pennsylvania",
         "YearFormed": 1986,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "bon-iver": {
         "Artist": "Bon Iver",
         "CleanedArtist": "bon-iver",
         "Location": "Eau Claire, Wisconsin",
         "YearFormed": 2006,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "birdy": {
         "Artist": "Birdy",
         "CleanedArtist": "birdy",
         "Location": "Hampshire, England",
         "YearFormed": 1996,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "james-morrison": {
         "Artist": "James Morrison",
         "CleanedArtist": "james-morrison",
         "Location": "Warwickshire, England",
         "YearFormed": 1984,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "the-mamas-the-papas": {
         "Artist": "The Mamas & The Papas",
         "CleanedArtist": "the-mamas-the-papas",
         "Location": "Los Angeles, California",
         "YearFormed": 1965,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "jose-feliciano": {
         "Artist": "José Feliciano",
         "CleanedArtist": "jose-feliciano",
         "Location": "Lares, Puerto Rico",
         "YearFormed": 1945,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "hambone-willie-newbern": {
         "Artist": "Hambone Willie Newbern",
         "CleanedArtist": "hambone-willie-newbern",
         "Location": "Haywood County, Tennessee",
         "YearFormed": 1901,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "muddy-waters": {
         "Artist": "Muddy Waters",
         "CleanedArtist": "muddy-waters",
         "Location": "Rolling Fork, Mississippi",
         "YearFormed": 1915,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "john-lennon": {
         "Artist": "John Lennon",
         "CleanedArtist": "john-lennon",
         "Location": "Liverpool, England",
         "YearFormed": 1940,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "koji-kondo": {
         "Artist": "Koji Kondo",
         "CleanedArtist": "koji-kondo",
         "Location": "Aichi, Japan",
         "YearFormed": 1961,
-        "Genre": "Soundtrack"
+        "Genre": "Soundtrack",
+        "Country": "",
+        "Emoji": ""
     },
     "john-coltrane": {
         "Artist": "John Coltrane",
         "CleanedArtist": "john-coltrane",
         "Location": "Hamlet, North Carolina",
         "YearFormed": 1926,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "filter": {
         "Artist": "Filter",
         "CleanedArtist": "filter",
         "Location": "Cleveland, Ohio",
         "YearFormed": 1993,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-cranberries": {
         "Artist": "The Cranberries",
         "CleanedArtist": "the-cranberries",
         "Location": "Limerick, Ireland",
         "YearFormed": 1989,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "john-denver": {
         "Artist": "John Denver",
         "CleanedArtist": "john-denver",
         "Location": "Roswell, New Mexico",
         "YearFormed": 1943,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "james-shelton": {
         "Artist": "James Shelton",
         "CleanedArtist": "james-shelton",
         "Location": "New York, New York",
         "YearFormed": 1950,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "pusha-t": {
         "Artist": "Pusha T",
         "CleanedArtist": "pusha-t",
         "Location": "Bronx, New York",
         "YearFormed": 1977,
-        "Genre": "Hip-Hop/Rap"
+        "Genre": "Hip-Hop/Rap",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "tom-batoy": {
         "Artist": "Tom Batoy",
         "CleanedArtist": "tom-batoy",
         "Location": "Bavaria, Germany",
         "YearFormed": 1972,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "franco-tortora": {
         "Artist": "Franco Tortora",
         "CleanedArtist": "franco-tortora",
         "Location": "Bavaria, Germany",
         "YearFormed": 1961,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "john-prine": {
         "Artist": "John Prine",
         "CleanedArtist": "john-prine",
         "Location": "Maywood, Illinois",
         "YearFormed": 1946,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "doucette": {
         "Artist": "Doucette",
         "CleanedArtist": "doucette",
         "Location": "Quebec, Canada",
         "YearFormed": 1951,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "iron-maiden": {
         "Artist": "Iron Maiden",
         "CleanedArtist": "iron-maiden",
         "Location": "London, England",
         "YearFormed": 1975,
-        "Genre": "Metal"
+        "Genre": "Metal",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "peter-frampton": {
         "Artist": "Peter Frampton",
         "CleanedArtist": "peter-frampton",
         "Location": "Kent, England",
         "YearFormed": 1950,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "carney": {
         "Artist": "Carney",
         "CleanedArtist": "carney",
         "Location": "Los Angeles, California",
         "YearFormed": 1983,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "kings-of-leon": {
         "Artist": "Kings of Leon",
         "CleanedArtist": "kings-of-leon",
         "Location": "Nashville, Tennessee",
         "YearFormed": 1999,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "rem": {
         "Artist": "R.E.M",
         "CleanedArtist": "rem",
         "Location": "Athens, Georgia",
         "YearFormed": 1980,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-soggy-bottom-boys": {
         "Artist": "The Soggy Bottom Boys",
         "CleanedArtist": "the-soggy-bottom-boys",
         "Location": "Yazoo City, Mississippi",
         "YearFormed": 1937,
-        "Genre": "Country"
+        "Genre": "Country",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "dick-burnett": {
         "Artist": "Dick Burnett",
         "CleanedArtist": "dick-burnett",
         "Location": "Elk Springs, Kentucky",
         "YearFormed": 1883,
-        "Genre": "Folk"
+        "Genre": "Folk",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "kim-mitchell": {
         "Artist": "Kim Mitchell",
         "CleanedArtist": "kim-mitchell",
         "Location": "Ontario, Canada",
         "YearFormed": 1952,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "mr-big": {
         "Artist": "Mr. Big",
         "CleanedArtist": "mr-big",
         "Location": "Los Angeles, California",
         "YearFormed": 1988,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-kinks": {
         "Artist": "The Kinks",
         "CleanedArtist": "the-kinks",
         "Location": "London, England",
         "YearFormed": 1964,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "jimmy-eat-world": {
         "Artist": "Jimmy Eat World",
         "CleanedArtist": "jimmy-eat-world",
         "Location": "Mesa, Arizona",
         "YearFormed": 1993,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-hollies": {
         "Artist": "The Hollies",
         "CleanedArtist": "the-hollies",
         "Location": "Manchester, England",
         "YearFormed": 1963,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "shuki-levy": {
         "Artist": "Shuki Levy",
         "CleanedArtist": "shuki-levy",
         "Location": "Tel Aviv-Yafo, Israel",
         "YearFormed": 1947,
-        "Genre": "Soundtrack"
+        "Genre": "Soundtrack",
+        "Country": "",
+        "Emoji": ""
     },
     "haim-saban": {
         "Artist": "Haim Saban",
         "CleanedArtist": "haim-saban",
         "Location": "Alexandria, Egypt",
         "YearFormed": 1944,
-        "Genre": "Soundtrack"
+        "Genre": "Soundtrack",
+        "Country": "",
+        "Emoji": ""
     },
     "trevor-hall-krishna-das": {
         "Artist": "Trevor Hall, Krishna Das",
         "CleanedArtist": "trevor-hall-krishna-das",
         "Location": "Greenwich, Connecticut",
         "YearFormed": 1986,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "tonic": {
         "Artist": "Tonic",
         "CleanedArtist": "tonic",
         "Location": "Los Angeles, California",
         "YearFormed": 1993,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "nickelback": {
         "Artist": "Nickelback",
         "CleanedArtist": "nickelback",
         "Location": "Alberta, Canada",
         "YearFormed": 1995,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "collective-soul": {
         "Artist": "Collective Soul",
         "CleanedArtist": "collective-soul",
         "Location": "Stockbridge, Georgia",
         "YearFormed": 1992,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "simon-garfunkel": {
         "Artist": "Simon & Garfunkel",
         "CleanedArtist": "simon-garfunkel",
         "Location": "Queens, New York",
         "YearFormed": 1963,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "fleet-foxes": {
         "Artist": "Fleet Foxes",
         "CleanedArtist": "fleet-foxes",
         "Location": "Seattle, Washington",
         "YearFormed": 2006,
-        "Genre": "Alternative"
+        "Genre": "Alternative",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "massive-attack": {
         "Artist": "Massive Attack",
         "CleanedArtist": "massive-attack",
         "Location": "Bristol, England",
         "YearFormed": 1988,
-        "Genre": "Electronic"
+        "Genre": "Electronic",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "ludwig-van-beethoven": {
         "Artist": "Ludwig Van Beethoven",
         "CleanedArtist": "ludwig-van-beethoven",
         "Location": "Bonn, Germany",
         "YearFormed": 1770,
-        "Genre": "Germany"
+        "Genre": "Germany",
+        "Country": "",
+        "Emoji": ""
     },
     "gordon-lightfoot": {
         "Artist": "Gordon Lightfoot",
         "CleanedArtist": "gordon-lightfoot",
         "Location": "Ontario, Canada",
         "YearFormed": 1938,
-        "Genre": "Singer/Songwriter"
+        "Genre": "Singer/Songwriter",
+        "Country": "",
+        "Emoji": ""
     },
     "bon-jovi": {
         "Artist": "Bon Jovi",
         "CleanedArtist": "bon-jovi",
         "Location": "Sayreville, New Jersey",
         "YearFormed": 1983,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "grant-dermody": {
         "Artist": "Grant Dermody",
         "CleanedArtist": "grant-dermody",
         "Location": "Seattle, Washington",
         "YearFormed": 1970,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "claude-debussy": {
         "Artist": "Claude Debussy",
         "CleanedArtist": "claude-debussy",
         "Location": "Saint-Germain-en-Laye, France",
         "YearFormed": 1862,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "jj-cale": {
         "Artist": "J.J. Cale",
         "CleanedArtist": "jj-cale",
         "Location": "Oklahoma City, Oklahoma",
         "YearFormed": 1938,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "deep-purple": {
         "Artist": "Deep Purple",
         "CleanedArtist": "deep-purple",
         "Location": "Hertford, England",
         "YearFormed": 1968,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "joseph-kosma": {
         "Artist": "Joseph Kosma",
         "CleanedArtist": "joseph-kosma",
         "Location": "Budapest, Hungary",
         "YearFormed": 1905,
-        "Genre": "Soundtrack"
+        "Genre": "Soundtrack",
+        "Country": "",
+        "Emoji": ""
     },
     "jacques-prevert": {
         "Artist": "Jacques Prevert",
         "CleanedArtist": "jacques-prevert",
         "Location": "Neuilly-sur-Seine, France",
         "YearFormed": 1900,
-        "Genre": "Soundtrack"
+        "Genre": "Soundtrack",
+        "Country": "",
+        "Emoji": ""
     },
     "daryl-hall-and-john-oates": {
         "Artist": "Daryl Hall and John Oates",
         "CleanedArtist": "daryl-hall-and-john-oates",
         "Location": "Philadelphia, Pennsylvania",
         "YearFormed": 1970,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "moist": {
         "Artist": "Moist",
         "CleanedArtist": "moist",
         "Location": "Vancouver, Canada",
         "YearFormed": 2005,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "bill-withers": {
         "Artist": "Bill Withers",
         "CleanedArtist": "bill-withers",
         "Location": "Slab Fork, West Virginia",
         "YearFormed": 1938,
-        "Genre": "R&B/Soul"
+        "Genre": "R&B/Soul",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "marcy-playground": {
         "Artist": "Marcy Playground",
         "CleanedArtist": "marcy-playground",
         "Location": "New York, New York",
         "YearFormed": 1994,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "the-proclaimers": {
         "Artist": "The Proclaimers",
         "CleanedArtist": "the-proclaimers",
         "Location": "Leith, Scotland",
         "YearFormed": 1983,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     },
     "isaac-albeniz": {
         "Artist": "Isaac Albéniz",
         "CleanedArtist": "isaac-albeniz",
         "Location": "Camprodon, Spain",
         "YearFormed": 1860,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "tom-jones": {
         "Artist": "Tom Jones",
         "CleanedArtist": "tom-jones",
         "Location": "Pontypridd, Wales",
         "YearFormed": 1940,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "",
+        "Emoji": ""
     },
     "toto": {
         "Artist": "Toto",
         "CleanedArtist": "toto",
         "Location": "Van Nuys, California",
         "YearFormed": 1977,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "gaspar-sanz": {
         "Artist": "Gaspar Sanz",
         "CleanedArtist": "gaspar-sanz",
         "Location": "Calanda, Spain",
         "YearFormed": 1640,
-        "Genre": "Classical"
+        "Genre": "Classical",
+        "Country": "",
+        "Emoji": ""
     },
     "deford-bailey": {
         "Artist": "Deford Bailey",
         "CleanedArtist": "deford-bailey",
         "Location": "Smith County, Tennessee",
         "YearFormed": 1899,
-        "Genre": "Blues"
+        "Genre": "Blues",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "bobby-mcferrin": {
         "Artist": "Bobby McFerrin",
         "CleanedArtist": "bobby-mcferrin",
         "Location": "New York, New York",
         "YearFormed": 1950,
-        "Genre": "Jazz"
+        "Genre": "Jazz",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "slash": {
         "Artist": "Slash",
         "CleanedArtist": "slash",
         "Location": "London, England",
         "YearFormed": 1965,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "England",
+        "Emoji": "🇬🇧"
     },
     "janet-jackson": {
         "Artist": "Janet Jackson",
         "CleanedArtist": "janet-jackson",
         "Location": "Gary, Indiana",
         "YearFormed": 1966,
-        "Genre": "Pop"
+        "Genre": "Pop",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "kiss": {
         "Artist": "Kiss",
         "CleanedArtist": "kiss",
         "Location": "New York, New York",
         "YearFormed": 1973,
-        "Genre": "Hard Rock"
+        "Genre": "Hard Rock",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "nursery-rhyme": {
         "Artist": "Nursery Rhyme",
         "CleanedArtist": "nursery-rhyme",
         "Location": "Places, Earth",
         "YearFormed": 1940,
-        "Genre": "Soundtrack"
+        "Genre": "Soundtrack",
+        "Country": "",
+        "Emoji": ""
     },
     "alicia-keys": {
         "Artist": "Alicia Keys",
         "CleanedArtist": "alicia-keys",
         "Location": "New York, New York",
         "YearFormed": 1981,
-        "Genre": "R&B/Soul"
+        "Genre": "R&B/Soul",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "donny-hathaway": {
         "Artist": "Donny Hathaway",
         "CleanedArtist": "donny-hathaway",
         "Location": "Chicago, Illinois",
         "YearFormed": 1945,
-        "Genre": "R&B/Soul"
+        "Genre": "R&B/Soul",
+        "Country": "United States",
+        "Emoji": "🇺🇸"
     },
     "bachman-turner-overdrive": {
         "Artist": "Bachman-Turner Overdrive",
         "CleanedArtist": "bachman-turner-overdrive",
         "Location": "Manitoba, Canada",
         "YearFormed": 1970,
-        "Genre": "Rock"
+        "Genre": "Rock",
+        "Country": "",
+        "Emoji": ""
     }
 }
