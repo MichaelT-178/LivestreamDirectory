@@ -2,1206 +2,1206 @@
     "various-artists": {
         "Artist": "Various Artists",
         "CleanedArtist": "various-artists",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Places, Earth",
+        "YearFormed": 1960,
+        "Genre": "Rock"
     },
     "corey-heuvel": {
         "Artist": "Corey Heuvel",
         "CleanedArtist": "corey-heuvel",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1990,
+        "Genre": "Rock"
     },
     "joni-mitchell": {
         "Artist": "Joni Mitchell",
         "CleanedArtist": "joni-mitchell",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Alberta, Canada",
+        "YearFormed": 1943,
+        "Genre": "Pop"
     },
     "jeff-buckley": {
         "Artist": "Jeff Buckley",
         "CleanedArtist": "jeff-buckley",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Anaheim, California",
+        "YearFormed": 1966,
+        "Genre": "Alternative"
     },
     "the-smiths": {
         "Artist": "The Smiths",
         "CleanedArtist": "the-smiths",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Manchester, England",
+        "YearFormed": 1982,
+        "Genre": "Alternative"
     },
     "scott-matthews": {
         "Artist": "Scott Matthews",
         "CleanedArtist": "scott-matthews",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Wolverhampton, England",
+        "YearFormed": 1976,
+        "Genre": "Alternative"
     },
     "eddie-vedder": {
         "Artist": "Eddie Vedder",
         "CleanedArtist": "eddie-vedder",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Evanston, Illinois",
+        "YearFormed": 1964,
+        "Genre": "Rock"
     },
     "eric-clapton": {
         "Artist": "Eric Clapton",
         "CleanedArtist": "eric-clapton",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Surrey, England",
+        "YearFormed": 1945,
+        "Genre": "Rock"
     },
     "big-bill-broonzy": {
         "Artist": "Big Bill Broonzy",
         "CleanedArtist": "big-bill-broonzy",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Scott, Mississippi",
+        "YearFormed": 1893,
+        "Genre": "Blues"
     },
     "incubus": {
         "Artist": "Incubus",
         "CleanedArtist": "incubus",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Calabasas, California",
+        "YearFormed": 1991,
+        "Genre": "Rock"
     },
     "fleetwood-mac": {
         "Artist": "Fleetwood Mac",
         "CleanedArtist": "fleetwood-mac",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1967,
+        "Genre": "Rock"
     },
     "lindsey-buckingham": {
         "Artist": "Lindsey Buckingham",
         "CleanedArtist": "lindsey-buckingham",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Palo Alto, California",
+        "YearFormed": 1949,
+        "Genre": "Rock"
     },
     "john-mayer": {
         "Artist": "John Mayer",
         "CleanedArtist": "john-mayer",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Bridgeport, Connecticut",
+        "YearFormed": 1977,
+        "Genre": "Rock"
     },
     "nick-drake": {
         "Artist": "Nick Drake",
         "CleanedArtist": "nick-drake",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Rangoon, Burma",
+        "YearFormed": 1948,
+        "Genre": "Singer/Songwriter"
     },
     "john-martyn": {
         "Artist": "John Martyn",
         "CleanedArtist": "john-martyn",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Surrey, England",
+        "YearFormed": 1948,
+        "Genre": "Singer/Songwriter"
     },
     "flo-rida-t-pain": {
         "Artist": "Flo Rida, T-Pain",
         "CleanedArtist": "flo-rida-t-pain",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Miami Gardens, Florida",
+        "YearFormed": 1979,
+        "Genre": "Hip-Hop/Rap"
     },
     "michael-jackson": {
         "Artist": "Michael Jackson",
         "CleanedArtist": "michael-jackson",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Gary, Indiana",
+        "YearFormed": 1958,
+        "Genre": "Pop"
     },
     "stevie-wonder": {
         "Artist": "Stevie Wonder",
         "CleanedArtist": "stevie-wonder",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Saginaw, Michigan",
+        "YearFormed": 1950,
+        "Genre": "R&B/Soul"
     },
     "bob-dylan": {
         "Artist": "Bob Dylan",
         "CleanedArtist": "bob-dylan",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Duluth, Minnesota",
+        "YearFormed": 1941,
+        "Genre": "Folk"
     },
     "eric-johnson": {
         "Artist": "Eric Johnson",
         "CleanedArtist": "eric-johnson",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Austin, Texas",
+        "YearFormed": 1954,
+        "Genre": "Rock"
     },
     "tommy-emmanuel": {
         "Artist": "Tommy Emmanuel",
         "CleanedArtist": "tommy-emmanuel",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Muswellbrook, Australia",
+        "YearFormed": 1955,
+        "Genre": "Jazz"
     },
     "stevie-ray-vaughan": {
         "Artist": "Stevie Ray Vaughan",
         "CleanedArtist": "stevie-ray-vaughan",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Dallas, Texas",
+        "YearFormed": 1954,
+        "Genre": "Blues"
     },
     "joe-satriani": {
         "Artist": "Joe Satriani",
         "CleanedArtist": "joe-satriani",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Westbury, New York",
+        "YearFormed": 1956,
+        "Genre": "Rock"
     },
     "jamiroquai": {
         "Artist": "Jamiroquai",
         "CleanedArtist": "jamiroquai",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1992,
+        "Genre": "Pop"
     },
     "jimi-hendrix": {
         "Artist": "Jimi Hendrix",
         "CleanedArtist": "jimi-hendrix",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Seattle, Washington",
+        "YearFormed": 1942,
+        "Genre": "Rock"
     },
     "gnarls-barkley": {
         "Artist": "Gnarls Barkley",
         "CleanedArtist": "gnarls-barkley",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Atlanta, Georgia",
+        "YearFormed": 2006,
+        "Genre": "Pop"
     },
     "ray-lamontagne": {
         "Artist": "Ray LaMontagne",
         "CleanedArtist": "ray-lamontagne",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Nashua, New Hampshire",
+        "YearFormed": 1973,
+        "Genre": "Rock"
     },
     "van-morrison": {
         "Artist": "Van Morrison",
         "CleanedArtist": "van-morrison",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Belfast, North Ireland",
+        "YearFormed": 1945,
+        "Genre": "Rock"
     },
     "patrick-watson": {
         "Artist": "Patrick Watson",
         "CleanedArtist": "patrick-watson",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Lancaster, California",
+        "YearFormed": 1979,
+        "Genre": "Alternative"
     },
     "pendulum": {
         "Artist": "Pendulum",
         "CleanedArtist": "pendulum",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Perth, Australia",
+        "YearFormed": 2002,
+        "Genre": "Electronic"
     },
     "peter-gabriel": {
         "Artist": "Peter Gabriel",
         "CleanedArtist": "peter-gabriel",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Surrey, England",
+        "YearFormed": 1950,
+        "Genre": "Rock"
     },
     "steve-miller-band": {
         "Artist": "Steve Miller Band",
         "CleanedArtist": "steve-miller-band",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "San Francisco, California",
+        "YearFormed": 1966,
+        "Genre": "Rock"
     },
     "justin-timberlake-ft-jay-z": {
         "Artist": "Justin Timberlake ft. JAY-Z",
         "CleanedArtist": "justin-timberlake-ft-jay-z",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Memphis, Tennessee",
+        "YearFormed": 1981,
+        "Genre": "Pop"
     },
     "crosby-stills-nash-young": {
         "Artist": "Crosby, Stills, Nash & Young",
         "CleanedArtist": "crosby-stills-nash-young",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1969,
+        "Genre": "Rock"
     },
     "pink-floyd": {
         "Artist": "Pink Floyd",
         "CleanedArtist": "pink-floyd",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1965,
+        "Genre": "Rock"
     },
     "heart": {
         "Artist": "Heart",
         "CleanedArtist": "heart",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Seattle, Washington",
+        "YearFormed": 1973,
+        "Genre": "Rock"
     },
     "the-goo-goo-dolls": {
         "Artist": "The Goo Goo Dolls",
         "CleanedArtist": "the-goo-goo-dolls",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Buffalo, New York",
+        "YearFormed": 1986,
+        "Genre": "Rock"
     },
     "jim-croce": {
         "Artist": "Jim Croce",
         "CleanedArtist": "jim-croce",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Philadelphia, Pennsylvania",
+        "YearFormed": 1943,
+        "Genre": "Singer/Songwriter"
     },
     "michael-buble": {
         "Artist": "Michael Bublé",
         "CleanedArtist": "michael-buble",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "British Columbia, Canada",
+        "YearFormed": 1975,
+        "Genre": "Pop"
     },
     "vanessa-carlton": {
         "Artist": "Vanessa Carlton",
         "CleanedArtist": "vanessa-carlton",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Milford, Pennsylvania",
+        "YearFormed": 1980,
+        "Genre": "Pop"
     },
     "neil-young": {
         "Artist": "Neil Young",
         "CleanedArtist": "neil-young",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1945,
+        "Genre": "Rock"
     },
     "sam-sparro": {
         "Artist": "Sam Sparro",
         "CleanedArtist": "sam-sparro",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Sydney, Australia",
+        "YearFormed": 1982,
+        "Genre": "Pop"
     },
     "ariana-grande-ft-zedd": {
         "Artist": "Ariana Grande ft. Zedd",
         "CleanedArtist": "ariana-grande-ft-zedd",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Boca Raton, Florida",
+        "YearFormed": 1993,
+        "Genre": "Pop"
     },
     "kansas": {
         "Artist": "Kansas",
         "CleanedArtist": "kansas",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Topeka, Kansas",
+        "YearFormed": 1973,
+        "Genre": "Rock"
     },
     "steely-dan": {
         "Artist": "Steely Dan",
         "CleanedArtist": "steely-dan",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1972,
+        "Genre": "Rock"
     },
     "seal": {
         "Artist": "Seal",
         "CleanedArtist": "seal",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1963,
+        "Genre": "Pop"
     },
     "lyle-lovett": {
         "Artist": "Lyle Lovett",
         "CleanedArtist": "lyle-lovett",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Klein, Texas",
+        "YearFormed": 1957,
+        "Genre": "Country"
     },
     "doyle-bramhall": {
         "Artist": "Doyle Bramhall",
         "CleanedArtist": "doyle-bramhall",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Dallas, Texas",
+        "YearFormed": 1949,
+        "Genre": "Blues"
     },
     "alanis-morissette": {
         "Artist": "Alanis Morissette",
         "CleanedArtist": "alanis-morissette",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1974,
+        "Genre": "Pop"
     },
     "tears-for-fears": {
         "Artist": "Tears For Fears",
         "CleanedArtist": "tears-for-fears",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Somerset, England",
+        "YearFormed": 1981,
+        "Genre": "Pop"
     },
     "led-zeppelin": {
         "Artist": "Led Zeppelin",
         "CleanedArtist": "led-zeppelin",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1968,
+        "Genre": "Rock"
     },
     "bruce-springsteen": {
         "Artist": "Bruce Springsteen",
         "CleanedArtist": "bruce-springsteen",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Long Branch, New Jersey",
+        "YearFormed": 1949,
+        "Genre": "Rock"
     },
     "bo-diddley": {
         "Artist": "Bo Diddley",
         "CleanedArtist": "bo-diddley",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "McComb, Mississippi",
+        "YearFormed": 1928,
+        "Genre": "Blues"
     },
     "stone-temple-pilots": {
         "Artist": "Stone Temple Pilots",
         "CleanedArtist": "stone-temple-pilots",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1990,
+        "Genre": "Rock"
     },
     "tracy-chapman": {
         "Artist": "Tracy Chapman",
         "CleanedArtist": "tracy-chapman",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Cleveland, Ohio",
+        "YearFormed": 1964,
+        "Genre": "Singer/Songwriter"
     },
     "queen": {
         "Artist": "Queen",
         "CleanedArtist": "queen",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1970,
+        "Genre": "Rock"
     },
     "sublime": {
         "Artist": "Sublime",
         "CleanedArtist": "sublime",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Long Beach, California",
+        "YearFormed": 1988,
+        "Genre": "Alternative"
     },
     "the-band": {
         "Artist": "The Band",
         "CleanedArtist": "the-band",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1964,
+        "Genre": "Rock"
     },
     "third-eye-blind": {
         "Artist": "Third Eye Blind",
         "CleanedArtist": "third-eye-blind",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "San Francisco, California",
+        "YearFormed": 1993,
+        "Genre": "Alternative"
     },
     "blackstreet": {
         "Artist": "Blackstreet",
         "CleanedArtist": "blackstreet",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "New York, New York",
+        "YearFormed": 1991,
+        "Genre": "R&B/Soul"
     },
     "francisco-tarrega": {
         "Artist": "Francisco Tárrega",
         "CleanedArtist": "francisco-tarrega",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Castellón, Spain",
+        "YearFormed": 1852,
+        "Genre": "Classical"
     },
     "the-beatles": {
         "Artist": "The Beatles",
         "CleanedArtist": "the-beatles",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Liverpool, England",
+        "YearFormed": 1960,
+        "Genre": "Rock"
     },
     "matteo-carcassi": {
         "Artist": "Matteo Carcassi",
         "CleanedArtist": "matteo-carcassi",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Florence, Italy",
+        "YearFormed": 1792,
+        "Genre": "Classical"
     },
     "cream": {
         "Artist": "Cream",
         "CleanedArtist": "cream",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1966,
+        "Genre": "Rock"
     },
     "robert-johnson": {
         "Artist": "Robert Johnson",
         "CleanedArtist": "robert-johnson",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Hazlehurst, Mississippi",
+        "YearFormed": 1911,
+        "Genre": "Blues"
     },
     "the-black-keys": {
         "Artist": "The Black Keys",
         "CleanedArtist": "the-black-keys",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Akron, Ohio",
+        "YearFormed": 2001,
+        "Genre": "Alternative"
     },
     "radiohead": {
         "Artist": "Radiohead",
         "CleanedArtist": "radiohead",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Oxford, England",
+        "YearFormed": 1985,
+        "Genre": "Alternative"
     },
     "david-bowie": {
         "Artist": "David Bowie",
         "CleanedArtist": "david-bowie",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1947,
+        "Genre": "Rock"
     },
     "soundgarden": {
         "Artist": "Soundgarden",
         "CleanedArtist": "soundgarden",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Seattle, Washington",
+        "YearFormed": 1984,
+        "Genre": "Grunge"
     },
     "the-who": {
         "Artist": "The Who",
         "CleanedArtist": "the-who",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1964,
+        "Genre": "Rock"
     },
     "kiesza": {
         "Artist": "Kiesza",
         "CleanedArtist": "kiesza",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Alberta, Canada",
+        "YearFormed": 1989,
+        "Genre": "Electronic"
     },
     "bob-seger": {
         "Artist": "Bob Seger",
         "CleanedArtist": "bob-seger",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Detroit, Michigan",
+        "YearFormed": 1945,
+        "Genre": "Rock"
     },
     "the-leaves": {
         "Artist": "The Leaves",
         "CleanedArtist": "the-leaves",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "San Fernando Valley, California",
+        "YearFormed": 1963,
+        "Genre": "Rock"
     },
     "billy-roberts": {
         "Artist": "Billy Roberts",
         "CleanedArtist": "billy-roberts",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Greenville, South Carolina",
+        "YearFormed": 1936,
+        "Genre": "Blues"
     },
     "porter-wagoner": {
         "Artist": "Porter Wagoner",
         "CleanedArtist": "porter-wagoner",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "West Plains, Missouri",
+        "YearFormed": 1927,
+        "Genre": "Country"
     },
     "red-hayes": {
         "Artist": "Red Hayes",
         "CleanedArtist": "red-hayes",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Garden Valley, Texas",
+        "YearFormed": 1926,
+        "Genre": "Blues"
     },
     "edith-piaf": {
         "Artist": "Édith Piaf",
         "CleanedArtist": "edith-piaf",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Paris, France",
+        "YearFormed": 1915,
+        "Genre": "Pop"
     },
     "hank-williams": {
         "Artist": "Hank Williams",
         "CleanedArtist": "hank-williams",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Butler County, Alabama",
+        "YearFormed": 1923,
+        "Genre": "Country"
     },
     "leon-payne": {
         "Artist": "Leon Payne",
         "CleanedArtist": "leon-payne",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Alba, Texas",
+        "YearFormed": 1917,
+        "Genre": "Country"
     },
     "red-hot-chili-peppers": {
         "Artist": "Red Hot Chili Peppers",
         "CleanedArtist": "red-hot-chili-peppers",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1983,
+        "Genre": "Alternative"
     },
     "the-jeff-healey-band": {
         "Artist": "The Jeff Healey Band",
         "CleanedArtist": "the-jeff-healey-band",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1966,
+        "Genre": "Blues"
     },
     "coldplay": {
         "Artist": "Coldplay",
         "CleanedArtist": "coldplay",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1997,
+        "Genre": "Alternative"
     },
     "the-doors": {
         "Artist": "The Doors",
         "CleanedArtist": "the-doors",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1965,
+        "Genre": "Rock"
     },
     "ray-charles": {
         "Artist": "Ray Charles",
         "CleanedArtist": "ray-charles",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Albany, Georgia",
+        "YearFormed": 1930,
+        "Genre": "R&B/Soul"
     },
     "nick-ashford": {
         "Artist": "Nick Ashford",
         "CleanedArtist": "nick-ashford",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Fairfield, South Carolina",
+        "YearFormed": 1942,
+        "Genre": "Pop"
     },
     "john-scofield": {
         "Artist": "John Scofield",
         "CleanedArtist": "john-scofield",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Dayton, Ohio",
+        "YearFormed": 1951,
+        "Genre": "Jazz"
     },
     "frank-sinatra": {
         "Artist": "Frank Sinatra",
         "CleanedArtist": "frank-sinatra",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Hoboken, New Jersey",
+        "YearFormed": 1915,
+        "Genre": "Pop"
     },
     "marion-montgomery": {
         "Artist": "Marion Montgomery",
         "CleanedArtist": "marion-montgomery",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Natchez, Mississippi",
+        "YearFormed": 1934,
+        "Genre": "Jazz"
     },
     "muse": {
         "Artist": "Muse",
         "CleanedArtist": "muse",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Devon, England",
+        "YearFormed": 1994,
+        "Genre": "Alternative"
     },
     "supertramp": {
         "Artist": "Supertramp",
         "CleanedArtist": "supertramp",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1969,
+        "Genre": "Rock"
     },
     "bob-marley": {
         "Artist": "Bob Marley",
         "CleanedArtist": "bob-marley",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Kingston, Jamaica",
+        "YearFormed": 1945,
+        "Genre": "Reggae"
     },
     "bob-marley-the-wailers": {
         "Artist": "Bob Marley & The Wailers",
         "CleanedArtist": "bob-marley-the-wailers",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Kingston, Jamaica",
+        "YearFormed": 1963,
+        "Genre": "Reggae"
     },
     "queens-of-the-stone-age": {
         "Artist": "Queens of the Stone Age",
         "CleanedArtist": "queens-of-the-stone-age",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Seattle, Washington",
+        "YearFormed": 1996,
+        "Genre": "Rock"
     },
     "doyle-bramhall-ii-smokestack": {
         "Artist": "Doyle Bramhall II, Smokestack",
         "CleanedArtist": "doyle-bramhall-ii-smokestack",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Dallas, Texas",
+        "YearFormed": 1968,
+        "Genre": "Rock"
     },
     "pearl-jam": {
         "Artist": "Pearl Jam",
         "CleanedArtist": "pearl-jam",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Seattle, Washington",
+        "YearFormed": 1990,
+        "Genre": "Grunge"
     },
     "leonard-cohen": {
         "Artist": "Leonard Cohen",
         "CleanedArtist": "leonard-cohen",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Quebec, Canada",
+        "YearFormed": 1934,
+        "Genre": "Pop"
     },
     "jesse-cook": {
         "Artist": "Jesse Cook",
         "CleanedArtist": "jesse-cook",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1964,
+        "Genre": "Pop"
     },
     "billy-strings": {
         "Artist": "Billy Strings",
         "CleanedArtist": "billy-strings",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Lansing, Michigan",
+        "YearFormed": 1992,
+        "Genre": "Bluegrass"
     },
     "buddy-guy": {
         "Artist": "Buddy Guy",
         "CleanedArtist": "buddy-guy",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Lettsworth, Louisiana",
+        "YearFormed": 1936,
+        "Genre": "Blues"
     },
     "tones-and-i": {
         "Artist": "Tones And I",
         "CleanedArtist": "tones-and-i",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Victoria, Australia",
+        "YearFormed": 1993,
+        "Genre": "Alternative"
     },
     "joe-walsh": {
         "Artist": "Joe Walsh",
         "CleanedArtist": "joe-walsh",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Wichita, Kansas",
+        "YearFormed": 1947,
+        "Genre": "Rock"
     },
     "pantera": {
         "Artist": "Pantera",
         "CleanedArtist": "pantera",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Arlington, Texas",
+        "YearFormed": 1982,
+        "Genre": "Metal"
     },
     "ozzy-osbourne": {
         "Artist": "Ozzy Osbourne",
         "CleanedArtist": "ozzy-osbourne",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Birmingham, England",
+        "YearFormed": 1948,
+        "Genre": "Metal"
     },
     "dire-straits": {
         "Artist": "Dire Straits",
         "CleanedArtist": "dire-straits",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1977,
+        "Genre": "Rock"
     },
     "sting": {
         "Artist": "Sting",
         "CleanedArtist": "sting",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Newcastle, England",
+        "YearFormed": 1951,
+        "Genre": "1951"
     },
     "the-rolling-stones": {
         "Artist": "The Rolling Stones",
         "CleanedArtist": "the-rolling-stones",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1962,
+        "Genre": "Rock"
     },
     "u2": {
         "Artist": "U2",
         "CleanedArtist": "u2",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Dublin, Ireland",
+        "YearFormed": 1976,
+        "Genre": "Rock"
     },
     "rush": {
         "Artist": "Rush",
         "CleanedArtist": "rush",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1968,
+        "Genre": "Hard Rock"
     },
     "jeff-beck": {
         "Artist": "Jeff Beck",
         "CleanedArtist": "jeff-beck",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Surrey, England",
+        "YearFormed": 1944,
+        "Genre": "Rock"
     },
     "blind-faith": {
         "Artist": "Blind Faith",
         "CleanedArtist": "blind-faith",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1968,
+        "Genre": "Rock"
     },
     "steve-winwood": {
         "Artist": "Steve Winwood",
         "CleanedArtist": "steve-winwood",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Birmingham, England",
+        "YearFormed": 1948,
+        "Genre": "Rock"
     },
     "fernando-sor": {
         "Artist": "Fernando Sor",
         "CleanedArtist": "fernando-sor",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Barcelona, Spain",
+        "YearFormed": 1778,
+        "Genre": "Classical"
     },
     "beck": {
         "Artist": "Beck",
         "CleanedArtist": "beck",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1970,
+        "Genre": "Alternative"
     },
     "wings": {
         "Artist": "Wings",
         "CleanedArtist": "wings",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Liverpool, England",
+        "YearFormed": 1942,
+        "Genre": "Rock"
     },
     "paul-mccartney": {
         "Artist": "Paul McCartney",
         "CleanedArtist": "paul-mccartney",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Liverpool, England",
+        "YearFormed": 1942,
+        "Genre": "Rock"
     },
     "kenny-wayne-shepherd": {
         "Artist": "Kenny Wayne Shepherd",
         "CleanedArtist": "kenny-wayne-shepherd",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Bossier City, Louisiana",
+        "YearFormed": 1977,
+        "Genre": "Blues"
     },
     "traffic": {
         "Artist": "Traffic",
         "CleanedArtist": "traffic",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Birmingham, England",
+        "YearFormed": 1967,
+        "Genre": "Rock"
     },
     "the-verve": {
         "Artist": "The Verve",
         "CleanedArtist": "the-verve",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Manchester, England",
+        "YearFormed": 1989,
+        "Genre": "Rock"
     },
     "crosby-stills-nash": {
         "Artist": "Crosby, Stills & Nash",
         "CleanedArtist": "crosby-stills-nash",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1969,
+        "Genre": "Rock"
     },
     "elliott-smith": {
         "Artist": "Elliott Smith",
         "CleanedArtist": "elliott-smith",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Omaha, Nebraska",
+        "YearFormed": 1969,
+        "Genre": "Alternative"
     },
     "moby": {
         "Artist": "Moby",
         "CleanedArtist": "moby",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "New York, New York",
+        "YearFormed": 1965,
+        "Genre": "Electronic"
     },
     "vera-hall": {
         "Artist": "Vera Hall",
         "CleanedArtist": "vera-hall",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Livingston, Alabama",
+        "YearFormed": 1902,
+        "Genre": "Blues"
     },
     "creedence-clearwater-revival": {
         "Artist": "Creedence Clearwater Revival",
         "CleanedArtist": "creedence-clearwater-revival",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "El Cerrito, California",
+        "YearFormed": 1959,
+        "Genre": "Rock"
     },
     "amanda-marshall": {
         "Artist": "Amanda Marshall",
         "CleanedArtist": "amanda-marshall",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1972,
+        "Genre": "Rock"
     },
     "colin-james": {
         "Artist": "Colin James",
         "CleanedArtist": "colin-james",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Saskatchewan, Canada",
+        "YearFormed": 1964,
+        "Genre": "Rock"
     },
     "sixpence-none-the-richer": {
         "Artist": "Sixpence None The Richer",
         "CleanedArtist": "sixpence-none-the-richer",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "New Braunfels, Texas",
+        "YearFormed": 1993,
+        "Genre": "Pop"
     },
     "anne-bredon": {
         "Artist": "Anne Bredon",
         "CleanedArtist": "anne-bredon",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Berkeley, California",
+        "YearFormed": 1930,
+        "Genre": "Folk"
     },
     "rory-gallagher": {
         "Artist": "Rory Gallagher",
         "CleanedArtist": "rory-gallagher",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Donegal, Ireland",
+        "YearFormed": 1948,
+        "Genre": "Rock"
     },
     "lead-belly": {
         "Artist": "Lead Belly",
         "CleanedArtist": "lead-belly",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Mooringsport, Louisiana",
+        "YearFormed": 1888,
+        "Genre": "Blues"
     },
     "robert-petway": {
         "Artist": "Robert Petway",
         "CleanedArtist": "robert-petway",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Yazoo City, Mississippi",
+        "YearFormed": 1908,
+        "Genre": "Blues"
     },
     "beyonce-jay-z": {
         "Artist": "Beyoncé, JAY-Z",
         "CleanedArtist": "beyonce-jay-z",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Houston, Texas",
+        "YearFormed": 1981,
+        "Genre": "Pop"
     },
     "the-las": {
         "Artist": "The La's",
         "CleanedArtist": "the-las",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Liverpool, England",
+        "YearFormed": 1983,
+        "Genre": "Alternative"
     },
     "velvet-revolver": {
         "Artist": "Velvet Revolver",
         "CleanedArtist": "velvet-revolver",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Rancho Santa Margarita, California",
+        "YearFormed": 2002,
+        "Genre": "Hard Rock"
     },
     "genesis": {
         "Artist": "Genesis",
         "CleanedArtist": "genesis",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Surrey, England",
+        "YearFormed": 1967,
+        "Genre": "Rock"
     },
     "chris-whitley": {
         "Artist": "Chris Whitley",
         "CleanedArtist": "chris-whitley",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Houston, Texas",
+        "YearFormed": 1960,
+        "Genre": "Rock"
     },
     "amy-winehouse": {
         "Artist": "Amy Winehouse",
         "CleanedArtist": "amy-winehouse",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1983,
+        "Genre": "R&B/Soul"
     },
     "the-zutons": {
         "Artist": "The Zutons",
         "CleanedArtist": "the-zutons",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Liverpool, England",
+        "YearFormed": 2001,
+        "Genre": "Alternative"
     },
     "mark-ronson": {
         "Artist": "Mark Ronson",
         "CleanedArtist": "mark-ronson",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1975,
+        "Genre": "Pop"
     },
     "the-smashing-pumpkins": {
         "Artist": "The Smashing Pumpkins",
         "CleanedArtist": "the-smashing-pumpkins",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Chicago, Illinois",
+        "YearFormed": 1988,
+        "Genre": "Hard Rock"
     },
     "the-doobie-brothers": {
         "Artist": "The Doobie Brothers",
         "CleanedArtist": "the-doobie-brothers",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "San Jose, California",
+        "YearFormed": 1970,
+        "Genre": "Rock"
     },
     "grateful-dead": {
         "Artist": "Grateful Dead",
         "CleanedArtist": "grateful-dead",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Palo Alto, California",
+        "YearFormed": 1965,
+        "Genre": "Rock"
     },
     "goyte": {
         "Artist": "Goyte",
         "CleanedArtist": "goyte",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Bruges, Belgium",
+        "YearFormed": 1980,
+        "Genre": "Alternative"
     },
     "roy-orbison": {
         "Artist": "Roy Orbison",
         "CleanedArtist": "roy-orbison",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Vernon, Texas",
+        "YearFormed": 1936,
+        "Genre": "Rock"
     },
     "smash-mouth": {
         "Artist": "Smash Mouth",
         "CleanedArtist": "smash-mouth",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "San Jose, California",
+        "YearFormed": 1994,
+        "Genre": "Pop"
     },
     "john-frusciante": {
         "Artist": "John Frusciante",
         "CleanedArtist": "john-frusciante",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "New York, New York",
+        "YearFormed": 1970,
+        "Genre": "Rock"
     },
     "nina-simone": {
         "Artist": "Nina Simone",
         "CleanedArtist": "nina-simone",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Tryon, North Carolina",
+        "YearFormed": 1933,
+        "Genre": "Jazz"
     },
     "big-wreck": {
         "Artist": "Big Wreck",
         "CleanedArtist": "big-wreck",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Boston, Massachusetts",
+        "YearFormed": 1993,
+        "Genre": "Rock"
     },
     "jack-johnson": {
         "Artist": "Jack Johnson",
         "CleanedArtist": "jack-johnson",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Oahu, Hawaii",
+        "YearFormed": 1975,
+        "Genre": "Rock"
     },
     "eurythmics": {
         "Artist": "Eurythmics",
         "CleanedArtist": "eurythmics",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1980,
+        "Genre": "Pop"
     },
     "annie-lennox": {
         "Artist": "Annie Lennox",
         "CleanedArtist": "annie-lennox",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Aberdeen, Scotland",
+        "YearFormed": 1954,
+        "Genre": "Pop"
     },
     "dave-stewart": {
         "Artist": "Dave Stewart",
         "CleanedArtist": "dave-stewart",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Sunderland, England",
+        "YearFormed": 1952,
+        "Genre": "Rock"
     },
     "james-taylor": {
         "Artist": "James Taylor",
         "CleanedArtist": "james-taylor",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Boston, Massachusetts",
+        "YearFormed": 1948,
+        "Genre": "Singer/Songwriter"
     },
     "the-moody-blues": {
         "Artist": "The Moody Blues",
         "CleanedArtist": "the-moody-blues",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Birmingham, England",
+        "YearFormed": 1964,
+        "Genre": "Rock"
     },
     "bruce-cockburn": {
         "Artist": "Bruce Cockburn",
         "CleanedArtist": "bruce-cockburn",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1945,
+        "Genre": "Singer/Songwriter"
     },
     "the-animals": {
         "Artist": "The Animals",
         "CleanedArtist": "the-animals",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Newcastle Upon Tyne, England",
+        "YearFormed": 1962,
+        "Genre": "Rock"
     },
     "big-star": {
         "Artist": "Big Star",
         "CleanedArtist": "big-star",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Memphis, Tennessee",
+        "YearFormed": 1971,
+        "Genre": "Rock"
     },
     "david-gray": {
         "Artist": "David Gray",
         "CleanedArtist": "david-gray",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Cheshire, England",
+        "YearFormed": 1968,
+        "Genre": "Singer/Songwriter"
     },
     "the-black-crowes": {
         "Artist": "The Black Crowes",
         "CleanedArtist": "the-black-crowes",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Atlanta, Georgia",
+        "YearFormed": 1984,
+        "Genre": "Rock"
     },
     "george-gershwin": {
         "Artist": "George Gershwin",
         "CleanedArtist": "george-gershwin",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "New York, New York",
+        "YearFormed": 1898,
+        "Genre": "Jazz"
     },
     "ella-fitzgerald": {
         "Artist": "Ella Fitzgerald",
         "CleanedArtist": "ella-fitzgerald",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Newport News, Virginia",
+        "YearFormed": 1917,
+        "Genre": "Jazz"
     },
     "the-killers": {
         "Artist": "The Killers",
         "CleanedArtist": "the-killers",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Las Vegas, Nevada",
+        "YearFormed": 2001,
+        "Genre": "Alternative"
     },
     "allman-brothers-band": {
         "Artist": "Allman Brothers Band",
         "CleanedArtist": "allman-brothers-band",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Jacksonville, Florida",
+        "YearFormed": 1969,
+        "Genre": "Rock"
     },
     "danny-elfman": {
         "Artist": "Danny Elfman",
         "CleanedArtist": "danny-elfman",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1953,
+        "Genre": "Soundtrack"
     },
     "robbie-basho": {
         "Artist": "Robbie Basho",
         "CleanedArtist": "robbie-basho",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Baltimore, Maryland",
+        "YearFormed": 1940,
+        "Genre": "Singer/Songwriter"
     },
     "arborea": {
         "Artist": "Arborea",
         "CleanedArtist": "arborea",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Lewiston, Maine",
+        "YearFormed": 2005,
+        "Genre": "Singer/Songwriter"
     },
     "ac-dc": {
         "Artist": "AC/DC",
         "CleanedArtist": "ac-dc",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Sydney, Australia",
+        "YearFormed": 1973,
+        "Genre": "Hard Rock"
     },
     "larry-davis": {
         "Artist": "Larry Davis",
         "CleanedArtist": "larry-davis",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Kansas City, Missouri",
+        "YearFormed": 1936,
+        "Genre": "Blues"
     },
     "metallica": {
         "Artist": "Metallica",
         "CleanedArtist": "metallica",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1981,
+        "Genre": "Metal"
     },
     "van-halen": {
         "Artist": "Van Halen",
         "CleanedArtist": "van-halen",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Pasadena, California",
+        "YearFormed": 1972,
+        "Genre": "Hard Rock"
     },
     "chuck-berry": {
         "Artist": "Chuck Berry",
         "CleanedArtist": "chuck-berry",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "St. Louis, Missouri",
+        "YearFormed": 1926,
+        "Genre": "Rock"
     },
     "blue-oyster-cult": {
         "Artist": "Blue Öyster Cult",
         "CleanedArtist": "blue-oyster-cult",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Stony Brook, New York",
+        "YearFormed": 1967,
+        "Genre": "Hard Rock"
     },
     "zz-top": {
         "Artist": "ZZ Top",
         "CleanedArtist": "zz-top",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Houston, Texas",
+        "YearFormed": 1969,
+        "Genre": "Hard Rock"
     },
     "vance-joy": {
         "Artist": "Vance Joy",
@@ -1213,114 +1213,114 @@
     "otis-redding": {
         "Artist": "Otis Redding",
         "CleanedArtist": "otis-redding",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Melbourne, Australia",
+        "YearFormed": 1987,
+        "Genre": "Alternative"
     },
     "jonny-lang": {
         "Artist": "Jonny Lang",
         "CleanedArtist": "jonny-lang",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Fargo, North Dakota",
+        "YearFormed": 1981,
+        "Genre": "Blues"
     },
     "foo-fighters": {
         "Artist": "Foo Fighters",
         "CleanedArtist": "foo-fighters",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Seattle, Washington",
+        "YearFormed": 1994,
+        "Genre": "Rock"
     },
     "the-eagles": {
         "Artist": "The Eagles",
         "CleanedArtist": "the-eagles",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Los Angeles, California",
+        "YearFormed": 1971,
+        "Genre": "Rock"
     },
     "the-police": {
         "Artist": "The Police",
         "CleanedArtist": "the-police",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "London, England",
+        "YearFormed": 1977,
+        "Genre": "Rock"
     },
     "santo-johnny": {
         "Artist": "Santo & Johnny",
         "CleanedArtist": "santo-johnny",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Brooklyn, New York",
+        "YearFormed": 1959,
+        "Genre": "Pop"
     },
     "betsy-brye": {
         "Artist": "Betsy Brye",
         "CleanedArtist": "betsy-brye",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Richmond, Virginia",
+        "YearFormed": 1932,
+        "Genre": "Jazz"
     },
     "matchbox-twenty": {
         "Artist": "Matchbox Twenty",
         "CleanedArtist": "matchbox-twenty",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Orlando, Florida",
+        "YearFormed": 1995,
+        "Genre": "Pop"
     },
     "sonny-boy-williamson-ii": {
         "Artist": "Sonny Boy Williamson II",
         "CleanedArtist": "sonny-boy-williamson-ii",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Glendora, Mississippi",
+        "YearFormed": 1912,
+        "Genre": "Blues"
     },
     "shania-twain": {
         "Artist": "Shania Twain",
         "CleanedArtist": "shania-twain",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Ontario, Canada",
+        "YearFormed": 1965,
+        "Genre": "Country"
     },
     "tom-petty": {
         "Artist": "Tom Petty",
         "CleanedArtist": "tom-petty",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Gainesville, Florida",
+        "YearFormed": 1950,
+        "Genre": "Rock"
     },
     "johnny-cash": {
         "Artist": "Johnny Cash",
         "CleanedArtist": "johnny-cash",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Kingsland, Arkansas",
+        "YearFormed": 1932,
+        "Genre": "Country"
     },
     "don-mclean": {
         "Artist": "Don McLean",
         "CleanedArtist": "don-mclean",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "New Rochelle, New York",
+        "YearFormed": 1945,
+        "Genre": "Pop"
     },
     "oasis": {
         "Artist": "Oasis",
         "CleanedArtist": "oasis",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Manchester, England",
+        "YearFormed": 1991,
+        "Genre": "Rock"
     },
     "nirvana": {
         "Artist": "Nirvana",
         "CleanedArtist": "nirvana",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Seattle, Washington",
+        "YearFormed": 1987,
+        "Genre": "Grunge"
     },
     "mountain": {
         "Artist": "Mountain",
         "CleanedArtist": "mountain",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Long Island, New York",
+        "YearFormed": 1969,
+        "Genre": "Rock"
     },
     "hozier": {
         "Artist": "Hozier",
@@ -1423,9 +1423,9 @@
     "alice-in-chains": {
         "Artist": "Alice In Chains",
         "CleanedArtist": "alice-in-chains",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Seattle, Washington",
+        "YearFormed": 1987,
+        "Genre": "Grunge"
     },
     "the-cure": {
         "Artist": "The Cure",
@@ -1682,9 +1682,9 @@
     "santana": {
         "Artist": "Santana",
         "CleanedArtist": "santana",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "San Francisco, California",
+        "YearFormed": 1966,
+        "Genre": "Rock"
     },
     "spirit": {
         "Artist": "Spirit",
@@ -2074,23 +2074,23 @@
     "pusha-t": {
         "Artist": "Pusha T",
         "CleanedArtist": "pusha-t",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Bronx, New York",
+        "YearFormed": 1977,
+        "Genre": "Hip-Hop/Rap"
     },
     "tom-batoy": {
         "Artist": "Tom Batoy",
         "CleanedArtist": "tom-batoy",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Bavaria, Germany",
+        "YearFormed": 1972,
+        "Genre": "Pop"
     },
     "franco-tortora": {
         "Artist": "Franco Tortora",
         "CleanedArtist": "franco-tortora",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Bavaria, Germany",
+        "YearFormed": 1961,
+        "Genre": "Pop"
     },
     "john-prine": {
         "Artist": "John Prine",
@@ -2193,16 +2193,16 @@
     "shuki-levy": {
         "Artist": "Shuki Levy",
         "CleanedArtist": "shuki-levy",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Tel Aviv-Yafo, Israel",
+        "YearFormed": 1947,
+        "Genre": "Children's Music"
     },
     "haim-saban": {
         "Artist": "Haim Saban",
         "CleanedArtist": "haim-saban",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Alexandria, Egypt",
+        "YearFormed": 1944,
+        "Genre": "Children's Music"
     },
     "trevor-hall-krishna-das": {
         "Artist": "Trevor Hall, Krishna Das",
@@ -2256,9 +2256,9 @@
     "ludwig-van-beethoven": {
         "Artist": "Ludwig Van Beethoven",
         "CleanedArtist": "ludwig-van-beethoven",
-        "Location": "",
-        "YearFormed": 0,
-        "Genre": ""
+        "Location": "Bonn, Germany",
+        "YearFormed": 1770,
+        "Genre": "Germany"
     },
     "gordon-lightfoot": {
         "Artist": "Gordon Lightfoot",
