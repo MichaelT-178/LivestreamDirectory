@@ -5,8 +5,8 @@
         "Location": "Places, Earth",
         "YearFormed": 1960,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Earth",
+        "Emoji": "🌎"
     },
     "corey-heuvel": {
         "Artist": "Corey Heuvel",
@@ -14,8 +14,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1990,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "joni-mitchell": {
         "Artist": "Joni Mitchell",
@@ -23,8 +23,8 @@
         "Location": "Alberta, Canada",
         "YearFormed": 1943,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "jeff-buckley": {
         "Artist": "Jeff Buckley",
@@ -122,8 +122,8 @@
         "Location": "Rangoon, Burma",
         "YearFormed": 1948,
         "Genre": "Singer/Songwriter",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Burma",
+        "Emoji": "🇲🇲"
     },
     "john-martyn": {
         "Artist": "John Martyn",
@@ -185,8 +185,8 @@
         "Location": "Muswellbrook, Australia",
         "YearFormed": 1955,
         "Genre": "Jazz",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Australia",
+        "Emoji": "🇦🇺"
     },
     "stevie-ray-vaughan": {
         "Artist": "Stevie Ray Vaughan",
@@ -248,8 +248,8 @@
         "Location": "Belfast, North Ireland",
         "YearFormed": 1945,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Ireland",
+        "Emoji": "🇮🇪"
     },
     "patrick-watson": {
         "Artist": "Patrick Watson",
@@ -266,8 +266,8 @@
         "Location": "Perth, Australia",
         "YearFormed": 2002,
         "Genre": "Electronic",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Australia",
+        "Emoji": "🇦🇺"
     },
     "peter-gabriel": {
         "Artist": "Peter Gabriel",
@@ -347,8 +347,8 @@
         "Location": "Burnaby, Canada",
         "YearFormed": 1975,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "vanessa-carlton": {
         "Artist": "Vanessa Carlton",
@@ -365,8 +365,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1945,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "sam-sparro": {
         "Artist": "Sam Sparro",
@@ -374,8 +374,8 @@
         "Location": "Sydney, Australia",
         "YearFormed": 1982,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Australia",
+        "Emoji": "🇦🇺"
     },
     "ariana-grande-ft-zedd": {
         "Artist": "Ariana Grande ft. Zedd",
@@ -437,8 +437,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1974,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "tears-for-fears": {
         "Artist": "Tears For Fears",
@@ -518,8 +518,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1964,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "third-eye-blind": {
         "Artist": "Third Eye Blind",
@@ -545,8 +545,8 @@
         "Location": "Castellón, Spain",
         "YearFormed": 1852,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Spain",
+        "Emoji": "🇪🇸"
     },
     "the-beatles": {
         "Artist": "The Beatles",
@@ -563,8 +563,8 @@
         "Location": "Florence, Italy",
         "YearFormed": 1792,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Italy",
+        "Emoji": "🇮🇹"
     },
     "cream": {
         "Artist": "Cream",
@@ -635,8 +635,8 @@
         "Location": "Alberta, Canada",
         "YearFormed": 1989,
         "Genre": "Electronic",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "bob-seger": {
         "Artist": "Bob Seger",
@@ -689,8 +689,8 @@
         "Location": "Paris, France",
         "YearFormed": 1915,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "France",
+        "Emoji": "🇫🇷"
     },
     "hank-williams": {
         "Artist": "Hank Williams",
@@ -725,8 +725,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1966,
         "Genre": "Blues",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "coldplay": {
         "Artist": "Coldplay",
@@ -815,8 +815,8 @@
         "Location": "Kingston, Jamaica",
         "YearFormed": 1945,
         "Genre": "Reggae",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Jamaica",
+        "Emoji": "🇯🇲"
     },
     "bob-marley-the-wailers": {
         "Artist": "Bob Marley & The Wailers",
@@ -824,8 +824,8 @@
         "Location": "Kingston, Jamaica",
         "YearFormed": 1963,
         "Genre": "Reggae",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Jamaica",
+        "Emoji": "🇯🇲"
     },
     "queens-of-the-stone-age": {
         "Artist": "Queens of the Stone Age",
@@ -860,8 +860,8 @@
         "Location": "Quebec, Canada",
         "YearFormed": 1934,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "jesse-cook": {
         "Artist": "Jesse Cook",
@@ -869,8 +869,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1964,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "billy-strings": {
         "Artist": "Billy Strings",
@@ -896,8 +896,8 @@
         "Location": "Victoria, Australia",
         "YearFormed": 1993,
         "Genre": "Alternative",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Australia",
+        "Emoji": "🇦🇺"
     },
     "joe-walsh": {
         "Artist": "Joe Walsh",
@@ -959,8 +959,8 @@
         "Location": "Dublin, Ireland",
         "YearFormed": 1976,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Ireland",
+        "Emoji": "🇮🇪"
     },
     "rush": {
         "Artist": "Rush",
@@ -968,8 +968,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1968,
         "Genre": "Hard Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "jeff-beck": {
         "Artist": "Jeff Beck",
@@ -1004,8 +1004,8 @@
         "Location": "Barcelona, Spain",
         "YearFormed": 1778,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Spain",
+        "Emoji": "🇪🇸"
     },
     "beck": {
         "Artist": "Beck",
@@ -1112,8 +1112,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1972,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "colin-james": {
         "Artist": "Colin James",
@@ -1121,8 +1121,8 @@
         "Location": "Saskatchewan, Canada",
         "YearFormed": 1964,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "sixpence-none-the-richer": {
         "Artist": "Sixpence None The Richer",
@@ -1148,8 +1148,8 @@
         "Location": "Donegal, Ireland",
         "YearFormed": 1948,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Ireland",
+        "Emoji": "🇮🇪"
     },
     "lead-belly": {
         "Artist": "Lead Belly",
@@ -1274,8 +1274,8 @@
         "Location": "Bruges, Belgium",
         "YearFormed": 1980,
         "Genre": "Alternative",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Belgium",
+        "Emoji": "🇧🇪"
     },
     "roy-orbison": {
         "Artist": "Roy Orbison",
@@ -1346,8 +1346,8 @@
         "Location": "Aberdeen, Scotland",
         "YearFormed": 1954,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Scotland",
+        "Emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
     },
     "dave-stewart": {
         "Artist": "Dave Stewart",
@@ -1382,8 +1382,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1945,
         "Genre": "Singer/Songwriter",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "the-animals": {
         "Artist": "The Animals",
@@ -1490,8 +1490,8 @@
         "Location": "Sydney, Australia",
         "YearFormed": 1973,
         "Genre": "Hard Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Australia",
+        "Emoji": "🇦🇺"
     },
     "larry-davis": {
         "Artist": "Larry Davis",
@@ -1553,8 +1553,8 @@
         "Location": "Melbourne, Australia",
         "YearFormed": 1987,
         "Genre": "Alternative",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Australia",
+        "Emoji": "🇦🇺"
     },
     "otis-redding": {
         "Artist": "Otis Redding",
@@ -1562,8 +1562,8 @@
         "Location": "Melbourne, Australia",
         "YearFormed": 1987,
         "Genre": "Alternative",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Australia",
+        "Emoji": "🇦🇺"
     },
     "jonny-lang": {
         "Artist": "Jonny Lang",
@@ -1643,8 +1643,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1965,
         "Genre": "Country",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "tom-petty": {
         "Artist": "Tom Petty",
@@ -1706,8 +1706,8 @@
         "Location": "County Wicklow, Ireland",
         "YearFormed": 1990,
         "Genre": "Alternative",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Ireland",
+        "Emoji": "🇮🇪"
     },
     "canned-heat": {
         "Artist": "Canned Heat",
@@ -1787,8 +1787,8 @@
         "Location": "Sydney, Australia",
         "YearFormed": 2003,
         "Genre": "Hard Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Australia",
+        "Emoji": "🇦🇺"
     },
     "paul-gilbert": {
         "Artist": "Paul Gilbert",
@@ -1886,8 +1886,8 @@
         "Location": "Eisenbach, Germany",
         "YearFormed": 1685,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Germany",
+        "Emoji": "🇩🇪"
     },
     "jack-savoretti": {
         "Artist": "Jack Savoretti",
@@ -1958,8 +1958,8 @@
         "Location": "Quebec, Canada",
         "YearFormed": 1949,
         "Genre": "Singer/Songwriter",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "aerosmith": {
         "Artist": "Aerosmith",
@@ -2048,8 +2048,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1984,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "damien-rice": {
         "Artist": "Damien Rice",
@@ -2057,8 +2057,8 @@
         "Location": "Dublin, Ireland",
         "YearFormed": 1973,
         "Genre": "Singer/Songwriter",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Ireland",
+        "Emoji": "🇮🇪"
     },
     "john-lennon-yoko-ono": {
         "Artist": "John Lennon, Yoko Ono",
@@ -2084,8 +2084,8 @@
         "Location": "Monastyrok, Ukraine",
         "YearFormed": 1877,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Ukraine",
+        "Emoji": "🇺🇦"
     },
     "ted-nugent": {
         "Artist": "Ted Nugent",
@@ -2156,8 +2156,8 @@
         "Location": "Amsterdam, The Netherlands",
         "YearFormed": 1955,
         "Genre": "Hard Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "The Netherlands",
+        "Emoji": "🇳🇱"
     },
     "santana": {
         "Artist": "Santana",
@@ -2228,8 +2228,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1990,
         "Genre": "Blues",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "milton-ager-jack-yellen": {
         "Artist": "Milton Ager & Jack Yellen",
@@ -2255,8 +2255,8 @@
         "Location": "Giessen, Germany",
         "YearFormed": 1990,
         "Genre": "Blues",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Germany",
+        "Emoji": "🇩🇪"
     },
     "semisonic": {
         "Artist": "Semisonic",
@@ -2273,8 +2273,8 @@
         "Location": "Oslo, Norway",
         "YearFormed": 1983,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Norway",
+        "Emoji": "🇳🇴"
     },
     "p-nk": {
         "Artist": "P!nk",
@@ -2291,8 +2291,8 @@
         "Location": "San Juan Bautista, Paraguay",
         "YearFormed": 1885,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Paraguay",
+        "Emoji": "🇵🇾"
     },
     "ryan-adams": {
         "Artist": "Ryan Adams",
@@ -2309,8 +2309,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1959,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "rusted-root": {
         "Artist": "Rusted Root",
@@ -2381,8 +2381,8 @@
         "Location": "Newfoundland, Canada",
         "YearFormed": 1993,
         "Genre": "Singer/Songwriter",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "ben-harper": {
         "Artist": "Ben Harper",
@@ -2399,8 +2399,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1983,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "blind-melon": {
         "Artist": "Blind Melon",
@@ -2444,8 +2444,8 @@
         "Location": "Sydney, Australia",
         "YearFormed": 1977,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Australia",
+        "Emoji": "🇦🇺"
     },
     "temple-of-the-dog": {
         "Artist": "Temple Of The Dog",
@@ -2471,8 +2471,8 @@
         "Location": "Places, Spain",
         "YearFormed": 1900,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Spain",
+        "Emoji": "🇪🇸"
     },
     "tenacious-d": {
         "Artist": "Tenacious D",
@@ -2579,8 +2579,8 @@
         "Location": "Lares, Puerto Rico",
         "YearFormed": 1945,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Puerto Rico",
+        "Emoji": "🇵🇷"
     },
     "hambone-willie-newbern": {
         "Artist": "Hambone Willie Newbern",
@@ -2615,8 +2615,8 @@
         "Location": "Aichi, Japan",
         "YearFormed": 1961,
         "Genre": "Soundtrack",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Japan",
+        "Emoji": "🇯🇵"
     },
     "john-coltrane": {
         "Artist": "John Coltrane",
@@ -2642,8 +2642,8 @@
         "Location": "Limerick, Ireland",
         "YearFormed": 1989,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Ireland",
+        "Emoji": "🇮🇪"
     },
     "john-denver": {
         "Artist": "John Denver",
@@ -2678,8 +2678,8 @@
         "Location": "Bavaria, Germany",
         "YearFormed": 1972,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Germany",
+        "Emoji": "🇩🇪"
     },
     "franco-tortora": {
         "Artist": "Franco Tortora",
@@ -2687,8 +2687,8 @@
         "Location": "Bavaria, Germany",
         "YearFormed": 1961,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Germany",
+        "Emoji": "🇩🇪"
     },
     "john-prine": {
         "Artist": "John Prine",
@@ -2705,8 +2705,8 @@
         "Location": "Quebec, Canada",
         "YearFormed": 1951,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "iron-maiden": {
         "Artist": "Iron Maiden",
@@ -2777,8 +2777,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1952,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "mr-big": {
         "Artist": "Mr. Big",
@@ -2822,8 +2822,8 @@
         "Location": "Tel Aviv-Yafo, Israel",
         "YearFormed": 1947,
         "Genre": "Soundtrack",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Israel",
+        "Emoji": "🇮🇱"
     },
     "haim-saban": {
         "Artist": "Haim Saban",
@@ -2831,8 +2831,8 @@
         "Location": "Alexandria, Egypt",
         "YearFormed": 1944,
         "Genre": "Soundtrack",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Egypt",
+        "Emoji": "🇪🇬"
     },
     "trevor-hall-krishna-das": {
         "Artist": "Trevor Hall, Krishna Das",
@@ -2858,8 +2858,8 @@
         "Location": "Alberta, Canada",
         "YearFormed": 1995,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "collective-soul": {
         "Artist": "Collective Soul",
@@ -2903,8 +2903,8 @@
         "Location": "Bonn, Germany",
         "YearFormed": 1770,
         "Genre": "Germany",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Germany",
+        "Emoji": "🇩🇪"
     },
     "gordon-lightfoot": {
         "Artist": "Gordon Lightfoot",
@@ -2912,8 +2912,8 @@
         "Location": "Ontario, Canada",
         "YearFormed": 1938,
         "Genre": "Singer/Songwriter",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "bon-jovi": {
         "Artist": "Bon Jovi",
@@ -2939,8 +2939,8 @@
         "Location": "Saint-Germain-en-Laye, France",
         "YearFormed": 1862,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "France",
+        "Emoji": "🇫🇷"
     },
     "jj-cale": {
         "Artist": "J.J. Cale",
@@ -2966,8 +2966,8 @@
         "Location": "Budapest, Hungary",
         "YearFormed": 1905,
         "Genre": "Soundtrack",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Hungary",
+        "Emoji": "🇭🇺"
     },
     "jacques-prevert": {
         "Artist": "Jacques Prevert",
@@ -2975,8 +2975,8 @@
         "Location": "Neuilly-sur-Seine, France",
         "YearFormed": 1900,
         "Genre": "Soundtrack",
-        "Country": "",
-        "Emoji": ""
+        "Country": "France",
+        "Emoji": "🇫🇷"
     },
     "daryl-hall-and-john-oates": {
         "Artist": "Daryl Hall and John Oates",
@@ -2993,8 +2993,8 @@
         "Location": "Vancouver, Canada",
         "YearFormed": 2005,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     },
     "bill-withers": {
         "Artist": "Bill Withers",
@@ -3020,8 +3020,8 @@
         "Location": "Leith, Scotland",
         "YearFormed": 1983,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Scotland",
+        "Emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
     },
     "isaac-albeniz": {
         "Artist": "Isaac Albéniz",
@@ -3029,8 +3029,8 @@
         "Location": "Camprodon, Spain",
         "YearFormed": 1860,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Spain",
+        "Emoji": "🇪🇸"
     },
     "tom-jones": {
         "Artist": "Tom Jones",
@@ -3038,8 +3038,8 @@
         "Location": "Pontypridd, Wales",
         "YearFormed": 1940,
         "Genre": "Pop",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Wales",
+        "Emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
     },
     "toto": {
         "Artist": "Toto",
@@ -3056,8 +3056,8 @@
         "Location": "Calanda, Spain",
         "YearFormed": 1640,
         "Genre": "Classical",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Spain",
+        "Emoji": "🇪🇸"
     },
     "deford-bailey": {
         "Artist": "Deford Bailey",
@@ -3110,8 +3110,8 @@
         "Location": "Places, Earth",
         "YearFormed": 1940,
         "Genre": "Soundtrack",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Earth",
+        "Emoji": "🌎"
     },
     "alicia-keys": {
         "Artist": "Alicia Keys",
@@ -3137,7 +3137,7 @@
         "Location": "Manitoba, Canada",
         "YearFormed": 1970,
         "Genre": "Rock",
-        "Country": "",
-        "Emoji": ""
+        "Country": "Canada",
+        "Emoji": "🇨🇦"
     }
 }
