@@ -1,0 +1,2445 @@
+{
+    "various-artists": {
+        "Artist": "Various Artists",
+        "CleanedArtist": "various-artists",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "corey-heuvel": {
+        "Artist": "Corey Heuvel",
+        "CleanedArtist": "corey-heuvel",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "joni-mitchell": {
+        "Artist": "Joni Mitchell",
+        "CleanedArtist": "joni-mitchell",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jeff-buckley": {
+        "Artist": "Jeff Buckley",
+        "CleanedArtist": "jeff-buckley",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-smiths": {
+        "Artist": "The Smiths",
+        "CleanedArtist": "the-smiths",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "scott-matthews": {
+        "Artist": "Scott Matthews",
+        "CleanedArtist": "scott-matthews",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "eddie-vedder": {
+        "Artist": "Eddie Vedder",
+        "CleanedArtist": "eddie-vedder",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "eric-clapton": {
+        "Artist": "Eric Clapton",
+        "CleanedArtist": "eric-clapton",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "big-bill-broonzy": {
+        "Artist": "Big Bill Broonzy",
+        "CleanedArtist": "big-bill-broonzy",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "incubus": {
+        "Artist": "Incubus",
+        "CleanedArtist": "incubus",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "fleetwood-mac": {
+        "Artist": "Fleetwood Mac",
+        "CleanedArtist": "fleetwood-mac",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "lindsey-buckingham": {
+        "Artist": "Lindsey Buckingham",
+        "CleanedArtist": "lindsey-buckingham",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-mayer": {
+        "Artist": "John Mayer",
+        "CleanedArtist": "john-mayer",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "nick-drake": {
+        "Artist": "Nick Drake",
+        "CleanedArtist": "nick-drake",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-martyn": {
+        "Artist": "John Martyn",
+        "CleanedArtist": "john-martyn",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "flo-rida-t-pain": {
+        "Artist": "Flo Rida, T-Pain",
+        "CleanedArtist": "flo-rida-t-pain",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "michael-jackson": {
+        "Artist": "Michael Jackson",
+        "CleanedArtist": "michael-jackson",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "stevie-wonder": {
+        "Artist": "Stevie Wonder",
+        "CleanedArtist": "stevie-wonder",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bob-dylan": {
+        "Artist": "Bob Dylan",
+        "CleanedArtist": "bob-dylan",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "eric-johnson": {
+        "Artist": "Eric Johnson",
+        "CleanedArtist": "eric-johnson",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tommy-emmanuel": {
+        "Artist": "Tommy Emmanuel",
+        "CleanedArtist": "tommy-emmanuel",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "stevie-ray-vaughan": {
+        "Artist": "Stevie Ray Vaughan",
+        "CleanedArtist": "stevie-ray-vaughan",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "joe-satriani": {
+        "Artist": "Joe Satriani",
+        "CleanedArtist": "joe-satriani",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jamiroquai": {
+        "Artist": "Jamiroquai",
+        "CleanedArtist": "jamiroquai",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jimi-hendrix": {
+        "Artist": "Jimi Hendrix",
+        "CleanedArtist": "jimi-hendrix",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "gnarls-barkley": {
+        "Artist": "Gnarls Barkley",
+        "CleanedArtist": "gnarls-barkley",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ray-lamontagne": {
+        "Artist": "Ray LaMontagne",
+        "CleanedArtist": "ray-lamontagne",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "van-morrison": {
+        "Artist": "Van Morrison",
+        "CleanedArtist": "van-morrison",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "patrick-watson": {
+        "Artist": "Patrick Watson",
+        "CleanedArtist": "patrick-watson",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "pendulum": {
+        "Artist": "Pendulum",
+        "CleanedArtist": "pendulum",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "peter-gabriel": {
+        "Artist": "Peter Gabriel",
+        "CleanedArtist": "peter-gabriel",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "steve-miller-band": {
+        "Artist": "Steve Miller Band",
+        "CleanedArtist": "steve-miller-band",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "justin-timberlake-ft-jay-z": {
+        "Artist": "Justin Timberlake ft. JAY-Z",
+        "CleanedArtist": "justin-timberlake-ft-jay-z",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "crosby-stills-nash-young": {
+        "Artist": "Crosby, Stills, Nash & Young",
+        "CleanedArtist": "crosby-stills-nash-young",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "pink-floyd": {
+        "Artist": "Pink Floyd",
+        "CleanedArtist": "pink-floyd",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "heart": {
+        "Artist": "Heart",
+        "CleanedArtist": "heart",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-goo-goo-dolls": {
+        "Artist": "The Goo Goo Dolls",
+        "CleanedArtist": "the-goo-goo-dolls",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jim-croce": {
+        "Artist": "Jim Croce",
+        "CleanedArtist": "jim-croce",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "michael-buble": {
+        "Artist": "Michael Bubl\u00e9",
+        "CleanedArtist": "michael-buble",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "vanessa-carlton": {
+        "Artist": "Vanessa Carlton",
+        "CleanedArtist": "vanessa-carlton",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "neil-young": {
+        "Artist": "Neil Young",
+        "CleanedArtist": "neil-young",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "sam-sparro": {
+        "Artist": "Sam Sparro",
+        "CleanedArtist": "sam-sparro",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ariana-grande-ft-zedd": {
+        "Artist": "Ariana Grande ft. Zedd",
+        "CleanedArtist": "ariana-grande-ft-zedd",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "kansas": {
+        "Artist": "Kansas",
+        "CleanedArtist": "kansas",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "steely-dan": {
+        "Artist": "Steely Dan",
+        "CleanedArtist": "steely-dan",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "seal": {
+        "Artist": "Seal",
+        "CleanedArtist": "seal",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "lyle-lovett": {
+        "Artist": "Lyle Lovett",
+        "CleanedArtist": "lyle-lovett",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "doyle-bramhall": {
+        "Artist": "Doyle Bramhall",
+        "CleanedArtist": "doyle-bramhall",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "alanis-morissette": {
+        "Artist": "Alanis Morissette",
+        "CleanedArtist": "alanis-morissette",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tears-for-fears": {
+        "Artist": "Tears For Fears",
+        "CleanedArtist": "tears-for-fears",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "led-zeppelin": {
+        "Artist": "Led Zeppelin",
+        "CleanedArtist": "led-zeppelin",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bruce-springsteen": {
+        "Artist": "Bruce Springsteen",
+        "CleanedArtist": "bruce-springsteen",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bo-diddley": {
+        "Artist": "Bo Diddley",
+        "CleanedArtist": "bo-diddley",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "stone-temple-pilots": {
+        "Artist": "Stone Temple Pilots",
+        "CleanedArtist": "stone-temple-pilots",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tracy-chapman": {
+        "Artist": "Tracy Chapman",
+        "CleanedArtist": "tracy-chapman",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "queen": {
+        "Artist": "Queen",
+        "CleanedArtist": "queen",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "sublime": {
+        "Artist": "Sublime",
+        "CleanedArtist": "sublime",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-band": {
+        "Artist": "The Band",
+        "CleanedArtist": "the-band",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "third-eye-blind": {
+        "Artist": "Third Eye Blind",
+        "CleanedArtist": "third-eye-blind",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "blackstreet": {
+        "Artist": "Blackstreet",
+        "CleanedArtist": "blackstreet",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "francisco-tarrega": {
+        "Artist": "Francisco T\u00e1rrega",
+        "CleanedArtist": "francisco-tarrega",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-beatles": {
+        "Artist": "The Beatles",
+        "CleanedArtist": "the-beatles",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "matteo-carcassi": {
+        "Artist": "Matteo Carcassi",
+        "CleanedArtist": "matteo-carcassi",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "cream": {
+        "Artist": "Cream",
+        "CleanedArtist": "cream",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "robert-johnson": {
+        "Artist": "Robert Johnson",
+        "CleanedArtist": "robert-johnson",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-black-keys": {
+        "Artist": "The Black Keys",
+        "CleanedArtist": "the-black-keys",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "radiohead": {
+        "Artist": "Radiohead",
+        "CleanedArtist": "radiohead",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "david-bowie": {
+        "Artist": "David Bowie",
+        "CleanedArtist": "david-bowie",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "soundgarden": {
+        "Artist": "Soundgarden",
+        "CleanedArtist": "soundgarden",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-who": {
+        "Artist": "The Who",
+        "CleanedArtist": "the-who",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "kiesza": {
+        "Artist": "Kiesza",
+        "CleanedArtist": "kiesza",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bob-seger": {
+        "Artist": "Bob Seger",
+        "CleanedArtist": "bob-seger",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-leaves": {
+        "Artist": "The Leaves",
+        "CleanedArtist": "the-leaves",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "billy-roberts": {
+        "Artist": "Billy Roberts",
+        "CleanedArtist": "billy-roberts",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "porter-wagoner": {
+        "Artist": "Porter Wagoner",
+        "CleanedArtist": "porter-wagoner",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "red-hayes": {
+        "Artist": "Red Hayes",
+        "CleanedArtist": "red-hayes",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "edith-piaf": {
+        "Artist": "\u00c9dith Piaf",
+        "CleanedArtist": "edith-piaf",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "hank-williams": {
+        "Artist": "Hank Williams",
+        "CleanedArtist": "hank-williams",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "leon-payne": {
+        "Artist": "Leon Payne",
+        "CleanedArtist": "leon-payne",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "red-hot-chili-peppers": {
+        "Artist": "Red Hot Chili Peppers",
+        "CleanedArtist": "red-hot-chili-peppers",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-jeff-healey-band": {
+        "Artist": "The Jeff Healey Band",
+        "CleanedArtist": "the-jeff-healey-band",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "coldplay": {
+        "Artist": "Coldplay",
+        "CleanedArtist": "coldplay",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-doors": {
+        "Artist": "The Doors",
+        "CleanedArtist": "the-doors",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ray-charles": {
+        "Artist": "Ray Charles",
+        "CleanedArtist": "ray-charles",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "nick-ashford": {
+        "Artist": "Nick Ashford",
+        "CleanedArtist": "nick-ashford",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-scofield": {
+        "Artist": "John Scofield",
+        "CleanedArtist": "john-scofield",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "frank-sinatra": {
+        "Artist": "Frank Sinatra",
+        "CleanedArtist": "frank-sinatra",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "marion-montgomery": {
+        "Artist": "Marion Montgomery",
+        "CleanedArtist": "marion-montgomery",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "muse": {
+        "Artist": "Muse",
+        "CleanedArtist": "muse",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "supertramp": {
+        "Artist": "Supertramp",
+        "CleanedArtist": "supertramp",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bob-marley": {
+        "Artist": "Bob Marley",
+        "CleanedArtist": "bob-marley",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bob-marley-the-wailers": {
+        "Artist": "Bob Marley & The Wailers",
+        "CleanedArtist": "bob-marley-the-wailers",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "queens-of-the-stone-age": {
+        "Artist": "Queens of the Stone Age",
+        "CleanedArtist": "queens-of-the-stone-age",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "doyle-bramhall-ii-smokestack": {
+        "Artist": "Doyle Bramhall II, Smokestack",
+        "CleanedArtist": "doyle-bramhall-ii-smokestack",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "pearl-jam": {
+        "Artist": "Pearl Jam",
+        "CleanedArtist": "pearl-jam",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "leonard-cohen": {
+        "Artist": "Leonard Cohen",
+        "CleanedArtist": "leonard-cohen",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jesse-cook": {
+        "Artist": "Jesse Cook",
+        "CleanedArtist": "jesse-cook",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "billy-strings": {
+        "Artist": "Billy Strings",
+        "CleanedArtist": "billy-strings",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "buddy-guy": {
+        "Artist": "Buddy Guy",
+        "CleanedArtist": "buddy-guy",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tones-and-i": {
+        "Artist": "Tones And I",
+        "CleanedArtist": "tones-and-i",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "joe-walsh": {
+        "Artist": "Joe Walsh",
+        "CleanedArtist": "joe-walsh",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "pantera": {
+        "Artist": "Pantera",
+        "CleanedArtist": "pantera",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ozzy-osbourne": {
+        "Artist": "Ozzy Osbourne",
+        "CleanedArtist": "ozzy-osbourne",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "dire-straits": {
+        "Artist": "Dire Straits",
+        "CleanedArtist": "dire-straits",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "sting": {
+        "Artist": "Sting",
+        "CleanedArtist": "sting",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-rolling-stones": {
+        "Artist": "The Rolling Stones",
+        "CleanedArtist": "the-rolling-stones",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "u2": {
+        "Artist": "U2",
+        "CleanedArtist": "u2",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "rush": {
+        "Artist": "Rush",
+        "CleanedArtist": "rush",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jeff-beck": {
+        "Artist": "Jeff Beck",
+        "CleanedArtist": "jeff-beck",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "blind-faith": {
+        "Artist": "Blind Faith",
+        "CleanedArtist": "blind-faith",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "steve-winwood": {
+        "Artist": "Steve Winwood",
+        "CleanedArtist": "steve-winwood",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "fernando-sor": {
+        "Artist": "Fernando Sor",
+        "CleanedArtist": "fernando-sor",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "beck": {
+        "Artist": "Beck",
+        "CleanedArtist": "beck",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "wings": {
+        "Artist": "Wings",
+        "CleanedArtist": "wings",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "paul-mccartney": {
+        "Artist": "Paul McCartney",
+        "CleanedArtist": "paul-mccartney",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "kenny-wayne-shepherd": {
+        "Artist": "Kenny Wayne Shepherd",
+        "CleanedArtist": "kenny-wayne-shepherd",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "traffic": {
+        "Artist": "Traffic",
+        "CleanedArtist": "traffic",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-verve": {
+        "Artist": "The Verve",
+        "CleanedArtist": "the-verve",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "crosby-stills-nash": {
+        "Artist": "Crosby, Stills & Nash",
+        "CleanedArtist": "crosby-stills-nash",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "elliott-smith": {
+        "Artist": "Elliott Smith",
+        "CleanedArtist": "elliott-smith",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "moby": {
+        "Artist": "Moby",
+        "CleanedArtist": "moby",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "vera-hall": {
+        "Artist": "Vera Hall",
+        "CleanedArtist": "vera-hall",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "creedence-clearwater-revival": {
+        "Artist": "Creedence Clearwater Revival",
+        "CleanedArtist": "creedence-clearwater-revival",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "amanda-marshall": {
+        "Artist": "Amanda Marshall",
+        "CleanedArtist": "amanda-marshall",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "colin-james": {
+        "Artist": "Colin James",
+        "CleanedArtist": "colin-james",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "sixpence-none-the-richer": {
+        "Artist": "Sixpence None The Richer",
+        "CleanedArtist": "sixpence-none-the-richer",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "anne-bredon": {
+        "Artist": "Anne Bredon",
+        "CleanedArtist": "anne-bredon",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "rory-gallagher": {
+        "Artist": "Rory Gallagher",
+        "CleanedArtist": "rory-gallagher",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "lead-belly": {
+        "Artist": "Lead Belly",
+        "CleanedArtist": "lead-belly",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "robert-petway": {
+        "Artist": "Robert Petway",
+        "CleanedArtist": "robert-petway",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "beyonce-jay-z": {
+        "Artist": "Beyonc\u00e9, JAY-Z",
+        "CleanedArtist": "beyonce-jay-z",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-las": {
+        "Artist": "The La's",
+        "CleanedArtist": "the-las",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "velvet-revolver": {
+        "Artist": "Velvet Revolver",
+        "CleanedArtist": "velvet-revolver",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "genesis": {
+        "Artist": "Genesis",
+        "CleanedArtist": "genesis",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "chris-whitley": {
+        "Artist": "Chris Whitley",
+        "CleanedArtist": "chris-whitley",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "amy-winehouse": {
+        "Artist": "Amy Winehouse",
+        "CleanedArtist": "amy-winehouse",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-zutons": {
+        "Artist": "The Zutons",
+        "CleanedArtist": "the-zutons",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "mark-ronson": {
+        "Artist": "Mark Ronson",
+        "CleanedArtist": "mark-ronson",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-smashing-pumpkins": {
+        "Artist": "The Smashing Pumpkins",
+        "CleanedArtist": "the-smashing-pumpkins",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-doobie-brothers": {
+        "Artist": "The Doobie Brothers",
+        "CleanedArtist": "the-doobie-brothers",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "grateful-dead": {
+        "Artist": "Grateful Dead",
+        "CleanedArtist": "grateful-dead",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "goyte": {
+        "Artist": "Goyte",
+        "CleanedArtist": "goyte",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "roy-orbison": {
+        "Artist": "Roy Orbison",
+        "CleanedArtist": "roy-orbison",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "smash-mouth": {
+        "Artist": "Smash Mouth",
+        "CleanedArtist": "smash-mouth",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-frusciante": {
+        "Artist": "John Frusciante",
+        "CleanedArtist": "john-frusciante",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "nina-simone": {
+        "Artist": "Nina Simone",
+        "CleanedArtist": "nina-simone",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "big-wreck": {
+        "Artist": "Big Wreck",
+        "CleanedArtist": "big-wreck",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jack-johnson": {
+        "Artist": "Jack Johnson",
+        "CleanedArtist": "jack-johnson",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "eurythmics": {
+        "Artist": "Eurythmics",
+        "CleanedArtist": "eurythmics",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "annie-lennox": {
+        "Artist": "Annie Lennox",
+        "CleanedArtist": "annie-lennox",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "dave-stewart": {
+        "Artist": "Dave Stewart",
+        "CleanedArtist": "dave-stewart",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "james-taylor": {
+        "Artist": "James Taylor",
+        "CleanedArtist": "james-taylor",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-moody-blues": {
+        "Artist": "The Moody Blues",
+        "CleanedArtist": "the-moody-blues",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bruce-cockburn": {
+        "Artist": "Bruce Cockburn",
+        "CleanedArtist": "bruce-cockburn",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-animals": {
+        "Artist": "The Animals",
+        "CleanedArtist": "the-animals",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "big-star": {
+        "Artist": "Big Star",
+        "CleanedArtist": "big-star",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "david-gray": {
+        "Artist": "David Gray",
+        "CleanedArtist": "david-gray",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-black-crowes": {
+        "Artist": "The Black Crowes",
+        "CleanedArtist": "the-black-crowes",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "george-gershwin": {
+        "Artist": "George Gershwin",
+        "CleanedArtist": "george-gershwin",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ella-fitzgerald": {
+        "Artist": "Ella Fitzgerald",
+        "CleanedArtist": "ella-fitzgerald",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-killers": {
+        "Artist": "The Killers",
+        "CleanedArtist": "the-killers",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "allman-brothers-band": {
+        "Artist": "Allman Brothers Band",
+        "CleanedArtist": "allman-brothers-band",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "danny-elfman": {
+        "Artist": "Danny Elfman",
+        "CleanedArtist": "danny-elfman",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "robbie-basho": {
+        "Artist": "Robbie Basho",
+        "CleanedArtist": "robbie-basho",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "arborea": {
+        "Artist": "Arborea",
+        "CleanedArtist": "arborea",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ac-dc": {
+        "Artist": "AC/DC",
+        "CleanedArtist": "ac-dc",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "larry-davis": {
+        "Artist": "Larry Davis",
+        "CleanedArtist": "larry-davis",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "metallica": {
+        "Artist": "Metallica",
+        "CleanedArtist": "metallica",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "van-halen": {
+        "Artist": "Van Halen",
+        "CleanedArtist": "van-halen",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "chuck-berry": {
+        "Artist": "Chuck Berry",
+        "CleanedArtist": "chuck-berry",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "blue-oyster-cult": {
+        "Artist": "Blue \u00d6yster Cult",
+        "CleanedArtist": "blue-oyster-cult",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "zz-top": {
+        "Artist": "ZZ Top",
+        "CleanedArtist": "zz-top",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "vance-joy": {
+        "Artist": "Vance Joy",
+        "CleanedArtist": "vance-joy",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "otis-redding": {
+        "Artist": "Otis Redding",
+        "CleanedArtist": "otis-redding",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jonny-lang": {
+        "Artist": "Jonny Lang",
+        "CleanedArtist": "jonny-lang",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "foo-fighters": {
+        "Artist": "Foo Fighters",
+        "CleanedArtist": "foo-fighters",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-eagles": {
+        "Artist": "The Eagles",
+        "CleanedArtist": "the-eagles",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-police": {
+        "Artist": "The Police",
+        "CleanedArtist": "the-police",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "santo-johnny": {
+        "Artist": "Santo & Johnny",
+        "CleanedArtist": "santo-johnny",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "betsy-brye": {
+        "Artist": "Betsy Brye",
+        "CleanedArtist": "betsy-brye",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "matchbox-twenty": {
+        "Artist": "Matchbox Twenty",
+        "CleanedArtist": "matchbox-twenty",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "sonny-boy-williamson-ii": {
+        "Artist": "Sonny Boy Williamson II",
+        "CleanedArtist": "sonny-boy-williamson-ii",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "shania-twain": {
+        "Artist": "Shania Twain",
+        "CleanedArtist": "shania-twain",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tom-petty": {
+        "Artist": "Tom Petty",
+        "CleanedArtist": "tom-petty",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "johnny-cash": {
+        "Artist": "Johnny Cash",
+        "CleanedArtist": "johnny-cash",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "don-mclean": {
+        "Artist": "Don McLean",
+        "CleanedArtist": "don-mclean",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "oasis": {
+        "Artist": "Oasis",
+        "CleanedArtist": "oasis",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "nirvana": {
+        "Artist": "Nirvana",
+        "CleanedArtist": "nirvana",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "mountain": {
+        "Artist": "Mountain",
+        "CleanedArtist": "mountain",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "hozier": {
+        "Artist": "Hozier",
+        "CleanedArtist": "hozier",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "canned-heat": {
+        "Artist": "Canned Heat",
+        "CleanedArtist": "canned-heat",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-brim": {
+        "Artist": "John Brim",
+        "CleanedArtist": "john-brim",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "guns-n-roses": {
+        "Artist": "Guns N' Roses",
+        "CleanedArtist": "guns-n-roses",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "free": {
+        "Artist": "Free",
+        "CleanedArtist": "free",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-white-stripes": {
+        "Artist": "The White Stripes",
+        "CleanedArtist": "the-white-stripes",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "black-sabbath": {
+        "Artist": "Black Sabbath",
+        "CleanedArtist": "black-sabbath",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "dick-dale": {
+        "Artist": "Dick Dale",
+        "CleanedArtist": "dick-dale",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "depeche-mode": {
+        "Artist": "Depeche Mode",
+        "CleanedArtist": "depeche-mode",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "wolfmother": {
+        "Artist": "Wolfmother",
+        "CleanedArtist": "wolfmother",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "paul-gilbert": {
+        "Artist": "Paul Gilbert",
+        "CleanedArtist": "paul-gilbert",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "steppenwolf": {
+        "Artist": "Steppenwolf",
+        "CleanedArtist": "steppenwolf",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "extreme": {
+        "Artist": "Extreme",
+        "CleanedArtist": "extreme",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "audioslave": {
+        "Artist": "Audioslave",
+        "CleanedArtist": "audioslave",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "alice-in-chains": {
+        "Artist": "Alice In Chains",
+        "CleanedArtist": "alice-in-chains",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-cure": {
+        "Artist": "The Cure",
+        "CleanedArtist": "the-cure",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "chet-atkins": {
+        "Artist": "Chet Atkins",
+        "CleanedArtist": "chet-atkins",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-chordettes": {
+        "Artist": "The Chordettes",
+        "CleanedArtist": "the-chordettes",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "chris-cornell": {
+        "Artist": "Chris Cornell",
+        "CleanedArtist": "chris-cornell",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "blind-boy-fuller": {
+        "Artist": "Blind Boy Fuller",
+        "CleanedArtist": "blind-boy-fuller",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "johann-sebastian-bach": {
+        "Artist": "Johann Sebastian Bach",
+        "CleanedArtist": "johann-sebastian-bach",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jack-savoretti": {
+        "Artist": "Jack Savoretti",
+        "CleanedArtist": "jack-savoretti",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "rodriguez": {
+        "Artist": "Rodriguez",
+        "CleanedArtist": "rodriguez",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "stephen-stills": {
+        "Artist": "Stephen Stills",
+        "CleanedArtist": "stephen-stills",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "doc-watson": {
+        "Artist": "Doc Watson",
+        "CleanedArtist": "doc-watson",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "prince": {
+        "Artist": "Prince",
+        "CleanedArtist": "prince",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "yusuf-cat-stevens": {
+        "Artist": "Yusuf / Cat Stevens",
+        "CleanedArtist": "yusuf-cat-stevens",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "america-george-martin": {
+        "Artist": "America, George Martin",
+        "CleanedArtist": "america-george-martin",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "david-wilcox": {
+        "Artist": "David Wilcox",
+        "CleanedArtist": "david-wilcox",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "aerosmith": {
+        "Artist": "Aerosmith",
+        "CleanedArtist": "aerosmith",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "train": {
+        "Artist": "Train",
+        "CleanedArtist": "train",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "steve-vai": {
+        "Artist": "Steve Vai",
+        "CleanedArtist": "steve-vai",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "george-thorogood-the-destroyers": {
+        "Artist": "George Thorogood & The Destroyers",
+        "CleanedArtist": "george-thorogood-the-destroyers",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "boston": {
+        "Artist": "Boston",
+        "CleanedArtist": "boston",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "linkin-park": {
+        "Artist": "Linkin Park",
+        "CleanedArtist": "linkin-park",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "elton-john": {
+        "Artist": "Elton John",
+        "CleanedArtist": "elton-john",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bukka-white": {
+        "Artist": "Bukka White",
+        "CleanedArtist": "bukka-white",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "mumford-sons": {
+        "Artist": "Mumford & Sons",
+        "CleanedArtist": "mumford-sons",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "blue-rodeo": {
+        "Artist": "Blue Rodeo",
+        "CleanedArtist": "blue-rodeo",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "damien-rice": {
+        "Artist": "Damien Rice",
+        "CleanedArtist": "damien-rice",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-lennon-yoko-ono": {
+        "Artist": "John Lennon, Yoko Ono",
+        "CleanedArtist": "john-lennon-yoko-ono",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "trans-siberian-orchestra": {
+        "Artist": "Trans Siberian Orchestra",
+        "CleanedArtist": "trans-siberian-orchestra",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "mykola-leontovych": {
+        "Artist": "Mykola Leontovych",
+        "CleanedArtist": "mykola-leontovych",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ted-nugent": {
+        "Artist": "Ted Nugent",
+        "CleanedArtist": "ted-nugent",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tool": {
+        "Artist": "Tool",
+        "CleanedArtist": "tool",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "blur": {
+        "Artist": "Blur",
+        "CleanedArtist": "blur",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "francis-scott-key": {
+        "Artist": "Francis Scott Key",
+        "CleanedArtist": "francis-scott-key",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "rage-against-the-machine": {
+        "Artist": "Rage Against The Machine",
+        "CleanedArtist": "rage-against-the-machine",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-offspring": {
+        "Artist": "The Offspring",
+        "CleanedArtist": "the-offspring",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-knack": {
+        "Artist": "The Knack",
+        "CleanedArtist": "the-knack",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "eddie-van-halen": {
+        "Artist": "Eddie Van Halen",
+        "CleanedArtist": "eddie-van-halen",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "santana": {
+        "Artist": "Santana",
+        "CleanedArtist": "santana",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "spirit": {
+        "Artist": "Spirit",
+        "CleanedArtist": "spirit",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "dave-matthews-band": {
+        "Artist": "Dave Matthews Band",
+        "CleanedArtist": "dave-matthews-band",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "eva-cassidy": {
+        "Artist": "Eva Cassidy",
+        "CleanedArtist": "eva-cassidy",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "lynyrd-skynyrd": {
+        "Artist": "Lynyrd Skynyrd",
+        "CleanedArtist": "lynyrd-skynyrd",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "mason-williams": {
+        "Artist": "Mason Williams",
+        "CleanedArtist": "mason-williams",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jimmie-cox": {
+        "Artist": "Jimmie Cox",
+        "CleanedArtist": "jimmie-cox",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "rein-rutnik": {
+        "Artist": "Rein Rutnik",
+        "CleanedArtist": "rein-rutnik",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "milton-ager-jack-yellen": {
+        "Artist": "Milton Ager & Jack Yellen",
+        "CleanedArtist": "milton-ager-jack-yellen",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "mississippi-john-hurt": {
+        "Artist": "Mississippi John Hurt",
+        "CleanedArtist": "mississippi-john-hurt",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "joe-filisko": {
+        "Artist": "Joe Filisko",
+        "CleanedArtist": "joe-filisko",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "semisonic": {
+        "Artist": "Semisonic",
+        "CleanedArtist": "semisonic",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "a-ha": {
+        "Artist": "A-Ha",
+        "CleanedArtist": "a-ha",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "p-nk": {
+        "Artist": "P!nk",
+        "CleanedArtist": "p-nk",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "agustin-barrios-mangore": {
+        "Artist": "Agust\u00edn Barrios Mangor\u00e9",
+        "CleanedArtist": "agustin-barrios-mangore",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ryan-adams": {
+        "Artist": "Ryan Adams",
+        "CleanedArtist": "ryan-adams",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bryan-adams": {
+        "Artist": "Bryan Adams",
+        "CleanedArtist": "bryan-adams",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "rusted-root": {
+        "Artist": "Rusted Root",
+        "CleanedArtist": "rusted-root",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ben-howard": {
+        "Artist": "Ben Howard",
+        "CleanedArtist": "ben-howard",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "george-harrison": {
+        "Artist": "George Harrison",
+        "CleanedArtist": "george-harrison",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "old-crow-medicine-show": {
+        "Artist": "Old Crow Medicine Show",
+        "CleanedArtist": "old-crow-medicine-show",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "darius-rucker": {
+        "Artist": "Darius Rucker",
+        "CleanedArtist": "darius-rucker",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "blink-182": {
+        "Artist": "Blink-182",
+        "CleanedArtist": "blink-182",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "nelly": {
+        "Artist": "Nelly",
+        "CleanedArtist": "nelly",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "great-big-sea": {
+        "Artist": "Great Big Sea",
+        "CleanedArtist": "great-big-sea",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ben-harper": {
+        "Artist": "Ben Harper",
+        "CleanedArtist": "ben-harper",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-tragically-hip": {
+        "Artist": "The Tragically Hip",
+        "CleanedArtist": "the-tragically-hip",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "blind-melon": {
+        "Artist": "Blind Melon",
+        "CleanedArtist": "blind-melon",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "fuel": {
+        "Artist": "Fuel",
+        "CleanedArtist": "fuel",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "green-day": {
+        "Artist": "Green Day",
+        "CleanedArtist": "green-day",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "sun-kil-moon": {
+        "Artist": "Sun Kil Moon",
+        "CleanedArtist": "sun-kil-moon",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "inxs": {
+        "Artist": "INXS",
+        "CleanedArtist": "inxs",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "temple-of-the-dog": {
+        "Artist": "Temple Of The Dog",
+        "CleanedArtist": "temple-of-the-dog",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "talking-heads": {
+        "Artist": "Talking Heads",
+        "CleanedArtist": "talking-heads",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "unknown": {
+        "Artist": "Unknown",
+        "CleanedArtist": "unknown",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tenacious-d": {
+        "Artist": "Tenacious D",
+        "CleanedArtist": "tenacious-d",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "edwin-mccain": {
+        "Artist": "Edwin McCain",
+        "CleanedArtist": "edwin-mccain",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tim-buckley": {
+        "Artist": "Tim Buckley",
+        "CleanedArtist": "tim-buckley",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-clash": {
+        "Artist": "The Clash",
+        "CleanedArtist": "the-clash",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "adele": {
+        "Artist": "Adele",
+        "CleanedArtist": "adele",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "dusty-springfield": {
+        "Artist": "Dusty Springfield",
+        "CleanedArtist": "dusty-springfield",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "christina-perri": {
+        "Artist": "Christina Perri",
+        "CleanedArtist": "christina-perri",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bon-iver": {
+        "Artist": "Bon Iver",
+        "CleanedArtist": "bon-iver",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "birdy": {
+        "Artist": "Birdy",
+        "CleanedArtist": "birdy",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "james-morrison": {
+        "Artist": "James Morrison",
+        "CleanedArtist": "james-morrison",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-mamas-the-papas": {
+        "Artist": "The Mamas & The Papas",
+        "CleanedArtist": "the-mamas-the-papas",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jose-feliciano": {
+        "Artist": "Jos\u00e9 Feliciano",
+        "CleanedArtist": "jose-feliciano",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "hambone-willie-newbern": {
+        "Artist": "Hambone Willie Newbern",
+        "CleanedArtist": "hambone-willie-newbern",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "muddy-waters": {
+        "Artist": "Muddy Waters",
+        "CleanedArtist": "muddy-waters",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-lennon": {
+        "Artist": "John Lennon",
+        "CleanedArtist": "john-lennon",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "koji-kondo": {
+        "Artist": "Koji Kondo",
+        "CleanedArtist": "koji-kondo",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-coltrane": {
+        "Artist": "John Coltrane",
+        "CleanedArtist": "john-coltrane",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "filter": {
+        "Artist": "Filter",
+        "CleanedArtist": "filter",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-cranberries": {
+        "Artist": "The Cranberries",
+        "CleanedArtist": "the-cranberries",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-denver": {
+        "Artist": "John Denver",
+        "CleanedArtist": "john-denver",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "james-shelton": {
+        "Artist": "James Shelton",
+        "CleanedArtist": "james-shelton",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "pusha-t": {
+        "Artist": "Pusha T",
+        "CleanedArtist": "pusha-t",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tom-batoy": {
+        "Artist": "Tom Batoy",
+        "CleanedArtist": "tom-batoy",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "franco-tortora": {
+        "Artist": "Franco Tortora",
+        "CleanedArtist": "franco-tortora",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "john-prine": {
+        "Artist": "John Prine",
+        "CleanedArtist": "john-prine",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "doucette": {
+        "Artist": "Doucette",
+        "CleanedArtist": "doucette",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "iron-maiden": {
+        "Artist": "Iron Maiden",
+        "CleanedArtist": "iron-maiden",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "peter-frampton": {
+        "Artist": "Peter Frampton",
+        "CleanedArtist": "peter-frampton",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "carney": {
+        "Artist": "Carney",
+        "CleanedArtist": "carney",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "kings-of-leon": {
+        "Artist": "Kings of Leon",
+        "CleanedArtist": "kings-of-leon",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "rem": {
+        "Artist": "R.E.M",
+        "CleanedArtist": "rem",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-soggy-bottom-boys": {
+        "Artist": "The Soggy Bottom Boys",
+        "CleanedArtist": "the-soggy-bottom-boys",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "dick-burnett": {
+        "Artist": "Dick Burnett",
+        "CleanedArtist": "dick-burnett",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "kim-mitchell": {
+        "Artist": "Kim Mitchell",
+        "CleanedArtist": "kim-mitchell",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "mr-big": {
+        "Artist": "Mr. Big",
+        "CleanedArtist": "mr-big",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-kinks": {
+        "Artist": "The Kinks",
+        "CleanedArtist": "the-kinks",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jimmy-eat-world": {
+        "Artist": "Jimmy Eat World",
+        "CleanedArtist": "jimmy-eat-world",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-hollies": {
+        "Artist": "The Hollies",
+        "CleanedArtist": "the-hollies",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "shuki-levy": {
+        "Artist": "Shuki Levy",
+        "CleanedArtist": "shuki-levy",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "haim-saban": {
+        "Artist": "Haim Saban",
+        "CleanedArtist": "haim-saban",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "trevor-hall-krishna-das": {
+        "Artist": "Trevor Hall, Krishna Das",
+        "CleanedArtist": "trevor-hall-krishna-das",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tonic": {
+        "Artist": "Tonic",
+        "CleanedArtist": "tonic",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "nickelback": {
+        "Artist": "Nickelback",
+        "CleanedArtist": "nickelback",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "collective-soul": {
+        "Artist": "Collective Soul",
+        "CleanedArtist": "collective-soul",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "simon-garfunkel": {
+        "Artist": "Simon & Garfunkel",
+        "CleanedArtist": "simon-garfunkel",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "fleet-foxes": {
+        "Artist": "Fleet Foxes",
+        "CleanedArtist": "fleet-foxes",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "massive-attack": {
+        "Artist": "Massive Attack",
+        "CleanedArtist": "massive-attack",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "ludwig-van-beethoven": {
+        "Artist": "Ludwig Van Beethoven",
+        "CleanedArtist": "ludwig-van-beethoven",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "gordon-lightfoot": {
+        "Artist": "Gordon Lightfoot",
+        "CleanedArtist": "gordon-lightfoot",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bon-jovi": {
+        "Artist": "Bon Jovi",
+        "CleanedArtist": "bon-jovi",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "grant-dermody": {
+        "Artist": "Grant Dermody",
+        "CleanedArtist": "grant-dermody",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "claude-debussy": {
+        "Artist": "Claude Debussy",
+        "CleanedArtist": "claude-debussy",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jj-cale": {
+        "Artist": "J.J. Cale",
+        "CleanedArtist": "jj-cale",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "deep-purple": {
+        "Artist": "Deep Purple",
+        "CleanedArtist": "deep-purple",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "joseph-kosma": {
+        "Artist": "Joseph Kosma",
+        "CleanedArtist": "joseph-kosma",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "jacques-prevert": {
+        "Artist": "Jacques Prevert",
+        "CleanedArtist": "jacques-prevert",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "daryl-hall-and-john-oates": {
+        "Artist": "Daryl Hall and John Oates",
+        "CleanedArtist": "daryl-hall-and-john-oates",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "moist": {
+        "Artist": "Moist",
+        "CleanedArtist": "moist",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bill-withers": {
+        "Artist": "Bill Withers",
+        "CleanedArtist": "bill-withers",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "marcy-playground": {
+        "Artist": "Marcy Playground",
+        "CleanedArtist": "marcy-playground",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "the-proclaimers": {
+        "Artist": "The Proclaimers",
+        "CleanedArtist": "the-proclaimers",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "isaac-albeniz": {
+        "Artist": "Isaac Alb\u00e9niz",
+        "CleanedArtist": "isaac-albeniz",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "tom-jones": {
+        "Artist": "Tom Jones",
+        "CleanedArtist": "tom-jones",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "toto": {
+        "Artist": "Toto",
+        "CleanedArtist": "toto",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "gaspar-sanz": {
+        "Artist": "Gaspar Sanz",
+        "CleanedArtist": "gaspar-sanz",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "deford-bailey": {
+        "Artist": "Deford Bailey",
+        "CleanedArtist": "deford-bailey",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bobby-mcferrin": {
+        "Artist": "Bobby McFerrin",
+        "CleanedArtist": "bobby-mcferrin",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "slash": {
+        "Artist": "Slash",
+        "CleanedArtist": "slash",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "janet-jackson": {
+        "Artist": "Janet Jackson",
+        "CleanedArtist": "janet-jackson",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "kiss": {
+        "Artist": "Kiss",
+        "CleanedArtist": "kiss",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "nursery-rhyme": {
+        "Artist": "Nursery Rhyme",
+        "CleanedArtist": "nursery-rhyme",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "alicia-keys": {
+        "Artist": "Alicia Keys",
+        "CleanedArtist": "alicia-keys",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "donny-hathaway": {
+        "Artist": "Donny Hathaway",
+        "CleanedArtist": "donny-hathaway",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    },
+    "bachman-turner-overdrive": {
+        "Artist": "Bachman-Turner Overdrive",
+        "CleanedArtist": "bachman-turner-overdrive",
+        "Location": "",
+        "YearFormed": 0,
+        "Genre": ""
+    }
+}
