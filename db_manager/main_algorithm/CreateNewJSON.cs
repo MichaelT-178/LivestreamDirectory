@@ -13,6 +13,7 @@ using Newtonsoft.Json;
  * CreateSearchData | Create the SearchData.json file in VueLivestreamDirectory.
  * CreateArtistFile | Create the artists.json file in VueLivestreamDirectory.
  * AddArtistToMap | Adds a song and its associated album to the artist entry in the map.
+ * GetLocalArtistData | Gets the JSON data from db_manager/json_files/artists.json
  *
  * @author Michael Totaro
  */
@@ -171,7 +172,8 @@ class CreateNewJSON
                 Other_Artists = string.IsNullOrWhiteSpace(song.Other_Artists)
                     ? new List<object>()
                     : song.Other_Artists.Split("+ ")
-                        .Select(artistName => (object) new {
+                        .Select(artistName => (object) new
+                        {
                             artist = artistName.Trim(),
                             cleanedArtist = TextCleaner.CleanText(artistName),
                         }).ToList(),
@@ -181,11 +183,12 @@ class CreateNewJSON
                     : song.Instruments.Split(", ")
                         .Select(instr => instr.Trim())
                         .Where(instr => !string.IsNullOrEmpty(instr))
-                        .Select(instr => (object) new {
+                        .Select(instr => (object) new
+                        {
                             name = instr,
                             cleanedName = CreateNewInstrument.CleanInstrument(instr)
                         }).ToList(),
-                        
+
                 song.Year,
                 song.Search,
                 Appearances = MergeAppearancesAndLinks(song.Appearances, song.Links),
@@ -287,15 +290,18 @@ class CreateNewJSON
         List<Song> songs = JSONHelper.GetDatabaseSongs();
         List<Album> albums = AlbumRepertoireHandler.GetAlbums();
 
+        var localArtistData = GetLocalArtistData();
+
         var artistMap = new Dictionary<string, ArtistEntry>();
 
         foreach (var song in songs)
         {
-            AddArtistToMap(song.Artist, song, artistMap, albums);
+            AddArtistToMap(song.Artist, song, artistMap, albums, localArtistData);
 
             if (!string.IsNullOrWhiteSpace(song.Other_Artists))
             {
                 var otherArtists = song.Other_Artists.Split("+ ");
+
 
                 foreach (var otherArtist in otherArtists)
                 {
@@ -303,7 +309,7 @@ class CreateNewJSON
 
                     if (!string.IsNullOrEmpty(trimmed))
                     {
-                        AddArtistToMap(trimmed, song, artistMap, albums);
+                        AddArtistToMap(trimmed, song, artistMap, albums, localArtistData);
                     }
                 }
             }
@@ -320,21 +326,28 @@ class CreateNewJSON
      * @param song The song object
      * @param map The dictionary mapping cleaned artist names to their corresponding ArtistEntry objects
      * @param allAlbums The full list of album entries
+     * @param localArtistData The JSON data from db_manager/json_files/artists.json
      */
     private static void AddArtistToMap(
         string artistName,
         Song song,
         Dictionary<string, ArtistEntry> map,
-        List<Album> allAlbums)
+        List<Album> allAlbums,
+        Dictionary<string, LocalArtist> localArtistData)
     {
         string cleanedArtist = TextCleaner.CleanText(artistName);
 
         if (!map.TryGetValue(cleanedArtist, out var entry))
         {
+            localArtistData.TryGetValue(cleanedArtist, out var meta);
+
             entry = new ArtistEntry
             {
                 Artist = artistName,
                 CleanedArtist = cleanedArtist,
+                Location = meta!.Location,
+                YearFormed = meta.YearFormed,
+                Genre = meta.Genre,
                 Songs = new List<ArtistSong>(),
                 Albums = new List<AlbumArtist>()
             };
@@ -371,6 +384,20 @@ class CreateNewJSON
                 });
             }
         }
+    }
+
+    /**
+     * Gets the JSON data from db_manager/json_files/artists.json
+     * 
+     * @return The data from the local artists.json file
+     */
+    public static Dictionary<string, LocalArtist> GetLocalArtistData()
+    {
+        string path = "./db_manager/json_files/artists.json";
+        string json = File.ReadAllText(path);
+
+        return JsonConvert.DeserializeObject<Dictionary<string, LocalArtist>>(json)
+            ?? throw new ArgumentException("Could not load local artist metadata.");
     }
 
 
