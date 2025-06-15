@@ -21,6 +21,7 @@ class Program
         // CreateNewJSON.CreateArtistFile();
 
         // AlbumRepertoireHandler.UpdateCleanedAttributes();
+
         // Environment.Exit(0);
 
 
@@ -51,6 +52,7 @@ class Program
 
         ErrorFinder.AllLocalArtistPicturesExist();
         ErrorFinder.AllVueArtistPicturesExist();
+        ErrorFinder.AllArtistsInArtistsJson();
 
         Color.DisplaySuccess("An image was found for every artist!");
 

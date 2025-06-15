@@ -13,6 +13,7 @@ using Newtonsoft.Json;
  * CleanText | Get rid of parenthesis text in string
  * CheckKeysToKeep | Find new keys to add to keys_to_keep.json
  * AllAlbumPicturesExist | Ensures every album pic exists in VueLivestreamDirectory
+ * AllArtistsInArtistsJson | Ensures every artist has an object in db_manager/json_files/artists.json
  * 
  * @author Michael Totaro
  */
@@ -552,7 +553,72 @@ class ErrorFinder
             Console.WriteLine("Go find images for these albums and rerun\n");
             Environment.Exit(0);
         }
-
     }
+
+    /**
+     * Ensures every artist in all-timestamps.txt has an object in artists.json.
+     * If missing artists are found, print them and exit the program.
+     */
+    public static void AllArtistsInArtistsJson()
+    {
+        string timestampsPath = "./db_manager/timestamps/all-timestamps.txt";
+        string artistsPath = "./db_manager/json_files/artists.json";
+
+        if (!File.Exists(timestampsPath) || !File.Exists(artistsPath))
+        {
+            Color.DisplayError("Required file(s) not found.");
+            Environment.Exit(0);
+        }
+
+        var allLines = File.ReadAllLines(timestampsPath);
+        var missingArtists = new List<string>();
+        var seenArtists = new HashSet<string>();
+
+        string rawJson = File.ReadAllText(artistsPath);
+        var artistsJson = JsonConvert.DeserializeObject<Dictionary<string, object>>(rawJson)!;
+
+        foreach (string line in allLines)
+        {
+            var songAndArtist = Helper.GetSongAndArtist(line);
+
+            if (songAndArtist == null)
+            {
+                continue;
+            }
+
+            var artistsField = songAndArtist[1];
+            var artistArray = artistsField.Split('+');
+
+            foreach (var rawArtist in artistArray)
+            {
+                string artist = rawArtist.Trim();
+                string cleaned = TextCleaner.CleanText(artist);
+
+                if (!seenArtists.Contains(cleaned))
+                {
+                    seenArtists.Add(cleaned);
+                    if (!artistsJson.ContainsKey(cleaned))
+                    {
+                        missingArtists.Add(artist);
+                    }
+                }
+            }
+        }
+
+        if (missingArtists.Count > 0)
+        {
+            Console.WriteLine();
+            Color.DisplayError("Missing entries in artists.json:");
+
+            foreach (var artist in missingArtists)
+            {
+                Console.WriteLine($" - {artist}");
+            }
+
+            Console.WriteLine("\nAdd these artists to db_manager/json_files/artists.json and rerun.\n");
+            Environment.Exit(0);
+        }
+    }
+
 
 }
