@@ -92,16 +92,6 @@
     },
     {
       "id": 10,
-      "name": "Harmonica",
-      "nameNoKey": "Harmonica",
-      "cleaned": "harmonica",
-      "alias": null,
-      "key": "H",
-      "type": "Harmonica",
-      "appears": 25
-    },
-    {
-      "id": 11,
       "name": "(Strat) - Fender Stratocaster",
       "nameNoKey": "Fender Stratocaster",
       "cleaned": "fender-stratocaster",
@@ -109,6 +99,16 @@
       "key": "Strat",
       "type": "Electric",
       "appears": 21
+    },
+    {
+      "id": 11,
+      "name": "Harmonica",
+      "nameNoKey": "Harmonica",
+      "cleaned": "harmonica",
+      "alias": null,
+      "key": "H",
+      "type": "Harmonica",
+      "appears": 16
     },
     {
       "id": 12,

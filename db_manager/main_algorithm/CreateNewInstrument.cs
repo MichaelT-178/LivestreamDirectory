@@ -51,17 +51,27 @@ class CreateNewInstrument
                 string link = linkList[i];
 
                 List<string> keyList = GetKeysAsList(appear);
-
                 List<MapData> mapDataList = GetInstrumentMapData(instrumentSongId, keyList, song, appear, link);
 
                 foreach (var mapData in mapDataList)
                 {
-                    if (!instrumentMap.ContainsKey(mapData.InstrumentKey))
+                    string instrumentKey = mapData.InstrumentKey;
+                    InstrumentSong instrumentSong = mapData.InstrumentSong;
+
+                    if (!instrumentMap.ContainsKey(instrumentKey))
                     {
-                        instrumentMap[mapData.InstrumentKey] = new List<InstrumentSong>();
+                        instrumentMap[instrumentKey] = new List<InstrumentSong>();
                     }
 
-                    instrumentMap[mapData.InstrumentKey].Add(mapData.InstrumentSong);
+                    bool isDuplicate = instrumentMap[instrumentKey]
+                        .Any(existing =>
+                            existing.Link == instrumentSong.Link &&
+                            existing.SongTitle == instrumentSong.SongTitle);
+
+                    if (!isDuplicate)
+                    {
+                        instrumentMap[instrumentKey].Add(instrumentSong);
+                    }
                 }
 
                 instrumentSongId++;
@@ -73,6 +83,7 @@ class CreateNewInstrument
         return instrumentMap;
         // PrintInstrumentMap(instrumentMap);
     }
+
 
     /**
      * Writes the instrumentMap to the InstrumentData.json file in 
