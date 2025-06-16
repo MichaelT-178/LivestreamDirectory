@@ -455,6 +455,7 @@ class AlgorithmHelper
             {"(SGI)",  "Acoustic Guitar, (SGI) - SGI Avenir CW20"},
             {"(SOM)",  "Acoustic Guitar, (SOM) - Stonebridge OM35ASR-DB"},
             {"(FV2)",  "Acoustic Guitar, (FV2) - Furch Vintage 2 RS-SR"},
+            {"(main)", "Acoustic Guitar, (main) - Stonebridge (Furch) OM32SM"},
             {"(Mandolin)", "Mandolin"},
             {"(Blues Slide)", "Blues Slide"},
             {"(Rein Rutnik)", "Harmonica"},

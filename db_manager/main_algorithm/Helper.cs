@@ -239,6 +239,7 @@ class Helper
                 .Replace("(NSCG)", "")
                 .Replace("(NSTCW)", "")
                 .Replace("(SD22)", "")
+                .Replace("(main)", "")
 
                 .Trim();
 

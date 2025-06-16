@@ -412,6 +412,10 @@ class CreateNewInstrument
             {
                 result.Add(new MapData("furch-vintage-2-rs-sr", instrumentSong));
             }
+            else if (key == "main")
+            {
+                result.Add(new MapData("acoustic-guitar", instrumentSong));
+            }
             else if (key == "DM75")
             {
                 result.Add(new MapData("dearmond-m75", instrumentSong));
@@ -588,7 +592,7 @@ class CreateNewInstrument
             "DM75", "Strat", "DX1R", "Electric Song", "Electric riff", "FBD", "FBG", "FG", "FOB", "FOSG",
             "FSD", "FV2", "FVD", "GFCHN", "GLTC", "GMLHB", "GMLN", "GMNC", "GPPCB", "GPRG", "GRSG",
             "GSDG", "LPE", "M15M", "MDT", "MFF", "MHD", "Mandolin", "NBBU", "NBDA", "NSCG", "NSPBU",
-            "NST", "NSTCW", "OOM", "OOMV1", "SAS", "SD22", "SGI", "SOM", "H", "Rein Rutnik"
+            "NST", "NSTCW", "OOM", "OOMV1", "SAS", "SD22", "SGI", "SOM", "H", "Rein Rutnik", "main"
         ];
 
         string result = Regex.Replace(line, @"\(([^()]+)\)", match =>
