@@ -1,4 +1,4 @@
-Control + g. Type 1241 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1253 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1238,6 +1238,18 @@ https://youtu.be/SsehGg9bQUY?si=JrPy5hNObmlQ9IM-
 Solo Video (LS 56 Clip)
 https://youtu.be/rRkziiEbSYI?si=StmEP0BqY4slI7dB
 0:00 Big Bad Bill (Is Sweet William Now) (Rein Rutnik) (FV2) by Leon Redbone+Van Halen+Milton Ager & Jack Yellen
+
+Solo Video
+https://youtu.be/qVuI7_DLM6Y?si=RZpAShXhCq7CzcgQ
+0:00 Nobody Knows You When You're Down and Out (Rein Rutnik) (FV2) by Eric Clapton+Jimmie Cox
+
+Solo Video 
+https://youtu.be/p2iy8aC1SBE?si=zPKM1Mw03ZNOwQqY
+0:00 Movin' Down The River Rhine (Rein Rutnik)(H) by Sonny Boy Williamson II
+
+Solo Video 
+https://youtu.be/pELczZYz0NM?si=tjVUeUD9FieDMXOT
+0:00 Deep River Blues (Rein Rutnik) (FV2) by Doc Watson
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI

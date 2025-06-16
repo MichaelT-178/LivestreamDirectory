@@ -92,6 +92,16 @@
     },
     {
       "id": 10,
+      "name": "Harmonica",
+      "nameNoKey": "Harmonica",
+      "cleaned": "harmonica",
+      "alias": null,
+      "key": "H",
+      "type": "Harmonica",
+      "appears": 25
+    },
+    {
+      "id": 11,
       "name": "(Strat) - Fender Stratocaster",
       "nameNoKey": "Fender Stratocaster",
       "cleaned": "fender-stratocaster",
@@ -99,16 +109,6 @@
       "key": "Strat",
       "type": "Electric",
       "appears": 21
-    },
-    {
-      "id": 11,
-      "name": "Harmonica",
-      "nameNoKey": "Harmonica",
-      "cleaned": "harmonica",
-      "alias": null,
-      "key": "H",
-      "type": "Harmonica",
-      "appears": 19
     },
     {
       "id": 12,
@@ -122,6 +122,16 @@
     },
     {
       "id": 13,
+      "name": "(FV2) - Furch Vintage 2 RS-SR",
+      "nameNoKey": "Furch Vintage 2 RS-SR",
+      "cleaned": "furch-vintage-2-rs-sr",
+      "alias": null,
+      "key": "FV2",
+      "type": "Acoustic",
+      "appears": 13
+    },
+    {
+      "id": 14,
       "name": "Mandolin",
       "nameNoKey": "Mandolin",
       "cleaned": "mandolin",
@@ -129,16 +139,6 @@
       "key": "Mandolin",
       "type": "Mandolin",
       "appears": 12
-    },
-    {
-      "id": 14,
-      "name": "(FV2) - Furch Vintage 2 RS-SR",
-      "nameNoKey": "Furch Vintage 2 RS-SR",
-      "cleaned": "furch-vintage-2-rs-sr",
-      "alias": null,
-      "key": "FV2",
-      "type": "Acoustic",
-      "appears": 11
     },
     {
       "id": 15,

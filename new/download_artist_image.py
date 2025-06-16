@@ -48,6 +48,8 @@ if not os.path.isfile(file_path):
     print(c("Artist object copied to clipboard!", 'green'))
     print(c("Go paste this in 'db_manager/json_files/artists.json'", 'green'))
 
+    os.system('python3 ../../VueLivestreamDirectory/python/shrink_spotify_images.py')
+
     write_to_clipboard(artist_output)
 else:
     print(c('\n\nThe image already exists in the pics folder!', 'green'))
