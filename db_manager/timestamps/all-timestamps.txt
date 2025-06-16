@@ -1,4 +1,4 @@
-Control + g. Type 1237 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1241 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1235,6 +1235,10 @@ Solo Video
 https://youtu.be/SsehGg9bQUY?si=JrPy5hNObmlQ9IM-
 0:00 That's All by Genesis
 
+Solo Video (LS 56 Clip)
+https://youtu.be/rRkziiEbSYI?si=StmEP0BqY4slI7dB
+0:00 Big Bad Bill (Is Sweet William Now) (Rein Rutnik) (FV2) by Leon Redbone+Van Halen+Milton Ager & Jack Yellen
+
 Livestream 25
 https://youtu.be/RipA8bRdIbI
 2:11 Solsbury Hill by Peter Gabriel
@@ -2444,7 +2448,7 @@ https://youtu.be/KLIWP_nbaXs
 Rein Rutnik's Set
 7:26 Nobody Knows You When You're Down and Out (Rein Rutnik) (FV2) by Eric Clapton+Jimmie Cox
 13:00 Sleepy Afternoon (Rein Rutnik) (FV2) by Rein Rutnik
-17:39 Big Bad Bill (Is Sweet William Now) (Rein Rutnik) (FV2) by Van Halen+Milton Ager & Jack Yellen
+17:39 Big Bad Bill (Is Sweet William Now) (Rein Rutnik) (FV2) by Leon Redbone+Van Halen+Milton Ager & Jack Yellen
 21:39 I'm Satisfied (Rein Rutnik) (FV2) by Mississippi John Hurt
 26:12 Fox Chase & Lost John (Rein Rutnik)(H) by Joe Filisko
 32:26 Before You Accuse Me (Rein Rutnik) by Eric Clapton+Bo Diddley
