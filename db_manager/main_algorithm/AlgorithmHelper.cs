@@ -19,6 +19,7 @@ using System.Text.RegularExpressions;
  * GetInstrumentsFromSong | Gets the instruments from a song title based on it's keys.
  * CleanAppearance | Gets the instruments from a song title based on it's keys.
  * ExtractKeysFromAppearance | Gets the keys from an appearance as a string list
+ * AddHarmonicaToAppearances | Adds H key to Rein Rutnik appearances
  *
  * @author Michael Totaro
  */
@@ -545,7 +546,7 @@ class AlgorithmHelper
         int parenIndex = appearance.IndexOf('(');
         return parenIndex > 0 ? appearance.Substring(0, parenIndex).Trim() : appearance;
     }
-    
+
     /**
      * Gets the keys from an appearance as a string list
      *
@@ -571,6 +572,50 @@ class AlgorithmHelper
                     .ToList();
     }
 
+
+    /**
+     * Adds H key to Rein Rutnik appearances
+     *
+     * Ex. 
+     * Solo Video  (LS 125 Clip),Livestream 107,Livestream 125,Livestream 142,Livestream 12 (Audio Issues/Rein Rutnik)
+     * 
+     * Becomes 
+     * Solo Video  (LS 125 Clip),Livestream 107,Livestream 125,Livestream 142,Livestream 12 (Audio Issues/Rein Rutnik/H)
+     *
+     * @param The appearance string without H key
+     * @return The appearance string with H key where Rein Rutnik is
+     */
+    public static string AddHarmonicaToAppearances(string appearances)
+    {
+        var updated = appearances
+            .Split(',')
+            .Select(entry =>
+            {
+                if (entry.Contains("(Rein Rutnik") && !entry.Contains("/H") && !entry.Contains("(H)"))
+                {
+                    // If already has other keys inside (), add /H
+                    int startIndex = entry.IndexOf("(Rein Rutnik");
+
+                    int parenStart = entry.IndexOf('(', startIndex);
+                    int parenEnd = entry.IndexOf(')', startIndex);
+
+                    if (parenStart != -1 && parenEnd != -1 && parenEnd > parenStart)
+                    {
+                        string inside = entry.Substring(parenStart + 1, parenEnd - parenStart - 1);
+
+                        if (!inside.Split('/').Contains("H"))
+                        {
+                            string updatedInside = inside + "/H";
+                            return entry.Substring(0, parenStart + 1) + updatedInside + ")";
+                        }
+                    }
+                }
+
+                return entry;
+            });
+
+        return string.Join(",", updated);
+    }
 
 
 }

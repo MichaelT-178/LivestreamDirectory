@@ -102,6 +102,16 @@
     },
     {
       "id": 11,
+      "name": "Harmonica",
+      "nameNoKey": "Harmonica",
+      "cleaned": "harmonica",
+      "alias": null,
+      "key": "H",
+      "type": "Harmonica",
+      "appears": 19
+    },
+    {
+      "id": 12,
       "name": "(OOM) - Furch OOM-SR-DB",
       "nameNoKey": "Furch OOM-SR-DB",
       "cleaned": "furch-oom-sr-db",
@@ -109,16 +119,6 @@
       "key": "OOM",
       "type": "Acoustic",
       "appears": 15
-    },
-    {
-      "id": 12,
-      "name": "Harmonica",
-      "nameNoKey": "Harmonica",
-      "cleaned": "harmonica",
-      "alias": null,
-      "key": "H",
-      "type": "Harmonica",
-      "appears": 13
     },
     {
       "id": 13,

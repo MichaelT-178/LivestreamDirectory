@@ -241,9 +241,10 @@ class Helper
                 .Replace("(SD22)", "")
 
                 .Trim();
-        
+
         // Replace (Clipped 10)
-        return Regex.Replace(lineWithReplacedStrings, @"\(\bLS [1-9][0-9]{0,2} Clip\b\)","");
+        return Regex.Replace(lineWithReplacedStrings, @"\s*\(\bLS [1-9][0-9]{0,2} Clip\b\)", "");
+        //return Regex.Replace(lineWithReplacedStrings, @"\(\bLS [1-9][0-9]{0,2} Clip\b\)", "");
     }
 
     /**

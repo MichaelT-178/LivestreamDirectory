@@ -166,6 +166,11 @@ class Algorithm
             instruments = AlgorithmHelper.RemoveDuplicateGuitars(instruments);
             instruments = AlgorithmHelper.MoveAcousticGuitarToFront(instruments);
 
+            if (appearances.Contains("Rein Rutnik"))
+            {
+                appearances = AlgorithmHelper.AddHarmonicaToAppearances(appearances);
+            }
+
             // Handled later. Just leave as a blank string for now. AddAlbumAttribute
             string album = "";
             string cleanedAlbum = "";
