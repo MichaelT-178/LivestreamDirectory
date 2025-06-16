@@ -157,6 +157,11 @@ class Algorithm
             {
                 instruments = instruments[..^2]; //get rid of last " , " character
             }
+
+            if (appearances.Contains("Rein Rutnik") && !search.Contains("Rein Rutnik"))
+            {
+                search += " Rein Rutnik";
+            }
             
             instruments = AlgorithmHelper.RemoveDuplicateGuitars(instruments);
             instruments = AlgorithmHelper.MoveAcousticGuitarToFront(instruments);
