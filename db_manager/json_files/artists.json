@@ -3139,5 +3139,14 @@
         "Genre": "Rock",
         "Country": "Canada",
         "Emoji": "🇨🇦"
+    },
+    "leon-redbone": {
+        "Artist": "Leon Redbone",
+        "CleanedArtist": "leon-redbone",
+        "Location": "Nicosia, Cyprus",
+        "YearFormed": 1949,
+        "Genre": "Blues",
+        "Country": "Cyprus",
+        "Emoji": "🇨🇾"
     }
 }

@@ -36,7 +36,8 @@ country_emoji_map = {
     "Paraguay": ("Paraguay", "🇵🇾"),
     "Japan": ("Japan", "🇯🇵"),
     "Egypt": ("Egypt", "🇪🇬"),
-    "Puerto Rico": ("Puerto Rico", "🇵🇷")
+    "Puerto Rico": ("Puerto Rico", "🇵🇷"),
+    "Cyprus": ("Cyprus", "🇨🇾")
 }
 
 
