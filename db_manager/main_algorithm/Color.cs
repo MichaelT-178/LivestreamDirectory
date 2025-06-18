@@ -106,6 +106,7 @@ class Color
             "CYAN" => "36m",
             "GREEN" => "32m",
             "BLUE" => "34m",
+            "WHITE" => "37m",
             _ => throw new ArgumentOutOfRangeException("Incorrect color value passed!"),
         };
     }

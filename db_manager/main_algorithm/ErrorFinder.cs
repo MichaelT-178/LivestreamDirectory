@@ -13,7 +13,8 @@ using Newtonsoft.Json;
  * CleanText | Get rid of parenthesis text in string
  * CheckKeysToKeep | Find new keys to add to keys_to_keep.json
  * AllAlbumPicturesExist | Ensures every album pic exists in VueLivestreamDirectory
- * AllArtistsInArtistsJson | Ensures every artist has an object in db_manager/json_files/artists.json
+ * AllArtistsInArtistsJsonFile | Ensures every artist has an object in db_manager/json_files/artists.json
+ * AllCountryPicturesExist | Ensures every country has an associated picture in VueLivestreamDirectory
  * 
  * @author Michael Totaro
  */
@@ -559,7 +560,7 @@ class ErrorFinder
      * Ensures every artist in all-timestamps.txt has an object in artists.json.
      * If missing artists are found, print them and exit the program.
      */
-    public static void AllArtistsInArtistsJson()
+    public static void AllArtistsInArtistsJsonFile()
     {
         string timestampsPath = "./db_manager/timestamps/all-timestamps.txt";
         string artistsPath = "./db_manager/json_files/artists.json";
@@ -619,6 +620,54 @@ class ErrorFinder
             Environment.Exit(0);
         }
     }
+
+    /**
+     * Ensures every country has an associated picture in VueLivestreamDirectory
+     */
+    public static void AllCountryPicturesExist()
+    {
+        var rawJson = File.ReadAllText("./db_manager/json_files/artists.json");
+        var artistsJson = JsonConvert.DeserializeObject<Dictionary<string, Dictionary<string, object>>>(rawJson)!;
+
+        var countries = new HashSet<string>();
+
+        foreach (var entry in artistsJson.Values)
+        {
+            if (entry.TryGetValue("Country", out var countryObj) && countryObj is string country)
+            {
+                countries.Add(TextCleaner.CleanText(country));
+            }
+        }
+
+        bool missingPic = false;
+
+        foreach (var country in countries)
+        {
+            string basePath = "../VueLivestreamDirectory/src/assets/CountryPics/";
+            string mainPic = Path.Combine(basePath, $"{country}.jpg");
+            string flagPic = Path.Combine(basePath, $"{country}-flag.jpg");
+
+            if (!File.Exists(mainPic))
+            {
+                Color.DisplayError($"Missing picture for: {country}.jpg");
+                missingPic = true;
+            }
+
+            if (!File.Exists(flagPic))
+            {
+                Color.PrintLine($"❌ Missing flag picture for: {country}-flag.jpg", "WHITE");
+                missingPic = true;
+            }
+        }
+
+        if (missingPic)
+        {
+            Color.DisplayError("GO FIX COUNTRY PICS!!!");
+            Color.DisplayError("Run python3 convert_to_jpg.py");
+            Environment.Exit(0);
+        }
+    }
+
 
 
 }

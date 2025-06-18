@@ -24,7 +24,6 @@ class Program
 
         // Environment.Exit(0);
 
-
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
         Color.PrintWithColoredPart(@"Do you want to open the ""all-timestamps.txt"" file? : ", "\"all-timestamps.txt\"", "Cyan");
 
@@ -51,8 +50,12 @@ class Program
         Color.DisplaySuccess("No capitalization errors found!");
 
         ErrorFinder.AllLocalArtistPicturesExist();
+        
         ErrorFinder.AllVueArtistPicturesExist();
-        ErrorFinder.AllArtistsInArtistsJson();
+
+        ErrorFinder.AllArtistsInArtistsJsonFile();
+
+        ErrorFinder.AllCountryPicturesExist();
 
         Color.DisplaySuccess("An image was found for every artist!");
 
