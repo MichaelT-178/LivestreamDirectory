@@ -349,6 +349,7 @@ class CreateNewJSON
                 YearFormed = meta.YearFormed,
                 Genre = meta.Genre,
                 Country = meta.Country,
+                CleanedCountry = TextCleaner.CleanText(meta.Country),
                 Emoji = meta.Emoji,
                 Songs = new List<ArtistSong>(),
                 Albums = new List<AlbumArtist>()
