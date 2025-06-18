@@ -420,10 +420,9 @@ class CreateNewJSON
         }
 
         string jsonString = File.ReadAllText(inputPath);
-        
         var artists = System.Text.Json.JsonSerializer.Deserialize<Dictionary<string, JsonObject>>(jsonString)!;
 
-        var countries = new Dictionary<string, List<JsonObject>>();
+        var countries = new Dictionary<string, JsonObject>();
 
         foreach (var entry in artists)
         {
@@ -434,15 +433,34 @@ class CreateNewJSON
 
             string cleanedCountry = countryNode.ToString().ToLower();
 
+            string countryName = artistData["Country"]?.ToString() ?? cleanedCountry;
+            string emoji = artistData["Emoji"]?.ToString() ?? "";
+
             artistData.Remove("CleanedCountry");
             artistData.Remove("Country");
+            artistData.Remove("Emoji");
 
             if (!countries.ContainsKey(cleanedCountry))
             {
-                countries[cleanedCountry] = new List<JsonObject>();
+                var countryObj = new JsonObject
+                {
+                    ["name"] = countryName,
+                    ["numOfArtists"] = 0,
+                    ["emoji"] = emoji,
+                    ["artists"] = new JsonArray()
+                };
+
+                countries[cleanedCountry] = countryObj;
             }
 
-            countries[cleanedCountry].Add(artistData);
+            ((JsonArray)countries[cleanedCountry]["artists"]!).Add(artistData);
+        }
+
+
+        foreach (var entry in countries)
+        {
+            var artistList = (JsonArray)entry.Value["artists"]!;
+            entry.Value["numOfArtists"] = artistList.Count;
         }
 
         var options = new JsonSerializerOptions { WriteIndented = true };
@@ -450,6 +468,5 @@ class CreateNewJSON
 
         JSONHelper.WriteJSONToVueData("countries.json", outputJson);
     }
-
-
+    
 }
