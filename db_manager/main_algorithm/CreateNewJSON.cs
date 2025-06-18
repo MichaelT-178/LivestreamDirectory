@@ -1,3 +1,5 @@
+using System.Text.Json;
+using System.Text.Json.Nodes;
 using Newtonsoft.Json;
 
 /**
@@ -14,6 +16,7 @@ using Newtonsoft.Json;
  * CreateArtistFile | Create the artists.json file in VueLivestreamDirectory.
  * AddArtistToMap | Adds a song and its associated album to the artist entry in the map.
  * GetLocalArtistData | Gets the JSON data from db_manager/json_files/artists.json
+ * CreateCountriesFile | Creates the countries.json file in VueLivestreamDirectory.
  *
  * @author Michael Totaro
  */
@@ -172,7 +175,7 @@ class CreateNewJSON
                 Other_Artists = string.IsNullOrWhiteSpace(song.Other_Artists)
                     ? new List<object>()
                     : song.Other_Artists.Split("+ ")
-                        .Select(artistName => (object) new
+                        .Select(artistName => (object)new
                         {
                             artist = artistName.Trim(),
                             cleanedArtist = TextCleaner.CleanText(artistName),
@@ -183,7 +186,7 @@ class CreateNewJSON
                     : song.Instruments.Split(", ")
                         .Select(instr => instr.Trim())
                         .Where(instr => !string.IsNullOrEmpty(instr))
-                        .Select(instr => (object) new
+                        .Select(instr => (object)new
                         {
                             name = instr,
                             cleanedName = CreateNewInstrument.CleanInstrument(instr)
@@ -349,7 +352,7 @@ class CreateNewJSON
                 YearFormed = meta.YearFormed,
                 Genre = meta.Genre,
                 Country = meta.Country,
-                CleanedCountry = TextCleaner.CleanText(meta.Country),
+                CleanedCountry = meta.CleanedCountry,
                 Emoji = meta.Emoji,
                 Songs = new List<ArtistSong>(),
                 Albums = new List<AlbumArtist>()
@@ -401,6 +404,51 @@ class CreateNewJSON
 
         return JsonConvert.DeserializeObject<Dictionary<string, LocalArtist>>(json)
             ?? throw new ArgumentException("Could not load local artist metadata.");
+    }
+
+    /**
+     * Creates the countries.json file in VueLivestreamDirectory.
+     */
+    public static void CreateCountriesFile()
+    {
+        string inputPath = "./db_manager/json_files/artists.json";
+
+        if (!File.Exists(inputPath))
+        {
+            Console.WriteLine("artists.json not found.");
+            return;
+        }
+
+        string jsonString = File.ReadAllText(inputPath);
+        
+        var artists = System.Text.Json.JsonSerializer.Deserialize<Dictionary<string, JsonObject>>(jsonString)!;
+
+        var countries = new Dictionary<string, List<JsonObject>>();
+
+        foreach (var entry in artists)
+        {
+            JsonObject artistData = entry.Value;
+
+            JsonNode countryNode = artistData["CleanedCountry"]
+                                   ?? throw new Exception($"Artist is missing 'CleanedCountry': {artistData}");
+
+            string cleanedCountry = countryNode.ToString().ToLower();
+
+            artistData.Remove("CleanedCountry");
+            artistData.Remove("Country");
+
+            if (!countries.ContainsKey(cleanedCountry))
+            {
+                countries[cleanedCountry] = new List<JsonObject>();
+            }
+
+            countries[cleanedCountry].Add(artistData);
+        }
+
+        var options = new JsonSerializerOptions { WriteIndented = true };
+        string outputJson = System.Text.Json.JsonSerializer.Serialize(countries, options);
+
+        JSONHelper.WriteJSONToVueData("countries.json", outputJson);
     }
 
 

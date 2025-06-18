@@ -105,6 +105,8 @@ class Program
 
         CreateNewJSON.CreateArtistFile();
 
+        CreateNewJSON.CreateCountriesFile();
+
         CreateNewJSON.CreateSongsFile();
 
         CreateNewJSON.CreateSearchData();
