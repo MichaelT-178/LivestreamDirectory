@@ -434,6 +434,7 @@ class CreateNewJSON
             string cleanedCountry = countryNode.ToString().ToLower();
 
             string countryName = artistData["Country"]?.ToString() ?? cleanedCountry;
+            string cleanedCountryName = artistData["CleanedCountry"]?.ToString() ?? cleanedCountry;
             string emoji = artistData["Emoji"]?.ToString() ?? "";
 
             artistData.Remove("CleanedCountry");
@@ -445,6 +446,7 @@ class CreateNewJSON
                 var countryObj = new JsonObject
                 {
                     ["name"] = countryName,
+                    ["cleanedName"] = cleanedCountryName,
                     ["numOfArtists"] = 0,
                     ["emoji"] = emoji,
                     ["artists"] = new JsonArray()
