@@ -6,7 +6,7 @@
       "nameNoKey": "Acoustic Guitar",
       "cleaned": "acoustic-guitar",
       "alias": "Acoustic Guitar",
-      "key": null,
+      "key": "main",
       "type": "Acoustic",
       "appears": 5112
     },
