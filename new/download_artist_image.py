@@ -1,5 +1,6 @@
 import os
 import subprocess
+import webbrowser
 from spotify_images import SpotifyApi
 from clean_text import clean_text
 from push_to_vue import push_to_vue
@@ -57,4 +58,6 @@ else:
 
 
 push_to_vue()
+
+webbrowser.open("https://music.apple.com/us/new")
 
