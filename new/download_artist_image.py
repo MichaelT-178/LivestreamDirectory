@@ -37,6 +37,7 @@ if not os.path.isfile(file_path):
         "YearFormed": 0,
         "Genre": "",
         "Country": "",
+        "CleanedCountry": "",
         "Emoji": ""
     }}'''
 

@@ -3498,5 +3498,15 @@
         "Country": "Cyprus",
         "CleanedCountry": "cyprus",
         "Emoji": "🇨🇾"
+    },
+    "gary-clark-jr": {
+        "Artist": "Gary Clark Jr.",
+        "CleanedArtist": "gary-clark-jr",
+        "Location": "Austin, Texas",
+        "YearFormed": 1984,
+        "Genre": "Rock",
+        "Country": "United States",
+        "CleanedCountry": "united-states",
+        "Emoji": "🇺🇸"
     }
 }
