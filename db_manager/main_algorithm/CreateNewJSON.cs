@@ -390,6 +390,15 @@ class CreateNewJSON
                 });
 
                 entry.Albums = entry.Albums.OrderBy(a => a.Year).ToList();
+
+                // var albumYearMap = entry.Albums.ToDictionary(a => a.CleanedTitle, a => a.Year);
+
+                // entry.Songs = entry.Songs
+                //     .OrderBy(song =>
+                //         albumYearMap.TryGetValue(song.CleanedAlbum ?? "", out var year) ? year : int.MaxValue
+                //     )
+                //     .ThenBy(song => song.Title)
+                //     .ToList();
             }
         }
     }
