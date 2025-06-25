@@ -132,6 +132,7 @@ class SearchHelper
         if (artists.Contains("Guns N' Roses")) { AppendNew("Slash", search); return; }
         
         if (title.Contains("Starbird")) { AppendNew("Star bird", search); return; }
+        if (title.Contains("River Man")) { AppendNew("riverman", search); return; }
         if (title.Contains("Hymne")) { AppendNew("Ode to Love", search); }
         if (title.Contains("Hymne")) { AppendNew("French", search); return; }
         if (artists.Contains("Allman")) { AppendNew("The Allman Brothers", search); return; }

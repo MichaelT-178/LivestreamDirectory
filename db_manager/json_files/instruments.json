@@ -8,7 +8,7 @@
       "alias": "Acoustic Guitar",
       "key": "main",
       "type": "Acoustic",
-      "appears": 5112
+      "appears": 5111
     },
     {
       "id": 2,
@@ -38,7 +38,7 @@
       "alias": null,
       "key": "DX1R",
       "type": "Acoustic",
-      "appears": 57
+      "appears": 58
     },
     {
       "id": 5,
