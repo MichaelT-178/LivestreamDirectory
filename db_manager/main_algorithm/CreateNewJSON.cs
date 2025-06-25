@@ -388,6 +388,8 @@ class CreateNewJSON
                     CleanedTitle = cleanedAlbum,
                     Year = albumData?.Year ?? 0
                 });
+
+                entry.Albums = entry.Albums.OrderBy(a => a.Year).ToList();
             }
         }
     }
