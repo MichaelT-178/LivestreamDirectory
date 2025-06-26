@@ -1,4 +1,4 @@
-# Livestream Directory
+# Original Livestream Directory
 ## [Link to Website](https://www.coreyheuvelsearch.com/)
 This is a search tool I made for the Youtuber "Corey Heuvel" back in Summer 2022. Allows users to easily navigate thousands of livestream music performances. This website is currently being hosted on GitHub pages.
 

@@ -6,8 +6,10 @@
 }
 
 #new-website-link {
-    /* margin-bottom: -125px; */
-    /* margin-left: -0.3px; */
+    position: fixed;
+    bottom: 70px;
+    margin-left: -0.8px;
+    transform: translateX(-50%);
 }
 
 #link {
