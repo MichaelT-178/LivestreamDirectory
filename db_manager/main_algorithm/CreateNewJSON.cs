@@ -434,6 +434,7 @@ class CreateNewJSON
         var artists = System.Text.Json.JsonSerializer.Deserialize<Dictionary<string, JsonObject>>(jsonString)!;
 
         var countries = new Dictionary<string, JsonObject>();
+        var allCountriesList = new List<JsonObject>();
 
         foreach (var entry in artists)
         {
@@ -443,7 +444,6 @@ class CreateNewJSON
                                    ?? throw new Exception($"Artist is missing 'CleanedCountry': {artistData}");
 
             string cleanedCountry = countryNode.ToString().ToLower();
-
             string countryName = artistData["Country"]?.ToString() ?? cleanedCountry;
             string cleanedCountryName = artistData["CleanedCountry"]?.ToString() ?? cleanedCountry;
             string emoji = artistData["Emoji"]?.ToString() ?? "";
@@ -464,11 +464,20 @@ class CreateNewJSON
                 };
 
                 countries[cleanedCountry] = countryObj;
+
+                // Add to AllCountries list
+                var allCountryEntry = new JsonObject
+                {
+                    ["country"] = countryName,
+                    ["cleanedCountry"] = cleanedCountryName,
+                    ["emoji"] = emoji
+                };
+
+                allCountriesList.Add(allCountryEntry);
             }
 
             ((JsonArray)countries[cleanedCountry]["artists"]!).Add(artistData);
         }
-
 
         foreach (var entry in countries)
         {
@@ -476,8 +485,19 @@ class CreateNewJSON
             entry.Value["numOfArtists"] = artistList.Count;
         }
 
+        var finalOutput = new JsonObject();
+
+        foreach (var entry in countries)
+        {
+            finalOutput[entry.Key] = entry.Value;
+        }
+
+        finalOutput["AllCountries"] = System.Text.Json.JsonSerializer.Deserialize<JsonArray>(
+            System.Text.Json.JsonSerializer.Serialize(allCountriesList)
+        );
+
         var options = new JsonSerializerOptions { WriteIndented = true };
-        string outputJson = System.Text.Json.JsonSerializer.Serialize(countries, options);
+        string outputJson = System.Text.Json.JsonSerializer.Serialize(finalOutput, options);
 
         JSONHelper.WriteJSONToVueData("countries.json", outputJson);
     }
