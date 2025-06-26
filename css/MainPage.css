@@ -5,6 +5,11 @@
     transform: translateX(-50%);
 }
 
+#new-website-link {
+    /* margin-bottom: -125px; */
+    /* margin-left: -0.3px; */
+}
+
 #link {
     margin-bottom: 25px;
     margin-left: -0.3px;
