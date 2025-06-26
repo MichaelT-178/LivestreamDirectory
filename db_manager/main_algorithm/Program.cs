@@ -59,6 +59,8 @@ class Program
 
         Color.DisplaySuccess("An image was found for every artist!");
 
+        ErrorFinder.AllArtistsHaveValidAttributes();
+
         // Small check I'm not going to display a message.
         ErrorFinder.CheckDuplicateTitlesWithDifferentArtists();
 

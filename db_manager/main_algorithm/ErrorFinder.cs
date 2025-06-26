@@ -15,6 +15,7 @@ using Newtonsoft.Json;
  * AllAlbumPicturesExist | Ensures every album pic exists in VueLivestreamDirectory
  * AllArtistsInArtistsJsonFile | Ensures every artist has an object in db_manager/json_files/artists.json
  * AllCountryPicturesExist | Ensures every country has an associated picture in VueLivestreamDirectory
+ * AllArtistsHaveValidAttributes | Ensures all attributes in artists.json are NOT blank strings or 0
  * 
  * @author Michael Totaro
  */
@@ -668,6 +669,66 @@ class ErrorFinder
         }
     }
 
+    /**
+     * Ensures all attributes in artists.json are NOT blank strings or 0
+     */
+    public static void AllArtistsHaveValidAttributes()
+    {
+        string artistsPath = "./db_manager/json_files/artists.json";
 
+        if (!File.Exists(artistsPath))
+        {
+            Color.DisplayError("artists.json file not found.");
+            Environment.Exit(0);
+        }
+
+        var rawJson = File.ReadAllText(artistsPath);
+        var artistsJson = JsonConvert.DeserializeObject<Dictionary<string, Dictionary<string, object>>>(rawJson)!;
+
+        var invalidArtists = new List<string>();
+
+        foreach (var (key, artist) in artistsJson)
+        {
+            bool hasInvalidField = false;
+
+            string[] requiredFields = [
+                "Artist", "CleanedArtist", "Location", "Genre",
+                "Country", "CleanedCountry", "Emoji"
+            ];
+
+            foreach (var field in requiredFields)
+            {
+                if (!artist.TryGetValue(field, out var value) || string.IsNullOrWhiteSpace(value?.ToString()))
+                {
+                    hasInvalidField = true;
+                    break;
+                }
+            }
+
+            if (!artist.TryGetValue("YearFormed", out var yearValue) ||
+                !int.TryParse(yearValue?.ToString(), out int yearFormed) || yearFormed == 0)
+            {
+                hasInvalidField = true;
+            }
+
+            if (hasInvalidField)
+            {
+                invalidArtists.Add(key);
+            }
+        }
+
+        if (invalidArtists.Count > 0)
+        {
+            Color.DisplayError("The following artists have missing or invalid attributes in artists.json:");
+
+            foreach (var artist in invalidArtists)
+            {
+                Console.WriteLine($" - {artist}");
+            }
+
+            Console.WriteLine("\nFix these entries and rerun.\n");
+            Environment.Exit(0);
+        }
+    }
 
 }
