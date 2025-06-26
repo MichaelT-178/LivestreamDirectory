@@ -4412,6 +4412,21 @@
     },
     {
       "Id": 295,
+      "Title": "Angel",
+      "CleanedTitle": "angel",
+      "Artist": "Sarah McLachlan",
+      "CleanedArtist": "sarah-mclachlan",
+      "Album": "Surfacing",
+      "CleanedAlbum": "surfacing",
+      "Other_Artists": "",
+      "Instruments": "Acoustic Guitar, (main) - Stonebridge (Furch) OM32SM",
+      "Year": 1997,
+      "Search": "",
+      "Appearances": "Solo Video",
+      "Links": "https://youtu.be/cH2h0sfPtFM?si=TzyPyKeYIwoYiQMV&t=0"
+    },
+    {
+      "Id": 296,
       "Title": "Going to California",
       "CleanedTitle": "going-to-california",
       "Artist": "Led Zeppelin",
@@ -4426,7 +4441,7 @@
       "Links": "https://youtu.be/RipA8bRdIbI&t=1703 , https://youtu.be/5yvoFRB-OAE&t=5444 , https://youtu.be/T6ydeqXOIvk&t=6243 , https://youtu.be/biTNdO9Z6Y8&t=5789 , https://youtu.be/WGGj7qyf4pA&t=1718 , https://youtu.be/CxcBGVkfVMc&t=4176 , https://youtu.be/qfsm5R2EeOU&t=8476 , https://youtu.be/4MsSeM9AR60&t=10115 , https://youtu.be/U1AhJr6L5SU&t=8254 , https://youtu.be/S0H-UbV9G48&t=7125 , https://youtu.be/HTJSoHhm7aY&t=5139 , https://youtu.be/0W8Q-hGHd80&t=8250 , https://youtu.be/PvNuNSk9iPM&t=4921 , https://youtu.be/dWIijDnVkho&t=9994 , https://youtu.be/8jK6wYjrnw4&t=2117 , https://youtu.be/c1H63fb1AJs?feature=share&t=5619 , https://youtu.be/watch?v=H_j-P2w0QaA&t=4091 , https://youtu.be/watch?v=twwoDRDMthg&t=5559"
     },
     {
-      "Id": 296,
+      "Id": 297,
       "Title": "Ball Peen Hammer",
       "CleanedTitle": "ball-peen-hammer",
       "Artist": "Chris Whitley",
@@ -4441,7 +4456,7 @@
       "Links": "https://youtu.be/RipA8bRdIbI&t=4051"
     },
     {
-      "Id": 297,
+      "Id": 298,
       "Title": "Somebody To Love",
       "CleanedTitle": "somebody-to-love",
       "Artist": "Queen",
@@ -4456,7 +4471,7 @@
       "Links": "https://youtu.be/RipA8bRdIbI&t=4386 , https://youtu.be/CxcBGVkfVMc&t=7113"
     },
     {
-      "Id": 298,
+      "Id": 299,
       "Title": "Iris",
       "CleanedTitle": "iris",
       "Artist": "The Goo Goo Dolls",
@@ -4471,7 +4486,7 @@
       "Links": "https://youtu.be/RipA8bRdIbI&t=5169 , https://youtu.be/rHhhcP4jGD8&t=2892"
     },
     {
-      "Id": 299,
+      "Id": 300,
       "Title": "This Flight Tonight",
       "CleanedTitle": "this-flight-tonight",
       "Artist": "Joni Mitchell",
@@ -4486,7 +4501,7 @@
       "Links": "https://youtu.be/RipA8bRdIbI&t=5852"
     },
     {
-      "Id": 300,
+      "Id": 301,
       "Title": "Ramble On",
       "CleanedTitle": "ramble-on",
       "Artist": "Led Zeppelin",
@@ -4501,7 +4516,7 @@
       "Links": "https://youtu.be/RipA8bRdIbI&t=7941 , https://youtu.be/mH3c9W8vKbc&t=2139 , https://youtu.be/bszf3Megxhc&t=5640 , https://youtu.be/AraZ934iGwQ&t=4448 , https://youtu.be/bVTlDNPzTn4&t=963 , https://youtu.be/VEh4FA59OGA&t=8249 , https://youtu.be/hs3UcA7DP4U&t=4357 , https://youtu.be/bCz3cavBkog&t=2845 , https://youtu.be/sfTsmIo6Ybo&t=1825 , https://youtu.be/0vseNNLzOWY&t=4678 , https://youtu.be/DqQEPSThDlg&t=4602 , https://youtu.be/EX4bD4sLh3Y&t=2985 , https://youtu.be/gVy2vkeHV_I&t=2561 , https://youtu.be/0W8Q-hGHd80&t=3450 , https://youtu.be/YAxlXf4Ftt0&t=4534 , https://youtu.be/EAYQjuMqF1U&t=4106 , https://youtu.be/pvM5qp6ZCS4&t=7511 , https://youtu.be/9sCm4eY4VKg&t=7372 , https://youtu.be/wSBFKylNQjU&t=1655 , https://youtu.be/IJmsYXQl5dA&t=6577 , https://youtu.be/ARCgeQF6tRg&t=9080 , https://youtu.be/jomOdvKXNa4?feature=share&t=2742 , https://youtu.be/jyGZgv6rFqo?feature=share&t=1657 , https://youtu.be/watch?v=nCRWhvGFWUE&t=3696 , https://youtu.be/watch?v=lfNvWAOnwQw&t=10030 , https://youtu.be/watch?v=uQLC-GCPpV0&t=4098 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=1634 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=5318 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=9773 , https://youtu.be/watch?v=JR6OhpR0pU0&t=6175 , https://youtu.be/watch?v=0nRONZ-KEQk&t=10559"
     },
     {
-      "Id": 301,
+      "Id": 302,
       "Title": "Little Black Submarines",
       "CleanedTitle": "little-black-submarines",
       "Artist": "The Black Keys",
@@ -4516,7 +4531,7 @@
       "Links": "https://youtu.be/3S74O7KIY5k&t=1755 , https://youtu.be/9zUVfKZrSGs&t=4174 , https://youtu.be/T6ydeqXOIvk&t=5895 , https://youtu.be/4MsSeM9AR60&t=5181 , https://youtu.be/Lpcd7ALm6r4&t=7437"
     },
     {
-      "Id": 302,
+      "Id": 303,
       "Title": "Come On In My Kitchen",
       "CleanedTitle": "come-on-in-my-kitchen",
       "Artist": "Robert Johnson",
@@ -4531,7 +4546,7 @@
       "Links": "https://youtu.be/3S74O7KIY5k&t=2057 , https://youtu.be/5yvoFRB-OAE&t=3405 , https://youtu.be/RCraRcpxmDo&t=7579 , https://youtu.be/vRD0K6kl3Qs&t=3816 , https://youtu.be/watch?v=oGvWPFlm1fM&t=2900 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=2596"
     },
     {
-      "Id": 303,
+      "Id": 304,
       "Title": "Sultans of Swing",
       "CleanedTitle": "sultans-of-swing",
       "Artist": "Dire Straits",
@@ -4546,7 +4561,7 @@
       "Links": "https://youtu.be/3S74O7KIY5k&t=4835 , https://youtu.be/9zUVfKZrSGs&t=7648 , https://youtu.be/biTNdO9Z6Y8&t=9317 , https://youtu.be/sfTsmIo6Ybo&t=6625 , https://youtu.be/h_KbDQybQmE&t=3937 , https://youtu.be/watch?v=gzOWoVXQdgU&t=4156 , https://youtu.be/watch?v=lfNvWAOnwQw&t=7259 , https://youtu.be/watch?v=H_j-P2w0QaA&t=7330"
     },
     {
-      "Id": 304,
+      "Id": 305,
       "Title": "Elusive",
       "CleanedTitle": "elusive",
       "Artist": "Scott Matthews",
@@ -4561,7 +4576,7 @@
       "Links": "https://youtu.be/3S74O7KIY5k&t=6159 , https://youtu.be/Oc4W2nrPzJU&t=3440"
     },
     {
-      "Id": 305,
+      "Id": 306,
       "Title": "The Last Time",
       "CleanedTitle": "the-last-time",
       "Artist": "The Rolling Stones",
@@ -4576,7 +4591,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=128 , https://youtu.be/_7xQAOqGbk4&t=4889"
     },
     {
-      "Id": 306,
+      "Id": 307,
       "Title": "Valerie",
       "CleanedTitle": "valerie",
       "Artist": "Amy Winehouse",
@@ -4591,7 +4606,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=584 , https://youtu.be/jDGy1_nMmbk&t=6077 , https://youtu.be/gu7ChqD4Qm4&t=9139 , https://youtu.be/__nszU6iOlM&t=9069 , https://youtu.be/q0SOrSxKE90&t=3030 , https://youtu.be/vqOBj04MFrw&t=4046 , https://youtu.be/HTJSoHhm7aY&t=6090 , https://youtu.be/h3nHBsoSZYA&t=1601 , https://youtu.be/s6H9GdbDwbQ&t=4083 , https://youtu.be/HJpwaG3PP3E&t=8030 , https://youtu.be/Qh8m_ldN2zw&t=1479 , https://youtu.be/wSBFKylNQjU&t=9259 , https://youtu.be/_KscIFUrM14&t=4686 , https://youtu.be/jomOdvKXNa4?feature=share&t=3513 , https://youtu.be/Mm_r2XHf7kw?feature=share&t=9192 , https://youtu.be/watch?v=lq5YJLgEDWI&t=10174"
     },
     {
-      "Id": 307,
+      "Id": 308,
       "Title": "1979",
       "CleanedTitle": "1979",
       "Artist": "The Smashing Pumpkins",
@@ -4606,7 +4621,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=1964 , https://youtu.be/T_2aqBkmeUc&t=4733 , https://youtu.be/ebv-JlkIPUY&t=8305 , https://youtu.be/dWIijDnVkho&t=6638 , https://youtu.be/CqHIgye4I8s?feature=share&t=4973 , https://youtu.be/Mm_r2XHf7kw?feature=share&t=4704 , https://youtu.be/watch?v=x3skjeOvXxo&t=564 , https://youtu.be/watch?v=B5AJb0_vLS4&t=1418"
     },
     {
-      "Id": 308,
+      "Id": 309,
       "Title": "May You Never",
       "CleanedTitle": "may-you-never",
       "Artist": "John Martyn",
@@ -4621,7 +4636,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=2493 , https://youtu.be/jDGy1_nMmbk&t=7657 , https://youtu.be/RLZoln3RATs&t=1524 , https://youtu.be/MhNKFJxwK8g&t=8299 , https://youtu.be/hs3UcA7DP4U&t=5014 , https://youtu.be/x6f3H65JhEg&t=9410 , https://youtu.be/jdD05keNX5w&t=8762 , https://youtu.be/U1AhJr6L5SU&t=4932 , https://youtu.be/Lpcd7ALm6r4&t=4470 , https://youtu.be/watch?v=oGvWPFlm1fM&t=8072"
     },
     {
-      "Id": 309,
+      "Id": 310,
       "Title": "The Needle and the Damage Done",
       "CleanedTitle": "the-needle-and-the-damage-done",
       "Artist": "Neil Young",
@@ -4636,7 +4651,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=2846 , https://youtu.be/bszf3Megxhc&t=6568 , https://youtu.be/KLIWP_nbaXs&t=10064 , https://youtu.be/sfTsmIo6Ybo&t=3605 , https://youtu.be/exm9X0zIDaA&t=5336 , https://youtu.be/skPtRNli5KY&t=3801 , https://youtu.be/wSBFKylNQjU&t=8848 , https://youtu.be/watch?v=01eDLSmTMtQ&t=6692"
     },
     {
-      "Id": 310,
+      "Id": 311,
       "Title": "Long Train Running (Partial)",
       "CleanedTitle": "long-train-running-partial",
       "Artist": "The Doobie Brothers",
@@ -4651,7 +4666,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=3374"
     },
     {
-      "Id": 311,
+      "Id": 312,
       "Title": "Stones In My Passway",
       "CleanedTitle": "stones-in-my-passway",
       "Artist": "Robert Johnson",
@@ -4666,7 +4681,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=3535 , https://youtu.be/mH3c9W8vKbc&t=8337 , https://youtu.be/RLZoln3RATs&t=2705 , https://youtu.be/LuQ78Y2Fiwo&t=1905 , https://youtu.be/Xp03EMAOTCg&t=7010 , https://youtu.be/x048oootisY&t=2518 , https://youtu.be/pVDmEFQX16c&t=1645 , https://youtu.be/PvNuNSk9iPM&t=6931 , https://youtu.be/9RNVOwRTSwc&t=4006 , https://youtu.be/1HkYscBWtp8?feature=share&t=1102 , https://youtu.be/watch?v=twwoDRDMthg&t=2344"
     },
     {
-      "Id": 312,
+      "Id": 313,
       "Title": "Touch of Grey",
       "CleanedTitle": "touch-of-grey",
       "Artist": "Grateful Dead",
@@ -4681,7 +4696,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=4277 , https://youtu.be/x048oootisY&t=6923 , https://youtu.be/KoChozPGk7c&t=6691 , https://youtu.be/watch?v=JR6OhpR0pU0&t=6995"
     },
     {
-      "Id": 313,
+      "Id": 314,
       "Title": "Fake Plastic Trees",
       "CleanedTitle": "fake-plastic-trees",
       "Artist": "Radiohead",
@@ -4696,7 +4711,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=6004 , https://youtu.be/uLKs6770MzM&t=7752 , https://youtu.be/HTJSoHhm7aY&t=7937 , https://youtu.be/5Y_XA4lXk_8&t=6373 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=8894"
     },
     {
-      "Id": 314,
+      "Id": 315,
       "Title": "Somebody That I Used To Know",
       "CleanedTitle": "somebody-that-i-used-to-know",
       "Artist": "Goyte",
@@ -4711,7 +4726,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=6723"
     },
     {
-      "Id": 315,
+      "Id": 316,
       "Title": "Beast Of Burden",
       "CleanedTitle": "beast-of-burden",
       "Artist": "The Rolling Stones",
@@ -4726,7 +4741,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=7533 , https://youtu.be/v56fDp25FcM?feature=share&t=7350 , https://youtu.be/watch?v=9rSlmMNfOkY&t=7034"
     },
     {
-      "Id": 316,
+      "Id": 317,
       "Title": "Fall to Pieces",
       "CleanedTitle": "fall-to-pieces",
       "Artist": "Velvet Revolver",
@@ -4741,7 +4756,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=7877 , https://youtu.be/AraZ934iGwQ&t=1504 , https://youtu.be/Qih3Nx18Yas&t=8607 , https://youtu.be/DqQEPSThDlg&t=2044 , https://youtu.be/2vn_PYw-W6o&t=7740 , https://youtu.be/ShAGixH0AfU&t=4400 , https://youtu.be/watch?v=twwoDRDMthg&t=1587"
     },
     {
-      "Id": 317,
+      "Id": 318,
       "Title": "You Got It",
       "CleanedTitle": "you-got-it",
       "Artist": "Roy Orbison",
@@ -4756,7 +4771,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=8284 , https://youtu.be/5yvoFRB-OAE&t=5115 , https://youtu.be/Xp03EMAOTCg&t=3927 , https://youtu.be/vqOBj04MFrw&t=6185 , https://youtu.be/lfZRI_tmFH8&t=3029 , https://youtu.be/CqHIgye4I8s?feature=share&t=8571 , https://youtu.be/watch?v=x3skjeOvXxo&t=8938"
     },
     {
-      "Id": 318,
+      "Id": 319,
       "Title": "Walkin' On The Sun",
       "CleanedTitle": "walkin-on-the-sun",
       "Artist": "Smash Mouth",
@@ -4771,7 +4786,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=10092 , https://youtu.be/5yvoFRB-OAE&t=4108 , https://youtu.be/KLIWP_nbaXs&t=9822 , https://youtu.be/uLKs6770MzM&t=6656 , https://youtu.be/exm9X0zIDaA&t=2101 , https://youtu.be/skPtRNli5KY&t=7820 , https://youtu.be/watch?v=9gkOvE2nTlM&t=5379 , https://youtu.be/watch?v=F7kc9DzOJgk&t=9140 , https://youtu.be/watch?v=9rSlmMNfOkY&t=8685"
     },
     {
-      "Id": 319,
+      "Id": 320,
       "Title": "The Past Recedes",
       "CleanedTitle": "the-past-recedes",
       "Artist": "John Frusciante",
@@ -4786,7 +4801,7 @@
       "Links": "https://youtu.be/RfYn2ozzN_c&t=10404 , https://youtu.be/61pND0vO3z8&t=2900 , https://youtu.be/T6ydeqXOIvk&t=2604 , https://youtu.be/biTNdO9Z6Y8&t=3310 , https://youtu.be/x048oootisY&t=5173 , https://youtu.be/yiFNZvisSQw&t=8655 , https://youtu.be/PvNuNSk9iPM&t=8851"
     },
     {
-      "Id": 320,
+      "Id": 321,
       "Title": "Be My Husband",
       "CleanedTitle": "be-my-husband",
       "Artist": "Nina Simone",
@@ -4801,7 +4816,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=195 , https://youtu.be/bszf3Megxhc&t=195"
     },
     {
-      "Id": 321,
+      "Id": 322,
       "Title": "Be Your Husband",
       "CleanedTitle": "be-your-husband",
       "Artist": "Jeff Buckley",
@@ -4816,7 +4831,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=195 , https://youtu.be/bszf3Megxhc&t=177"
     },
     {
-      "Id": 322,
+      "Id": 323,
       "Title": "Mandolin improv",
       "CleanedTitle": "mandolin-improv",
       "Artist": "Corey Heuvel",
@@ -4831,7 +4846,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=1618"
     },
     {
-      "Id": 323,
+      "Id": 324,
       "Title": "That Song",
       "CleanedTitle": "that-song",
       "Artist": "Big Wreck",
@@ -4846,7 +4861,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=2189 , https://youtu.be/bszf3Megxhc&t=4955 , https://youtu.be/ROzDnzn7Vwo&t=6204 , https://youtu.be/gu7ChqD4Qm4&t=5632 , https://youtu.be/9-UHTEmE9UU&t=4677 , https://youtu.be/T_2aqBkmeUc&t=2466 , https://youtu.be/JpKnYI_-2OA&t=5331 , https://youtu.be/GDMlH7bT0FA&t=2044 , https://youtu.be/bEBVkT9SWFY&t=5623 , https://youtu.be/IJmsYXQl5dA&t=7765 , https://youtu.be/watch?v=9rSlmMNfOkY&t=5198"
     },
     {
-      "Id": 324,
+      "Id": 325,
       "Title": "Sitting, Waiting, Wishing",
       "CleanedTitle": "sitting-waiting-wishing",
       "Artist": "Jack Johnson",
@@ -4861,7 +4876,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=2689 , https://youtu.be/mwrkFoGJsqU&t=6304 , https://youtu.be/Mm_r2XHf7kw?feature=share&t=2263 , https://youtu.be/watch?v=F7kc9DzOJgk&t=4001"
     },
     {
-      "Id": 325,
+      "Id": 326,
       "Title": "Glass",
       "CleanedTitle": "glass",
       "Artist": "Incubus",
@@ -4876,7 +4891,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=3040 , https://youtu.be/ROzDnzn7Vwo&t=9131 , https://youtu.be/VEh4FA59OGA&t=3913 , https://youtu.be/4MsSeM9AR60&t=8800 , https://youtu.be/yT-ZTr6ntP4&t=6916 , https://youtu.be/watch?v=gzOWoVXQdgU&t=4759"
     },
     {
-      "Id": 326,
+      "Id": 327,
       "Title": "Fool in the Rain",
       "CleanedTitle": "fool-in-the-rain",
       "Artist": "Led Zeppelin",
@@ -4891,7 +4906,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=3337 , https://youtu.be/biTNdO9Z6Y8&t=2926 , https://youtu.be/9mwYBbDX0dY&t=7819 , https://youtu.be/__nszU6iOlM&t=3672 , https://youtu.be/y83VDXWJbQE&t=5525 , https://youtu.be/h3nHBsoSZYA&t=9448 , https://youtu.be/vRD0K6kl3Qs&t=7291 , https://youtu.be/GpaZbjokFec?feature=share&t=8725 , https://youtu.be/watch?v=x3skjeOvXxo&t=1943 , https://youtu.be/watch?v=lq5YJLgEDWI&t=6040 , https://youtu.be/watch?v=twwoDRDMthg&t=1926"
     },
     {
-      "Id": 327,
+      "Id": 328,
       "Title": "Sweet Dreams (Are Made of This)",
       "CleanedTitle": "sweet-dreams-are-made-of-this",
       "Artist": "Eurythmics",
@@ -4906,7 +4921,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=4443 , https://youtu.be/UvL7GFjtrj0&t=5818 , https://youtu.be/Qih3Nx18Yas&t=9683 , https://youtu.be/q0SOrSxKE90&t=6545 , https://youtu.be/U1AhJr6L5SU&t=6807 , https://youtu.be/3iWYcnMuVzc&t=1239 , https://youtu.be/Bs2mSVV4b38&t=9625 , https://youtu.be/Yr3DnVxJbnA&t=5557 , https://youtu.be/ebv-JlkIPUY&t=6190 , https://youtu.be/Qh8m_ldN2zw&t=6505 , https://youtu.be/9RNVOwRTSwc&t=7358 , https://youtu.be/QLLYLiTUyDY?feature=share&t=3971 , https://youtu.be/watch?v=nCRWhvGFWUE&t=1080"
     },
     {
-      "Id": 328,
+      "Id": 329,
       "Title": "Carolina in my Mind",
       "CleanedTitle": "carolina-in-my-mind",
       "Artist": "James Taylor",
@@ -4921,7 +4936,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=4618 , https://youtu.be/bszf3Megxhc&t=7737 , https://youtu.be/watch?v=oGvWPFlm1fM&t=4488"
     },
     {
-      "Id": 329,
+      "Id": 330,
       "Title": "Nights In White Satin",
       "CleanedTitle": "nights-in-white-satin",
       "Artist": "The Moody Blues",
@@ -4936,7 +4951,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=6317 , https://youtu.be/L1VngMqyXo4&t=4546 , https://youtu.be/gu7ChqD4Qm4&t=3255 , https://youtu.be/YAxlXf4Ftt0&t=3591 , https://youtu.be/CqHIgye4I8s?feature=share&t=7913 , https://youtu.be/watch?v=B5AJb0_vLS4&t=8601 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=6758"
     },
     {
-      "Id": 330,
+      "Id": 331,
       "Title": "Wondering Where The Lions Are",
       "CleanedTitle": "wondering-where-the-lions-are",
       "Artist": "Bruce Cockburn",
@@ -4951,7 +4966,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=6760 , https://youtu.be/RLZoln3RATs&t=3113 , https://youtu.be/2YwudKYPIeE&t=1423 , https://youtu.be/x048oootisY&t=7884 , https://youtu.be/yT-ZTr6ntP4&t=1262 , https://youtu.be/MmxzKv8Mw2E&t=1759 , https://youtu.be/QLLYLiTUyDY?feature=share&t=4837 , https://youtu.be/watch?v=oGvWPFlm1fM&t=5455 , https://youtu.be/watch?v=H_j-P2w0QaA&t=8358"
     },
     {
-      "Id": 331,
+      "Id": 332,
       "Title": "House Of The Rising Sun",
       "CleanedTitle": "house-of-the-rising-sun",
       "Artist": "The Animals",
@@ -4966,7 +4981,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=7489 , https://youtu.be/iB2cbbPaJU0&t=2975 , https://youtu.be/watch?v=01eDLSmTMtQ&t=8875"
     },
     {
-      "Id": 332,
+      "Id": 333,
       "Title": "In The Street (That 70's Show Theme) (Partial)",
       "CleanedTitle": "in-the-street-that-70s-show-theme-partial",
       "Artist": "Big Star",
@@ -4981,7 +4996,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=9017 , https://youtu.be/gu7ChqD4Qm4&t=2090"
     },
     {
-      "Id": 333,
+      "Id": 334,
       "Title": "Thirteen",
       "CleanedTitle": "thirteen",
       "Artist": "Big Star",
@@ -4996,7 +5011,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=9037 , https://youtu.be/gu7ChqD4Qm4&t=1848 , https://youtu.be/ZQkl5zQvwvI&t=4819 , https://youtu.be/v56fDp25FcM?feature=share&t=5248 , https://youtu.be/watch?v=9gkOvE2nTlM&t=9014"
     },
     {
-      "Id": 334,
+      "Id": 335,
       "Title": "Babylon",
       "CleanedTitle": "babylon",
       "Artist": "David Gray",
@@ -5011,7 +5026,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=9663 , https://youtu.be/Q4p-jIfkQpM&t=5534"
     },
     {
-      "Id": 335,
+      "Id": 336,
       "Title": "She Talks To Angels",
       "CleanedTitle": "she-talks-to-angels",
       "Artist": "The Black Crowes",
@@ -5026,7 +5041,7 @@
       "Links": "https://youtu.be/8yEnflFWoIU&t=10145 , https://youtu.be/2YwudKYPIeE&t=3683 , https://youtu.be/bEBVkT9SWFY&t=4704 , https://youtu.be/8jK6wYjrnw4&t=3181"
     },
     {
-      "Id": 336,
+      "Id": 337,
       "Title": "Lookin' Out My Back Door",
       "CleanedTitle": "lookin-out-my-back-door",
       "Artist": "Creedence Clearwater Revival",
@@ -5041,7 +5056,7 @@
       "Links": "https://youtu.be/6r4e55Yo27A&t=849 , https://youtu.be/bszf3Megxhc&t=1381 , https://youtu.be/9mwYBbDX0dY&t=8771 , https://youtu.be/2YwudKYPIeE&t=6504 , https://youtu.be/WQ8mpI5z7z4&t=1330 , https://youtu.be/q0SOrSxKE90&t=7496 , https://youtu.be/GqfNqQlrL8A&t=1535 , https://youtu.be/j9CL1ydfDSI&t=4808 , https://youtu.be/gVy2vkeHV_I&t=1458 , https://youtu.be/pVDmEFQX16c&t=1438 , https://youtu.be/7ub_S5Kx-wA&t=3592 , https://youtu.be/h_KbDQybQmE&t=7403 , https://youtu.be/EAYQjuMqF1U&t=5762 , https://youtu.be/iB2cbbPaJU0&t=3637 , https://youtu.be/wSBFKylNQjU&t=902 , https://youtu.be/_KscIFUrM14&t=5219 , https://youtu.be/sXKeY6LpR9g&t=4305 , https://youtu.be/FHa2vjbViJo?feature=share&t=2128 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=896 , https://youtu.be/KACYxeAmdCs?feature=share&t=1720 , https://youtu.be/watch?v=F7kc9DzOJgk&t=368 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=7134 , https://youtu.be/watch?v=H_j-P2w0QaA&t=7795 , https://youtu.be/watch?v=JR6OhpR0pU0&t=2291 , https://youtu.be/watch?v=0nRONZ-KEQk&t=764"
     },
     {
-      "Id": 337,
+      "Id": 338,
       "Title": "Starlight",
       "CleanedTitle": "starlight",
       "Artist": "Muse",
@@ -5056,7 +5071,7 @@
       "Links": "https://youtu.be/6r4e55Yo27A&t=3684 , https://youtu.be/JUiD_BqlTHw&t=3794 , https://youtu.be/79E9gUpu6pk&t=7645 , https://youtu.be/jdD05keNX5w&t=6603 , https://youtu.be/U1AhJr6L5SU&t=1036 , https://youtu.be/JNbwlKX5IJE&t=7453"
     },
     {
-      "Id": 338,
+      "Id": 339,
       "Title": "Little Green",
       "CleanedTitle": "little-green",
       "Artist": "Joni Mitchell",
@@ -5071,7 +5086,7 @@
       "Links": "https://youtu.be/6r4e55Yo27A&t=4883 , https://youtu.be/bVTlDNPzTn4&t=8852 , https://youtu.be/watch?v=JR6OhpR0pU0&t=7396"
     },
     {
-      "Id": 339,
+      "Id": 340,
       "Title": "Why Georgia",
       "CleanedTitle": "why-georgia",
       "Artist": "John Mayer",
@@ -5086,7 +5101,7 @@
       "Links": "https://youtu.be/6r4e55Yo27A&t=5929 , https://youtu.be/PPq9uuigSs0&t=1475 , https://youtu.be/q0SOrSxKE90&t=4929 , https://youtu.be/y83VDXWJbQE&t=6651 , https://youtu.be/skPtRNli5KY&t=2007 , https://youtu.be/watch?v=uQLC-GCPpV0&t=988 , https://youtu.be/watch?v=JR6OhpR0pU0&t=2499"
     },
     {
-      "Id": 340,
+      "Id": 341,
       "Title": "Summertime",
       "CleanedTitle": "summertime",
       "Artist": "George Gershwin",
@@ -5101,7 +5116,7 @@
       "Links": "https://youtu.be/6r4e55Yo27A&t=6241 , https://youtu.be/61pND0vO3z8&t=1459 , https://youtu.be/exm9X0zIDaA&t=2357 , https://youtu.be/watch?v=Yz6bDH9k1Fk&t=3625 , https://youtu.be/watch?v=01eDLSmTMtQ&t=679"
     },
     {
-      "Id": 341,
+      "Id": 342,
       "Title": "Black Mountain Side",
       "CleanedTitle": "black-mountain-side",
       "Artist": "Led Zeppelin",
@@ -5116,7 +5131,7 @@
       "Links": "https://youtu.be/6r4e55Yo27A&t=6840 , https://youtu.be/U1AhJr6L5SU&t=5233 , https://youtu.be/watch?v=nCRWhvGFWUE&t=7968"
     },
     {
-      "Id": 342,
+      "Id": 343,
       "Title": "River Man",
       "CleanedTitle": "river-man",
       "Artist": "Nick Drake",
@@ -5131,7 +5146,7 @@
       "Links": "https://youtu.be/6r4e55Yo27A&t=7934 , https://youtu.be/WGGj7qyf4pA&t=5710 , https://youtu.be/__nszU6iOlM&t=8338 , https://youtu.be/vqOBj04MFrw&t=7179 , https://youtu.be/HTJSoHhm7aY&t=3703 , https://youtu.be/HJpwaG3PP3E&t=4222 , https://youtu.be/Qh8m_ldN2zw&t=3729 , https://youtu.be/watch?v=lfNvWAOnwQw&t=2543 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=8525"
     },
     {
-      "Id": 343,
+      "Id": 344,
       "Title": "Street Fighting Man",
       "CleanedTitle": "street-fighting-man",
       "Artist": "The Rolling Stones",
@@ -5146,7 +5161,7 @@
       "Links": "https://youtu.be/6r4e55Yo27A&t=8327 , https://youtu.be/CxcBGVkfVMc&t=6377 , https://youtu.be/uLKs6770MzM&t=3273"
     },
     {
-      "Id": 344,
+      "Id": 345,
       "Title": "All These Things That I've Done",
       "CleanedTitle": "all-these-things-that-ive-done",
       "Artist": "The Killers",
@@ -5161,7 +5176,7 @@
       "Links": "https://youtu.be/6r4e55Yo27A&t=9720 , https://youtu.be/MhNKFJxwK8g&t=9697 , https://youtu.be/GqfNqQlrL8A&t=8377 , https://youtu.be/Lpcd7ALm6r4&t=8882 , https://youtu.be/c1H63fb1AJs?feature=share&t=2856 , https://youtu.be/watch?v=B5AJb0_vLS4&t=9855 , https://youtu.be/watch?v=H_j-P2w0QaA&t=8882"
     },
     {
-      "Id": 345,
+      "Id": 346,
       "Title": "Midnight Rider",
       "CleanedTitle": "midnight-rider",
       "Artist": "Allman Brothers Band",
@@ -5176,7 +5191,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=902 , https://youtu.be/T6ydeqXOIvk&t=224 , https://youtu.be/hs3UcA7DP4U&t=850 , https://youtu.be/S0H-UbV9G48&t=4526 , https://youtu.be/y83VDXWJbQE&t=1465 , https://youtu.be/YAxlXf4Ftt0&t=1403 , https://youtu.be/9sCm4eY4VKg&t=3200 , https://youtu.be/BvCyN3QU46c?feature=share&t=4565 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=3390 , https://youtu.be/watch?v=JR6OhpR0pU0&t=506"
     },
     {
-      "Id": 346,
+      "Id": 347,
       "Title": "The Simpson's Theme",
       "CleanedTitle": "the-simpsons-theme",
       "Artist": "Danny Elfman",
@@ -5191,7 +5206,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=4899 , https://youtu.be/gSqP0YvvvNY&t=6663 , https://youtu.be/Y473wJBI_Y8&t=7819 , https://youtu.be/GDMlH7bT0FA&t=5425 , https://youtu.be/watch?v=lfNvWAOnwQw&t=9846 , https://youtu.be/watch?v=0nRONZ-KEQk&t=983"
     },
     {
-      "Id": 347,
+      "Id": 348,
       "Title": "My Stupid Mouth",
       "CleanedTitle": "my-stupid-mouth",
       "Artist": "John Mayer",
@@ -5206,7 +5221,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=5324 , https://youtu.be/yT-ZTr6ntP4&t=4970"
     },
     {
-      "Id": 348,
+      "Id": 349,
       "Title": "Blue Crystal Fire",
       "CleanedTitle": "blue-crystal-fire",
       "Artist": "Robbie Basho",
@@ -5221,7 +5236,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=5910 , https://youtu.be/__nszU6iOlM&t=4911"
     },
     {
-      "Id": 349,
+      "Id": 350,
       "Title": "Thunderstruck (Partial)",
       "CleanedTitle": "thunderstruck-partial",
       "Artist": "AC/DC",
@@ -5236,7 +5251,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=6951 , https://youtu.be/KoChozPGk7c&t=1895 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=8246"
     },
     {
-      "Id": 350,
+      "Id": 351,
       "Title": "Whole Lotta Love (Partial)",
       "CleanedTitle": "whole-lotta-love-partial",
       "Artist": "Led Zeppelin",
@@ -5251,7 +5266,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7020 , https://youtu.be/WQ8mpI5z7z4&t=5865 , https://youtu.be/watch?v=x3skjeOvXxo&t=7398"
     },
     {
-      "Id": 351,
+      "Id": 352,
       "Title": "Texas Flood",
       "CleanedTitle": "texas-flood",
       "Artist": "Stevie Ray Vaughan",
@@ -5266,7 +5281,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7093 , https://youtu.be/WGGj7qyf4pA&t=7402 , https://youtu.be/jdD05keNX5w&t=5827 , https://youtu.be/watch?v=lfNvWAOnwQw&t=6778 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=2370"
     },
     {
-      "Id": 352,
+      "Id": 353,
       "Title": "Wish You Were Here",
       "CleanedTitle": "wish-you-were-here-incubus",
       "Artist": "Incubus",
@@ -5281,7 +5296,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7151 , https://youtu.be/y83VDXWJbQE&t=7700 , https://youtu.be/EAYQjuMqF1U&t=3808 , https://youtu.be/1HkYscBWtp8?feature=share&t=3697 , https://youtu.be/watch?v=9gkOvE2nTlM&t=9936"
     },
     {
-      "Id": 353,
+      "Id": 354,
       "Title": "Nothing Else Matters (Partial)",
       "CleanedTitle": "nothing-else-matters-partial",
       "Artist": "Metallica",
@@ -5296,7 +5311,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7206 , https://youtu.be/9mwYBbDX0dY&t=7248"
     },
     {
-      "Id": 354,
+      "Id": 355,
       "Title": "Good Love Is On the Way",
       "CleanedTitle": "good-love-is-on-the-way",
       "Artist": "John Mayer",
@@ -5311,7 +5326,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7340 , https://youtu.be/jDGy1_nMmbk&t=963 , https://youtu.be/61pND0vO3z8&t=4800 , https://youtu.be/CoQ0bS1d7uo&t=1334 , https://youtu.be/79E9gUpu6pk&t=2311 , https://youtu.be/4MsSeM9AR60&t=1182 , https://youtu.be/uLKs6770MzM&t=2239 , https://youtu.be/9-UHTEmE9UU&t=2497 , https://youtu.be/GqfNqQlrL8A&t=6819 , https://youtu.be/1W4TxxgXnOk&t=2964 , https://youtu.be/yiFNZvisSQw&t=7924 , https://youtu.be/gVy2vkeHV_I&t=1722 , https://youtu.be/5Y_XA4lXk_8&t=880 , https://youtu.be/vRD0K6kl3Qs&t=1212 , https://youtu.be/watch?v=nCRWhvGFWUE&t=3741 , https://youtu.be/watch?v=x3skjeOvXxo&t=7913"
     },
     {
-      "Id": 355,
+      "Id": 356,
       "Title": "This Love (Electric riff)",
       "CleanedTitle": "this-love-electric-riff",
       "Artist": "Pantera",
@@ -5326,7 +5341,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7370"
     },
     {
-      "Id": 356,
+      "Id": 357,
       "Title": "Eruption (Electric riff)",
       "CleanedTitle": "eruption-electric-riff",
       "Artist": "Van Halen",
@@ -5341,7 +5356,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7431 , https://youtu.be/watch?v=lfNvWAOnwQw&t=6893"
     },
     {
-      "Id": 357,
+      "Id": 358,
       "Title": "Scatterbrain (Electric riff)",
       "CleanedTitle": "scatterbrain-electric-riff",
       "Artist": "Jeff Beck",
@@ -5356,7 +5371,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7493 , https://youtu.be/WGGj7qyf4pA&t=8339"
     },
     {
-      "Id": 358,
+      "Id": 359,
       "Title": "Johnny B. Goode",
       "CleanedTitle": "johnny-b-goode",
       "Artist": "Chuck Berry",
@@ -5371,7 +5386,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7518 , https://youtu.be/biTNdO9Z6Y8&t=8727 , https://youtu.be/WGGj7qyf4pA&t=7625 , https://youtu.be/q0SOrSxKE90&t=7263 , https://youtu.be/watch?v=9rSlmMNfOkY&t=3160"
     },
     {
-      "Id": 359,
+      "Id": 360,
       "Title": "A Passage To Bangkok (Electric riff)",
       "CleanedTitle": "a-passage-to-bangkok-electric-riff",
       "Artist": "Rush",
@@ -5386,7 +5401,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7553"
     },
     {
-      "Id": 360,
+      "Id": 361,
       "Title": "(Don't Fear) The Reaper (Electric riff)",
       "CleanedTitle": "dont-fear-the-reaper-electric-riff",
       "Artist": "Blue Öyster Cult",
@@ -5401,7 +5416,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7611 , https://youtu.be/biTNdO9Z6Y8&t=8706"
     },
     {
-      "Id": 361,
+      "Id": 362,
       "Title": "Waitin' for the Bus (Electric riff)",
       "CleanedTitle": "waitin-for-the-bus-electric-riff",
       "Artist": "ZZ Top",
@@ -5416,7 +5431,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7708"
     },
     {
-      "Id": 362,
+      "Id": 363,
       "Title": "La Grange (Partial)",
       "CleanedTitle": "la-grange-partial",
       "Artist": "ZZ Top",
@@ -5431,7 +5446,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=7724 , https://youtu.be/WGGj7qyf4pA&t=7902 , https://youtu.be/KLIWP_nbaXs&t=9272 , https://youtu.be/sfTsmIo6Ybo&t=6730 , https://youtu.be/jdD05keNX5w&t=6029 , https://youtu.be/watch?v=lfNvWAOnwQw&t=6718"
     },
     {
-      "Id": 363,
+      "Id": 364,
       "Title": "Phone Call from Leavenworth",
       "CleanedTitle": "phone-call-from-leavenworth",
       "Artist": "Chris Whitley",
@@ -5446,7 +5461,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=8200 , https://youtu.be/RLZoln3RATs&t=7446 , https://youtu.be/hs3UcA7DP4U&t=1494 , https://youtu.be/q0SOrSxKE90&t=1917 , https://youtu.be/dWIijDnVkho&t=1667 , https://youtu.be/watch?v=JR6OhpR0pU0&t=3946 , https://youtu.be/watch?v=0nRONZ-KEQk&t=2486"
     },
     {
-      "Id": 364,
+      "Id": 365,
       "Title": "Mr. Brightside",
       "CleanedTitle": "mr-brightside",
       "Artist": "The Killers",
@@ -5461,7 +5476,7 @@
       "Links": "https://youtu.be/9zUVfKZrSGs&t=9834 , https://youtu.be/gSqP0YvvvNY&t=6402 , https://youtu.be/KLIWP_nbaXs&t=3512 , https://youtu.be/1HkYscBWtp8?feature=share&t=6126 , https://youtu.be/watch?v=lfNvWAOnwQw&t=7056 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=3990"
     },
     {
-      "Id": 365,
+      "Id": 366,
       "Title": "Cinnamon Girl",
       "CleanedTitle": "cinnamon-girl",
       "Artist": "Neil Young",
@@ -5476,7 +5491,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=119 , https://youtu.be/61pND0vO3z8&t=567 , https://youtu.be/Q4p-jIfkQpM&t=1189 , https://youtu.be/GqfNqQlrL8A&t=7129 , https://youtu.be/GDMlH7bT0FA&t=1011 , https://youtu.be/lfZRI_tmFH8&t=1039 , https://youtu.be/watch?v=oGvWPFlm1fM&t=683 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=511"
     },
     {
-      "Id": 366,
+      "Id": 367,
       "Title": "Riptide",
       "CleanedTitle": "riptide",
       "Artist": "Vance Joy",
@@ -5491,7 +5506,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=720 , https://youtu.be/sXKeY6LpR9g&t=3951 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=3086"
     },
     {
-      "Id": 367,
+      "Id": 368,
       "Title": "High and Dry",
       "CleanedTitle": "high-and-dry",
       "Artist": "Radiohead",
@@ -5506,7 +5521,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=1059 , https://youtu.be/HdqJmfuPKyM&t=8225 , https://youtu.be/GpaZbjokFec?feature=share&t=7466"
     },
     {
-      "Id": 368,
+      "Id": 369,
       "Title": "Jumpin' Jack Flash",
       "CleanedTitle": "jumpin-jack-flash",
       "Artist": "The Rolling Stones",
@@ -5521,7 +5536,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=1849 , https://youtu.be/9-UHTEmE9UU&t=5042 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=9263"
     },
     {
-      "Id": 369,
+      "Id": 370,
       "Title": "Glory Days",
       "CleanedTitle": "glory-days",
       "Artist": "Bruce Springsteen",
@@ -5536,7 +5551,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=2959 , https://youtu.be/bVTlDNPzTn4&t=6182 , https://youtu.be/WQ8mpI5z7z4&t=7904 , https://youtu.be/lmyOp2MHwCY&t=2357 , https://youtu.be/_KscIFUrM14&t=6554 , https://youtu.be/jomOdvKXNa4?feature=share&t=4208 , https://youtu.be/watch?v=uUJq2ppfAyg&t=5072"
     },
     {
-      "Id": 370,
+      "Id": 371,
       "Title": "The Battle of Evermore (Partial)",
       "CleanedTitle": "the-battle-of-evermore-partial",
       "Artist": "Led Zeppelin",
@@ -5551,7 +5566,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=3493"
     },
     {
-      "Id": 371,
+      "Id": 372,
       "Title": "(Sittin' On) the Dock of the Bay",
       "CleanedTitle": "sittin-on-the-dock-of-the-bay",
       "Artist": "Otis Redding",
@@ -5566,7 +5581,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=4402 , https://youtu.be/5yvoFRB-OAE&t=1396 , https://youtu.be/gSqP0YvvvNY&t=3041 , https://youtu.be/VEh4FA59OGA&t=3054 , https://youtu.be/0vseNNLzOWY&t=2646 , https://youtu.be/j9CL1ydfDSI&t=2421 , https://youtu.be/PvNuNSk9iPM&t=3423 , https://youtu.be/Qh8m_ldN2zw&t=3434 , https://youtu.be/vRD0K6kl3Qs&t=3327 , https://youtu.be/FHa2vjbViJo?feature=share&t=2677 , https://youtu.be/watch?v=H_j-P2w0QaA&t=106 , https://youtu.be/watch?v=XxWeHmiEot0&t=1822"
     },
     {
-      "Id": 372,
+      "Id": 373,
       "Title": "Stop This Train",
       "CleanedTitle": "stop-this-train",
       "Artist": "John Mayer",
@@ -5581,7 +5596,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=6829 , https://youtu.be/9mwYBbDX0dY&t=7424 , https://youtu.be/bCz3cavBkog&t=2487 , https://youtu.be/GqfNqQlrL8A&t=4605 , https://youtu.be/3iWYcnMuVzc&t=4097 , https://youtu.be/9RNVOwRTSwc&t=4863 , https://youtu.be/KACYxeAmdCs?feature=share&t=1951 , https://youtu.be/watch?v=B5AJb0_vLS4&t=708"
     },
     {
-      "Id": 373,
+      "Id": 374,
       "Title": "Jumper",
       "CleanedTitle": "jumper",
       "Artist": "Third Eye Blind",
@@ -5596,7 +5611,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=7720 , https://youtu.be/PvNuNSk9iPM&t=5203"
     },
     {
-      "Id": 374,
+      "Id": 375,
       "Title": "Cello Song",
       "CleanedTitle": "cello-song",
       "Artist": "Nick Drake",
@@ -5611,7 +5626,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=8051 , https://youtu.be/MhNKFJxwK8g&t=5691 , https://youtu.be/T_2aqBkmeUc&t=7627 , https://youtu.be/s6H9GdbDwbQ&t=6899 , https://youtu.be/6Yy57i8sR0s&t=6151 , https://youtu.be/iB2cbbPaJU0&t=6993 , https://youtu.be/Mm_r2XHf7kw?feature=share&t=5043 , https://youtu.be/watch?v=lfNvWAOnwQw&t=1872"
     },
     {
-      "Id": 375,
+      "Id": 376,
       "Title": "You Are the Best Thing",
       "CleanedTitle": "you-are-the-best-thing",
       "Artist": "Ray LaMontagne",
@@ -5626,7 +5641,7 @@
       "Links": "https://youtu.be/mH3c9W8vKbc&t=9038 , https://youtu.be/RLZoln3RATs&t=266 , https://youtu.be/jdD05keNX5w&t=5543 , https://youtu.be/9sCm4eY4VKg&t=1019 , https://youtu.be/s-v4qoUK0tU?feature=share&t=5279 , https://youtu.be/watch?v=9gkOvE2nTlM&t=1694 , https://youtu.be/watch?v=9rSlmMNfOkY&t=2565"
     },
     {
-      "Id": 376,
+      "Id": 377,
       "Title": "Instrumental/Improv",
       "CleanedTitle": "instrumental-improv",
       "Artist": "Corey Heuvel",
@@ -5641,7 +5656,7 @@
       "Links": "https://youtu.be/jDGy1_nMmbk&t=229"
     },
     {
-      "Id": 377,
+      "Id": 378,
       "Title": "Lie To Me",
       "CleanedTitle": "lie-to-me",
       "Artist": "Jonny Lang",
@@ -5656,7 +5671,7 @@
       "Links": "https://youtu.be/jDGy1_nMmbk&t=4411 , https://youtu.be/9mwYBbDX0dY&t=442 , https://youtu.be/j9CL1ydfDSI&t=981 , https://youtu.be/GpaZbjokFec?feature=share&t=1207"
     },
     {
-      "Id": 378,
+      "Id": 379,
       "Title": "Woodstock",
       "CleanedTitle": "woodstock",
       "Artist": "Joni Mitchell",
@@ -5671,7 +5686,7 @@
       "Links": "https://youtu.be/jDGy1_nMmbk&t=5022"
     },
     {
-      "Id": 379,
+      "Id": 380,
       "Title": "Everlong",
       "CleanedTitle": "everlong",
       "Artist": "Foo Fighters",
@@ -5686,7 +5701,7 @@
       "Links": "https://youtu.be/jDGy1_nMmbk&t=7007 , https://youtu.be/mwrkFoGJsqU&t=4194 , https://youtu.be/biTNdO9Z6Y8&t=7610 , https://youtu.be/Q4p-jIfkQpM&t=6024 , https://youtu.be/4MsSeM9AR60&t=5486 , https://youtu.be/vqOBj04MFrw&t=4695 , https://youtu.be/aiAhYDQQdUo&t=6143 , https://youtu.be/seLDpNLZFDU&t=6868 , https://youtu.be/YAxlXf4Ftt0&t=4875 , https://youtu.be/5Y_XA4lXk_8&t=8868 , https://youtu.be/ShAGixH0AfU&t=3677 , https://youtu.be/8jK6wYjrnw4&t=4112 , https://youtu.be/v56fDp25FcM?feature=share&t=8765 , https://youtu.be/2xkUDe5ZndE?feature=share&t=8819 , https://youtu.be/watch?v=9gkOvE2nTlM&t=9222 , https://youtu.be/watch?v=F7kc9DzOJgk&t=6741 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=8611 , https://youtu.be/watch?v=H_j-P2w0QaA&t=759"
     },
     {
-      "Id": 380,
+      "Id": 381,
       "Title": "Take It Easy",
       "CleanedTitle": "take-it-easy",
       "Artist": "The Eagles",
@@ -5701,7 +5716,7 @@
       "Links": "https://youtu.be/Oc4W2nrPzJU&t=2125 , https://youtu.be/Q4p-jIfkQpM&t=2475 , https://youtu.be/yiFNZvisSQw&t=2777 , https://youtu.be/wSBFKylNQjU&t=3040 , https://youtu.be/watch?v=lfNvWAOnwQw&t=556 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=818 , https://youtu.be/watch?v=oGvWPFlm1fM&t=9430 , https://youtu.be/watch?v=9rSlmMNfOkY&t=5592"
     },
     {
-      "Id": 381,
+      "Id": 382,
       "Title": "Man Like You",
       "CleanedTitle": "man-like-you",
       "Artist": "Patrick Watson",
@@ -5716,7 +5731,7 @@
       "Links": "https://youtu.be/Oc4W2nrPzJU&t=5777 , https://youtu.be/JpKnYI_-2OA&t=3938"
     },
     {
-      "Id": 382,
+      "Id": 383,
       "Title": "Message In A bottle",
       "CleanedTitle": "message-in-a-bottle",
       "Artist": "The Police",
@@ -5731,7 +5746,7 @@
       "Links": "https://youtu.be/Oc4W2nrPzJU&t=6060 , https://youtu.be/watch?v=twwoDRDMthg&t=7508"
     },
     {
-      "Id": 383,
+      "Id": 384,
       "Title": "Love Her Madly",
       "CleanedTitle": "love-her-madly",
       "Artist": "The Doors",
@@ -5746,7 +5761,7 @@
       "Links": "https://youtu.be/Oc4W2nrPzJU&t=7391"
     },
     {
-      "Id": 384,
+      "Id": 385,
       "Title": "Hazey Jane I",
       "CleanedTitle": "hazey-jane-i",
       "Artist": "Nick Drake",
@@ -5761,7 +5776,7 @@
       "Links": "https://youtu.be/Oc4W2nrPzJU&t=7842 , https://youtu.be/T6ydeqXOIvk&t=9231 , https://youtu.be/uLKs6770MzM&t=4588 , https://youtu.be/S0H-UbV9G48&t=9223"
     },
     {
-      "Id": 385,
+      "Id": 386,
       "Title": "Tell Me Why",
       "CleanedTitle": "tell-me-why",
       "Artist": "Neil Young",
@@ -5776,7 +5791,7 @@
       "Links": "https://youtu.be/Oc4W2nrPzJU&t=8191 , https://youtu.be/x6f3H65JhEg&t=9698 , https://youtu.be/Y473wJBI_Y8&t=386 , https://youtu.be/EX4bD4sLh3Y&t=7921 , https://youtu.be/aiAhYDQQdUo&t=5863 , https://youtu.be/YAxlXf4Ftt0&t=3365 , https://youtu.be/ShAGixH0AfU&t=5399 , https://youtu.be/2xkUDe5ZndE?feature=share&t=7611 , https://youtu.be/watch?v=x3skjeOvXxo&t=8586 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=165"
     },
     {
-      "Id": 386,
+      "Id": 387,
       "Title": "Morning Theft",
       "CleanedTitle": "morning-theft",
       "Artist": "Jeff Buckley",
@@ -5791,7 +5806,7 @@
       "Links": "https://youtu.be/Oc4W2nrPzJU&t=8457 , https://youtu.be/VEh4FA59OGA&t=9991 , https://youtu.be/YAxlXf4Ftt0&t=7067"
     },
     {
-      "Id": 387,
+      "Id": 388,
       "Title": "Sleepwalk",
       "CleanedTitle": "sleepwalk",
       "Artist": "Santo & Johnny",
@@ -5806,7 +5821,7 @@
       "Links": "https://youtu.be/Oc4W2nrPzJU&t=9915 , https://youtu.be/Q4p-jIfkQpM&t=9965 , https://youtu.be/_7xQAOqGbk4&t=5440 , https://youtu.be/goEx4wnnaQw&t=3926 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=6253"
     },
     {
-      "Id": 388,
+      "Id": 389,
       "Title": "3AM",
       "CleanedTitle": "3am",
       "Artist": "Matchbox Twenty",
@@ -5821,7 +5836,7 @@
       "Links": "https://youtu.be/5yvoFRB-OAE&t=472 , https://youtu.be/__nszU6iOlM&t=4475 , https://youtu.be/dhxJ9HuV65g&t=9137 , https://youtu.be/5Y_XA4lXk_8&t=7391 , https://youtu.be/Lpcd7ALm6r4&t=1187 , https://youtu.be/vRD0K6kl3Qs&t=5169 , https://youtu.be/QLLYLiTUyDY?feature=share&t=1280 , https://youtu.be/watch?v=9gkOvE2nTlM&t=667 , https://youtu.be/watch?v=B5AJb0_vLS4&t=378"
     },
     {
-      "Id": 389,
+      "Id": 390,
       "Title": "It Ain't Me Babe",
       "CleanedTitle": "it-aint-me-babe",
       "Artist": "Bob Dylan",
@@ -5836,7 +5851,7 @@
       "Links": "https://youtu.be/5yvoFRB-OAE&t=3702 , https://youtu.be/ERjisFF12Vk&t=4166 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=6306"
     },
     {
-      "Id": 390,
+      "Id": 391,
       "Title": "Bring It on Home",
       "CleanedTitle": "bring-it-on-home",
       "Artist": "Led Zeppelin",
@@ -5851,7 +5866,7 @@
       "Links": "https://youtu.be/5yvoFRB-OAE&t=4745 , https://youtu.be/2xkUDe5ZndE?feature=share&t=5015 , https://youtu.be/1HkYscBWtp8?feature=share&t=3341"
     },
     {
-      "Id": 391,
+      "Id": 392,
       "Title": "Elderly Woman Behind the Counter in a Small Town",
       "CleanedTitle": "elderly-woman-behind-the-counter-in-a-small-town",
       "Artist": "Pearl Jam",
@@ -5866,7 +5881,7 @@
       "Links": "https://youtu.be/5yvoFRB-OAE&t=8854 , https://youtu.be/VEh4FA59OGA&t=6608 , https://youtu.be/EX4bD4sLh3Y&t=4670 , https://youtu.be/lfZRI_tmFH8&t=5981 , https://youtu.be/watch?v=9rSlmMNfOkY&t=4089"
     },
     {
-      "Id": 392,
+      "Id": 393,
       "Title": "Queen of California",
       "CleanedTitle": "queen-of-california",
       "Artist": "John Mayer",
@@ -5881,7 +5896,7 @@
       "Links": "https://youtu.be/5yvoFRB-OAE&t=9488 , https://youtu.be/mwrkFoGJsqU&t=180 , https://youtu.be/biTNdO9Z6Y8&t=3803 , https://youtu.be/Q4p-jIfkQpM&t=4353 , https://youtu.be/KoChozPGk7c&t=884 , https://youtu.be/jyGZgv6rFqo?feature=share&t=3343"
     },
     {
-      "Id": 393,
+      "Id": 394,
       "Title": "You're Still the One",
       "CleanedTitle": "youre-still-the-one",
       "Artist": "Shania Twain",
@@ -5896,7 +5911,7 @@
       "Links": "https://youtu.be/5yvoFRB-OAE&t=9757 , https://youtu.be/biTNdO9Z6Y8&t=8910"
     },
     {
-      "Id": 394,
+      "Id": 395,
       "Title": "I Won't Back Down",
       "CleanedTitle": "i-wont-back-down",
       "Artist": "Tom Petty",
@@ -5911,7 +5926,7 @@
       "Links": "https://youtu.be/61pND0vO3z8&t=3024 , https://youtu.be/UvL7GFjtrj0&t=7643 , https://youtu.be/__nszU6iOlM&t=2979 , https://youtu.be/YAxlXf4Ftt0&t=6541 , https://youtu.be/rHhhcP4jGD8&t=3753 , https://youtu.be/watch?v=x3skjeOvXxo&t=1685 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=8307"
     },
     {
-      "Id": 395,
+      "Id": 396,
       "Title": "Here Comes The Sun",
       "CleanedTitle": "here-comes-the-sun",
       "Artist": "The Beatles",
@@ -5926,7 +5941,7 @@
       "Links": "https://youtu.be/61pND0vO3z8&t=6513 , https://youtu.be/yT-ZTr6ntP4&t=4232 , https://youtu.be/IJmsYXQl5dA&t=1972 , https://youtu.be/CqHIgye4I8s?feature=share&t=6109 , https://youtu.be/s-v4qoUK0tU?feature=share&t=7898 , https://youtu.be/2xkUDe5ZndE?feature=share&t=3542 , https://youtu.be/watch?v=F7kc9DzOJgk&t=9521"
     },
     {
-      "Id": 396,
+      "Id": 397,
       "Title": "I Wish",
       "CleanedTitle": "i-wish",
       "Artist": "Stevie Wonder",
@@ -5941,7 +5956,7 @@
       "Links": "https://youtu.be/61pND0vO3z8&t=7646 , https://youtu.be/RCraRcpxmDo&t=9484 , https://youtu.be/x6f3H65JhEg&t=1761 , https://youtu.be/__nszU6iOlM&t=3246 , https://youtu.be/exm9X0zIDaA&t=3917 , https://youtu.be/goEx4wnnaQw&t=1374"
     },
     {
-      "Id": 397,
+      "Id": 398,
       "Title": "Walking On The Moon",
       "CleanedTitle": "walking-on-the-moon",
       "Artist": "The Police",
@@ -5956,7 +5971,7 @@
       "Links": "https://youtu.be/61pND0vO3z8&t=8010 , https://youtu.be/CxcBGVkfVMc&t=1556 , https://youtu.be/LuQ78Y2Fiwo&t=490 , https://youtu.be/ERjisFF12Vk&t=1673 , https://youtu.be/S0H-UbV9G48&t=8165 , https://youtu.be/aiAhYDQQdUo&t=3058 , https://youtu.be/watch?v=lfNvWAOnwQw&t=132 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=524"
     },
     {
-      "Id": 398,
+      "Id": 399,
       "Title": "Vincent",
       "CleanedTitle": "vincent",
       "Artist": "Don McLean",
@@ -5971,7 +5986,7 @@
       "Links": "https://youtu.be/61pND0vO3z8&t=10031 , https://youtu.be/L1VngMqyXo4&t=7942 , https://youtu.be/79E9gUpu6pk&t=6885 , https://youtu.be/U1AhJr6L5SU&t=5774 , https://youtu.be/8jK6wYjrnw4&t=2807 , https://youtu.be/watch?v=9rSlmMNfOkY&t=3450"
     },
     {
-      "Id": 399,
+      "Id": 400,
       "Title": "Learn to Fly",
       "CleanedTitle": "learn-to-fly",
       "Artist": "Foo Fighters",
@@ -5986,7 +6001,7 @@
       "Links": "https://youtu.be/bszf3Megxhc&t=3862 , https://youtu.be/uLKs6770MzM&t=3527 , https://youtu.be/seLDpNLZFDU&t=1841 , https://youtu.be/vRD0K6kl3Qs&t=2949 , https://youtu.be/1HkYscBWtp8?feature=share&t=7658 , https://youtu.be/watch?v=nCRWhvGFWUE&t=3461"
     },
     {
-      "Id": 400,
+      "Id": 401,
       "Title": "Both Sides Now",
       "CleanedTitle": "both-sides-now",
       "Artist": "Joni Mitchell",
@@ -6001,7 +6016,7 @@
       "Links": "https://youtu.be/bszf3Megxhc&t=4216 , https://youtu.be/gu7ChqD4Qm4&t=5130 , https://youtu.be/WQ8mpI5z7z4&t=8212 , https://youtu.be/0W8Q-hGHd80&t=6047 , https://youtu.be/vRD0K6kl3Qs&t=6953 , https://youtu.be/1HkYscBWtp8?feature=share&t=7997 , https://youtu.be/il7d9PknEmQ?feature=share&t=7510 , https://youtu.be/watch?v=XxWeHmiEot0&t=6416"
     },
     {
-      "Id": 401,
+      "Id": 402,
       "Title": "Love Struck Baby",
       "CleanedTitle": "love-struck-baby",
       "Artist": "Stevie Ray Vaughan",
@@ -6016,7 +6031,7 @@
       "Links": "https://youtu.be/bszf3Megxhc&t=8010 , https://youtu.be/Q4p-jIfkQpM&t=4139 , https://youtu.be/jyGZgv6rFqo?feature=share&t=1419 , https://youtu.be/watch?v=H_j-P2w0QaA&t=3515"
     },
     {
-      "Id": 402,
+      "Id": 403,
       "Title": "Fly",
       "CleanedTitle": "fly",
       "Artist": "Nick Drake",
@@ -6031,7 +6046,7 @@
       "Links": "https://youtu.be/bszf3Megxhc&t=8538 , https://youtu.be/9mwYBbDX0dY&t=4208"
     },
     {
-      "Id": 403,
+      "Id": 404,
       "Title": "Champagne Supernova",
       "CleanedTitle": "champagne-supernova",
       "Artist": "Oasis",
@@ -6046,7 +6061,7 @@
       "Links": "https://youtu.be/mwrkFoGJsqU&t=5060 , https://youtu.be/vqOBj04MFrw&t=2152 , https://youtu.be/watch?v=9rSlmMNfOkY&t=1870 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=2235"
     },
     {
-      "Id": 404,
+      "Id": 405,
       "Title": "Heart-Shaped Box",
       "CleanedTitle": "heart-shaped-box",
       "Artist": "Nirvana",
@@ -6061,7 +6076,7 @@
       "Links": "https://youtu.be/mwrkFoGJsqU&t=8118 , https://youtu.be/ERjisFF12Vk&t=3285 , https://youtu.be/yiFNZvisSQw&t=1992 , https://youtu.be/s-v4qoUK0tU?feature=share&t=5803 , https://youtu.be/r4JaTRrhap8?feature=share&t=8447 , https://youtu.be/watch?v=lq5YJLgEDWI&t=9284 , https://youtu.be/watch?v=oGvWPFlm1fM&t=7011"
     },
     {
-      "Id": 405,
+      "Id": 406,
       "Title": "Angeles",
       "CleanedTitle": "angeles",
       "Artist": "Elliott Smith",
@@ -6076,7 +6091,7 @@
       "Links": "https://youtu.be/mwrkFoGJsqU&t=8580 , https://youtu.be/q0SOrSxKE90&t=6753 , https://youtu.be/EX4bD4sLh3Y&t=6089 , https://youtu.be/gVy2vkeHV_I&t=5031 , https://youtu.be/lfZRI_tmFH8&t=2317 , https://youtu.be/8jK6wYjrnw4&t=6593 , https://youtu.be/v56fDp25FcM?feature=share&t=4860"
     },
     {
-      "Id": 406,
+      "Id": 407,
       "Title": "My My, Hey Hey (Out of the Blue)",
       "CleanedTitle": "my-my-hey-hey-out-of-the-blue",
       "Artist": "Neil Young",
@@ -6091,7 +6106,7 @@
       "Links": "https://youtu.be/mwrkFoGJsqU&t=10206 , https://youtu.be/T_2aqBkmeUc&t=9166 , https://youtu.be/JNbwlKX5IJE&t=7189 , https://youtu.be/BvCyN3QU46c?feature=share&t=6716 , https://youtu.be/watch?v=lq5YJLgEDWI&t=3431 , https://youtu.be/watch?v=twwoDRDMthg&t=5858"
     },
     {
-      "Id": 407,
+      "Id": 408,
       "Title": "Hit the Road Jack",
       "CleanedTitle": "hit-the-road-jack",
       "Artist": "Ray Charles",
@@ -6106,7 +6121,7 @@
       "Links": "https://youtu.be/mwrkFoGJsqU&t=10665 , https://youtu.be/T6ydeqXOIvk&t=10656 , https://youtu.be/RCraRcpxmDo&t=11165 , https://youtu.be/JUiD_BqlTHw&t=10986 , https://youtu.be/Qih3Nx18Yas&t=11079 , https://youtu.be/WQ8mpI5z7z4&t=11024 , https://youtu.be/_7xQAOqGbk4&t=10902 , https://youtu.be/U1AhJr6L5SU&t=10541 , https://youtu.be/MmxzKv8Mw2E&t=10765 , https://youtu.be/HQCt4rx-y8Q&t=11047 , https://youtu.be/wSBFKylNQjU&t=10833 , https://youtu.be/_KscIFUrM14&t=10898 , https://youtu.be/watch?v=01eDLSmTMtQ&t=5521"
     },
     {
-      "Id": 408,
+      "Id": 409,
       "Title": "Bold as Love",
       "CleanedTitle": "bold-as-love",
       "Artist": "Jimi Hendrix",
@@ -6121,7 +6136,7 @@
       "Links": "https://youtu.be/gSqP0YvvvNY&t=3297 , https://youtu.be/WGGj7qyf4pA&t=1462 , https://youtu.be/WGGj7qyf4pA&t=7369 , https://youtu.be/DqQEPSThDlg&t=4924 , https://youtu.be/aiAhYDQQdUo&t=3867 , https://youtu.be/seLDpNLZFDU&t=5192 , https://youtu.be/ebv-JlkIPUY&t=3521 , https://youtu.be/HdqJmfuPKyM&t=4489 , https://youtu.be/rHhhcP4jGD8&t=9370 , https://youtu.be/c1H63fb1AJs?feature=share&t=3171 , https://youtu.be/watch?v=H_j-P2w0QaA&t=443 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=3075"
     },
     {
-      "Id": 409,
+      "Id": 410,
       "Title": "People's Parties",
       "CleanedTitle": "peoples-parties",
       "Artist": "Joni Mitchell",
@@ -6136,7 +6151,7 @@
       "Links": "https://youtu.be/gSqP0YvvvNY&t=4509 , https://youtu.be/PPq9uuigSs0&t=3407 , https://youtu.be/watch?v=0nRONZ-KEQk&t=5448"
     },
     {
-      "Id": 410,
+      "Id": 411,
       "Title": "People Are Strange",
       "CleanedTitle": "people-are-strange",
       "Artist": "The Doors",
@@ -6151,7 +6166,7 @@
       "Links": "https://youtu.be/gSqP0YvvvNY&t=7525 , https://youtu.be/gVy2vkeHV_I&t=7506 , https://youtu.be/PvNuNSk9iPM&t=5534 , https://youtu.be/BvCyN3QU46c?feature=share&t=5425 , https://youtu.be/watch?v=F7kc9DzOJgk&t=7106"
     },
     {
-      "Id": 411,
+      "Id": 412,
       "Title": "Mississippi Queen (Partial)",
       "CleanedTitle": "mississippi-queen-partial",
       "Artist": "Mountain",
@@ -6166,7 +6181,7 @@
       "Links": "https://youtu.be/gSqP0YvvvNY&t=9533 , https://youtu.be/biTNdO9Z6Y8&t=8452"
     },
     {
-      "Id": 412,
+      "Id": 413,
       "Title": "One Of These Things First",
       "CleanedTitle": "one-of-these-things-first",
       "Artist": "Nick Drake",
@@ -6181,7 +6196,7 @@
       "Links": "https://youtu.be/gSqP0YvvvNY&t=9669 , https://youtu.be/9sCm4eY4VKg&t=8810 , https://youtu.be/watch?v=B5AJb0_vLS4&t=1069"
     },
     {
-      "Id": 413,
+      "Id": 414,
       "Title": "Panama (Partial)",
       "CleanedTitle": "panama-partial",
       "Artist": "Van Halen",
@@ -6196,7 +6211,7 @@
       "Links": "https://youtu.be/LmchfAzW9AM&t=621"
     },
     {
-      "Id": 414,
+      "Id": 415,
       "Title": "Ain't Talkin' 'Bout Love (Partial)",
       "CleanedTitle": "aint-talkin-bout-love-partial",
       "Artist": "Van Halen",
@@ -6211,7 +6226,7 @@
       "Links": "https://youtu.be/LmchfAzW9AM&t=1842 , https://youtu.be/WGGj7qyf4pA&t=8656 , https://youtu.be/sfTsmIo6Ybo&t=6487 , https://youtu.be/0vseNNLzOWY&t=8075 , https://youtu.be/watch?v=x3skjeOvXxo&t=7751"
     },
     {
-      "Id": 415,
+      "Id": 416,
       "Title": "Hot for Teacher (Partial)",
       "CleanedTitle": "hot-for-teacher-partial",
       "Artist": "Van Halen",
@@ -6226,7 +6241,7 @@
       "Links": "https://youtu.be/LmchfAzW9AM&t=2239 , https://youtu.be/AraZ934iGwQ&t=6557"
     },
     {
-      "Id": 416,
+      "Id": 417,
       "Title": "Dance the Night Away (Partial)",
       "CleanedTitle": "dance-the-night-away-partial",
       "Artist": "Van Halen",
@@ -6241,7 +6256,7 @@
       "Links": "https://youtu.be/LmchfAzW9AM&t=3265"
     },
     {
-      "Id": 417,
+      "Id": 418,
       "Title": "Cherry Wine",
       "CleanedTitle": "cherry-wine",
       "Artist": "Hozier",
@@ -6256,7 +6271,7 @@
       "Links": "https://youtu.be/LmchfAzW9AM&t=3755 , https://youtu.be/CxcBGVkfVMc&t=1922 , https://youtu.be/Q4p-jIfkQpM&t=8040 , https://youtu.be/ERjisFF12Vk&t=9624 , https://youtu.be/9-UHTEmE9UU&t=5944 , https://youtu.be/yiFNZvisSQw&t=5745 , https://youtu.be/0W8Q-hGHd80&t=3875 , https://youtu.be/s6H9GdbDwbQ&t=5122 , https://youtu.be/EAYQjuMqF1U&t=4466 , https://youtu.be/HQCt4rx-y8Q&t=6513 , https://youtu.be/IJmsYXQl5dA&t=6242 , https://youtu.be/jyGZgv6rFqo?feature=share&t=6221"
     },
     {
-      "Id": 418,
+      "Id": 419,
       "Title": "Going Up The Country",
       "CleanedTitle": "going-up-the-country",
       "Artist": "Canned Heat",
@@ -6271,7 +6286,7 @@
       "Links": "https://youtu.be/LmchfAzW9AM&t=4963 , https://youtu.be/BvCyN3QU46c?feature=share&t=7274"
     },
     {
-      "Id": 419,
+      "Id": 420,
       "Title": "Finish What Ya Started",
       "CleanedTitle": "finish-what-ya-started",
       "Artist": "Van Halen",
@@ -6286,7 +6301,7 @@
       "Links": "https://youtu.be/LmchfAzW9AM&t=6559 , https://youtu.be/L1VngMqyXo4&t=7179 , https://youtu.be/Xp03EMAOTCg&t=9404 , https://youtu.be/y83VDXWJbQE&t=6179 , https://youtu.be/ZQkl5zQvwvI&t=8959 , https://youtu.be/rHhhcP4jGD8&t=5158"
     },
     {
-      "Id": 420,
+      "Id": 421,
       "Title": "Ice Cream Man",
       "CleanedTitle": "ice-cream-man",
       "Artist": "Van Halen",
@@ -6301,7 +6316,7 @@
       "Links": "https://youtu.be/LmchfAzW9AM&t=8657"
     },
     {
-      "Id": 421,
+      "Id": 422,
       "Title": "Fugitive",
       "CleanedTitle": "fugitive",
       "Artist": "David Gray",
@@ -6316,7 +6331,7 @@
       "Links": "https://youtu.be/LmchfAzW9AM&t=9239"
     },
     {
-      "Id": 422,
+      "Id": 423,
       "Title": "Black Star",
       "CleanedTitle": "black-star",
       "Artist": "Radiohead",
@@ -6331,7 +6346,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=3199 , https://youtu.be/VEh4FA59OGA&t=1975 , https://youtu.be/x6f3H65JhEg&t=6336 , https://youtu.be/sfTsmIo6Ybo&t=4875 , https://youtu.be/S0H-UbV9G48&t=6790 , https://youtu.be/2vn_PYw-W6o&t=8782 , https://youtu.be/7Yc3utlluNc&t=6594 , https://youtu.be/HJpwaG3PP3E&t=4938 , https://youtu.be/6Yy57i8sR0s&t=6496 , https://youtu.be/sXKeY6LpR9g&t=8902 , https://youtu.be/jyGZgv6rFqo?feature=share&t=4911 , https://youtu.be/watch?v=B5AJb0_vLS4&t=3864"
     },
     {
-      "Id": 423,
+      "Id": 424,
       "Title": "Blues Lesson",
       "CleanedTitle": "blues-lesson",
       "Artist": "Corey Heuvel",
@@ -6346,7 +6361,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=4787"
     },
     {
-      "Id": 424,
+      "Id": 425,
       "Title": "Eyes Wider Than Before",
       "CleanedTitle": "eyes-wider-than-before",
       "Artist": "Scott Matthews",
@@ -6361,7 +6376,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=5383 , https://youtu.be/xMTVh9YaaVc&t=6369"
     },
     {
-      "Id": 425,
+      "Id": 426,
       "Title": "Every Little Thing She Does Is Magic",
       "CleanedTitle": "every-little-thing-she-does-is-magic",
       "Artist": "The Police",
@@ -6376,7 +6391,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=5726 , https://youtu.be/lfZRI_tmFH8&t=1345 , https://youtu.be/Lpcd7ALm6r4&t=1509 , https://youtu.be/GpaZbjokFec?feature=share&t=2301"
     },
     {
-      "Id": 426,
+      "Id": 427,
       "Title": "Hammer To Fall (Electric riff)",
       "CleanedTitle": "hammer-to-fall-electric-riff",
       "Artist": "Queen",
@@ -6391,7 +6406,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=6655"
     },
     {
-      "Id": 427,
+      "Id": 428,
       "Title": "Tie Your Mother Down (Electric riff)",
       "CleanedTitle": "tie-your-mother-down-electric-riff",
       "Artist": "Queen",
@@ -6406,7 +6421,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=6676"
     },
     {
-      "Id": 428,
+      "Id": 429,
       "Title": "Lithium",
       "CleanedTitle": "lithium",
       "Artist": "Nirvana",
@@ -6421,7 +6436,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=6714 , https://youtu.be/0vseNNLzOWY&t=5260 , https://youtu.be/Qh8m_ldN2zw&t=7124 , https://youtu.be/watch?v=twwoDRDMthg&t=4013"
     },
     {
-      "Id": 429,
+      "Id": 430,
       "Title": "Shine On You Crazy Diamond (Electric riff)",
       "CleanedTitle": "shine-on-you-crazy-diamond-electric-riff",
       "Artist": "Pink Floyd",
@@ -6436,7 +6451,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=6751 , https://youtu.be/0vseNNLzOWY&t=7906"
     },
     {
-      "Id": 430,
+      "Id": 431,
       "Title": "Back In Black (Electric riff)",
       "CleanedTitle": "back-in-black-electric-riff",
       "Artist": "AC/DC",
@@ -6451,7 +6466,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=6814 , https://youtu.be/watch?v=lfNvWAOnwQw&t=7078"
     },
     {
-      "Id": 431,
+      "Id": 432,
       "Title": "Welcome To The Jungle (Electric riff)",
       "CleanedTitle": "welcome-to-the-jungle-electric-riff",
       "Artist": "Guns N' Roses",
@@ -6466,7 +6481,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=6837"
     },
     {
-      "Id": 432,
+      "Id": 433,
       "Title": "All Right Now (Electric riff)",
       "CleanedTitle": "all-right-now-electric-riff",
       "Artist": "Free",
@@ -6481,7 +6496,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=6908"
     },
     {
-      "Id": 433,
+      "Id": 434,
       "Title": "Lenny",
       "CleanedTitle": "lenny",
       "Artist": "Stevie Ray Vaughan",
@@ -6496,7 +6511,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=6950 , https://youtu.be/UvL7GFjtrj0&t=3908 , https://youtu.be/VEh4FA59OGA&t=8562 , https://youtu.be/WQ8mpI5z7z4&t=8853 , https://youtu.be/watch?v=x3skjeOvXxo&t=6795"
     },
     {
-      "Id": 434,
+      "Id": 435,
       "Title": "Seven Nation Army",
       "CleanedTitle": "seven-nation-army",
       "Artist": "The White Stripes",
@@ -6511,7 +6526,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7045 , https://youtu.be/PPq9uuigSs0&t=6998"
     },
     {
-      "Id": 435,
+      "Id": 436,
       "Title": "Howlin' for You (Electric riff)",
       "CleanedTitle": "howlin-for-you-electric-riff",
       "Artist": "The Black Keys",
@@ -6526,7 +6541,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7098 , https://youtu.be/biTNdO9Z6Y8&t=8790"
     },
     {
-      "Id": 436,
+      "Id": 437,
       "Title": "Paranoid (Partial)",
       "CleanedTitle": "paranoid-partial",
       "Artist": "Black Sabbath",
@@ -6541,7 +6556,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7148 , https://youtu.be/WGGj7qyf4pA&t=8689 , https://youtu.be/watch?v=F7kc9DzOJgk&t=10892"
     },
     {
-      "Id": 437,
+      "Id": 438,
       "Title": "War Pigs (Partial)",
       "CleanedTitle": "war-pigs-partial",
       "Artist": "Black Sabbath",
@@ -6556,7 +6571,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7182 , https://youtu.be/watch?v=F7kc9DzOJgk&t=10900"
     },
     {
-      "Id": 438,
+      "Id": 439,
       "Title": "Miserlou (Partial)",
       "CleanedTitle": "miserlou-partial",
       "Artist": "Dick Dale",
@@ -6571,7 +6586,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7237 , https://youtu.be/watch?v=lfNvWAOnwQw&t=6473 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=10041"
     },
     {
-      "Id": 439,
+      "Id": 440,
       "Title": "Personal Jesus (Electric riff)",
       "CleanedTitle": "personal-jesus-electric-riff",
       "Artist": "Depeche Mode",
@@ -6586,7 +6601,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7275"
     },
     {
-      "Id": 440,
+      "Id": 441,
       "Title": "Joker And The Thief (Electric riff)",
       "CleanedTitle": "joker-and-the-thief-electric-riff",
       "Artist": "Wolfmother",
@@ -6601,7 +6616,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7289"
     },
     {
-      "Id": 441,
+      "Id": 442,
       "Title": "Tush",
       "CleanedTitle": "tush",
       "Artist": "ZZ Top",
@@ -6616,7 +6631,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7314 , https://youtu.be/x048oootisY&t=8953 , https://youtu.be/Yr3DnVxJbnA&t=4399 , https://youtu.be/watch?v=gzOWoVXQdgU&t=769 , https://youtu.be/watch?v=F7kc9DzOJgk&t=8384"
     },
     {
-      "Id": 442,
+      "Id": 443,
       "Title": "Won't Get Fooled Again (Partial)",
       "CleanedTitle": "wont-get-fooled-again-partial",
       "Artist": "The Who",
@@ -6631,7 +6646,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7386 , https://youtu.be/bVTlDNPzTn4&t=9553"
     },
     {
-      "Id": 443,
+      "Id": 444,
       "Title": "Enter Sandman (Electric riff)",
       "CleanedTitle": "enter-sandman-electric-riff",
       "Artist": "Metallica",
@@ -6646,7 +6661,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7415 , https://youtu.be/0vseNNLzOWY&t=7753"
     },
     {
-      "Id": 444,
+      "Id": 445,
       "Title": "Fuzz Universe (Electric riff)",
       "CleanedTitle": "fuzz-universe-electric-riff",
       "Artist": "Paul Gilbert",
@@ -6661,7 +6676,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=7525"
     },
     {
-      "Id": 445,
+      "Id": 446,
       "Title": "Magic Carpet Ride",
       "CleanedTitle": "magic-carpet-ride",
       "Artist": "Steppenwolf",
@@ -6676,7 +6691,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=8143 , https://youtu.be/Qih3Nx18Yas&t=5061 , https://youtu.be/jdD05keNX5w&t=2173 , https://youtu.be/ShAGixH0AfU&t=2781 , https://youtu.be/KACYxeAmdCs?feature=share&t=7073"
     },
     {
-      "Id": 446,
+      "Id": 447,
       "Title": "Dani California",
       "CleanedTitle": "dani-california",
       "Artist": "Red Hot Chili Peppers",
@@ -6691,7 +6706,7 @@
       "Links": "https://youtu.be/AraZ934iGwQ&t=9717 , https://youtu.be/9mwYBbDX0dY&t=3742 , https://youtu.be/yT-ZTr6ntP4&t=7210 , https://youtu.be/CqHIgye4I8s?feature=share&t=1932"
     },
     {
-      "Id": 447,
+      "Id": 448,
       "Title": "Hole Hearted",
       "CleanedTitle": "hole-hearted",
       "Artist": "Extreme",
@@ -6706,7 +6721,7 @@
       "Links": "https://youtu.be/RLZoln3RATs&t=3596 , https://youtu.be/hs3UcA7DP4U&t=2417 , https://youtu.be/j9CL1ydfDSI&t=3727 , https://youtu.be/watch?v=oGvWPFlm1fM&t=4157"
     },
     {
-      "Id": 448,
+      "Id": 449,
       "Title": "Like a Stone",
       "CleanedTitle": "like-a-stone",
       "Artist": "Audioslave",
@@ -6721,7 +6736,7 @@
       "Links": "https://youtu.be/RLZoln3RATs&t=5988 , https://youtu.be/vqOBj04MFrw&t=5060 , https://youtu.be/5Y_XA4lXk_8&t=3835 , https://youtu.be/watch?v=F7kc9DzOJgk&t=7575 , https://youtu.be/watch?v=x3skjeOvXxo&t=4758"
     },
     {
-      "Id": 449,
+      "Id": 450,
       "Title": "Dear Prudence",
       "CleanedTitle": "dear-prudence",
       "Artist": "The Beatles",
@@ -6736,7 +6751,7 @@
       "Links": "https://youtu.be/RLZoln3RATs&t=9101"
     },
     {
-      "Id": 450,
+      "Id": 451,
       "Title": "Quick Metal Style Riff",
       "CleanedTitle": "quick-metal-style-riff",
       "Artist": "Corey Heuvel",
@@ -6751,7 +6766,7 @@
       "Links": "https://youtu.be/T6ydeqXOIvk&t=594"
     },
     {
-      "Id": 451,
+      "Id": 452,
       "Title": "Nutshell",
       "CleanedTitle": "nutshell",
       "Artist": "Alice In Chains",
@@ -6766,7 +6781,7 @@
       "Links": "https://youtu.be/T6ydeqXOIvk&t=3561 , https://youtu.be/WGGj7qyf4pA&t=3807 , https://youtu.be/0vseNNLzOWY&t=5634 , https://youtu.be/lmyOp2MHwCY&t=5213 , https://youtu.be/exm9X0zIDaA&t=7810 , https://youtu.be/watch?v=JR6OhpR0pU0&t=2977"
     },
     {
-      "Id": 452,
+      "Id": 453,
       "Title": "Just Like Heaven",
       "CleanedTitle": "just-like-heaven",
       "Artist": "The Cure",
@@ -6781,7 +6796,7 @@
       "Links": "https://youtu.be/T6ydeqXOIvk&t=4813 , https://youtu.be/h3nHBsoSZYA&t=4078"
     },
     {
-      "Id": 453,
+      "Id": 454,
       "Title": "Every Teardrop is a Waterfall",
       "CleanedTitle": "every-teardrop-is-a-waterfall",
       "Artist": "Coldplay",
@@ -6796,7 +6811,7 @@
       "Links": "https://youtu.be/T6ydeqXOIvk&t=5550"
     },
     {
-      "Id": 454,
+      "Id": 455,
       "Title": "Mr Sandman",
       "CleanedTitle": "mr-sandman",
       "Artist": "Chet Atkins",
@@ -6811,7 +6826,7 @@
       "Links": "https://youtu.be/T6ydeqXOIvk&t=7578"
     },
     {
-      "Id": 455,
+      "Id": 456,
       "Title": "Patience",
       "CleanedTitle": "patience",
       "Artist": "Chris Cornell",
@@ -6826,7 +6841,7 @@
       "Links": "https://youtu.be/T6ydeqXOIvk&t=8779 , https://youtu.be/9mwYBbDX0dY&t=4819"
     },
     {
-      "Id": 456,
+      "Id": 457,
       "Title": "Riveria Paradise (Partial)",
       "CleanedTitle": "riveria-paradise-partial",
       "Artist": "Stevie Ray Vaughan",
@@ -6841,7 +6856,7 @@
       "Links": "https://youtu.be/RCraRcpxmDo&t=2874 , https://youtu.be/watch?v=x3skjeOvXxo&t=6852"
     },
     {
-      "Id": 457,
+      "Id": 458,
       "Title": "Blossom",
       "CleanedTitle": "blossom",
       "Artist": "James Taylor",
@@ -6856,7 +6871,7 @@
       "Links": "https://youtu.be/RCraRcpxmDo&t=3578"
     },
     {
-      "Id": 458,
+      "Id": 459,
       "Title": "Mr Crowley (Partial)",
       "CleanedTitle": "mr-crowley-partial",
       "Artist": "Ozzy Osbourne",
@@ -6871,7 +6886,7 @@
       "Links": "https://youtu.be/RCraRcpxmDo&t=4324"
     },
     {
-      "Id": 459,
+      "Id": 460,
       "Title": "Pistol Slapper Blues",
       "CleanedTitle": "pistol-slapper-blues",
       "Artist": "Rory Gallagher",
@@ -6886,7 +6901,7 @@
       "Links": "https://youtu.be/RCraRcpxmDo&t=4559 , https://youtu.be/JpKnYI_-2OA&t=2593 , https://youtu.be/pvM5qp6ZCS4&t=1372"
     },
     {
-      "Id": 460,
+      "Id": 461,
       "Title": "Prelude in E Major (BWV 1006a)",
       "CleanedTitle": "prelude-in-e-major-bwv-1006a",
       "Artist": "Johann Sebastian Bach",
@@ -6901,7 +6916,7 @@
       "Links": "https://youtu.be/RCraRcpxmDo&t=5742 , https://youtu.be/8jK6wYjrnw4&t=3686 , https://youtu.be/watch?v=F7kc9DzOJgk&t=10956"
     },
     {
-      "Id": 461,
+      "Id": 462,
       "Title": "Soldier's Eyes",
       "CleanedTitle": "soldiers-eyes",
       "Artist": "Jack Savoretti",
@@ -6916,7 +6931,7 @@
       "Links": "https://youtu.be/RCraRcpxmDo&t=7332"
     },
     {
-      "Id": 462,
+      "Id": 463,
       "Title": "Into the Mystic",
       "CleanedTitle": "into-the-mystic",
       "Artist": "Van Morrison",
@@ -6931,7 +6946,7 @@
       "Links": "https://youtu.be/RCraRcpxmDo&t=8932 , https://youtu.be/q0SOrSxKE90&t=5278 , https://youtu.be/gVy2vkeHV_I&t=6912 , https://youtu.be/watch?v=9gkOvE2nTlM&t=1040 , https://youtu.be/watch?v=lq5YJLgEDWI&t=7369"
     },
     {
-      "Id": 463,
+      "Id": 464,
       "Title": "Sugar Man",
       "CleanedTitle": "sugar-man",
       "Artist": "Rodriguez",
@@ -6946,7 +6961,7 @@
       "Links": "https://youtu.be/CoQ0bS1d7uo&t=2288"
     },
     {
-      "Id": 464,
+      "Id": 465,
       "Title": "Blues licks (Some SRV/Hendrix)",
       "CleanedTitle": "blues-licks-some-srv-hendrix",
       "Artist": "Corey Heuvel",
@@ -6961,7 +6976,7 @@
       "Links": "https://youtu.be/CoQ0bS1d7uo&t=3660"
     },
     {
-      "Id": 465,
+      "Id": 466,
       "Title": "Blues Slide Improv",
       "CleanedTitle": "blues-slide-improv",
       "Artist": "Corey Heuvel",
@@ -6976,7 +6991,7 @@
       "Links": "https://youtu.be/CoQ0bS1d7uo&t=3766"
     },
     {
-      "Id": 466,
+      "Id": 467,
       "Title": "Treetop Flyer",
       "CleanedTitle": "treetop-flyer",
       "Artist": "Stephen Stills",
@@ -6991,7 +7006,7 @@
       "Links": "https://youtu.be/CoQ0bS1d7uo&t=6445 , https://youtu.be/9mwYBbDX0dY&t=2548 , https://youtu.be/hs3UcA7DP4U&t=2800 , https://youtu.be/GqfNqQlrL8A&t=2134 , https://youtu.be/1W4TxxgXnOk&t=3278 , https://youtu.be/0W8Q-hGHd80&t=8826 , https://youtu.be/JNbwlKX5IJE&t=3790"
     },
     {
-      "Id": 467,
+      "Id": 468,
       "Title": "Bad Penny",
       "CleanedTitle": "bad-penny",
       "Artist": "Rory Gallagher",
@@ -7006,7 +7021,7 @@
       "Links": "https://youtu.be/CoQ0bS1d7uo&t=8975 , https://youtu.be/biTNdO9Z6Y8&t=9266"
     },
     {
-      "Id": 468,
+      "Id": 469,
       "Title": "Enough To Leave",
       "CleanedTitle": "enough-to-leave",
       "Artist": "Billy Strings",
@@ -7021,7 +7036,7 @@
       "Links": "https://youtu.be/CoQ0bS1d7uo&t=9868 , https://youtu.be/biTNdO9Z6Y8&t=6922 , https://youtu.be/EX4bD4sLh3Y&t=8852"
     },
     {
-      "Id": 469,
+      "Id": 470,
       "Title": "Let's Go Crazy (Partial)",
       "CleanedTitle": "lets-go-crazy-partial",
       "Artist": "Prince",
@@ -7036,7 +7051,7 @@
       "Links": "https://youtu.be/L1VngMqyXo4&t=1649 , https://youtu.be/watch?v=lq5YJLgEDWI&t=9823"
     },
     {
-      "Id": 470,
+      "Id": 471,
       "Title": "Wild World",
       "CleanedTitle": "wild-world",
       "Artist": "Yusuf / Cat Stevens",
@@ -7051,7 +7066,7 @@
       "Links": "https://youtu.be/L1VngMqyXo4&t=3627 , https://youtu.be/dhxJ9HuV65g&t=8223 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=6880"
     },
     {
-      "Id": 471,
+      "Id": 472,
       "Title": "A Horse with No Name (Partial)",
       "CleanedTitle": "a-horse-with-no-name-partial",
       "Artist": "America, George Martin",
@@ -7066,7 +7081,7 @@
       "Links": "https://youtu.be/L1VngMqyXo4&t=5007"
     },
     {
-      "Id": 472,
+      "Id": 473,
       "Title": "Riverboat Fantasy",
       "CleanedTitle": "riverboat-fantasy",
       "Artist": "David Wilcox",
@@ -7081,7 +7096,7 @@
       "Links": "https://youtu.be/L1VngMqyXo4&t=6413 , https://youtu.be/5Y_XA4lXk_8&t=8168"
     },
     {
-      "Id": 473,
+      "Id": 474,
       "Title": "Intro \"Jhana\"",
       "CleanedTitle": "intro-jhana",
       "Artist": "Corey Heuvel",
@@ -7096,7 +7111,7 @@
       "Links": "https://youtu.be/UvL7GFjtrj0&t=6 , https://youtu.be/biTNdO9Z6Y8&t=2 , https://youtu.be/Qih3Nx18Yas&t=11 , https://youtu.be/gu7ChqD4Qm4&t=12"
     },
     {
-      "Id": 474,
+      "Id": 475,
       "Title": "Deuces are Wild",
       "CleanedTitle": "deuces-are-wild",
       "Artist": "Aerosmith",
@@ -7111,7 +7126,7 @@
       "Links": "https://youtu.be/UvL7GFjtrj0&t=6038 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=1666"
     },
     {
-      "Id": 475,
+      "Id": 476,
       "Title": "Clouds Race Across the Sky (Partial)",
       "CleanedTitle": "clouds-race-across-the-sky-partial",
       "Artist": "Joe Satriani",
@@ -7126,7 +7141,7 @@
       "Links": "https://youtu.be/UvL7GFjtrj0&t=7043"
     },
     {
-      "Id": 476,
+      "Id": 477,
       "Title": "Drops of Jupiter (Tell Me)",
       "CleanedTitle": "drops-of-jupiter-tell-me",
       "Artist": "Train",
@@ -7141,7 +7156,7 @@
       "Links": "https://youtu.be/UvL7GFjtrj0&t=9492 , https://youtu.be/4MsSeM9AR60&t=3243 , https://youtu.be/S0H-UbV9G48&t=8577"
     },
     {
-      "Id": 477,
+      "Id": 478,
       "Title": "Outro \"Jhana\"",
       "CleanedTitle": "outro-jhana",
       "Artist": "Corey Heuvel",
@@ -7156,7 +7171,7 @@
       "Links": "https://youtu.be/UvL7GFjtrj0&t=11274 , https://youtu.be/biTNdO9Z6Y8&t=11111 , https://youtu.be/bVTlDNPzTn4&t=11094 , https://youtu.be/ROzDnzn7Vwo&t=11335 , https://youtu.be/CxcBGVkfVMc&t=9246 , https://youtu.be/9mwYBbDX0dY&t=11193 , https://youtu.be/VEh4FA59OGA&t=11202 , https://youtu.be/JUiD_BqlTHw&t=11146 , https://youtu.be/LuQ78Y2Fiwo&t=11107 , https://youtu.be/KLIWP_nbaXs&t=11311 , https://youtu.be/MhNKFJxwK8g&t=11361 , https://youtu.be/Q4p-jIfkQpM&t=11168 , https://youtu.be/hs3UcA7DP4U&t=11154 , https://youtu.be/qfsm5R2EeOU&t=11690 , https://youtu.be/79E9gUpu6pk&t=11275 , https://youtu.be/xMTVh9YaaVc&t=11191 , https://youtu.be/bCz3cavBkog&t=11476 , https://youtu.be/2YwudKYPIeE&t=11307 , https://youtu.be/PPq9uuigSs0&t=11333 , https://youtu.be/Y473wJBI_Y8&t=11203 , https://youtu.be/sfTsmIo6Ybo&t=11491 , https://youtu.be/4MsSeM9AR60&t=11438 , https://youtu.be/__nszU6iOlM&t=11433 , https://youtu.be/WQ8mpI5z7z4&t=11177 , https://youtu.be/uLKs6770MzM&t=11269 , https://youtu.be/ERjisFF12Vk&t=11312 , https://youtu.be/q0SOrSxKE90&t=11178 , https://youtu.be/jdD05keNX5w&t=11417 , https://youtu.be/9-UHTEmE9UU&t=11440 , https://youtu.be/x048oootisY&t=11059 , https://youtu.be/0vseNNLzOWY&t=11431 , https://youtu.be/T_2aqBkmeUc&t=11470 , https://youtu.be/_7xQAOqGbk4&t=11064 , https://youtu.be/GqfNqQlrL8A&t=11273 , https://youtu.be/U1AhJr6L5SU&t=11227 , https://youtu.be/DqQEPSThDlg&t=11408 , https://youtu.be/1W4TxxgXnOk&t=11147 , https://youtu.be/vqOBj04MFrw&t=11173 , https://youtu.be/j9CL1ydfDSI&t=11268 , https://youtu.be/S0H-UbV9G48&t=11138 , https://youtu.be/yiFNZvisSQw&t=11408 , https://youtu.be/EX4bD4sLh3Y&t=11379 , https://youtu.be/lmyOp2MHwCY&t=11107 , https://youtu.be/JpKnYI_-2OA&t=11297 , https://youtu.be/y83VDXWJbQE&t=11341 , https://youtu.be/HTJSoHhm7aY&t=11410 , https://youtu.be/exm9X0zIDaA&t=11485 , https://youtu.be/aiAhYDQQdUo&t=11333 , https://youtu.be/gVy2vkeHV_I&t=11447 , https://youtu.be/GDMlH7bT0FA&t=11443 , https://youtu.be/dhxJ9HuV65g&t=11181 , https://youtu.be/0W8Q-hGHd80&t=11022 , https://youtu.be/h3nHBsoSZYA&t=11281 , https://youtu.be/yT-ZTr6ntP4&t=11039 , https://youtu.be/pVDmEFQX16c&t=11215 , https://youtu.be/Bs2mSVV4b38&t=11378 , https://youtu.be/JNbwlKX5IJE&t=11111 , https://youtu.be/2vn_PYw-W6o&t=11184 , https://youtu.be/seLDpNLZFDU&t=11310 , https://youtu.be/7ub_S5Kx-wA&t=11241 , https://youtu.be/s6H9GdbDwbQ&t=11370 , https://youtu.be/YAxlXf4Ftt0&t=11145 , https://youtu.be/KoChozPGk7c&t=11066 , https://youtu.be/PvNuNSk9iPM&t=11408 , https://youtu.be/7Yc3utlluNc&t=11286 , https://youtu.be/h_KbDQybQmE&t=11300 , https://youtu.be/ZQkl5zQvwvI&t=10908 , https://youtu.be/EAYQjuMqF1U&t=11357 , https://youtu.be/HJpwaG3PP3E&t=11143 , https://youtu.be/Yr3DnVxJbnA&t=10986 , https://youtu.be/MmxzKv8Mw2E&t=10950 , https://youtu.be/5Y_XA4lXk_8&t=11071 , https://youtu.be/lfZRI_tmFH8&t=11077 , https://youtu.be/pvM5qp6ZCS4&t=11260 , https://youtu.be/ebv-JlkIPUY&t=11025 , https://youtu.be/goEx4wnnaQw&t=10752 , https://youtu.be/bEBVkT9SWFY&t=11338 , https://youtu.be/6Yy57i8sR0s&t=10814 , https://youtu.be/Qh8m_ldN2zw&t=11300 , https://youtu.be/iB2cbbPaJU0&t=11191 , https://youtu.be/HdqJmfuPKyM&t=11353 , https://youtu.be/9sCm4eY4VKg&t=11413 , https://youtu.be/skPtRNli5KY&t=11446 , https://youtu.be/ShAGixH0AfU&t=11015 , https://youtu.be/dWIijDnVkho&t=11074 , https://youtu.be/yN7gKYOObcE&t=11691 , https://youtu.be/HQCt4rx-y8Q&t=11339 , https://youtu.be/Lpcd7ALm6r4&t=11301 , https://youtu.be/wSBFKylNQjU&t=11106 , https://youtu.be/9RNVOwRTSwc&t=11246 , https://youtu.be/vRD0K6kl3Qs&t=11574 , https://youtu.be/rHhhcP4jGD8&t=11169 , https://youtu.be/IJmsYXQl5dA&t=11129 , https://youtu.be/_KscIFUrM14&t=11171 , https://youtu.be/8jK6wYjrnw4&t=10726 , https://youtu.be/sXKeY6LpR9g&t=11612 , https://youtu.be/ARCgeQF6tRg&t=11353 , https://youtu.be/CqHIgye4I8s?feature=share&t=11219 , https://youtu.be/GpaZbjokFec?feature=share&t=11602 , https://youtu.be/FHa2vjbViJo?feature=share&t=11258 , https://youtu.be/s-v4qoUK0tU?feature=share&t=11360 , https://youtu.be/jomOdvKXNa4?feature=share&t=11158 , https://youtu.be/QLLYLiTUyDY?feature=share&t=11235 , https://youtu.be/v56fDp25FcM?feature=share&t=11284 , https://youtu.be/r4JaTRrhap8?feature=share&t=11278 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=11301 , https://youtu.be/2xkUDe5ZndE?feature=share&t=11284 , https://youtu.be/BvCyN3QU46c?feature=share&t=11359 , https://youtu.be/jyGZgv6rFqo?feature=share&t=11470 , https://youtu.be/Mm_r2XHf7kw?feature=share&t=11061 , https://youtu.be/1HkYscBWtp8?feature=share&t=11311 , https://youtu.be/KACYxeAmdCs?feature=share&t=11320 , https://youtu.be/c1H63fb1AJs?feature=share&t=11202 , https://youtu.be/il7d9PknEmQ?feature=share&t=12284"
     },
     {
-      "Id": 478,
+      "Id": 479,
       "Title": "Study in B-Minor",
       "CleanedTitle": "study-in-b-minor",
       "Artist": "Fernando Sor",
@@ -7171,7 +7186,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=4544 , https://youtu.be/watch?v=H_j-P2w0QaA&t=5249"
     },
     {
-      "Id": 479,
+      "Id": 480,
       "Title": "Lágrima",
       "CleanedTitle": "lagrima",
       "Artist": "Francisco Tárrega",
@@ -7186,7 +7201,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=4671 , https://youtu.be/gu7ChqD4Qm4&t=8108 , https://youtu.be/WQ8mpI5z7z4&t=6475 , https://youtu.be/HTJSoHhm7aY&t=8616 , https://youtu.be/Yr3DnVxJbnA&t=5885"
     },
     {
-      "Id": 480,
+      "Id": 481,
       "Title": "Eugene's Trick Bag (Electric riff)",
       "CleanedTitle": "eugenes-trick-bag-electric-riff",
       "Artist": "Steve Vai",
@@ -7201,7 +7216,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=8187 , https://youtu.be/WGGj7qyf4pA&t=8534 , https://youtu.be/sfTsmIo6Ybo&t=6825 , https://youtu.be/0vseNNLzOWY&t=7637 , https://youtu.be/0vseNNLzOWY&t=7837"
     },
     {
-      "Id": 481,
+      "Id": 482,
       "Title": "Purple Haze",
       "CleanedTitle": "purple-haze",
       "Artist": "Jimi Hendrix",
@@ -7216,7 +7231,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=8301 , https://youtu.be/WGGj7qyf4pA&t=7477 , https://youtu.be/MhNKFJxwK8g&t=7684 , https://youtu.be/bCz3cavBkog&t=1021 , https://youtu.be/watch?v=oGvWPFlm1fM&t=443"
     },
     {
-      "Id": 482,
+      "Id": 483,
       "Title": "Oh Well (Electric riff)",
       "CleanedTitle": "oh-well-electric-riff",
       "Artist": "Fleetwood Mac",
@@ -7231,7 +7246,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=8341"
     },
     {
-      "Id": 483,
+      "Id": 484,
       "Title": "Scuttle Buttin' (Partial)",
       "CleanedTitle": "scuttle-buttin-partial",
       "Artist": "Stevie Ray Vaughan",
@@ -7246,7 +7261,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=8424 , https://youtu.be/PPq9uuigSs0&t=1303 , https://youtu.be/watch?v=gzOWoVXQdgU&t=5826 , https://youtu.be/watch?v=lfNvWAOnwQw&t=7102 , https://youtu.be/watch?v=x3skjeOvXxo&t=6402"
     },
     {
-      "Id": 484,
+      "Id": 485,
       "Title": "Sweet Child O'Mine (Partial)",
       "CleanedTitle": "sweet-child-omine-partial",
       "Artist": "Guns N' Roses",
@@ -7261,7 +7276,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=8489 , https://youtu.be/watch?v=gzOWoVXQdgU&t=639"
     },
     {
-      "Id": 485,
+      "Id": 486,
       "Title": "Cowboys from Hell (Partial)",
       "CleanedTitle": "cowboys-from-hell-partial",
       "Artist": "Pantera",
@@ -7276,7 +7291,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=8520 , https://youtu.be/sfTsmIo6Ybo&t=6566 , https://youtu.be/watch?v=uUJq2ppfAyg&t=1083 , https://youtu.be/watch?v=lfNvWAOnwQw&t=7373 , https://youtu.be/watch?v=x3skjeOvXxo&t=7658"
     },
     {
-      "Id": 486,
+      "Id": 487,
       "Title": "Bad To The Bone (Electric riff/Blues Slide)",
       "CleanedTitle": "bad-to-the-bone-electric-riff-blues-slide",
       "Artist": "George Thorogood & The Destroyers",
@@ -7291,7 +7306,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=8573"
     },
     {
-      "Id": 487,
+      "Id": 488,
       "Title": "Suize Q (Electric riff)",
       "CleanedTitle": "suize-q-electric-riff",
       "Artist": "Creedence Clearwater Revival",
@@ -7306,7 +7321,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=8668"
     },
     {
-      "Id": 488,
+      "Id": 489,
       "Title": "Always with Me, Always with You (Electric riff)",
       "CleanedTitle": "always-with-me-always-with-you-electric-riff",
       "Artist": "Joe Satriani",
@@ -7321,7 +7336,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=8962 , https://youtu.be/0vseNNLzOWY&t=7541"
     },
     {
-      "Id": 489,
+      "Id": 490,
       "Title": "Heartbreaker (Electric riff)",
       "CleanedTitle": "heartbreaker-electric-riff",
       "Artist": "Led Zeppelin",
@@ -7336,7 +7351,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=9041 , https://youtu.be/WGGj7qyf4pA&t=8453"
     },
     {
-      "Id": 490,
+      "Id": 491,
       "Title": "Rocky Mountain Way (Partial)",
       "CleanedTitle": "rocky-mountain-way-partial",
       "Artist": "Joe Walsh",
@@ -7351,7 +7366,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=9080 , https://youtu.be/watch?v=lq5YJLgEDWI&t=2405"
     },
     {
-      "Id": 491,
+      "Id": 492,
       "Title": "More Than a Feeling (Partial)",
       "CleanedTitle": "more-than-a-feeling-partial",
       "Artist": "Boston",
@@ -7366,7 +7381,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=9119 , https://youtu.be/h_KbDQybQmE&t=4416"
     },
     {
-      "Id": 492,
+      "Id": 493,
       "Title": "Black Dog (Partial)",
       "CleanedTitle": "black-dog-partial",
       "Artist": "Led Zeppelin",
@@ -7381,7 +7396,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=9167 , https://youtu.be/watch?v=gzOWoVXQdgU&t=526 , https://youtu.be/watch?v=lfNvWAOnwQw&t=2471 , https://youtu.be/watch?v=x3skjeOvXxo&t=7267"
     },
     {
-      "Id": 493,
+      "Id": 494,
       "Title": "One Step Closer (Electric riff)",
       "CleanedTitle": "one-step-closer-electric-riff",
       "Artist": "Linkin Park",
@@ -7396,7 +7411,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=9215"
     },
     {
-      "Id": 494,
+      "Id": 495,
       "Title": "Rocket Man",
       "CleanedTitle": "rocket-man",
       "Artist": "Elton John",
@@ -7411,7 +7426,7 @@
       "Links": "https://youtu.be/biTNdO9Z6Y8&t=9911 , https://youtu.be/vqOBj04MFrw&t=9273 , https://youtu.be/gVy2vkeHV_I&t=9336 , https://youtu.be/5Y_XA4lXk_8&t=8476 , https://youtu.be/dWIijDnVkho&t=9250 , https://youtu.be/HQCt4rx-y8Q&t=3762 , https://youtu.be/CqHIgye4I8s?feature=share&t=9963 , https://youtu.be/watch?v=01eDLSmTMtQ&t=8518"
     },
     {
-      "Id": 495,
+      "Id": 496,
       "Title": "Intro \"The New\"",
       "CleanedTitle": "intro-the-new",
       "Artist": "Corey Heuvel",
@@ -7426,7 +7441,7 @@
       "Links": "https://youtu.be/bVTlDNPzTn4&t=19 , https://youtu.be/ROzDnzn7Vwo&t=14 , https://youtu.be/Q4p-jIfkQpM&t=1 , https://youtu.be/hs3UcA7DP4U&t=10 , https://youtu.be/qfsm5R2EeOU&t=12 , https://youtu.be/1W4TxxgXnOk&t=8"
     },
     {
-      "Id": 496,
+      "Id": 497,
       "Title": "Jet Airliner",
       "CleanedTitle": "jet-airliner",
       "Artist": "Steve Miller Band",
@@ -7441,7 +7456,7 @@
       "Links": "https://youtu.be/bVTlDNPzTn4&t=3178 , https://youtu.be/wSBFKylNQjU&t=3362 , https://youtu.be/BvCyN3QU46c?feature=share&t=2258 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=9635"
     },
     {
-      "Id": 497,
+      "Id": 498,
       "Title": "Otherside",
       "CleanedTitle": "otherside",
       "Artist": "Red Hot Chili Peppers",
@@ -7456,7 +7471,7 @@
       "Links": "https://youtu.be/bVTlDNPzTn4&t=4088 , https://youtu.be/jyGZgv6rFqo?feature=share&t=2639"
     },
     {
-      "Id": 498,
+      "Id": 499,
       "Title": "Parchman Farm Blues",
       "CleanedTitle": "parchman-farm-blues",
       "Artist": "Jeff Buckley",
@@ -7471,7 +7486,7 @@
       "Links": "https://youtu.be/bVTlDNPzTn4&t=5889 , https://youtu.be/jomOdvKXNa4?feature=share&t=5738 , https://youtu.be/watch?v=nCRWhvGFWUE&t=6947 , https://youtu.be/watch?v=0nRONZ-KEQk&t=5655"
     },
     {
-      "Id": 499,
+      "Id": 500,
       "Title": "The Cave",
       "CleanedTitle": "the-cave",
       "Artist": "Mumford & Sons",
@@ -7486,7 +7501,7 @@
       "Links": "https://youtu.be/bVTlDNPzTn4&t=7015 , https://youtu.be/WGGj7qyf4pA&t=6301 , https://youtu.be/T_2aqBkmeUc&t=8545 , https://youtu.be/Mm_r2XHf7kw?feature=share&t=5666"
     },
     {
-      "Id": 500,
+      "Id": 501,
       "Title": "Til I Am Myself Again",
       "CleanedTitle": "til-i-am-myself-again",
       "Artist": "Blue Rodeo",
@@ -7501,7 +7516,7 @@
       "Links": "https://youtu.be/bVTlDNPzTn4&t=7529 , https://youtu.be/BvCyN3QU46c?feature=share&t=7044 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=4349"
     },
     {
-      "Id": 501,
+      "Id": 502,
       "Title": "Street Spirit (Fade Out)",
       "CleanedTitle": "street-spirit-fade-out",
       "Artist": "Radiohead",
@@ -7516,7 +7531,7 @@
       "Links": "https://youtu.be/bVTlDNPzTn4&t=8363 , https://youtu.be/Y473wJBI_Y8&t=5567 , https://youtu.be/1W4TxxgXnOk&t=6363 , https://youtu.be/GDMlH7bT0FA&t=3219 , https://youtu.be/h3nHBsoSZYA&t=8206 , https://youtu.be/CqHIgye4I8s?feature=share&t=6730 , https://youtu.be/watch?v=F7kc9DzOJgk&t=6262"
     },
     {
-      "Id": 502,
+      "Id": 503,
       "Title": "Volcano",
       "CleanedTitle": "volcano",
       "Artist": "Damien Rice",
@@ -7531,7 +7546,7 @@
       "Links": "https://youtu.be/ROzDnzn7Vwo&t=2015"
     },
     {
-      "Id": 503,
+      "Id": 504,
       "Title": "Sweet Emotion (Partial)",
       "CleanedTitle": "sweet-emotion-partial",
       "Artist": "Aerosmith",
@@ -7546,7 +7561,7 @@
       "Links": "https://youtu.be/ROzDnzn7Vwo&t=4581"
     },
     {
-      "Id": 504,
+      "Id": 505,
       "Title": "Trouble",
       "CleanedTitle": "trouble",
       "Artist": "Ray LaMontagne",
@@ -7561,7 +7576,7 @@
       "Links": "https://youtu.be/ROzDnzn7Vwo&t=7603 , https://youtu.be/JUiD_BqlTHw&t=885 , https://youtu.be/uLKs6770MzM&t=7450 , https://youtu.be/S0H-UbV9G48&t=1205 , https://youtu.be/h3nHBsoSZYA&t=4366 , https://youtu.be/HQCt4rx-y8Q&t=1410 , https://youtu.be/ARCgeQF6tRg&t=7768"
     },
     {
-      "Id": 505,
+      "Id": 506,
       "Title": "Scar Tissue",
       "CleanedTitle": "scar-tissue",
       "Artist": "Red Hot Chili Peppers",
@@ -7576,7 +7591,7 @@
       "Links": "https://youtu.be/ROzDnzn7Vwo&t=8787 , https://youtu.be/1HkYscBWtp8?feature=share&t=4704"
     },
     {
-      "Id": 506,
+      "Id": 507,
       "Title": "Happy Xmas (War Is Over)",
       "CleanedTitle": "happy-xmas-war-is-over",
       "Artist": "John Lennon, Yoko Ono",
@@ -7591,7 +7606,7 @@
       "Links": "https://youtu.be/ROzDnzn7Vwo&t=10503"
     },
     {
-      "Id": 507,
+      "Id": 508,
       "Title": "Carol of the Bells (Partial)",
       "CleanedTitle": "carol-of-the-bells-partial",
       "Artist": "Trans Siberian Orchestra",
@@ -7606,7 +7621,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=4118"
     },
     {
-      "Id": 508,
+      "Id": 509,
       "Title": "Stranglehold (Electric riff)",
       "CleanedTitle": "stranglehold-electric-riff",
       "Artist": "Ted Nugent",
@@ -7621,7 +7636,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=7189"
     },
     {
-      "Id": 509,
+      "Id": 510,
       "Title": "The Pot (Electric riff)",
       "CleanedTitle": "the-pot-electric-riff",
       "Artist": "Tool",
@@ -7636,7 +7651,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=7295"
     },
     {
-      "Id": 510,
+      "Id": 511,
       "Title": "Song 2 (Partial)",
       "CleanedTitle": "song-2-partial",
       "Artist": "Blur",
@@ -7651,7 +7666,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=7683 , https://youtu.be/HJpwaG3PP3E&t=9055 , https://youtu.be/watch?v=F7kc9DzOJgk&t=2025 , https://youtu.be/watch?v=9rSlmMNfOkY&t=2126"
     },
     {
-      "Id": 511,
+      "Id": 512,
       "Title": "Bohemian Rhapsody (Electric riff)",
       "CleanedTitle": "bohemian-rhapsody-electric-riff",
       "Artist": "Queen",
@@ -7666,7 +7681,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=7774"
     },
     {
-      "Id": 512,
+      "Id": 513,
       "Title": "Star Spangled Banner/American National Anthem (Jimi Hendrix Style)",
       "CleanedTitle": "star-spangled-banner-american-national-anthem-jimi-hendrix-style",
       "Artist": "Francis Scott Key",
@@ -7681,7 +7696,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=7847"
     },
     {
-      "Id": 513,
+      "Id": 514,
       "Title": "Killing In The Name (Electric riff)",
       "CleanedTitle": "killing-in-the-name-electric-riff",
       "Artist": "Rage Against The Machine",
@@ -7696,7 +7711,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=7982"
     },
     {
-      "Id": 514,
+      "Id": 515,
       "Title": "Carry on Wayward Son (Electric riff)",
       "CleanedTitle": "carry-on-wayward-son-electric-riff",
       "Artist": "Kansas",
@@ -7711,7 +7726,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=8155 , https://youtu.be/watch?v=lfNvWAOnwQw&t=7131"
     },
     {
-      "Id": 515,
+      "Id": 516,
       "Title": "Self Esteem (Electric riff)",
       "CleanedTitle": "self-esteem-electric-riff",
       "Artist": "The Offspring",
@@ -7726,7 +7741,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=8226"
     },
     {
-      "Id": 516,
+      "Id": 517,
       "Title": "My Sharona (Electric riff)",
       "CleanedTitle": "my-sharona-electric-riff",
       "Artist": "The Knack",
@@ -7741,7 +7756,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=8239"
     },
     {
-      "Id": 517,
+      "Id": 518,
       "Title": "Man in the Box (Electric riff)",
       "CleanedTitle": "man-in-the-box-electric-riff",
       "Artist": "Alice In Chains",
@@ -7756,7 +7771,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=8417"
     },
     {
-      "Id": 518,
+      "Id": 519,
       "Title": "Beat It (Partial)",
       "CleanedTitle": "beat-it-partial",
       "Artist": "Michael Jackson",
@@ -7771,7 +7786,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=8485 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=1577"
     },
     {
-      "Id": 519,
+      "Id": 520,
       "Title": "Oye Como Va (Electric riff)",
       "CleanedTitle": "oye-como-va-electric-riff",
       "Artist": "Santana",
@@ -7786,7 +7801,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=8614 , https://youtu.be/0vseNNLzOWY&t=8164 , https://youtu.be/watch?v=lfNvWAOnwQw&t=7285"
     },
     {
-      "Id": 520,
+      "Id": 521,
       "Title": "Even Flow (Electric riff)",
       "CleanedTitle": "even-flow-electric-riff",
       "Artist": "Pearl Jam",
@@ -7801,7 +7816,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=8731"
     },
     {
-      "Id": 521,
+      "Id": 522,
       "Title": "Yellow Ledbetter",
       "CleanedTitle": "yellow-ledbetter",
       "Artist": "Pearl Jam",
@@ -7816,7 +7831,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=8747 , https://youtu.be/watch?v=F7kc9DzOJgk&t=7895"
     },
     {
-      "Id": 522,
+      "Id": 523,
       "Title": "Surfing with the Alien (Electric riff)",
       "CleanedTitle": "surfing-with-the-alien-electric-riff",
       "Artist": "Joe Satriani",
@@ -7831,7 +7846,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=8786"
     },
     {
-      "Id": 523,
+      "Id": 524,
       "Title": "Taurus (Partial)",
       "CleanedTitle": "taurus-partial",
       "Artist": "Spirit",
@@ -7846,7 +7861,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=9120"
     },
     {
-      "Id": 524,
+      "Id": 525,
       "Title": "Stairway to Heaven (Partial)",
       "CleanedTitle": "stairway-to-heaven-partial",
       "Artist": "Led Zeppelin",
@@ -7861,7 +7876,7 @@
       "Links": "https://youtu.be/WGGj7qyf4pA&t=9134"
     },
     {
-      "Id": 525,
+      "Id": 526,
       "Title": "Crash Into Me",
       "CleanedTitle": "crash-into-me",
       "Artist": "Dave Matthews Band",
@@ -7876,7 +7891,7 @@
       "Links": "https://youtu.be/CxcBGVkfVMc&t=2241 , https://youtu.be/KLIWP_nbaXs&t=8956 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=4698 , https://youtu.be/watch?v=x3skjeOvXxo&t=924"
     },
     {
-      "Id": 526,
+      "Id": 527,
       "Title": "I'm Cryin'",
       "CleanedTitle": "im-cryin",
       "Artist": "Stevie Ray Vaughan",
@@ -7891,7 +7906,7 @@
       "Links": "https://youtu.be/CxcBGVkfVMc&t=2648 , https://youtu.be/Yr3DnVxJbnA&t=8552"
     },
     {
-      "Id": 527,
+      "Id": 528,
       "Title": "As",
       "CleanedTitle": "as",
       "Artist": "Stevie Wonder",
@@ -7906,7 +7921,7 @@
       "Links": "https://youtu.be/CxcBGVkfVMc&t=3763 , https://youtu.be/KLIWP_nbaXs&t=3158"
     },
     {
-      "Id": 528,
+      "Id": 529,
       "Title": "Society",
       "CleanedTitle": "society",
       "Artist": "Eddie Vedder",
@@ -7921,7 +7936,7 @@
       "Links": "https://youtu.be/CxcBGVkfVMc&t=5571 , https://youtu.be/Xp03EMAOTCg&t=3191 , https://youtu.be/watch?v=nCRWhvGFWUE&t=3184"
     },
     {
-      "Id": 529,
+      "Id": 530,
       "Title": "Streets of Philadelphia",
       "CleanedTitle": "streets-of-philadelphia",
       "Artist": "Bruce Springsteen",
@@ -7936,7 +7951,7 @@
       "Links": "https://youtu.be/CxcBGVkfVMc&t=6842"
     },
     {
-      "Id": 530,
+      "Id": 531,
       "Title": "Limelight",
       "CleanedTitle": "limelight",
       "Artist": "Rush",
@@ -7951,7 +7966,7 @@
       "Links": "https://youtu.be/CxcBGVkfVMc&t=7849 , https://youtu.be/__nszU6iOlM&t=2063 , https://youtu.be/0vseNNLzOWY&t=8105 , https://youtu.be/lmyOp2MHwCY&t=4549 , https://youtu.be/0W8Q-hGHd80&t=4945 , https://youtu.be/ARCgeQF6tRg&t=3592 , https://youtu.be/watch?v=01eDLSmTMtQ&t=7150 , https://youtu.be/watch?v=twwoDRDMthg&t=9064"
     },
     {
-      "Id": 531,
+      "Id": 532,
       "Title": "Intro \"Crimson Fools\"",
       "CleanedTitle": "intro-crimson-fools",
       "Artist": "Corey Heuvel",
@@ -7966,7 +7981,7 @@
       "Links": "https://youtu.be/9mwYBbDX0dY&t=18 , https://youtu.be/VEh4FA59OGA&t=12 , https://youtu.be/WQ8mpI5z7z4&t=7 , https://youtu.be/0vseNNLzOWY&t=8 , https://youtu.be/DqQEPSThDlg&t=7"
     },
     {
-      "Id": 532,
+      "Id": 533,
       "Title": "No Whining (No Complaining)",
       "CleanedTitle": "no-whining-no-complaining",
       "Artist": "Corey Heuvel",
@@ -7981,7 +7996,7 @@
       "Links": "https://youtu.be/9mwYBbDX0dY&t=1751 , https://youtu.be/JUiD_BqlTHw&t=5094 , https://youtu.be/Q4p-jIfkQpM&t=8583 , https://youtu.be/79E9gUpu6pk&t=9046 , https://youtu.be/Qih3Nx18Yas&t=4375 , https://youtu.be/gu7ChqD4Qm4&t=9480 , https://youtu.be/PPq9uuigSs0&t=9356 , https://youtu.be/4MsSeM9AR60&t=2224 , https://youtu.be/uLKs6770MzM&t=6911 , https://youtu.be/q0SOrSxKE90&t=6969 , https://youtu.be/0vseNNLzOWY&t=2269 , https://youtu.be/S0H-UbV9G48&t=7788 , https://youtu.be/JpKnYI_-2OA&t=8307 , https://youtu.be/aiAhYDQQdUo&t=7630 , https://youtu.be/h3nHBsoSZYA&t=7832 , https://youtu.be/7ub_S5Kx-wA&t=6917 , https://youtu.be/PvNuNSk9iPM&t=6246 , https://youtu.be/Yr3DnVxJbnA&t=3969 , https://youtu.be/ebv-JlkIPUY&t=4401 , https://youtu.be/Qh8m_ldN2zw&t=2665 , https://youtu.be/yN7gKYOObcE&t=4943 , https://youtu.be/_KscIFUrM14&t=5428 , https://youtu.be/CqHIgye4I8s?feature=share&t=7609"
     },
     {
-      "Id": 533,
+      "Id": 534,
       "Title": "Fields Of Gold",
       "CleanedTitle": "fields-of-gold",
       "Artist": "Sting",
@@ -7996,7 +8011,7 @@
       "Links": "https://youtu.be/9mwYBbDX0dY&t=2960 , https://youtu.be/qfsm5R2EeOU&t=4696 , https://youtu.be/vqOBj04MFrw&t=5811 , https://youtu.be/8jK6wYjrnw4&t=8165"
     },
     {
-      "Id": 534,
+      "Id": 535,
       "Title": "Bossa Nova Improv",
       "CleanedTitle": "bossa-nova-improv",
       "Artist": "Corey Heuvel",
@@ -8011,7 +8026,7 @@
       "Links": "https://youtu.be/9mwYBbDX0dY&t=9677"
     },
     {
-      "Id": 535,
+      "Id": 536,
       "Title": "Intro \"Out of the Mist\"",
       "CleanedTitle": "intro-out-of-the-mist",
       "Artist": "Corey Heuvel",
@@ -8026,7 +8041,7 @@
       "Links": "https://youtu.be/JUiD_BqlTHw&t=16 , https://youtu.be/79E9gUpu6pk&t=5 , https://youtu.be/xMTVh9YaaVc&t=6 , https://youtu.be/j9CL1ydfDSI&t=8 , https://youtu.be/S0H-UbV9G48&t=7 , https://youtu.be/yiFNZvisSQw&t=12 , https://youtu.be/EX4bD4sLh3Y&t=4 , https://youtu.be/lmyOp2MHwCY&t=8 , https://youtu.be/JpKnYI_-2OA&t=1 , https://youtu.be/y83VDXWJbQE&t=5 , https://youtu.be/HTJSoHhm7aY&t=11 , https://youtu.be/exm9X0zIDaA&t=14 , https://youtu.be/aiAhYDQQdUo&t=14 , https://youtu.be/gVy2vkeHV_I&t=24 , https://youtu.be/GDMlH7bT0FA&t=10 , https://youtu.be/3iWYcnMuVzc&t=12 , https://youtu.be/dhxJ9HuV65g&t=12 , https://youtu.be/0W8Q-hGHd80&t=10 , https://youtu.be/h3nHBsoSZYA&t=9 , https://youtu.be/yT-ZTr6ntP4&t=11 , https://youtu.be/pVDmEFQX16c&t=9 , https://youtu.be/Bs2mSVV4b38&t=12 , https://youtu.be/JNbwlKX5IJE&t=9 , https://youtu.be/2vn_PYw-W6o&t=24 , https://youtu.be/seLDpNLZFDU&t=9 , https://youtu.be/7ub_S5Kx-wA&t=14 , https://youtu.be/s6H9GdbDwbQ&t=0 , https://youtu.be/YAxlXf4Ftt0&t=15 , https://youtu.be/KoChozPGk7c&t=11 , https://youtu.be/PvNuNSk9iPM&t=14 , https://youtu.be/7Yc3utlluNc&t=10 , https://youtu.be/h_KbDQybQmE&t=11 , https://youtu.be/ZQkl5zQvwvI&t=14 , https://youtu.be/EAYQjuMqF1U&t=11 , https://youtu.be/HJpwaG3PP3E&t=12 , https://youtu.be/Yr3DnVxJbnA&t=12 , https://youtu.be/MmxzKv8Mw2E&t=12 , https://youtu.be/5Y_XA4lXk_8&t=31 , https://youtu.be/lfZRI_tmFH8&t=10 , https://youtu.be/pvM5qp6ZCS4&t=8 , https://youtu.be/goEx4wnnaQw&t=10 , https://youtu.be/bEBVkT9SWFY&t=24 , https://youtu.be/Qh8m_ldN2zw&t=40 , https://youtu.be/r4JaTRrhap8?feature=share&t=6 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=14 , https://youtu.be/2xkUDe5ZndE?feature=share&t=13 , https://youtu.be/BvCyN3QU46c?feature=share&t=15 , https://youtu.be/jyGZgv6rFqo?feature=share&t=9 , https://youtu.be/Mm_r2XHf7kw?feature=share&t=9 , https://youtu.be/1HkYscBWtp8?feature=share&t=16 , https://youtu.be/KACYxeAmdCs?feature=share&t=11 , https://youtu.be/c1H63fb1AJs?feature=share&t=29 , https://youtu.be/il7d9PknEmQ?feature=share&t=19"
     },
     {
-      "Id": 536,
+      "Id": 537,
       "Title": "Gravity",
       "CleanedTitle": "gravity",
       "Artist": "John Mayer",
@@ -8041,7 +8056,7 @@
       "Links": "https://youtu.be/JUiD_BqlTHw&t=2572 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=1346"
     },
     {
-      "Id": 537,
+      "Id": 538,
       "Title": "Simple Man",
       "CleanedTitle": "simple-man",
       "Artist": "Lynyrd Skynyrd",
@@ -8056,7 +8071,7 @@
       "Links": "https://youtu.be/JUiD_BqlTHw&t=6344 , https://youtu.be/bCz3cavBkog&t=5661 , https://youtu.be/__nszU6iOlM&t=6935 , https://youtu.be/_7xQAOqGbk4&t=7264 , https://youtu.be/5Y_XA4lXk_8&t=7688 , https://youtu.be/jomOdvKXNa4?feature=share&t=8181 , https://youtu.be/watch?v=gzOWoVXQdgU&t=1447 , https://youtu.be/watch?v=lfNvWAOnwQw&t=5582 , https://youtu.be/watch?v=JR6OhpR0pU0&t=6561 , https://youtu.be/watch?v=XxWeHmiEot0&t=8024"
     },
     {
-      "Id": 538,
+      "Id": 539,
       "Title": "Intro \"A Still and Silent Mountain\"",
       "CleanedTitle": "intro-a-still-and-silent-mountain",
       "Artist": "Corey Heuvel",
@@ -8071,7 +8086,7 @@
       "Links": "https://youtu.be/LuQ78Y2Fiwo&t=12"
     },
     {
-      "Id": 539,
+      "Id": 540,
       "Title": "Belief",
       "CleanedTitle": "belief",
       "Artist": "John Mayer",
@@ -8086,7 +8101,7 @@
       "Links": "https://youtu.be/LuQ78Y2Fiwo&t=2717 , https://youtu.be/EX4bD4sLh3Y&t=8578 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=3978"
     },
     {
-      "Id": 540,
+      "Id": 541,
       "Title": "Classical Gas",
       "CleanedTitle": "classical-gas",
       "Artist": "Mason Williams",
@@ -8101,7 +8116,7 @@
       "Links": "https://youtu.be/LuQ78Y2Fiwo&t=4172 , https://youtu.be/KoChozPGk7c&t=7256 , https://youtu.be/watch?v=H_j-P2w0QaA&t=8665"
     },
     {
-      "Id": 541,
+      "Id": 542,
       "Title": "Between the Bars",
       "CleanedTitle": "between-the-bars",
       "Artist": "Elliott Smith",
@@ -8116,7 +8131,7 @@
       "Links": "https://youtu.be/LuQ78Y2Fiwo&t=5286 , https://youtu.be/v56fDp25FcM?feature=share&t=5042 , https://youtu.be/watch?v=lfNvWAOnwQw&t=891 , https://youtu.be/watch?v=oGvWPFlm1fM&t=2566"
     },
     {
-      "Id": 542,
+      "Id": 543,
       "Title": "So Real",
       "CleanedTitle": "so-real",
       "Artist": "Jeff Buckley",
@@ -8131,7 +8146,7 @@
       "Links": "https://youtu.be/LuQ78Y2Fiwo&t=6193 , https://youtu.be/8jK6wYjrnw4&t=7053 , https://youtu.be/watch?v=x3skjeOvXxo&t=9759 , https://youtu.be/watch?v=oGvWPFlm1fM&t=5973"
     },
     {
-      "Id": 543,
+      "Id": 544,
       "Title": "Intro \"Beautiful Slide\"",
       "CleanedTitle": "intro-beautiful-slide",
       "Artist": "Corey Heuvel",
@@ -8146,7 +8161,7 @@
       "Links": "https://youtu.be/KLIWP_nbaXs&t=10 , https://youtu.be/MhNKFJxwK8g&t=14 , https://youtu.be/_7xQAOqGbk4&t=9"
     },
     {
-      "Id": 544,
+      "Id": 545,
       "Title": "Sleepy Afternoon (Rein Rutnik)",
       "CleanedTitle": "sleepy-afternoon-rein-rutnik",
       "Artist": "Rein Rutnik",
@@ -8161,7 +8176,7 @@
       "Links": "https://youtu.be/KLIWP_nbaXs&t=780"
     },
     {
-      "Id": 545,
+      "Id": 546,
       "Title": "I'm Satisfied (Rein Rutnik)",
       "CleanedTitle": "im-satisfied-rein-rutnik",
       "Artist": "Mississippi John Hurt",
@@ -8176,7 +8191,7 @@
       "Links": "https://youtu.be/KLIWP_nbaXs&t=1299"
     },
     {
-      "Id": 546,
+      "Id": 547,
       "Title": "Fox Chase & Lost John (Rein Rutnik)",
       "CleanedTitle": "fox-chase-lost-john-rein-rutnik",
       "Artist": "Joe Filisko",
@@ -8191,7 +8206,7 @@
       "Links": "https://youtu.be/KLIWP_nbaXs&t=1572"
     },
     {
-      "Id": 547,
+      "Id": 548,
       "Title": "Closing Time",
       "CleanedTitle": "closing-time",
       "Artist": "Semisonic",
@@ -8206,7 +8221,7 @@
       "Links": "https://youtu.be/KLIWP_nbaXs&t=7781 , https://youtu.be/CqHIgye4I8s?feature=share&t=2953"
     },
     {
-      "Id": 548,
+      "Id": 549,
       "Title": "Take On Me (Partial)",
       "CleanedTitle": "take-on-me-partial",
       "Artist": "A-Ha",
@@ -8221,7 +8236,7 @@
       "Links": "https://youtu.be/KLIWP_nbaXs&t=8419"
     },
     {
-      "Id": 549,
+      "Id": 550,
       "Title": "Get the Party Started (Partial)",
       "CleanedTitle": "get-the-party-started-partial",
       "Artist": "P!nk",
@@ -8236,7 +8251,7 @@
       "Links": "https://youtu.be/KLIWP_nbaXs&t=8888"
     },
     {
-      "Id": 550,
+      "Id": 551,
       "Title": "Melissa",
       "CleanedTitle": "melissa",
       "Artist": "Allman Brothers Band",
@@ -8251,7 +8266,7 @@
       "Links": "https://youtu.be/MhNKFJxwK8g&t=3902 , https://youtu.be/Yr3DnVxJbnA&t=6067"
     },
     {
-      "Id": 551,
+      "Id": 552,
       "Title": "Cello Suite No. 1 in G Major BWV 1007 (Prelude)",
       "CleanedTitle": "cello-suite-no-1-in-g-major-bwv-1007-prelude",
       "Artist": "Johann Sebastian Bach",
@@ -8266,7 +8281,7 @@
       "Links": "https://youtu.be/MhNKFJxwK8g&t=6501 , https://youtu.be/JpKnYI_-2OA&t=8704"
     },
     {
-      "Id": 552,
+      "Id": 553,
       "Title": "Julia Florida (Barcarola)",
       "CleanedTitle": "julia-florida-barcarola",
       "Artist": "Agustín Barrios Mangoré",
@@ -8281,7 +8296,7 @@
       "Links": "https://youtu.be/MhNKFJxwK8g&t=6660"
     },
     {
-      "Id": 553,
+      "Id": 554,
       "Title": "Wonderwall",
       "CleanedTitle": "wonderwall",
       "Artist": "Ryan Adams",
@@ -8296,7 +8311,7 @@
       "Links": "https://youtu.be/Q4p-jIfkQpM&t=3448 , https://youtu.be/Q4p-jIfkQpM&t=3473 , https://youtu.be/watch?v=oGvWPFlm1fM&t=6624"
     },
     {
-      "Id": 554,
+      "Id": 555,
       "Title": "Run To You (Partial)",
       "CleanedTitle": "run-to-you-partial",
       "Artist": "Bryan Adams",
@@ -8311,7 +8326,7 @@
       "Links": "https://youtu.be/Q4p-jIfkQpM&t=5912 , https://youtu.be/Yr3DnVxJbnA&t=4434 , https://youtu.be/watch?v=gzOWoVXQdgU&t=786 , https://youtu.be/watch?v=F7kc9DzOJgk&t=8390"
     },
     {
-      "Id": 555,
+      "Id": 556,
       "Title": "I'm On Fire",
       "CleanedTitle": "im-on-fire",
       "Artist": "Bruce Springsteen",
@@ -8326,7 +8341,7 @@
       "Links": "https://youtu.be/Q4p-jIfkQpM&t=6431"
     },
     {
-      "Id": 556,
+      "Id": 557,
       "Title": "Send Me On My Way (Partial)",
       "CleanedTitle": "send-me-on-my-way-partial",
       "Artist": "Rusted Root",
@@ -8341,7 +8356,7 @@
       "Links": "https://youtu.be/Q4p-jIfkQpM&t=9569"
     },
     {
-      "Id": 557,
+      "Id": 558,
       "Title": "Eternal Life",
       "CleanedTitle": "eternal-life",
       "Artist": "Jeff Buckley",
@@ -8356,7 +8371,7 @@
       "Links": "https://youtu.be/qfsm5R2EeOU&t=3894 , https://youtu.be/aiAhYDQQdUo&t=9238 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=4290"
     },
     {
-      "Id": 558,
+      "Id": 559,
       "Title": "Keep Your Head Up",
       "CleanedTitle": "keep-your-head-up",
       "Artist": "Ben Howard",
@@ -8371,7 +8386,7 @@
       "Links": "https://youtu.be/qfsm5R2EeOU&t=5390 , https://youtu.be/ShAGixH0AfU&t=3198"
     },
     {
-      "Id": 559,
+      "Id": 560,
       "Title": "Yellow",
       "CleanedTitle": "yellow",
       "Artist": "Coldplay",
@@ -8386,7 +8401,7 @@
       "Links": "https://youtu.be/qfsm5R2EeOU&t=9262 , https://youtu.be/HTJSoHhm7aY&t=2592 , https://youtu.be/il7d9PknEmQ?feature=share&t=2061"
     },
     {
-      "Id": 560,
+      "Id": 561,
       "Title": "I Got a Woman",
       "CleanedTitle": "i-got-a-woman",
       "Artist": "Ray Charles",
@@ -8401,7 +8416,7 @@
       "Links": "https://youtu.be/79E9gUpu6pk&t=3084 , https://youtu.be/ERjisFF12Vk&t=1013 , https://youtu.be/0W8Q-hGHd80&t=5754 , https://youtu.be/KoChozPGk7c&t=3144 , https://youtu.be/skPtRNli5KY&t=2738 , https://youtu.be/KACYxeAmdCs?feature=share&t=8078"
     },
     {
-      "Id": 561,
+      "Id": 562,
       "Title": "Let It Down",
       "CleanedTitle": "let-it-down",
       "Artist": "George Harrison",
@@ -8416,7 +8431,7 @@
       "Links": "https://youtu.be/79E9gUpu6pk&t=3348 , https://youtu.be/9RNVOwRTSwc&t=5195 , https://youtu.be/rHhhcP4jGD8&t=8172 , https://youtu.be/watch?v=Yz6bDH9k1Fk&t=1792"
     },
     {
-      "Id": 562,
+      "Id": 563,
       "Title": "City Headache",
       "CleanedTitle": "city-headache",
       "Artist": "Scott Matthews",
@@ -8431,7 +8446,7 @@
       "Links": "https://youtu.be/79E9gUpu6pk&t=8565 , https://youtu.be/EX4bD4sLh3Y&t=2614 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=8198"
     },
     {
-      "Id": 563,
+      "Id": 564,
       "Title": "Going To The Country",
       "CleanedTitle": "going-to-the-country",
       "Artist": "Bruce Cockburn",
@@ -8446,7 +8461,7 @@
       "Links": "https://youtu.be/xMTVh9YaaVc&t=914 , https://youtu.be/sfTsmIo6Ybo&t=564"
     },
     {
-      "Id": 564,
+      "Id": 565,
       "Title": "Like a Rolling Stone",
       "CleanedTitle": "like-a-rolling-stone",
       "Artist": "Bob Dylan",
@@ -8461,7 +8476,7 @@
       "Links": "https://youtu.be/xMTVh9YaaVc&t=1233 , https://youtu.be/watch?v=F7kc9DzOJgk&t=4943 , https://youtu.be/watch?v=9rSlmMNfOkY&t=10285"
     },
     {
-      "Id": 565,
+      "Id": 566,
       "Title": "Sour Girl",
       "CleanedTitle": "sour-girl",
       "Artist": "Stone Temple Pilots",
@@ -8476,7 +8491,7 @@
       "Links": "https://youtu.be/xMTVh9YaaVc&t=1750 , https://youtu.be/Xp03EMAOTCg&t=2846 , https://youtu.be/T_2aqBkmeUc&t=7292 , https://youtu.be/exm9X0zIDaA&t=5860 , https://youtu.be/pVDmEFQX16c&t=5503 , https://youtu.be/ZQkl5zQvwvI&t=3457 , https://youtu.be/vRD0K6kl3Qs&t=4828 , https://youtu.be/KACYxeAmdCs?feature=share&t=2874"
     },
     {
-      "Id": 566,
+      "Id": 567,
       "Title": "Wagon Wheel (Partial)",
       "CleanedTitle": "wagon-wheel-partial",
       "Artist": "Old Crow Medicine Show",
@@ -8491,7 +8506,7 @@
       "Links": "https://youtu.be/xMTVh9YaaVc&t=2839"
     },
     {
-      "Id": 567,
+      "Id": 568,
       "Title": "What's my Age Again? (Partial)",
       "CleanedTitle": "whats-my-age-again-partial",
       "Artist": "Blink-182",
@@ -8506,7 +8521,7 @@
       "Links": "https://youtu.be/xMTVh9YaaVc&t=3348"
     },
     {
-      "Id": 568,
+      "Id": 569,
       "Title": "Ride Wit Me",
       "CleanedTitle": "ride-wit-me",
       "Artist": "Nelly",
@@ -8521,7 +8536,7 @@
       "Links": "https://youtu.be/xMTVh9YaaVc&t=6011"
     },
     {
-      "Id": 569,
+      "Id": 570,
       "Title": "Hear My Train a Comin'",
       "CleanedTitle": "hear-my-train-a-comin",
       "Artist": "Jimi Hendrix",
@@ -8536,7 +8551,7 @@
       "Links": "https://youtu.be/xMTVh9YaaVc&t=6688 , https://youtu.be/9-UHTEmE9UU&t=9090 , https://youtu.be/ZQkl5zQvwvI&t=10227"
     },
     {
-      "Id": 570,
+      "Id": 571,
       "Title": "Intro \"Sage Trees\"",
       "CleanedTitle": "intro-sage-trees",
       "Artist": "Corey Heuvel",
@@ -8551,7 +8566,7 @@
       "Links": "https://youtu.be/bCz3cavBkog&t=9"
     },
     {
-      "Id": 571,
+      "Id": 572,
       "Title": "Ordinary Day",
       "CleanedTitle": "ordinary-day",
       "Artist": "Great Big Sea",
@@ -8566,7 +8581,7 @@
       "Links": "https://youtu.be/Qih3Nx18Yas&t=6254 , https://youtu.be/watch?v=H_j-P2w0QaA&t=9454"
     },
     {
-      "Id": 572,
+      "Id": 573,
       "Title": "Nice to Know You",
       "CleanedTitle": "nice-to-know-you",
       "Artist": "Incubus",
@@ -8581,7 +8596,7 @@
       "Links": "https://youtu.be/Qih3Nx18Yas&t=9086"
     },
     {
-      "Id": 573,
+      "Id": 574,
       "Title": "Outro \"Out of the Mist\"",
       "CleanedTitle": "outro-out-of-the-mist",
       "Artist": "Corey Heuvel",
@@ -8596,7 +8611,7 @@
       "Links": "https://youtu.be/Qih3Nx18Yas&t=11220 , https://youtu.be/gu7ChqD4Qm4&t=11263"
     },
     {
-      "Id": 574,
+      "Id": 575,
       "Title": "Burn One Down",
       "CleanedTitle": "burn-one-down",
       "Artist": "Ben Harper",
@@ -8611,7 +8626,7 @@
       "Links": "https://youtu.be/x6f3H65JhEg&t=2818 , https://youtu.be/BvCyN3QU46c?feature=share&t=3921 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=3330"
     },
     {
-      "Id": 575,
+      "Id": 576,
       "Title": "Wheat Kings",
       "CleanedTitle": "wheat-kings",
       "Artist": "The Tragically Hip",
@@ -8626,7 +8641,7 @@
       "Links": "https://youtu.be/x6f3H65JhEg&t=6946 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=5752"
     },
     {
-      "Id": 576,
+      "Id": 577,
       "Title": "Folsom Prison Blues",
       "CleanedTitle": "folsom-prison-blues",
       "Artist": "Johnny Cash",
@@ -8641,7 +8656,7 @@
       "Links": "https://youtu.be/gu7ChqD4Qm4&t=4278"
     },
     {
-      "Id": 577,
+      "Id": 578,
       "Title": "Billie Jean",
       "CleanedTitle": "billie-jean",
       "Artist": "Michael Jackson",
@@ -8656,7 +8671,7 @@
       "Links": "https://youtu.be/gu7ChqD4Qm4&t=6718 , https://youtu.be/T_2aqBkmeUc&t=3018 , https://youtu.be/watch?v=lfNvWAOnwQw&t=7004"
     },
     {
-      "Id": 578,
+      "Id": 579,
       "Title": "No Rain",
       "CleanedTitle": "no-rain",
       "Artist": "Blind Melon",
@@ -8671,7 +8686,7 @@
       "Links": "https://youtu.be/gu7ChqD4Qm4&t=7755 , https://youtu.be/S0H-UbV9G48&t=6126 , https://youtu.be/HTJSoHhm7aY&t=4458 , https://youtu.be/seLDpNLZFDU&t=3022 , https://youtu.be/BvCyN3QU46c?feature=share&t=4860 , https://youtu.be/watch?v=oGvWPFlm1fM&t=7712 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=7984"
     },
     {
-      "Id": 579,
+      "Id": 580,
       "Title": "Them Bones",
       "CleanedTitle": "them-bones",
       "Artist": "Alice In Chains",
@@ -8686,7 +8701,7 @@
       "Links": "https://youtu.be/gu7ChqD4Qm4&t=8548 , https://youtu.be/jomOdvKXNa4?feature=share&t=8605"
     },
     {
-      "Id": 580,
+      "Id": 581,
       "Title": "Down In A Hole",
       "CleanedTitle": "down-in-a-hole",
       "Artist": "Alice In Chains",
@@ -8701,7 +8716,7 @@
       "Links": "https://youtu.be/gu7ChqD4Qm4&t=8716 , https://youtu.be/uLKs6770MzM&t=8806 , https://youtu.be/q0SOrSxKE90&t=4158 , https://youtu.be/yiFNZvisSQw&t=6383 , https://youtu.be/y83VDXWJbQE&t=7982 , https://youtu.be/GDMlH7bT0FA&t=6875 , https://youtu.be/pVDmEFQX16c&t=9743 , https://youtu.be/ebv-JlkIPUY&t=7428 , https://youtu.be/skPtRNli5KY&t=3350 , https://youtu.be/IJmsYXQl5dA&t=2954 , https://youtu.be/2xkUDe5ZndE?feature=share&t=7154"
     },
     {
-      "Id": 581,
+      "Id": 582,
       "Title": "Intro \"Bliss from Within\"",
       "CleanedTitle": "intro-bliss-from-within",
       "Artist": "Corey Heuvel",
@@ -8716,7 +8731,7 @@
       "Links": "https://youtu.be/Xp03EMAOTCg&t=8 , https://youtu.be/9-UHTEmE9UU&t=17 , https://youtu.be/QLLYLiTUyDY?feature=share&t=8"
     },
     {
-      "Id": 582,
+      "Id": 583,
       "Title": "Hemorrhage (In My Hands)",
       "CleanedTitle": "hemorrhage-in-my-hands",
       "Artist": "Fuel",
@@ -8731,7 +8746,7 @@
       "Links": "https://youtu.be/Xp03EMAOTCg&t=1651 , https://youtu.be/jyGZgv6rFqo?feature=share&t=5937"
     },
     {
-      "Id": 583,
+      "Id": 584,
       "Title": "Arjuna's Chariot",
       "CleanedTitle": "arjunas-chariot",
       "Artist": "Corey Heuvel",
@@ -8746,7 +8761,7 @@
       "Links": "https://youtu.be/Xp03EMAOTCg&t=5695 , https://youtu.be/_7xQAOqGbk4&t=8162 , https://youtu.be/S0H-UbV9G48&t=8887 , https://youtu.be/dhxJ9HuV65g&t=5208 , https://youtu.be/lfZRI_tmFH8&t=3846 , https://youtu.be/ShAGixH0AfU&t=8101"
     },
     {
-      "Id": 584,
+      "Id": 585,
       "Title": "Let It Be Me",
       "CleanedTitle": "let-it-be-me",
       "Artist": "Ray LaMontagne",
@@ -8761,7 +8776,7 @@
       "Links": "https://youtu.be/Xp03EMAOTCg&t=6658 , https://youtu.be/DqQEPSThDlg&t=3438 , https://youtu.be/PvNuNSk9iPM&t=5865 , https://youtu.be/sXKeY6LpR9g&t=9752 , https://youtu.be/watch?v=gzOWoVXQdgU&t=5896"
     },
     {
-      "Id": 585,
+      "Id": 586,
       "Title": "Basket Case",
       "CleanedTitle": "basket-case",
       "Artist": "Green Day",
@@ -8776,7 +8791,7 @@
       "Links": "https://youtu.be/Xp03EMAOTCg&t=9992"
     },
     {
-      "Id": 586,
+      "Id": 587,
       "Title": "Outro \"Home Again\"",
       "CleanedTitle": "outro-home-again",
       "Artist": "Corey Heuvel",
@@ -8791,7 +8806,7 @@
       "Links": "https://youtu.be/Xp03EMAOTCg&t=11479"
     },
     {
-      "Id": 587,
+      "Id": 588,
       "Title": "Intro \"Into The Heavens\"",
       "CleanedTitle": "intro-into-the-heavens",
       "Artist": "Corey Heuvel",
@@ -8806,7 +8821,7 @@
       "Links": "https://youtu.be/2YwudKYPIeE&t=9"
     },
     {
-      "Id": 588,
+      "Id": 589,
       "Title": "Old Pine",
       "CleanedTitle": "old-pine",
       "Artist": "Ben Howard",
@@ -8821,7 +8836,7 @@
       "Links": "https://youtu.be/2YwudKYPIeE&t=3263 , https://youtu.be/EX4bD4sLh3Y&t=7525 , https://youtu.be/bEBVkT9SWFY&t=5281 , https://youtu.be/8jK6wYjrnw4&t=702 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=6280"
     },
     {
-      "Id": 589,
+      "Id": 590,
       "Title": "Intro \"Grace\"",
       "CleanedTitle": "intro-grace",
       "Artist": "Corey Heuvel",
@@ -8836,7 +8851,7 @@
       "Links": "https://youtu.be/PPq9uuigSs0&t=11 , https://youtu.be/jdD05keNX5w&t=14 , https://youtu.be/GqfNqQlrL8A&t=6 , https://youtu.be/U1AhJr6L5SU&t=9 , https://youtu.be/_KscIFUrM14&t=15"
     },
     {
-      "Id": 590,
+      "Id": 591,
       "Title": "A Certain Shade of Green",
       "CleanedTitle": "a-certain-shade-of-green",
       "Artist": "Incubus",
@@ -8851,7 +8866,7 @@
       "Links": "https://youtu.be/PPq9uuigSs0&t=5474 , https://youtu.be/dWIijDnVkho&t=5278"
     },
     {
-      "Id": 591,
+      "Id": 592,
       "Title": "Cold Shot",
       "CleanedTitle": "cold-shot",
       "Artist": "Stevie Ray Vaughan",
@@ -8866,7 +8881,7 @@
       "Links": "https://youtu.be/PPq9uuigSs0&t=8968 , https://youtu.be/0vseNNLzOWY&t=7489 , https://youtu.be/y83VDXWJbQE&t=7395 , https://youtu.be/0W8Q-hGHd80&t=1821 , https://youtu.be/ebv-JlkIPUY&t=5082 , https://youtu.be/ARCgeQF6tRg&t=1465 , https://youtu.be/1HkYscBWtp8?feature=share&t=7090 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=10309"
     },
     {
-      "Id": 592,
+      "Id": 593,
       "Title": "Intro \"Tension\"",
       "CleanedTitle": "intro-tension",
       "Artist": "Corey Heuvel",
@@ -8881,7 +8896,7 @@
       "Links": "https://youtu.be/Y473wJBI_Y8&t=8"
     },
     {
-      "Id": 593,
+      "Id": 594,
       "Title": "Glenn Tipton",
       "CleanedTitle": "glenn-tipton",
       "Artist": "Sun Kil Moon",
@@ -8896,7 +8911,7 @@
       "Links": "https://youtu.be/Y473wJBI_Y8&t=1583 , https://youtu.be/r4JaTRrhap8?feature=share&t=1622 , https://youtu.be/watch?v=twwoDRDMthg&t=142"
     },
     {
-      "Id": 594,
+      "Id": 595,
       "Title": "I Want You",
       "CleanedTitle": "i-want-you",
       "Artist": "Bob Dylan",
@@ -8911,7 +8926,7 @@
       "Links": "https://youtu.be/Y473wJBI_Y8&t=2542"
     },
     {
-      "Id": 595,
+      "Id": 596,
       "Title": "Simple Twist of Fate",
       "CleanedTitle": "simple-twist-of-fate",
       "Artist": "Bob Dylan",
@@ -8926,7 +8941,7 @@
       "Links": "https://youtu.be/Y473wJBI_Y8&t=7138 , https://youtu.be/EX4bD4sLh3Y&t=2236"
     },
     {
-      "Id": 596,
+      "Id": 597,
       "Title": "Intro \"Soul Embers\"",
       "CleanedTitle": "intro-soul-embers",
       "Artist": "Corey Heuvel",
@@ -8941,7 +8956,7 @@
       "Links": "https://youtu.be/sfTsmIo6Ybo&t=12 , https://youtu.be/x048oootisY&t=11 , https://youtu.be/sXKeY6LpR9g&t=14 , https://youtu.be/ARCgeQF6tRg&t=7 , https://youtu.be/CqHIgye4I8s?feature=share&t=7 , https://youtu.be/GpaZbjokFec?feature=share&t=13"
     },
     {
-      "Id": 597,
+      "Id": 598,
       "Title": "New Sensation (Partial)",
       "CleanedTitle": "new-sensation-partial",
       "Artist": "INXS",
@@ -8956,7 +8971,7 @@
       "Links": "https://youtu.be/sfTsmIo6Ybo&t=3075 , https://youtu.be/aiAhYDQQdUo&t=6859"
     },
     {
-      "Id": 598,
+      "Id": 599,
       "Title": "Wish You Were Here",
       "CleanedTitle": "wish-you-were-here",
       "Artist": "Pink Floyd",
@@ -8971,7 +8986,7 @@
       "Links": "https://youtu.be/sfTsmIo6Ybo&t=5105 , https://youtu.be/4MsSeM9AR60&t=4467 , https://youtu.be/yT-ZTr6ntP4&t=7529 , https://youtu.be/6Yy57i8sR0s&t=2756 , https://youtu.be/s-v4qoUK0tU?feature=share&t=6541 , https://youtu.be/watch?v=nCRWhvGFWUE&t=2573 , https://youtu.be/watch?v=lfNvWAOnwQw&t=4290 , https://youtu.be/watch?v=F7kc9DzOJgk&t=10116"
     },
     {
-      "Id": 599,
+      "Id": 600,
       "Title": "Erotic Nightmares (Electric riff)",
       "CleanedTitle": "erotic-nightmares-electric-riff",
       "Artist": "Steve Vai",
@@ -8986,7 +9001,7 @@
       "Links": "https://youtu.be/sfTsmIo6Ybo&t=6515 , https://youtu.be/watch?v=x3skjeOvXxo&t=6894"
     },
     {
-      "Id": 600,
+      "Id": 601,
       "Title": "Don't Panic",
       "CleanedTitle": "dont-panic",
       "Artist": "Coldplay",
@@ -9001,7 +9016,7 @@
       "Links": "https://youtu.be/sfTsmIo6Ybo&t=7307"
     },
     {
-      "Id": 601,
+      "Id": 602,
       "Title": "Intro \"If It's Wrong (It's Alright)\"",
       "CleanedTitle": "intro-if-its-wrong-its-alright",
       "Artist": "Corey Heuvel",
@@ -9016,7 +9031,7 @@
       "Links": "https://youtu.be/4MsSeM9AR60&t=12"
     },
     {
-      "Id": 602,
+      "Id": 603,
       "Title": "Hunger Strike",
       "CleanedTitle": "hunger-strike",
       "Artist": "Temple Of The Dog",
@@ -9031,7 +9046,7 @@
       "Links": "https://youtu.be/4MsSeM9AR60&t=6796 , https://youtu.be/j9CL1ydfDSI&t=7377 , https://youtu.be/Qh8m_ldN2zw&t=5011"
     },
     {
-      "Id": 603,
+      "Id": 604,
       "Title": "Intro \"The Longest November\"",
       "CleanedTitle": "intro-the-longest-november",
       "Artist": "Corey Heuvel",
@@ -9046,7 +9061,7 @@
       "Links": "https://youtu.be/__nszU6iOlM&t=12"
     },
     {
-      "Id": 604,
+      "Id": 605,
       "Title": "Cliffs Of Dover (Partial)",
       "CleanedTitle": "cliffs-of-dover-partial",
       "Artist": "Eric Johnson",
@@ -9061,7 +9076,7 @@
       "Links": "https://youtu.be/__nszU6iOlM&t=6555 , https://youtu.be/0vseNNLzOWY&t=7666"
     },
     {
-      "Id": 605,
+      "Id": 606,
       "Title": "Santeria",
       "CleanedTitle": "santeria",
       "Artist": "Sublime",
@@ -9076,7 +9091,7 @@
       "Links": "https://youtu.be/__nszU6iOlM&t=8054 , https://youtu.be/watch?v=01eDLSmTMtQ&t=7845"
     },
     {
-      "Id": 606,
+      "Id": 607,
       "Title": "Learning to Fly",
       "CleanedTitle": "learning-to-fly",
       "Artist": "Tom Petty",
@@ -9091,7 +9106,7 @@
       "Links": "https://youtu.be/WQ8mpI5z7z4&t=2869"
     },
     {
-      "Id": 607,
+      "Id": 608,
       "Title": "Psycho Killer (Partial)",
       "CleanedTitle": "psycho-killer-partial",
       "Artist": "Talking Heads",
@@ -9106,7 +9121,7 @@
       "Links": "https://youtu.be/WQ8mpI5z7z4&t=5517"
     },
     {
-      "Id": 608,
+      "Id": 609,
       "Title": "Spanish Romance (Romanza)",
       "CleanedTitle": "spanish-romance-romanza",
       "Artist": "Unknown",
@@ -9121,7 +9136,7 @@
       "Links": "https://youtu.be/WQ8mpI5z7z4&t=6369"
     },
     {
-      "Id": 609,
+      "Id": 610,
       "Title": "Intro \"Sleepless\"",
       "CleanedTitle": "intro-sleepless",
       "Artist": "Corey Heuvel",
@@ -9136,7 +9151,7 @@
       "Links": "https://youtu.be/uLKs6770MzM&t=9"
     },
     {
-      "Id": 610,
+      "Id": 611,
       "Title": "Intro \"Hidden in Stone\"",
       "CleanedTitle": "intro-hidden-in-stone",
       "Artist": "Corey Heuvel",
@@ -9151,7 +9166,7 @@
       "Links": "https://youtu.be/ERjisFF12Vk&t=12 , https://youtu.be/vqOBj04MFrw&t=6"
     },
     {
-      "Id": 611,
+      "Id": 612,
       "Title": "Redemption Song",
       "CleanedTitle": "redemption-song",
       "Artist": "Bob Marley",
@@ -9166,7 +9181,7 @@
       "Links": "https://youtu.be/ERjisFF12Vk&t=2470 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=5411"
     },
     {
-      "Id": 612,
+      "Id": 613,
       "Title": "Tribute (Partial)",
       "CleanedTitle": "tribute-partial",
       "Artist": "Tenacious D",
@@ -9181,7 +9196,7 @@
       "Links": "https://youtu.be/ERjisFF12Vk&t=3179 , https://youtu.be/ZQkl5zQvwvI&t=1735"
     },
     {
-      "Id": 613,
+      "Id": 614,
       "Title": "Higher Love (Partial)",
       "CleanedTitle": "higher-love-partial",
       "Artist": "Steve Winwood",
@@ -9196,7 +9211,7 @@
       "Links": "https://youtu.be/ERjisFF12Vk&t=7495"
     },
     {
-      "Id": 614,
+      "Id": 615,
       "Title": "I'll Be",
       "CleanedTitle": "ill-be",
       "Artist": "Edwin McCain",
@@ -9211,7 +9226,7 @@
       "Links": "https://youtu.be/ERjisFF12Vk&t=8684 , https://youtu.be/s-v4qoUK0tU?feature=share&t=7341"
     },
     {
-      "Id": 615,
+      "Id": 616,
       "Title": "Intro \"Venus Sky\"",
       "CleanedTitle": "intro-venus-sky",
       "Artist": "Corey Heuvel",
@@ -9226,7 +9241,7 @@
       "Links": "https://youtu.be/q0SOrSxKE90&t=9"
     },
     {
-      "Id": 616,
+      "Id": 617,
       "Title": "Walk this Way (Partial)",
       "CleanedTitle": "walk-this-way-partial",
       "Artist": "Aerosmith",
@@ -9241,7 +9256,7 @@
       "Links": "https://youtu.be/jdD05keNX5w&t=2813 , https://youtu.be/9-UHTEmE9UU&t=3589 , https://youtu.be/dWIijDnVkho&t=9533"
     },
     {
-      "Id": 617,
+      "Id": 618,
       "Title": "Song to the Siren",
       "CleanedTitle": "song-to-the-siren",
       "Artist": "Tim Buckley",
@@ -9256,7 +9271,7 @@
       "Links": "https://youtu.be/jdD05keNX5w&t=4412 , https://youtu.be/FHa2vjbViJo?feature=share&t=5742 , https://youtu.be/watch?v=twwoDRDMthg&t=8290"
     },
     {
-      "Id": 618,
+      "Id": 619,
       "Title": "Train in Vain (Stand by Me)",
       "CleanedTitle": "train-in-vain-stand-by-me",
       "Artist": "The Clash",
@@ -9271,7 +9286,7 @@
       "Links": "https://youtu.be/jdD05keNX5w&t=7174 , https://youtu.be/bEBVkT9SWFY&t=3351 , https://youtu.be/jomOdvKXNa4?feature=share&t=1514"
     },
     {
-      "Id": 619,
+      "Id": 620,
       "Title": "Seasons",
       "CleanedTitle": "seasons",
       "Artist": "Chris Cornell",
@@ -9286,7 +9301,7 @@
       "Links": "https://youtu.be/jdD05keNX5w&t=7945"
     },
     {
-      "Id": 620,
+      "Id": 621,
       "Title": "Michelle",
       "CleanedTitle": "michelle",
       "Artist": "The Beatles",
@@ -9301,7 +9316,7 @@
       "Links": "https://youtu.be/9-UHTEmE9UU&t=7117 , https://youtu.be/x048oootisY&t=8594 , https://youtu.be/0vseNNLzOWY&t=8280 , https://youtu.be/T_2aqBkmeUc&t=6414 , https://youtu.be/GqfNqQlrL8A&t=3402 , https://youtu.be/U1AhJr6L5SU&t=4533 , https://youtu.be/DqQEPSThDlg&t=5159 , https://youtu.be/exm9X0zIDaA&t=9011 , https://youtu.be/2vn_PYw-W6o&t=7484 , https://youtu.be/7ub_S5Kx-wA&t=7756"
     },
     {
-      "Id": 621,
+      "Id": 622,
       "Title": "Strange Meeting II",
       "CleanedTitle": "strange-meeting-ii",
       "Artist": "Nick Drake",
@@ -9316,7 +9331,7 @@
       "Links": "https://youtu.be/x048oootisY&t=3587"
     },
     {
-      "Id": 622,
+      "Id": 623,
       "Title": "Send My Love (To Your New Lover)",
       "CleanedTitle": "send-my-love-to-your-new-lover",
       "Artist": "Adele",
@@ -9331,7 +9346,7 @@
       "Links": "https://youtu.be/x048oootisY&t=9517 , https://youtu.be/jyGZgv6rFqo?feature=share&t=3833"
     },
     {
-      "Id": 623,
+      "Id": 624,
       "Title": "The House Is Rockin'",
       "CleanedTitle": "the-house-is-rockin",
       "Artist": "Stevie Ray Vaughan",
@@ -9346,7 +9361,7 @@
       "Links": "https://youtu.be/0vseNNLzOWY&t=1595 , https://youtu.be/pvM5qp6ZCS4&t=7287 , https://youtu.be/watch?v=01eDLSmTMtQ&t=136 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=5503 , https://youtu.be/watch?v=twwoDRDMthg&t=536"
     },
     {
-      "Id": 624,
+      "Id": 625,
       "Title": "Slow Cheetah",
       "CleanedTitle": "slow-cheetah",
       "Artist": "Red Hot Chili Peppers",
@@ -9361,7 +9376,7 @@
       "Links": "https://youtu.be/0vseNNLzOWY&t=3960 , https://youtu.be/GDMlH7bT0FA&t=4941"
     },
     {
-      "Id": 625,
+      "Id": 626,
       "Title": "My Head's in Mississippi (Electric riff)",
       "CleanedTitle": "my-heads-in-mississippi-electric-riff",
       "Artist": "ZZ Top",
@@ -9376,7 +9391,7 @@
       "Links": "https://youtu.be/0vseNNLzOWY&t=7352"
     },
     {
-      "Id": 626,
+      "Id": 627,
       "Title": "Guerrilla Radio (Electric riff)",
       "CleanedTitle": "guerrilla-radio-electric-riff",
       "Artist": "Rage Against The Machine",
@@ -9391,7 +9406,7 @@
       "Links": "https://youtu.be/0vseNNLzOWY&t=7516 , https://youtu.be/watch?v=x3skjeOvXxo&t=7796"
     },
     {
-      "Id": 627,
+      "Id": 628,
       "Title": "For the Love of God (Electric riff)",
       "CleanedTitle": "for-the-love-of-god-electric-riff",
       "Artist": "Steve Vai",
@@ -9406,7 +9421,7 @@
       "Links": "https://youtu.be/0vseNNLzOWY&t=7597 , https://youtu.be/watch?v=x3skjeOvXxo&t=6872"
     },
     {
-      "Id": 628,
+      "Id": 629,
       "Title": "Foxey Lady (Electric riff)",
       "CleanedTitle": "foxey-lady-electric-riff",
       "Artist": "Jimi Hendrix",
@@ -9421,7 +9436,7 @@
       "Links": "https://youtu.be/0vseNNLzOWY&t=7770"
     },
     {
-      "Id": 629,
+      "Id": 630,
       "Title": "Ramblin' Man",
       "CleanedTitle": "ramblin-man",
       "Artist": "Allman Brothers Band",
@@ -9436,7 +9451,7 @@
       "Links": "https://youtu.be/0vseNNLzOWY&t=7823 , https://youtu.be/gVy2vkeHV_I&t=2980 , https://youtu.be/ebv-JlkIPUY&t=3866 , https://youtu.be/9RNVOwRTSwc&t=951 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=2332 , https://youtu.be/watch?v=twwoDRDMthg&t=5276"
     },
     {
-      "Id": 630,
+      "Id": 631,
       "Title": "The Spirit Of Radio (Electric riff)",
       "CleanedTitle": "the-spirit-of-radio-electric-riff",
       "Artist": "Rush",
@@ -9451,7 +9466,7 @@
       "Links": "https://youtu.be/0vseNNLzOWY&t=8097"
     },
     {
-      "Id": 631,
+      "Id": 632,
       "Title": "Layla (Electric riff)",
       "CleanedTitle": "layla-electric-riff",
       "Artist": "Eric Clapton",
@@ -9466,7 +9481,7 @@
       "Links": "https://youtu.be/0vseNNLzOWY&t=8129 , https://youtu.be/watch?v=lfNvWAOnwQw&t=6935"
     },
     {
-      "Id": 632,
+      "Id": 633,
       "Title": "Intro \"Home Again\"",
       "CleanedTitle": "intro-home-again",
       "Artist": "Corey Heuvel",
@@ -9481,7 +9496,7 @@
       "Links": "https://youtu.be/T_2aqBkmeUc&t=11 , https://youtu.be/s-v4qoUK0tU?feature=share&t=10 , https://youtu.be/jomOdvKXNa4?feature=share&t=11"
     },
     {
-      "Id": 633,
+      "Id": 634,
       "Title": "I Shall Be Released",
       "CleanedTitle": "i-shall-be-released",
       "Artist": "Bob Dylan",
@@ -9496,7 +9511,7 @@
       "Links": "https://youtu.be/T_2aqBkmeUc&t=4027 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=9542"
     },
     {
-      "Id": 634,
+      "Id": 635,
       "Title": "Spooky",
       "CleanedTitle": "spooky",
       "Artist": "Dusty Springfield",
@@ -9511,7 +9526,7 @@
       "Links": "https://youtu.be/T_2aqBkmeUc&t=8234"
     },
     {
-      "Id": 635,
+      "Id": 636,
       "Title": "a thousand years",
       "CleanedTitle": "a-thousand-years",
       "Artist": "Christina Perri",
@@ -9526,7 +9541,7 @@
       "Links": "https://youtu.be/_7xQAOqGbk4&t=2792"
     },
     {
-      "Id": 636,
+      "Id": 637,
       "Title": "Skinny Love",
       "CleanedTitle": "skinny-love",
       "Artist": "Bon Iver",
@@ -9541,7 +9556,7 @@
       "Links": "https://youtu.be/_7xQAOqGbk4&t=4075 , https://youtu.be/watch?v=lq5YJLgEDWI&t=8085"
     },
     {
-      "Id": 637,
+      "Id": 638,
       "Title": "Creep",
       "CleanedTitle": "creep",
       "Artist": "Radiohead",
@@ -9556,7 +9571,7 @@
       "Links": "https://youtu.be/GqfNqQlrL8A&t=6256 , https://youtu.be/BvCyN3QU46c?feature=share&t=8495 , https://youtu.be/watch?v=gzOWoVXQdgU&t=1869"
     },
     {
-      "Id": 638,
+      "Id": 639,
       "Title": "Harvest Moon",
       "CleanedTitle": "harvest-moon",
       "Artist": "Neil Young",
@@ -9571,7 +9586,7 @@
       "Links": "https://youtu.be/U1AhJr6L5SU&t=7273"
     },
     {
-      "Id": 639,
+      "Id": 640,
       "Title": "Karma Police",
       "CleanedTitle": "karma-police",
       "Artist": "Radiohead",
@@ -9586,7 +9601,7 @@
       "Links": "https://youtu.be/DqQEPSThDlg&t=7451 , https://youtu.be/JNbwlKX5IJE&t=4800 , https://youtu.be/skPtRNli5KY&t=7600"
     },
     {
-      "Id": 640,
+      "Id": 641,
       "Title": "Closer To The Heart",
       "CleanedTitle": "closer-to-the-heart",
       "Artist": "Rush",
@@ -9601,7 +9616,7 @@
       "Links": "https://youtu.be/vqOBj04MFrw&t=3241"
     },
     {
-      "Id": 641,
+      "Id": 642,
       "Title": "Don't Look Back In Anger",
       "CleanedTitle": "dont-look-back-in-anger",
       "Artist": "Oasis",
@@ -9616,7 +9631,7 @@
       "Links": "https://youtu.be/j9CL1ydfDSI&t=1311"
     },
     {
-      "Id": 642,
+      "Id": 643,
       "Title": "You Give Me Something",
       "CleanedTitle": "you-give-me-something",
       "Artist": "James Morrison",
@@ -9631,7 +9646,7 @@
       "Links": "https://youtu.be/j9CL1ydfDSI&t=5444"
     },
     {
-      "Id": 643,
+      "Id": 644,
       "Title": "In Your Atmosphere",
       "CleanedTitle": "in-your-atmosphere",
       "Artist": "John Mayer",
@@ -9646,7 +9661,7 @@
       "Links": "https://youtu.be/j9CL1ydfDSI&t=7980 , https://youtu.be/2xkUDe5ZndE?feature=share&t=3069"
     },
     {
-      "Id": 644,
+      "Id": 645,
       "Title": "Little Martha",
       "CleanedTitle": "little-martha",
       "Artist": "Allman Brothers Band",
@@ -9661,7 +9676,7 @@
       "Links": "https://youtu.be/j9CL1ydfDSI&t=9345"
     },
     {
-      "Id": 645,
+      "Id": 646,
       "Title": "California Dreamin'",
       "CleanedTitle": "california-dreamin",
       "Artist": "The Mamas & The Papas",
@@ -9676,7 +9691,7 @@
       "Links": "https://youtu.be/yiFNZvisSQw&t=1292 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=5149"
     },
     {
-      "Id": 646,
+      "Id": 647,
       "Title": "Fire and Rain",
       "CleanedTitle": "fire-and-rain",
       "Artist": "James Taylor",
@@ -9691,7 +9706,7 @@
       "Links": "https://youtu.be/yiFNZvisSQw&t=4668 , https://youtu.be/MmxzKv8Mw2E&t=6030 , https://youtu.be/pvM5qp6ZCS4&t=9595 , https://youtu.be/ebv-JlkIPUY&t=2824 , https://youtu.be/ShAGixH0AfU&t=5051 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=5918"
     },
     {
-      "Id": 647,
+      "Id": 648,
       "Title": "Rollin' and Tumblin'",
       "CleanedTitle": "rollin-and-tumblin",
       "Artist": "Eric Clapton",
@@ -9706,7 +9721,7 @@
       "Links": "https://youtu.be/yiFNZvisSQw&t=8236 , https://youtu.be/watch?v=9gkOvE2nTlM&t=4592 , https://youtu.be/watch?v=B5AJb0_vLS4&t=5178"
     },
     {
-      "Id": 648,
+      "Id": 649,
       "Title": "Ziggy Stardust",
       "CleanedTitle": "ziggy-stardust",
       "Artist": "David Bowie",
@@ -9721,7 +9736,7 @@
       "Links": "https://youtu.be/lmyOp2MHwCY&t=6820 , https://youtu.be/HJpwaG3PP3E&t=8366 , https://youtu.be/iB2cbbPaJU0&t=6020 , https://youtu.be/sXKeY6LpR9g&t=3369"
     },
     {
-      "Id": 649,
+      "Id": 650,
       "Title": "Imagine",
       "CleanedTitle": "imagine",
       "Artist": "John Lennon",
@@ -9736,7 +9751,7 @@
       "Links": "https://youtu.be/JpKnYI_-2OA&t=2878"
     },
     {
-      "Id": 650,
+      "Id": 651,
       "Title": "Super Mario Bros. Main Theme",
       "CleanedTitle": "super-mario-bros-main-theme",
       "Artist": "Koji Kondo",
@@ -9751,7 +9766,7 @@
       "Links": "https://youtu.be/JpKnYI_-2OA&t=9116 , https://youtu.be/watch?v=gzOWoVXQdgU&t=37"
     },
     {
-      "Id": 651,
+      "Id": 652,
       "Title": "Sugar Mountain",
       "CleanedTitle": "sugar-mountain",
       "Artist": "Neil Young",
@@ -9766,7 +9781,7 @@
       "Links": "https://youtu.be/y83VDXWJbQE&t=8818 , https://youtu.be/Qh8m_ldN2zw&t=3007"
     },
     {
-      "Id": 652,
+      "Id": 653,
       "Title": "Adelita",
       "CleanedTitle": "adelita",
       "Artist": "Francisco Tárrega",
@@ -9781,7 +9796,7 @@
       "Links": "https://youtu.be/HTJSoHhm7aY&t=8737 , https://youtu.be/Yr3DnVxJbnA&t=5786 , https://youtu.be/watch?v=nCRWhvGFWUE&t=10204"
     },
     {
-      "Id": 653,
+      "Id": 654,
       "Title": "Pavana",
       "CleanedTitle": "pavana",
       "Artist": "Francisco Tárrega",
@@ -9796,7 +9811,7 @@
       "Links": "https://youtu.be/HTJSoHhm7aY&t=8833 , https://youtu.be/watch?v=F7kc9DzOJgk&t=10023"
     },
     {
-      "Id": 654,
+      "Id": 655,
       "Title": "Giant Steps (Partial)",
       "CleanedTitle": "giant-steps-partial",
       "Artist": "John Coltrane",
@@ -9811,7 +9826,7 @@
       "Links": "https://youtu.be/aiAhYDQQdUo&t=5785 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=3136"
     },
     {
-      "Id": 655,
+      "Id": 656,
       "Title": "Rebel Rebel",
       "CleanedTitle": "rebel-rebel",
       "Artist": "David Bowie",
@@ -9826,7 +9841,7 @@
       "Links": "https://youtu.be/aiAhYDQQdUo&t=6928 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=7526"
     },
     {
-      "Id": 656,
+      "Id": 657,
       "Title": "You've Got To Hide Your Love Away",
       "CleanedTitle": "youve-got-to-hide-your-love-away",
       "Artist": "The Beatles",
@@ -9841,7 +9856,7 @@
       "Links": "https://youtu.be/aiAhYDQQdUo&t=7928 , https://youtu.be/vRD0K6kl3Qs&t=7964 , https://youtu.be/watch?v=F7kc9DzOJgk&t=116 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=118"
     },
     {
-      "Id": 657,
+      "Id": 658,
       "Title": "(Nice Dream)",
       "CleanedTitle": "nice-dream",
       "Artist": "Radiohead",
@@ -9856,7 +9871,7 @@
       "Links": "https://youtu.be/gVy2vkeHV_I&t=4392 , https://youtu.be/pVDmEFQX16c&t=8698 , https://youtu.be/ebv-JlkIPUY&t=3158 , https://youtu.be/ShAGixH0AfU&t=7764 , https://youtu.be/2xkUDe5ZndE?feature=share&t=5654"
     },
     {
-      "Id": 658,
+      "Id": 659,
       "Title": "Wild Horses",
       "CleanedTitle": "wild-horses",
       "Artist": "The Rolling Stones",
@@ -9871,7 +9886,7 @@
       "Links": "https://youtu.be/gVy2vkeHV_I&t=10011 , https://youtu.be/watch?v=JR6OhpR0pU0&t=8759"
     },
     {
-      "Id": 659,
+      "Id": 660,
       "Title": "Sweet Thing",
       "CleanedTitle": "sweet-thing",
       "Artist": "Van Morrison",
@@ -9886,7 +9901,7 @@
       "Links": "https://youtu.be/GDMlH7bT0FA&t=5945 , https://youtu.be/watch?v=0nRONZ-KEQk&t=7261"
     },
     {
-      "Id": 660,
+      "Id": 661,
       "Title": "Take A Picture",
       "CleanedTitle": "take-a-picture",
       "Artist": "Filter",
@@ -9901,7 +9916,7 @@
       "Links": "https://youtu.be/3iWYcnMuVzc&t=1521 , https://youtu.be/watch?v=9gkOvE2nTlM&t=6386"
     },
     {
-      "Id": 661,
+      "Id": 662,
       "Title": "White Room",
       "CleanedTitle": "white-room",
       "Artist": "Cream",
@@ -9916,7 +9931,7 @@
       "Links": "https://youtu.be/3iWYcnMuVzc&t=4510 , https://youtu.be/GpaZbjokFec?feature=share&t=1847 , https://youtu.be/watch?v=oGvWPFlm1fM&t=1967 , https://youtu.be/watch?v=JR6OhpR0pU0&t=4709"
     },
     {
-      "Id": 662,
+      "Id": 663,
       "Title": "Something",
       "CleanedTitle": "something",
       "Artist": "The Beatles",
@@ -9931,7 +9946,7 @@
       "Links": "https://youtu.be/0W8Q-hGHd80&t=4655 , https://youtu.be/h3nHBsoSZYA&t=2756 , https://youtu.be/GpaZbjokFec?feature=share&t=4733 , https://youtu.be/1HkYscBWtp8?feature=share&t=4027 , https://youtu.be/watch?v=B5AJb0_vLS4&t=7678"
     },
     {
-      "Id": 663,
+      "Id": 664,
       "Title": "Day Is Done",
       "CleanedTitle": "day-is-done",
       "Artist": "Nick Drake",
@@ -9946,7 +9961,7 @@
       "Links": "https://youtu.be/0W8Q-hGHd80&t=6767 , https://youtu.be/watch?v=lfNvWAOnwQw&t=2495"
     },
     {
-      "Id": 664,
+      "Id": 665,
       "Title": "Heart of Gold",
       "CleanedTitle": "heart-of-gold",
       "Artist": "Neil Young",
@@ -9961,7 +9976,7 @@
       "Links": "https://youtu.be/yT-ZTr6ntP4&t=2417 , https://youtu.be/9sCm4eY4VKg&t=4151 , https://youtu.be/rHhhcP4jGD8&t=9629"
     },
     {
-      "Id": 665,
+      "Id": 666,
       "Title": "Alive",
       "CleanedTitle": "alive",
       "Artist": "Pearl Jam",
@@ -9976,7 +9991,7 @@
       "Links": "https://youtu.be/yT-ZTr6ntP4&t=8356 , https://youtu.be/9sCm4eY4VKg&t=2569 , https://youtu.be/watch?v=lfNvWAOnwQw&t=2076"
     },
     {
-      "Id": 666,
+      "Id": 667,
       "Title": "Zombie",
       "CleanedTitle": "zombie",
       "Artist": "The Cranberries",
@@ -9991,7 +10006,7 @@
       "Links": "https://youtu.be/pVDmEFQX16c&t=8433 , https://youtu.be/JNbwlKX5IJE&t=4501 , https://youtu.be/7ub_S5Kx-wA&t=8668 , https://youtu.be/7Yc3utlluNc&t=5890 , https://youtu.be/iB2cbbPaJU0&t=6638 , https://youtu.be/s-v4qoUK0tU?feature=share&t=2992"
     },
     {
-      "Id": 667,
+      "Id": 668,
       "Title": "Take Me Home, Country Roads",
       "CleanedTitle": "take-me-home-country-roads",
       "Artist": "John Denver",
@@ -10006,7 +10021,7 @@
       "Links": "https://youtu.be/Bs2mSVV4b38&t=3384"
     },
     {
-      "Id": 668,
+      "Id": 669,
       "Title": "Desire",
       "CleanedTitle": "desire",
       "Artist": "U2",
@@ -10021,7 +10036,7 @@
       "Links": "https://youtu.be/JNbwlKX5IJE&t=8719"
     },
     {
-      "Id": 669,
+      "Id": 670,
       "Title": "Funky Monks (Partial)",
       "CleanedTitle": "funky-monks-partial",
       "Artist": "Red Hot Chili Peppers",
@@ -10036,7 +10051,7 @@
       "Links": "https://youtu.be/JNbwlKX5IJE&t=9693"
     },
     {
-      "Id": 670,
+      "Id": 671,
       "Title": "Brain Damage",
       "CleanedTitle": "brain-damage",
       "Artist": "Pink Floyd",
@@ -10051,7 +10066,7 @@
       "Links": "https://youtu.be/2vn_PYw-W6o&t=6225 , https://youtu.be/9sCm4eY4VKg&t=6520 , https://youtu.be/vRD0K6kl3Qs&t=9453 , https://youtu.be/BvCyN3QU46c?feature=share&t=8147 , https://youtu.be/watch?v=H_j-P2w0QaA&t=5802"
     },
     {
-      "Id": 671,
+      "Id": 672,
       "Title": "Eclipse",
       "CleanedTitle": "eclipse",
       "Artist": "Pink Floyd",
@@ -10066,7 +10081,7 @@
       "Links": "https://youtu.be/2vn_PYw-W6o&t=6391 , https://youtu.be/9sCm4eY4VKg&t=6692 , https://youtu.be/BvCyN3QU46c?feature=share&t=8335 , https://youtu.be/watch?v=H_j-P2w0QaA&t=5972"
     },
     {
-      "Id": 672,
+      "Id": 673,
       "Title": "Times Like These",
       "CleanedTitle": "times-like-these",
       "Artist": "Foo Fighters",
@@ -10081,7 +10096,7 @@
       "Links": "https://youtu.be/seLDpNLZFDU&t=4464 , https://youtu.be/watch?v=9rSlmMNfOkY&t=6545"
     },
     {
-      "Id": 673,
+      "Id": 674,
       "Title": "Lilac Wine",
       "CleanedTitle": "lilac-wine",
       "Artist": "Jeff Buckley",
@@ -10096,7 +10111,7 @@
       "Links": "https://youtu.be/seLDpNLZFDU&t=5560 , https://youtu.be/QLLYLiTUyDY?feature=share&t=7547"
     },
     {
-      "Id": 674,
+      "Id": 675,
       "Title": "My Hero",
       "CleanedTitle": "my-hero",
       "Artist": "Foo Fighters",
@@ -10111,7 +10126,7 @@
       "Links": "https://youtu.be/seLDpNLZFDU&t=8823"
     },
     {
-      "Id": 675,
+      "Id": 676,
       "Title": "McDonald's Jingle",
       "CleanedTitle": "mcdonalds-jingle",
       "Artist": "Pusha T",
@@ -10126,7 +10141,7 @@
       "Links": "https://youtu.be/7ub_S5Kx-wA&t=2864"
     },
     {
-      "Id": 676,
+      "Id": 677,
       "Title": "Bobcaygeon",
       "CleanedTitle": "bobcaygeon",
       "Artist": "The Tragically Hip",
@@ -10141,7 +10156,7 @@
       "Links": "https://youtu.be/7ub_S5Kx-wA&t=6580 , https://youtu.be/skPtRNli5KY&t=6256 , https://youtu.be/KACYxeAmdCs?feature=share&t=5179"
     },
     {
-      "Id": 677,
+      "Id": 678,
       "Title": "Have You Ever Seen The Rain",
       "CleanedTitle": "have-you-ever-seen-the-rain",
       "Artist": "Creedence Clearwater Revival",
@@ -10156,7 +10171,7 @@
       "Links": "https://youtu.be/s6H9GdbDwbQ&t=2171 , https://youtu.be/watch?v=lq5YJLgEDWI&t=4729"
     },
     {
-      "Id": 678,
+      "Id": 679,
       "Title": "Angel from Montgomery",
       "CleanedTitle": "angel-from-montgomery",
       "Artist": "John Prine",
@@ -10171,7 +10186,7 @@
       "Links": "https://youtu.be/s6H9GdbDwbQ&t=3782 , https://youtu.be/watch?v=x3skjeOvXxo&t=4401 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=2538"
     },
     {
-      "Id": 679,
+      "Id": 680,
       "Title": "About A Girl",
       "CleanedTitle": "about-a-girl",
       "Artist": "Nirvana",
@@ -10186,7 +10201,7 @@
       "Links": "https://youtu.be/s6H9GdbDwbQ&t=7693 , https://youtu.be/8jK6wYjrnw4&t=4496 , https://youtu.be/KACYxeAmdCs?feature=share&t=5624"
     },
     {
-      "Id": 680,
+      "Id": 681,
       "Title": "Fruit Tree",
       "CleanedTitle": "fruit-tree",
       "Artist": "Nick Drake",
@@ -10201,7 +10216,7 @@
       "Links": "https://youtu.be/YAxlXf4Ftt0&t=7366 , https://youtu.be/jyGZgv6rFqo?feature=share&t=5246"
     },
     {
-      "Id": 681,
+      "Id": 682,
       "Title": "Mama Let Him Play",
       "CleanedTitle": "mama-let-him-play",
       "Artist": "Doucette",
@@ -10216,7 +10231,7 @@
       "Links": "https://youtu.be/YAxlXf4Ftt0&t=8727"
     },
     {
-      "Id": 682,
+      "Id": 683,
       "Title": "I Know It's Over (Partial)",
       "CleanedTitle": "i-know-its-over-partial",
       "Artist": "The Smiths",
@@ -10231,7 +10246,7 @@
       "Links": "https://youtu.be/PvNuNSk9iPM&t=7265"
     },
     {
-      "Id": 683,
+      "Id": 684,
       "Title": "The Trooper (Partial)",
       "CleanedTitle": "the-trooper-partial",
       "Artist": "Iron Maiden",
@@ -10246,7 +10261,7 @@
       "Links": "https://youtu.be/h_KbDQybQmE&t=2078"
     },
     {
-      "Id": 684,
+      "Id": 685,
       "Title": "Out of Tune 12-String for Jim",
       "CleanedTitle": "out-of-tune-12-string-for-jim",
       "Artist": "Corey Heuvel",
@@ -10261,7 +10276,7 @@
       "Links": "https://youtu.be/h_KbDQybQmE&t=4445"
     },
     {
-      "Id": 685,
+      "Id": 686,
       "Title": "38 Years Old",
       "CleanedTitle": "38-years-old",
       "Artist": "The Tragically Hip",
@@ -10276,7 +10291,7 @@
       "Links": "https://youtu.be/h_KbDQybQmE&t=4547"
     },
     {
-      "Id": 686,
+      "Id": 687,
       "Title": "Sharp Dressed Man (Partial)",
       "CleanedTitle": "sharp-dressed-man-partial",
       "Artist": "ZZ Top",
@@ -10291,7 +10306,7 @@
       "Links": "https://youtu.be/Yr3DnVxJbnA&t=4381 , https://youtu.be/watch?v=gzOWoVXQdgU&t=775"
     },
     {
-      "Id": 687,
+      "Id": 688,
       "Title": "Bouree In E Minor",
       "CleanedTitle": "bouree-in-e-minor",
       "Artist": "Johann Sebastian Bach",
@@ -10306,7 +10321,7 @@
       "Links": "https://youtu.be/Yr3DnVxJbnA&t=5773 , https://youtu.be/watch?v=F7kc9DzOJgk&t=10913 , https://youtu.be/watch?v=H_j-P2w0QaA&t=5137"
     },
     {
-      "Id": 688,
+      "Id": 689,
       "Title": "\"Alright, Yeah\" Jingle",
       "CleanedTitle": "alright-yeah-jingle",
       "Artist": "Corey Heuvel",
@@ -10321,7 +10336,7 @@
       "Links": "https://youtu.be/MmxzKv8Mw2E&t=4094"
     },
     {
-      "Id": 689,
+      "Id": 690,
       "Title": "Baby, I Love Your Way (Partial)",
       "CleanedTitle": "baby-i-love-your-way-partial",
       "Artist": "Peter Frampton",
@@ -10336,7 +10351,7 @@
       "Links": "https://youtu.be/5Y_XA4lXk_8&t=2458 , https://youtu.be/watch?v=x3skjeOvXxo&t=5038"
     },
     {
-      "Id": 690,
+      "Id": 691,
       "Title": "Just a Phase",
       "CleanedTitle": "just-a-phase",
       "Artist": "Incubus",
@@ -10351,7 +10366,7 @@
       "Links": "https://youtu.be/5Y_XA4lXk_8&t=2884"
     },
     {
-      "Id": 691,
+      "Id": 692,
       "Title": "Think Of You",
       "CleanedTitle": "think-of-you",
       "Artist": "Carney",
@@ -10366,7 +10381,7 @@
       "Links": "https://youtu.be/pvM5qp6ZCS4&t=8641"
     },
     {
-      "Id": 692,
+      "Id": 693,
       "Title": "My Sweet Lord",
       "CleanedTitle": "my-sweet-lord",
       "Artist": "George Harrison",
@@ -10381,7 +10396,7 @@
       "Links": "https://youtu.be/ebv-JlkIPUY&t=4738 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=3481 , https://youtu.be/watch?v=uQLC-GCPpV0&t=149 , https://youtu.be/watch?v=H_j-P2w0QaA&t=2922 , https://youtu.be/watch?v=0nRONZ-KEQk&t=4613"
     },
     {
-      "Id": 693,
+      "Id": 694,
       "Title": "Operator (That's Not the Way It Feels)",
       "CleanedTitle": "operator-thats-not-the-way-it-feels",
       "Artist": "Jim Croce",
@@ -10396,7 +10411,7 @@
       "Links": "https://youtu.be/ebv-JlkIPUY&t=6781"
     },
     {
-      "Id": 694,
+      "Id": 695,
       "Title": "Sex on Fire (Partial)",
       "CleanedTitle": "sex-on-fire-partial",
       "Artist": "Kings of Leon",
@@ -10411,7 +10426,7 @@
       "Links": "https://youtu.be/ebv-JlkIPUY&t=7858"
     },
     {
-      "Id": 695,
+      "Id": 696,
       "Title": "Grey Street (Partial)",
       "CleanedTitle": "grey-street-partial",
       "Artist": "Dave Matthews Band",
@@ -10426,7 +10441,7 @@
       "Links": "https://youtu.be/goEx4wnnaQw&t=3295"
     },
     {
-      "Id": 696,
+      "Id": 697,
       "Title": "Planet Caravan",
       "CleanedTitle": "planet-caravan",
       "Artist": "Black Sabbath",
@@ -10441,7 +10456,7 @@
       "Links": "https://youtu.be/goEx4wnnaQw&t=6835 , https://youtu.be/9sCm4eY4VKg&t=3914 , https://youtu.be/IJmsYXQl5dA&t=7414 , https://youtu.be/1HkYscBWtp8?feature=share&t=5298"
     },
     {
-      "Id": 697,
+      "Id": 698,
       "Title": "Losing My Religion",
       "CleanedTitle": "losing-my-religion",
       "Artist": "R.E.M",
@@ -10456,7 +10471,7 @@
       "Links": "https://youtu.be/goEx4wnnaQw&t=8415 , https://youtu.be/watch?v=twwoDRDMthg&t=4345"
     },
     {
-      "Id": 698,
+      "Id": 699,
       "Title": "Kashmir (Partial)",
       "CleanedTitle": "kashmir-partial",
       "Artist": "Led Zeppelin",
@@ -10471,7 +10486,7 @@
       "Links": "https://youtu.be/bEBVkT9SWFY&t=10585 , https://youtu.be/watch?v=x3skjeOvXxo&t=6430"
     },
     {
-      "Id": 699,
+      "Id": 700,
       "Title": "Man Of Constant Sorrow",
       "CleanedTitle": "man-of-constant-sorrow",
       "Artist": "The Soggy Bottom Boys",
@@ -10486,7 +10501,7 @@
       "Links": "https://youtu.be/6Yy57i8sR0s&t=822"
     },
     {
-      "Id": 700,
+      "Id": 701,
       "Title": "Life Without You",
       "CleanedTitle": "life-without-you",
       "Artist": "Stevie Ray Vaughan",
@@ -10501,7 +10516,7 @@
       "Links": "https://youtu.be/6Yy57i8sR0s&t=8722"
     },
     {
-      "Id": 701,
+      "Id": 702,
       "Title": "Parachutes",
       "CleanedTitle": "parachutes",
       "Artist": "Coldplay",
@@ -10516,7 +10531,7 @@
       "Links": "https://youtu.be/Qh8m_ldN2zw&t=4480 , https://youtu.be/QLLYLiTUyDY?feature=share&t=2850"
     },
     {
-      "Id": 702,
+      "Id": 703,
       "Title": "Rock N' Roll Duty (Partial)",
       "CleanedTitle": "rock-n-roll-duty-partial",
       "Artist": "Kim Mitchell",
@@ -10531,7 +10546,7 @@
       "Links": "https://youtu.be/Qh8m_ldN2zw&t=7426"
     },
     {
-      "Id": 703,
+      "Id": 704,
       "Title": "Intro \"Way to the Sea\"",
       "CleanedTitle": "intro-way-to-the-sea",
       "Artist": "Corey Heuvel",
@@ -10546,7 +10561,7 @@
       "Links": "https://youtu.be/iB2cbbPaJU0&t=11 , https://youtu.be/HdqJmfuPKyM&t=12 , https://youtu.be/vRD0K6kl3Qs&t=15 , https://youtu.be/rHhhcP4jGD8&t=11"
     },
     {
-      "Id": 704,
+      "Id": 705,
       "Title": "Intro \"Giving Up\"",
       "CleanedTitle": "intro-giving-up",
       "Artist": "Corey Heuvel",
@@ -10561,7 +10576,7 @@
       "Links": "https://youtu.be/9sCm4eY4VKg&t=12 , https://youtu.be/skPtRNli5KY&t=14 , https://youtu.be/IJmsYXQl5dA&t=11"
     },
     {
-      "Id": 705,
+      "Id": 706,
       "Title": "To Be With You",
       "CleanedTitle": "to-be-with-you",
       "Artist": "Mr. Big",
@@ -10576,7 +10591,7 @@
       "Links": "https://youtu.be/9sCm4eY4VKg&t=1318 , https://youtu.be/skPtRNli5KY&t=3024 , https://youtu.be/v56fDp25FcM?feature=share&t=8232 , https://youtu.be/watch?v=lfNvWAOnwQw&t=4235"
     },
     {
-      "Id": 706,
+      "Id": 707,
       "Title": "Reelin' In The Years",
       "CleanedTitle": "reelin-in-the-years",
       "Artist": "Steely Dan",
@@ -10591,7 +10606,7 @@
       "Links": "https://youtu.be/9sCm4eY4VKg&t=1749 , https://youtu.be/2xkUDe5ZndE?feature=share&t=8375"
     },
     {
-      "Id": 707,
+      "Id": 708,
       "Title": "Lola",
       "CleanedTitle": "lola",
       "Artist": "The Kinks",
@@ -10606,7 +10621,7 @@
       "Links": "https://youtu.be/9sCm4eY4VKg&t=2874 , https://youtu.be/watch?v=01eDLSmTMtQ&t=6436 , https://youtu.be/watch?v=TTj_ZKaAVWo&t=6956"
     },
     {
-      "Id": 708,
+      "Id": 709,
       "Title": "The Middle",
       "CleanedTitle": "the-middle",
       "Artist": "Jimmy Eat World",
@@ -10621,7 +10636,7 @@
       "Links": "https://youtu.be/9sCm4eY4VKg&t=5323 , https://youtu.be/CqHIgye4I8s?feature=share&t=4131"
     },
     {
-      "Id": 709,
+      "Id": 710,
       "Title": "Long Cool Woman (In a Black Dress) (Partial)",
       "CleanedTitle": "long-cool-woman-in-a-black-dress-partial",
       "Artist": "The Hollies",
@@ -10636,7 +10651,7 @@
       "Links": "https://youtu.be/9sCm4eY4VKg&t=6423 , https://youtu.be/QLLYLiTUyDY?feature=share&t=7457"
     },
     {
-      "Id": 710,
+      "Id": 711,
       "Title": "Two",
       "CleanedTitle": "two",
       "Artist": "Ryan Adams",
@@ -10651,7 +10666,7 @@
       "Links": "https://youtu.be/skPtRNli5KY&t=7445"
     },
     {
-      "Id": 711,
+      "Id": 712,
       "Title": "Intro \"Starbird\"",
       "CleanedTitle": "intro-starbird",
       "Artist": "Corey Heuvel",
@@ -10666,7 +10681,7 @@
       "Links": "https://youtu.be/ShAGixH0AfU&t=15 , https://youtu.be/dWIijDnVkho&t=10"
     },
     {
-      "Id": 712,
+      "Id": 713,
       "Title": "Inspector Gadget Theme",
       "CleanedTitle": "inspector-gadget-theme",
       "Artist": "Shuki Levy",
@@ -10681,7 +10696,7 @@
       "Links": "https://youtu.be/ShAGixH0AfU&t=5337 , https://youtu.be/watch?v=lfNvWAOnwQw&t=9811"
     },
     {
-      "Id": 713,
+      "Id": 714,
       "Title": "What I Got",
       "CleanedTitle": "what-i-got",
       "Artist": "Sublime",
@@ -10696,7 +10711,7 @@
       "Links": "https://youtu.be/ShAGixH0AfU&t=6679"
     },
     {
-      "Id": 714,
+      "Id": 715,
       "Title": "My Baba",
       "CleanedTitle": "my-baba",
       "Artist": "Trevor Hall, Krishna Das",
@@ -10711,7 +10726,7 @@
       "Links": "https://youtu.be/ShAGixH0AfU&t=6847"
     },
     {
-      "Id": 715,
+      "Id": 716,
       "Title": "Blues Improv",
       "CleanedTitle": "blues-improv",
       "Artist": "Corey Heuvel",
@@ -10726,7 +10741,7 @@
       "Links": "https://youtu.be/dWIijDnVkho&t=1059"
     },
     {
-      "Id": 716,
+      "Id": 717,
       "Title": "If You Could Only See",
       "CleanedTitle": "if-you-could-only-see",
       "Artist": "Tonic",
@@ -10741,7 +10756,7 @@
       "Links": "https://youtu.be/dWIijDnVkho&t=3600 , https://youtu.be/watch?v=H_j-P2w0QaA&t=1606"
     },
     {
-      "Id": 717,
+      "Id": 718,
       "Title": "Intro \"Until the End\"",
       "CleanedTitle": "intro-until-the-end",
       "Artist": "Corey Heuvel",
@@ -10756,7 +10771,7 @@
       "Links": "https://youtu.be/yN7gKYOObcE&t=7"
     },
     {
-      "Id": 718,
+      "Id": 719,
       "Title": "Intro \"Time Always Tells\"",
       "CleanedTitle": "intro-time-always-tells",
       "Artist": "Corey Heuvel",
@@ -10771,7 +10786,7 @@
       "Links": "https://youtu.be/HQCt4rx-y8Q&t=14 , https://youtu.be/Lpcd7ALm6r4&t=10"
     },
     {
-      "Id": 719,
+      "Id": 720,
       "Title": "All Apologies",
       "CleanedTitle": "all-apologies",
       "Artist": "Nirvana",
@@ -10786,7 +10801,7 @@
       "Links": "https://youtu.be/Lpcd7ALm6r4&t=6481 , https://youtu.be/watch?v=9rSlmMNfOkY&t=7668"
     },
     {
-      "Id": 720,
+      "Id": 721,
       "Title": "Intro \"Into Light\"",
       "CleanedTitle": "intro-into-light",
       "Artist": "Corey Heuvel",
@@ -10801,7 +10816,7 @@
       "Links": "https://youtu.be/wSBFKylNQjU&t=11 , https://youtu.be/9RNVOwRTSwc&t=13"
     },
     {
-      "Id": 721,
+      "Id": 722,
       "Title": "Time Has Told Me",
       "CleanedTitle": "time-has-told-me",
       "Artist": "Nick Drake",
@@ -10816,7 +10831,7 @@
       "Links": "https://youtu.be/wSBFKylNQjU&t=5907"
     },
     {
-      "Id": 722,
+      "Id": 723,
       "Title": "Angie",
       "CleanedTitle": "angie",
       "Artist": "The Rolling Stones",
@@ -10831,7 +10846,7 @@
       "Links": "https://youtu.be/9RNVOwRTSwc&t=9930 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=4962 , https://youtu.be/watch?v=01eDLSmTMtQ&t=6866"
     },
     {
-      "Id": 723,
+      "Id": 724,
       "Title": "Animals (Partial)",
       "CleanedTitle": "animals-partial",
       "Artist": "Nickelback",
@@ -10846,7 +10861,7 @@
       "Links": "https://youtu.be/vRD0K6kl3Qs&t=10029"
     },
     {
-      "Id": 724,
+      "Id": 725,
       "Title": "Everything In Its Right Place",
       "CleanedTitle": "everything-in-its-right-place",
       "Artist": "Radiohead",
@@ -10861,7 +10876,7 @@
       "Links": "https://youtu.be/rHhhcP4jGD8&t=483 , https://youtu.be/FHa2vjbViJo?feature=share&t=858"
     },
     {
-      "Id": 725,
+      "Id": 726,
       "Title": "Study in E Minor",
       "CleanedTitle": "study-in-e-minor",
       "Artist": "Corey Heuvel",
@@ -10876,7 +10891,7 @@
       "Links": "https://youtu.be/rHhhcP4jGD8&t=4463"
     },
     {
-      "Id": 726,
+      "Id": 727,
       "Title": "Shine",
       "CleanedTitle": "shine",
       "Artist": "Collective Soul",
@@ -10891,7 +10906,7 @@
       "Links": "https://youtu.be/rHhhcP4jGD8&t=5071 , https://youtu.be/1HkYscBWtp8?feature=share&t=2836"
     },
     {
-      "Id": 727,
+      "Id": 728,
       "Title": "Space Oddity",
       "CleanedTitle": "space-oddity",
       "Artist": "David Bowie",
@@ -10906,7 +10921,7 @@
       "Links": "https://youtu.be/IJmsYXQl5dA&t=5449 , https://youtu.be/r4JaTRrhap8?feature=share&t=1232 , https://youtu.be/watch?v=lq5YJLgEDWI&t=6869"
     },
     {
-      "Id": 728,
+      "Id": 729,
       "Title": "Cause We've Ended as Lovers",
       "CleanedTitle": "cause-weve-ended-as-lovers",
       "Artist": "Jeff Beck",
@@ -10921,7 +10936,7 @@
       "Links": "https://youtu.be/8jK6wYjrnw4&t=1498"
     },
     {
-      "Id": 729,
+      "Id": 730,
       "Title": "April Come She Will",
       "CleanedTitle": "april-come-she-will",
       "Artist": "Simon & Garfunkel",
@@ -10936,7 +10951,7 @@
       "Links": "https://youtu.be/8jK6wYjrnw4&t=2696 , https://youtu.be/r4JaTRrhap8?feature=share&t=2424 , https://youtu.be/il7d9PknEmQ?feature=share&t=3081"
     },
     {
-      "Id": 730,
+      "Id": 731,
       "Title": "Yesterday",
       "CleanedTitle": "yesterday",
       "Artist": "The Beatles",
@@ -10951,7 +10966,7 @@
       "Links": "https://youtu.be/8jK6wYjrnw4&t=5657 , https://youtu.be/watch?v=kQ22XhKN3Jw&t=7240"
     },
     {
-      "Id": 731,
+      "Id": 732,
       "Title": "When I'm Up - I Can't Get Down",
       "CleanedTitle": "when-im-up-i-cant-get-down",
       "Artist": "Great Big Sea",
@@ -10966,7 +10981,7 @@
       "Links": "https://youtu.be/sXKeY6LpR9g&t=4752"
     },
     {
-      "Id": 732,
+      "Id": 733,
       "Title": "White Winter Hymnal (Partial)",
       "CleanedTitle": "white-winter-hymnal-partial",
       "Artist": "Fleet Foxes",
@@ -10981,7 +10996,7 @@
       "Links": "https://youtu.be/ARCgeQF6tRg&t=1047"
     },
     {
-      "Id": 733,
+      "Id": 734,
       "Title": "Stone Free",
       "CleanedTitle": "stone-free",
       "Artist": "Jimi Hendrix",
@@ -10996,7 +11011,7 @@
       "Links": "https://youtu.be/ARCgeQF6tRg&t=5612"
     },
     {
-      "Id": 734,
+      "Id": 735,
       "Title": "I Don't Trust Myself (With Loving You)",
       "CleanedTitle": "i-dont-trust-myself-with-loving-you",
       "Artist": "John Mayer",
@@ -11011,7 +11026,7 @@
       "Links": "https://youtu.be/GpaZbjokFec?feature=share&t=1528 , https://youtu.be/Kj7ILSIRVbQ?feature=share&t=8902 , https://youtu.be/c1H63fb1AJs?feature=share&t=1018"
     },
     {
-      "Id": 735,
+      "Id": 736,
       "Title": "Teardrop",
       "CleanedTitle": "teardrop",
       "Artist": "Massive Attack",
@@ -11026,7 +11041,7 @@
       "Links": "https://youtu.be/GpaZbjokFec?feature=share&t=5906"
     },
     {
-      "Id": 736,
+      "Id": 737,
       "Title": "Intro \"Love Story\"",
       "CleanedTitle": "intro-love-story",
       "Artist": "Corey Heuvel",
@@ -11041,7 +11056,7 @@
       "Links": "https://youtu.be/FHa2vjbViJo?feature=share&t=7"
     },
     {
-      "Id": 737,
+      "Id": 738,
       "Title": "Echo",
       "CleanedTitle": "echo",
       "Artist": "Incubus",
@@ -11056,7 +11071,7 @@
       "Links": "https://youtu.be/FHa2vjbViJo?feature=share&t=3888"
     },
     {
-      "Id": 738,
+      "Id": 739,
       "Title": "Happy Birthday",
       "CleanedTitle": "happy-birthday",
       "Artist": "Corey Heuvel",
@@ -11071,7 +11086,7 @@
       "Links": "https://youtu.be/s-v4qoUK0tU?feature=share&t=6809"
     },
     {
-      "Id": 739,
+      "Id": 740,
       "Title": "Intro \"Reverie\"",
       "CleanedTitle": "intro-reverie",
       "Artist": "Corey Heuvel",
@@ -11086,7 +11101,7 @@
       "Links": "https://youtu.be/v56fDp25FcM?feature=share&t=11"
     },
     {
-      "Id": 740,
+      "Id": 741,
       "Title": "Fugue in G Minor (BWV 1000)",
       "CleanedTitle": "fugue-in-g-minor-bwv-1000",
       "Artist": "Johann Sebastian Bach",
@@ -11101,7 +11116,7 @@
       "Links": "https://youtu.be/v56fDp25FcM?feature=share&t=1100 , https://youtu.be/Mm_r2XHf7kw?feature=share&t=6046"
     },
     {
-      "Id": 741,
+      "Id": 742,
       "Title": "Für Elise (Partial)",
       "CleanedTitle": "fur-elise-partial",
       "Artist": "Ludwig Van Beethoven",
@@ -11116,7 +11131,7 @@
       "Links": "https://youtu.be/v56fDp25FcM?feature=share&t=1152"
     },
     {
-      "Id": 742,
+      "Id": 743,
       "Title": "Real World",
       "CleanedTitle": "real-world",
       "Artist": "Matchbox Twenty",
@@ -11131,7 +11146,7 @@
       "Links": "https://youtu.be/v56fDp25FcM?feature=share&t=5495"
     },
     {
-      "Id": 743,
+      "Id": 744,
       "Title": "Carry Me Ohio",
       "CleanedTitle": "carry-me-ohio",
       "Artist": "Sun Kil Moon",
@@ -11146,7 +11161,7 @@
       "Links": "https://youtu.be/r4JaTRrhap8?feature=share&t=3359"
     },
     {
-      "Id": 744,
+      "Id": 745,
       "Title": "Salvador Sanchez",
       "CleanedTitle": "salvador-sanchez",
       "Artist": "Sun Kil Moon",
@@ -11161,7 +11176,7 @@
       "Links": "https://youtu.be/r4JaTRrhap8?feature=share&t=5427"
     },
     {
-      "Id": 745,
+      "Id": 746,
       "Title": "Give A Little Bit",
       "CleanedTitle": "give-a-little-bit",
       "Artist": "Supertramp",
@@ -11176,7 +11191,7 @@
       "Links": "https://youtu.be/r4JaTRrhap8?feature=share&t=6583"
     },
     {
-      "Id": 746,
+      "Id": 747,
       "Title": "Ahead By A Century",
       "CleanedTitle": "ahead-by-a-century",
       "Artist": "The Tragically Hip",
@@ -11191,7 +11206,7 @@
       "Links": "https://youtu.be/Kj7ILSIRVbQ?feature=share&t=7853 , https://youtu.be/watch?v=01eDLSmTMtQ&t=4162"
     },
     {
-      "Id": 747,
+      "Id": 748,
       "Title": "Tiny Dancer",
       "CleanedTitle": "tiny-dancer",
       "Artist": "Elton John",
@@ -11206,7 +11221,7 @@
       "Links": "https://youtu.be/BvCyN3QU46c?feature=share&t=9739 , https://youtu.be/watch?v=JOWxGQN4x5Y&t=5297"
     },
     {
-      "Id": 748,
+      "Id": 749,
       "Title": "I Never Asked to Be Your Mountain",
       "CleanedTitle": "i-never-asked-to-be-your-mountain",
       "Artist": "Tim Buckley",
@@ -11221,7 +11236,7 @@
       "Links": "https://youtu.be/jyGZgv6rFqo?feature=share&t=7902"
     },
     {
-      "Id": 749,
+      "Id": 750,
       "Title": "If You Could Read My Mind",
       "CleanedTitle": "if-you-could-read-my-mind",
       "Artist": "Gordon Lightfoot",
@@ -11236,7 +11251,7 @@
       "Links": "https://youtu.be/Mm_r2XHf7kw?feature=share&t=3196"
     },
     {
-      "Id": 750,
+      "Id": 751,
       "Title": "Let Down",
       "CleanedTitle": "let-down",
       "Artist": "Radiohead",
@@ -11251,7 +11266,7 @@
       "Links": "https://youtu.be/Mm_r2XHf7kw?feature=share&t=7681 , https://youtu.be/c1H63fb1AJs?feature=share&t=6490"
     },
     {
-      "Id": 751,
+      "Id": 752,
       "Title": "Young Lust",
       "CleanedTitle": "young-lust",
       "Artist": "Pink Floyd",
@@ -11266,7 +11281,7 @@
       "Links": "https://youtu.be/KACYxeAmdCs?feature=share&t=5789"
     },
     {
-      "Id": 752,
+      "Id": 753,
       "Title": "Up On Cripple Creek",
       "CleanedTitle": "up-on-cripple-creek",
       "Artist": "The Band",
@@ -11281,7 +11296,7 @@
       "Links": "https://youtu.be/c1H63fb1AJs?feature=share&t=5303"
     },
     {
-      "Id": 753,
+      "Id": 754,
       "Title": "Life in the Fast Lane (Audio Issues)",
       "CleanedTitle": "life-in-the-fast-lane-audio-issues",
       "Artist": "The Eagles",
@@ -11296,7 +11311,7 @@
       "Links": "https://youtu.be/watch?v=gzOWoVXQdgU&t=694 , https://youtu.be/watch?v=lfNvWAOnwQw&t=6740"
     },
     {
-      "Id": 754,
+      "Id": 755,
       "Title": "Wanted Dead Or Alive (Audio Issues)",
       "CleanedTitle": "wanted-dead-or-alive-audio-issues",
       "Artist": "Bon Jovi",
@@ -11311,7 +11326,7 @@
       "Links": "https://youtu.be/watch?v=gzOWoVXQdgU&t=1766 , https://youtu.be/watch?v=F7kc9DzOJgk&t=11630 , https://youtu.be/watch?v=Bdi0EGV_zpY&t=4482"
     },
     {
-      "Id": 755,
+      "Id": 756,
       "Title": "Poison Girl (Audio Issues)",
       "CleanedTitle": "poison-girl-audio-issues",
       "Artist": "Chris Whitley",
@@ -11326,7 +11341,7 @@
       "Links": "https://youtu.be/watch?v=9gkOvE2nTlM&t=2388"
     },
     {
-      "Id": 756,
+      "Id": 757,
       "Title": "Crossing Over/Tree of Life (Medley) (Rein Rutnik)",
       "CleanedTitle": "crossing-over-tree-of-life-medley-rein-rutnik",
       "Artist": "Grant Dermody",
@@ -11341,7 +11356,7 @@
       "Links": "https://youtu.be/watch?v=9gkOvE2nTlM&t=4309"
     },
     {
-      "Id": 757,
+      "Id": 758,
       "Title": "Smells Like Teen Spirit (Audio Issues)",
       "CleanedTitle": "smells-like-teen-spirit-audio-issues",
       "Artist": "Nirvana",
@@ -11356,7 +11371,7 @@
       "Links": "https://youtu.be/watch?v=9gkOvE2nTlM&t=7320"
     },
     {
-      "Id": 758,
+      "Id": 759,
       "Title": "The Weight (Audio Issues)",
       "CleanedTitle": "the-weight-audio-issues",
       "Artist": "The Band",
@@ -11371,7 +11386,7 @@
       "Links": "https://youtu.be/watch?v=nCRWhvGFWUE&t=1311"
     },
     {
-      "Id": 759,
+      "Id": 760,
       "Title": "Once I Was (Audio Issues)",
       "CleanedTitle": "once-i-was-audio-issues",
       "Artist": "Tim Buckley",
@@ -11386,7 +11401,7 @@
       "Links": "https://youtu.be/watch?v=nCRWhvGFWUE&t=8371"
     },
     {
-      "Id": 760,
+      "Id": 761,
       "Title": "Claire De Lune (Audio Issues)",
       "CleanedTitle": "claire-de-lune-audio-issues",
       "Artist": "Claude Debussy",
@@ -11401,7 +11416,7 @@
       "Links": "https://youtu.be/watch?v=nCRWhvGFWUE&t=10321"
     },
     {
-      "Id": 761,
+      "Id": 762,
       "Title": "The Wasp & The Jar (Audio Issues)",
       "CleanedTitle": "the-wasp-the-jar-audio-issues",
       "Artist": "Scott Matthews",
@@ -11416,7 +11431,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=3389"
     },
     {
-      "Id": 762,
+      "Id": 763,
       "Title": "Sweet Home Alabama (Audio Issues)",
       "CleanedTitle": "sweet-home-alabama-audio-issues",
       "Artist": "Lynyrd Skynyrd",
@@ -11431,7 +11446,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=3862"
     },
     {
-      "Id": 763,
+      "Id": 764,
       "Title": "Back To You (Audio Issues)",
       "CleanedTitle": "back-to-you-audio-issues",
       "Artist": "Bryan Adams",
@@ -11446,7 +11461,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=5960"
     },
     {
-      "Id": 764,
+      "Id": 765,
       "Title": "Crazy Train (Electric riff)",
       "CleanedTitle": "crazy-train-electric-riff",
       "Artist": "Ozzy Osbourne",
@@ -11461,7 +11476,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=6958"
     },
     {
-      "Id": 765,
+      "Id": 766,
       "Title": "Cocaine (Electric riff)",
       "CleanedTitle": "cocaine-electric-riff",
       "Artist": "Eric Clapton",
@@ -11476,7 +11491,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=6994"
     },
     {
-      "Id": 766,
+      "Id": 767,
       "Title": "Rude Mood (Electric riff)",
       "CleanedTitle": "rude-mood-electric-riff",
       "Artist": "Stevie Ray Vaughan",
@@ -11491,7 +11506,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=7167"
     },
     {
-      "Id": 767,
+      "Id": 768,
       "Title": "The Heart of Life (Electric riff)",
       "CleanedTitle": "the-heart-of-life-electric-riff",
       "Artist": "John Mayer",
@@ -11506,7 +11521,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=7345"
     },
     {
-      "Id": 768,
+      "Id": 769,
       "Title": "Smoke on the Water (Audio Issues)",
       "CleanedTitle": "smoke-on-the-water-audio-issues",
       "Artist": "Deep Purple",
@@ -11521,7 +11536,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=7425 , https://youtu.be/watch?v=lfNvWAOnwQw&t=7938"
     },
     {
-      "Id": 769,
+      "Id": 770,
       "Title": "(I Can't Get No) Satisfaction (Electric riff)",
       "CleanedTitle": "i-cant-get-no-satisfaction-electric-riff",
       "Artist": "The Rolling Stones",
@@ -11536,7 +11551,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=7451"
     },
     {
-      "Id": 770,
+      "Id": 771,
       "Title": "Autumn Leaves (Electric riff)",
       "CleanedTitle": "autumn-leaves-electric-riff",
       "Artist": "Joseph Kosma",
@@ -11551,7 +11566,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=7490"
     },
     {
-      "Id": 771,
+      "Id": 772,
       "Title": "D'yer Mak'er (Electric riff)",
       "CleanedTitle": "dyer-maker-electric-riff",
       "Artist": "Led Zeppelin",
@@ -11566,7 +11581,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=7513"
     },
     {
-      "Id": 772,
+      "Id": 773,
       "Title": "Day Tripper (Audio Issues)",
       "CleanedTitle": "day-tripper-audio-issues",
       "Artist": "The Beatles",
@@ -11581,7 +11596,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=8722"
     },
     {
-      "Id": 773,
+      "Id": 774,
       "Title": "New Orleans Is Sinking (Audio Issues)",
       "CleanedTitle": "new-orleans-is-sinking-audio-issues",
       "Artist": "The Tragically Hip",
@@ -11596,7 +11611,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=9232"
     },
     {
-      "Id": 774,
+      "Id": 775,
       "Title": "You Make My Dreams (Come True) (Audio Issues)",
       "CleanedTitle": "you-make-my-dreams-come-true-audio-issues",
       "Artist": "Daryl Hall and John Oates",
@@ -11611,7 +11626,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=9255"
     },
     {
-      "Id": 775,
+      "Id": 776,
       "Title": "Push (Audio Issues)",
       "CleanedTitle": "push-audio-issues",
       "Artist": "Moist",
@@ -11626,7 +11641,7 @@
       "Links": "https://youtu.be/watch?v=lfNvWAOnwQw&t=9899"
     },
     {
-      "Id": 776,
+      "Id": 777,
       "Title": "Ain't No Sunshine (Audio Issues)",
       "CleanedTitle": "aint-no-sunshine-audio-issues",
       "Artist": "Bill Withers",
@@ -11641,7 +11656,7 @@
       "Links": "https://youtu.be/watch?v=uQLC-GCPpV0&t=2798 , https://youtu.be/watch?v=F7kc9DzOJgk&t=3448 , https://youtu.be/watch?v=x3skjeOvXxo&t=7460"
     },
     {
-      "Id": 777,
+      "Id": 778,
       "Title": "Sex & Candy (Audio Issues)",
       "CleanedTitle": "sex-candy-audio-issues",
       "Artist": "Marcy Playground",
@@ -11656,7 +11671,7 @@
       "Links": "https://youtu.be/watch?v=Yz6bDH9k1Fk&t=3399"
     },
     {
-      "Id": 778,
+      "Id": 779,
       "Title": "I'm Gonna Be (500 Miles) (Audio Issues)",
       "CleanedTitle": "im-gonna-be-500-miles-audio-issues",
       "Artist": "The Proclaimers",
@@ -11671,7 +11686,7 @@
       "Links": "https://youtu.be/watch?v=F7kc9DzOJgk&t=3330"
     },
     {
-      "Id": 779,
+      "Id": 780,
       "Title": "Asturias (Leyenda) (Audio Issues)",
       "CleanedTitle": "asturias-leyenda-audio-issues",
       "Artist": "Isaac Albéniz",
@@ -11686,7 +11701,7 @@
       "Links": "https://youtu.be/watch?v=F7kc9DzOJgk&t=9964"
     },
     {
-      "Id": 780,
+      "Id": 781,
       "Title": "Come As You Are (Audio Issues)",
       "CleanedTitle": "come-as-you-are-audio-issues",
       "Artist": "Nirvana",
@@ -11701,7 +11716,7 @@
       "Links": "https://youtu.be/watch?v=x3skjeOvXxo&t=440"
     },
     {
-      "Id": 781,
+      "Id": 782,
       "Title": "Every Breath You Take (Audio Issues)",
       "CleanedTitle": "every-breath-you-take-audio-issues",
       "Artist": "The Police",
@@ -11716,7 +11731,7 @@
       "Links": "https://youtu.be/watch?v=x3skjeOvXxo&t=857"
     },
     {
-      "Id": 782,
+      "Id": 783,
       "Title": "Rock Me Baby (Audio Issues)",
       "CleanedTitle": "rock-me-baby-audio-issues",
       "Artist": "Jimi Hendrix",
@@ -11731,7 +11746,7 @@
       "Links": "https://youtu.be/watch?v=x3skjeOvXxo&t=1299"
     },
     {
-      "Id": 783,
+      "Id": 784,
       "Title": "S.R.V (Electric riff)",
       "CleanedTitle": "srv-electric-riff",
       "Artist": "Eric Johnson",
@@ -11746,7 +11761,7 @@
       "Links": "https://youtu.be/watch?v=x3skjeOvXxo&t=6217"
     },
     {
-      "Id": 784,
+      "Id": 785,
       "Title": "Rock and Roll (Electric riff)",
       "CleanedTitle": "rock-and-roll-electric-riff",
       "Artist": "Led Zeppelin",
@@ -11761,7 +11776,7 @@
       "Links": "https://youtu.be/watch?v=x3skjeOvXxo&t=7315"
     },
     {
-      "Id": 785,
+      "Id": 786,
       "Title": "Mouth for War (Electric riff)",
       "CleanedTitle": "mouth-for-war-electric-riff",
       "Artist": "Pantera",
@@ -11776,7 +11791,7 @@
       "Links": "https://youtu.be/watch?v=x3skjeOvXxo&t=7699"
     },
     {
-      "Id": 786,
+      "Id": 787,
       "Title": "Bulls On Parade (Electric riff)",
       "CleanedTitle": "bulls-on-parade-electric-riff",
       "Artist": "Rage Against The Machine",
@@ -11791,7 +11806,7 @@
       "Links": "https://youtu.be/watch?v=x3skjeOvXxo&t=7822"
     },
     {
-      "Id": 787,
+      "Id": 788,
       "Title": "Roxanne (Audio Issues)",
       "CleanedTitle": "roxanne-audio-issues",
       "Artist": "The Police",
@@ -11806,7 +11821,7 @@
       "Links": "https://youtu.be/watch?v=x3skjeOvXxo&t=7870 , https://youtu.be/watch?v=B5AJb0_vLS4&t=8458"
     },
     {
-      "Id": 788,
+      "Id": 789,
       "Title": "Old Time Rock & Rock (Audio Issues)",
       "CleanedTitle": "old-time-rock-rock-audio-issues",
       "Artist": "Bob Seger",
@@ -11821,7 +11836,7 @@
       "Links": "https://youtu.be/watch?v=x3skjeOvXxo&t=8341"
     },
     {
-      "Id": 789,
+      "Id": 790,
       "Title": "Feeling Good (Audio Issues)",
       "CleanedTitle": "feeling-good-audio-issues",
       "Artist": "Nina Simone",
@@ -11836,7 +11851,7 @@
       "Links": "https://youtu.be/watch?v=JOWxGQN4x5Y&t=2014"
     },
     {
-      "Id": 790,
+      "Id": 791,
       "Title": "It's Not Unusual (Audio Issues)",
       "CleanedTitle": "its-not-unusual-audio-issues",
       "Artist": "Tom Jones",
@@ -11851,7 +11866,7 @@
       "Links": "https://youtu.be/watch?v=JOWxGQN4x5Y&t=7066"
     },
     {
-      "Id": 791,
+      "Id": 792,
       "Title": "Rosanna (Audio Issues)",
       "CleanedTitle": "rosanna-audio-issues",
       "Artist": "Toto",
@@ -11866,7 +11881,7 @@
       "Links": "https://youtu.be/watch?v=JOWxGQN4x5Y&t=7333"
     },
     {
-      "Id": 792,
+      "Id": 793,
       "Title": "Comfortably Numb (Audio Issues)",
       "CleanedTitle": "comfortably-numb-audio-issues",
       "Artist": "Pink Floyd",
@@ -11881,7 +11896,7 @@
       "Links": "https://youtu.be/watch?v=lq5YJLgEDWI&t=1761"
     },
     {
-      "Id": 793,
+      "Id": 794,
       "Title": "Barracuda (Audio Issues)",
       "CleanedTitle": "barracuda-audio-issues",
       "Artist": "Heart",
@@ -11896,7 +11911,7 @@
       "Links": "https://youtu.be/watch?v=lq5YJLgEDWI&t=6789"
     },
     {
-      "Id": 794,
+      "Id": 795,
       "Title": "Riders on the Storm (Audio Issues)",
       "CleanedTitle": "riders-on-the-storm-audio-issues",
       "Artist": "The Doors",
@@ -11911,7 +11926,7 @@
       "Links": "https://youtu.be/watch?v=lq5YJLgEDWI&t=8732"
     },
     {
-      "Id": 795,
+      "Id": 796,
       "Title": "Canarios (Audio Issues)",
       "CleanedTitle": "canarios-audio-issues",
       "Artist": "Gaspar Sanz",
@@ -11926,7 +11941,7 @@
       "Links": "https://youtu.be/watch?v=lq5YJLgEDWI&t=9639"
     },
     {
-      "Id": 796,
+      "Id": 797,
       "Title": "Tell Me (Audio Issues)",
       "CleanedTitle": "tell-me-audio-issues",
       "Artist": "Stevie Ray Vaughan",
@@ -11941,7 +11956,7 @@
       "Links": "https://youtu.be/watch?v=B5AJb0_vLS4&t=107 , https://youtu.be/watch?v=XxWeHmiEot0&t=2808"
     },
     {
-      "Id": 797,
+      "Id": 798,
       "Title": "Ice Water Blues (Rein Rutnik)",
       "CleanedTitle": "ice-water-blues-rein-rutnik",
       "Artist": "Deford Bailey",
@@ -11956,7 +11971,7 @@
       "Links": "https://youtu.be/watch?v=B5AJb0_vLS4&t=5762"
     },
     {
-      "Id": 798,
+      "Id": 799,
       "Title": "Recuerdos De la Alhambra (Audio Issues)",
       "CleanedTitle": "recuerdos-de-la-alhambra-audio-issues",
       "Artist": "Francisco Tárrega",
@@ -11971,7 +11986,7 @@
       "Links": "https://youtu.be/watch?v=kQ22XhKN3Jw&t=429"
     },
     {
-      "Id": 799,
+      "Id": 800,
       "Title": "The Scientist (Audio Issues)",
       "CleanedTitle": "the-scientist-audio-issues",
       "Artist": "Coldplay",
@@ -11986,7 +12001,7 @@
       "Links": "https://youtu.be/watch?v=kQ22XhKN3Jw&t=6842"
     },
     {
-      "Id": 800,
+      "Id": 801,
       "Title": "Don't Worry Be Happy (Audio Issues)",
       "CleanedTitle": "dont-worry-be-happy-audio-issues",
       "Artist": "Bobby McFerrin",
@@ -12001,7 +12016,7 @@
       "Links": "https://youtu.be/watch?v=kQ22XhKN3Jw&t=7786"
     },
     {
-      "Id": 801,
+      "Id": 802,
       "Title": "It's Only Rock'n'Roll (But I Like It) (Audio Issues)",
       "CleanedTitle": "its-only-rocknroll-but-i-like-it-audio-issues",
       "Artist": "The Rolling Stones",
@@ -12016,7 +12031,7 @@
       "Links": "https://youtu.be/watch?v=kQ22XhKN3Jw&t=9022"
     },
     {
-      "Id": 802,
+      "Id": 803,
       "Title": "Just Breathe (Audio Issues)",
       "CleanedTitle": "just-breathe-audio-issues",
       "Artist": "Pearl Jam",
@@ -12031,7 +12046,7 @@
       "Links": "https://youtu.be/watch?v=kQ22XhKN3Jw&t=9334"
     },
     {
-      "Id": 803,
+      "Id": 804,
       "Title": "Rock'n Me (Audio Issues)",
       "CleanedTitle": "rockn-me-audio-issues",
       "Artist": "Steve Miller Band",
@@ -12046,7 +12061,7 @@
       "Links": "https://youtu.be/watch?v=kQ22XhKN3Jw&t=9608"
     },
     {
-      "Id": 804,
+      "Id": 805,
       "Title": "Black or White (Audio Issues)",
       "CleanedTitle": "black-or-white-audio-issues",
       "Artist": "Michael Jackson",
@@ -12061,7 +12076,7 @@
       "Links": "https://youtu.be/watch?v=kQ22XhKN3Jw&t=9951"
     },
     {
-      "Id": 805,
+      "Id": 806,
       "Title": "Jesus Just Left Chicago (Audio Issues)",
       "CleanedTitle": "jesus-just-left-chicago-audio-issues",
       "Artist": "ZZ Top",
@@ -12076,7 +12091,7 @@
       "Links": "https://youtu.be/watch?v=oGvWPFlm1fM&t=1781"
     },
     {
-      "Id": 806,
+      "Id": 807,
       "Title": "Change It (Audio Issues)",
       "CleanedTitle": "change-it-audio-issues",
       "Artist": "Stevie Ray Vaughan",
@@ -12091,7 +12106,7 @@
       "Links": "https://youtu.be/watch?v=oGvWPFlm1fM&t=3254 , https://youtu.be/watch?v=JR6OhpR0pU0&t=9412"
     },
     {
-      "Id": 807,
+      "Id": 808,
       "Title": "Ventura Highway (Audio Issues)",
       "CleanedTitle": "ventura-highway-audio-issues",
       "Artist": "America, George Martin",
@@ -12106,7 +12121,7 @@
       "Links": "https://youtu.be/watch?v=01eDLSmTMtQ&t=4007"
     },
     {
-      "Id": 808,
+      "Id": 809,
       "Title": "Someone To Call My Lover (Audio Issues)",
       "CleanedTitle": "someone-to-call-my-lover-audio-issues",
       "Artist": "Janet Jackson",
@@ -12121,7 +12136,7 @@
       "Links": "https://youtu.be/watch?v=01eDLSmTMtQ&t=4007"
     },
     {
-      "Id": 809,
+      "Id": 810,
       "Title": "Across The Universe (Audio Issues)",
       "CleanedTitle": "across-the-universe-audio-issues",
       "Artist": "The Beatles",
@@ -12136,7 +12151,7 @@
       "Links": "https://youtu.be/watch?v=01eDLSmTMtQ&t=5076"
     },
     {
-      "Id": 810,
+      "Id": 811,
       "Title": "Rock And Roll All Nite (Audio Issues)",
       "CleanedTitle": "rock-and-roll-all-nite-audio-issues",
       "Artist": "Kiss",
@@ -12151,7 +12166,7 @@
       "Links": "https://youtu.be/watch?v=01eDLSmTMtQ&t=9831"
     },
     {
-      "Id": 811,
+      "Id": 812,
       "Title": "Prelude in C Minor (BWV 999) (Audio Issues)",
       "CleanedTitle": "prelude-in-c-minor-bwv-999-audio-issues",
       "Artist": "Johann Sebastian Bach",
@@ -12166,7 +12181,7 @@
       "Links": "https://youtu.be/watch?v=H_j-P2w0QaA&t=4623"
     },
     {
-      "Id": 812,
+      "Id": 813,
       "Title": "Cuts Like A Knife (Audio Issues)",
       "CleanedTitle": "cuts-like-a-knife-audio-issues",
       "Artist": "Bryan Adams",
@@ -12181,7 +12196,7 @@
       "Links": "https://youtu.be/watch?v=Bdi0EGV_zpY&t=2011"
     },
     {
-      "Id": 813,
+      "Id": 814,
       "Title": "The Man Who Sold the World (Audio Issues)",
       "CleanedTitle": "the-man-who-sold-the-world-audio-issues",
       "Artist": "David Bowie",
@@ -12196,7 +12211,7 @@
       "Links": "https://youtu.be/watch?v=JR6OhpR0pU0&t=9132"
     },
     {
-      "Id": 814,
+      "Id": 815,
       "Title": "Photograph (Audio Issues)",
       "CleanedTitle": "photograph-audio-issues",
       "Artist": "Nickelback",
@@ -12211,7 +12226,7 @@
       "Links": "https://youtu.be/watch?v=9rSlmMNfOkY&t=1731"
     },
     {
-      "Id": 815,
+      "Id": 816,
       "Title": "Hard To Handle (Audio Issues)",
       "CleanedTitle": "hard-to-handle-audio-issues",
       "Artist": "The Black Crowes",
@@ -12226,7 +12241,7 @@
       "Links": "https://youtu.be/watch?v=9rSlmMNfOkY&t=5884"
     },
     {
-      "Id": 816,
+      "Id": 817,
       "Title": "The Wheels on the Bus (Audio Issues)",
       "CleanedTitle": "the-wheels-on-the-bus-audio-issues",
       "Artist": "Nursery Rhyme",
@@ -12241,7 +12256,7 @@
       "Links": "https://youtu.be/watch?v=-qOHuGWt_Pw&t=1336"
     },
     {
-      "Id": 817,
+      "Id": 818,
       "Title": "Schism (Audio Issues)",
       "CleanedTitle": "schism-audio-issues",
       "Artist": "Tool",
@@ -12256,7 +12271,7 @@
       "Links": "https://youtu.be/watch?v=TTj_ZKaAVWo&t=1414"
     },
     {
-      "Id": 818,
+      "Id": 819,
       "Title": "If I Ain't Got You (Audio Issues)",
       "CleanedTitle": "if-i-aint-got-you-audio-issues",
       "Artist": "Alicia Keys",
@@ -12271,7 +12286,7 @@
       "Links": "https://youtu.be/watch?v=twwoDRDMthg&t=5004"
     },
     {
-      "Id": 819,
+      "Id": 820,
       "Title": "Someday We'll All Be Free (Audio Issues)",
       "CleanedTitle": "someday-well-all-be-free-audio-issues",
       "Artist": "Donny Hathaway",
@@ -12286,7 +12301,7 @@
       "Links": "https://youtu.be/watch?v=0nRONZ-KEQk&t=6057"
     },
     {
-      "Id": 820,
+      "Id": 821,
       "Title": "Takin' Care Of Business (Audio Issues)",
       "CleanedTitle": "takin-care-of-business-audio-issues",
       "Artist": "Bachman-Turner Overdrive",

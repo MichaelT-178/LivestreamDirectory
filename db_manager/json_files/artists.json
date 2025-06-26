@@ -3508,5 +3508,15 @@
         "Country": "United States",
         "CleanedCountry": "united-states",
         "Emoji": "🇺🇸"
+    },
+    "sarah-mclachlan": {
+        "Artist": "Sarah McLachlan",
+        "CleanedArtist": "sarah-mclachlan",
+        "Location": "Nova Scotia, Canada",
+        "YearFormed": 1968,
+        "Genre": "Singer/Songwriter",
+        "Country": "Canada",
+        "CleanedCountry": "canada",
+        "Emoji": "🇨🇦"
     }
 }

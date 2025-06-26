@@ -8201,6 +8201,16 @@
       "Artist": "Sonny Boy Williamson II",
       "CleanedArtist": "sonny-boy-williamson-ii",
       "Year": 1992
+    },
+    {
+      "id": 821,
+      "Song": "Angel",
+      "CleanedSong": "angel",
+      "AlbumTitle": "Surfacing",
+      "CleanedAlbumTitle": "surfacing",
+      "Artist": "Sarah McLachlan",
+      "CleanedArtist": "sarah-mclachlan",
+      "Year": 1997
     }
   ]
 }

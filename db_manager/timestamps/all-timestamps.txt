@@ -1,4 +1,4 @@
-Control + g. Type 1253 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1257 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1250,6 +1250,10 @@ https://youtu.be/p2iy8aC1SBE?si=zPKM1Mw03ZNOwQqY
 Solo Video 
 https://youtu.be/pELczZYz0NM?si=tjVUeUD9FieDMXOT
 0:00 Deep River Blues (Rein Rutnik) (FV2) by Doc Watson
+
+Solo Video
+https://youtu.be/cH2h0sfPtFM?si=TzyPyKeYIwoYiQMV
+0:00 Angel by Sarah McLachlan
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI
