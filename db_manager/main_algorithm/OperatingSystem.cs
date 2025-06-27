@@ -129,6 +129,7 @@ class OS
 
     /**
      * Push changes that were made in the VueLivestreamDirectory folder
+     * by using python3 update_github_pages.py
      */
     public static void PushChangesInVue()
     {
@@ -136,21 +137,14 @@ class OS
         string vueLivestreamDirectoryPath = Path.Combine(originalDirectory, "../VueLivestreamDirectory");
 
         OpenFileInVSCode(vueLivestreamDirectoryPath);
-
         RunFixIndentationScript();
 
         Color.DisplaySuccess("PUSHING TO VueLivestreamDirectory!!!\n", "\n\n");
 
-        Console.Write("Enter commit message (press 'p' to pass): ");
-        string? commitMsg = Console.ReadLine()?.Trim();
+        Console.Write("Enter commit message: ");
+        string? commitMessage = Console.ReadLine()?.Trim();
 
-        if (commitMsg?.ToLower() == "p")
-        {
-            Color.PrintLine("Push skipped.", "Magenta");
-            return;
-        }
-
-        if (string.IsNullOrWhiteSpace(commitMsg))
+        if (string.IsNullOrWhiteSpace(commitMessage))
         {
             Color.DisplayError("Commit message cannot be empty.");
             return;
@@ -158,14 +152,62 @@ class OS
 
         try
         {
-            Environment.CurrentDirectory = Path.GetFullPath(vueLivestreamDirectoryPath);
-            ExecuteGitCommands(commitMsg);
+            string scriptPath = Path.Combine(vueLivestreamDirectoryPath, "update_github_pages.py");
 
-            Console.WriteLine(""); //Whitespace
+            if (!File.Exists(scriptPath))
+            {
+                Color.DisplayError($"Script not found at: {scriptPath}");
+                return;
+            }
+
+            Environment.CurrentDirectory = Path.GetFullPath(vueLivestreamDirectoryPath);
+
+            var process = new Process
+            {
+                StartInfo = new ProcessStartInfo
+                {
+                    FileName = "python3",
+                    Arguments = $"\"{scriptPath}\" \"{commitMessage}\"",
+                    RedirectStandardOutput = true,
+                    RedirectStandardError = true,
+                    UseShellExecute = false,
+                    CreateNoWindow = true
+                }
+            };
+
+            process.OutputDataReceived += (sender, e) =>
+            {
+                if (!string.IsNullOrWhiteSpace(e.Data))
+                {
+                    Console.WriteLine(e.Data);
+                }
+            };
+
+            process.ErrorDataReceived += (sender, e) =>
+            {
+                if (!string.IsNullOrWhiteSpace(e.Data))
+                {
+                    Console.Error.WriteLine(e.Data);
+                }
+            };
+
+            process.Start();
+            process.BeginOutputReadLine();
+            process.BeginErrorReadLine();
+            process.WaitForExit();
+
+            if (process.ExitCode == 0)
+            {
+                Color.DisplaySuccess("update_github_pages.py executed successfully!");
+            }
+            else
+            {
+                Color.DisplayError("update_github_pages.py failed.");
+            }
         }
         catch (Exception ex)
         {
-            Color.DisplayError("Failed to push Vue changes.");
+            Color.DisplayError("An error occurred while running update_github_pages.py.");
             Console.WriteLine(ex.ToString());
         }
         finally
@@ -227,6 +269,55 @@ class OS
             Console.WriteLine(ex.Message);
         }
     }
+
+
+    // /**
+    //  * Push changes that were made in the VueLivestreamDirectory folder
+    //  */
+    // public static void PushChangesInVue()
+    // {
+    //     string originalDirectory = Environment.CurrentDirectory;
+    //     string vueLivestreamDirectoryPath = Path.Combine(originalDirectory, "../VueLivestreamDirectory");
+
+    //     OpenFileInVSCode(vueLivestreamDirectoryPath);
+
+    //     RunFixIndentationScript();
+
+    //     Color.DisplaySuccess("PUSHING TO VueLivestreamDirectory!!!\n", "\n\n");
+
+    //     Console.Write("Enter commit message (press 'p' to pass): ");
+    //     string? commitMsg = Console.ReadLine()?.Trim();
+
+    //     if (commitMsg?.ToLower() == "p")
+    //     {
+    //         Color.PrintLine("Push skipped.", "Magenta");
+    //         return;
+    //     }
+
+    //     if (string.IsNullOrWhiteSpace(commitMsg))
+    //     {
+    //         Color.DisplayError("Commit message cannot be empty.");
+    //         return;
+    //     }
+
+    //     try
+    //     {
+    //         Environment.CurrentDirectory = Path.GetFullPath(vueLivestreamDirectoryPath);
+    //         ExecuteGitCommands(commitMsg);
+
+    //         Console.WriteLine(""); //Whitespace
+    //     }
+    //     catch (Exception ex)
+    //     {
+    //         Color.DisplayError("Failed to push Vue changes.");
+    //         Console.WriteLine(ex.ToString());
+    //     }
+    //     finally
+    //     {
+    //         Environment.CurrentDirectory = originalDirectory;
+    //     }
+    // }
+    // 
 
 
 }

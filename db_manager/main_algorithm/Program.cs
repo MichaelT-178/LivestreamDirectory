@@ -13,15 +13,7 @@ class Program
     public static async Task Main()
     {
 
-        //CreateNewJSON.UpdateFavoriteCovers();
-
-        // CreateNewJSON.UpdateAlbums();
-        // CreateNewJSON.UpdateAlbums();
-
-        // CreateNewJSON.CreateArtistFile();
-
-        // AlbumRepertoireHandler.UpdateCleanedAttributes();
-
+        // OS.PushChangesInVue();
         // Environment.Exit(0);
 
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
