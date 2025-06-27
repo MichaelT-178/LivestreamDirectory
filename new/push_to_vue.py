@@ -3,7 +3,16 @@ import subprocess
 from termcolor import colored as c
 import os 
 
+
 def push_to_vue():
+    os.chdir("../../VueLivestreamDirectory")
+    os.system('code .')
+
+    print(c("\n\n✅ PUSHING TO VueLivestreamDirectory!!!\n", 'green'))
+
+    os.system("python3 update_github_pages.py")
+
+def old_push_to_vue():
     os.chdir("../../VueLivestreamDirectory")
     os.system('code .')
 
