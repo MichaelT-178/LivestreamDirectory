@@ -148,6 +148,7 @@ class CreateNewJSON
                 album.CleanedAlbumTitle,
                 album.Artist,
                 album.CleanedArtist,
+                Category = group.Key == "Miscellaneous" ? "Miscellaneous" : $"{group.Key} Songs",
             }).ToList());
 
         string json = JsonConvert.SerializeObject(grouped, Formatting.Indented);

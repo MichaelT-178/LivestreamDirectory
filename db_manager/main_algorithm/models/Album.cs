@@ -31,6 +31,10 @@ public class Album
     [JsonPropertyName("CleanedArtist")]
     public required string CleanedArtist { get; set; }
 
+    [JsonPropertyName("Category")]
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+    public string? Category { get; set; }
+
     public int Year { get; set; }
 
 }
