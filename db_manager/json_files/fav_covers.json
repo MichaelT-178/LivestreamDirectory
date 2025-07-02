@@ -522,6 +522,14 @@
             "Appearance": "Solo Video",
             "Link": "https://youtu.be/cH2h0sfPtFM?si=TzyPyKeYIwoYiQMV&t=0",
             "AlbumImage": "surfacing"
+        },
+        {
+            "id": 66,
+            "Song": "In Your Atmosphere",
+            "Artist": "John Mayer",
+            "Appearance": "Livestream 158",
+            "Link": "https://youtu.be/2xkUDe5ZndE?feature=share&t=3069",
+            "AlbumImage": "where-the-light-is-john-mayer-live-in-los-angeles"
         }
     ]
 }
