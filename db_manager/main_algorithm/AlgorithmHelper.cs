@@ -523,13 +523,13 @@ class AlgorithmHelper
             }
         }
 
-        if (songWithKeys.Contains("Forget Her"))
-        {
-            if (!currentInstruments.Contains("Electric Guitar"))
-            {
-                instrumentsToAdd.Append("Electric Guitar, ");
-            }
-        }
+        // if (songWithKeys.Contains("Forget Her"))
+        // {
+        //     if (!currentInstruments.Contains("Electric Guitar"))
+        //     {
+        //         instrumentsToAdd.Append("Electric Guitar, ");
+        //     }
+        // }
 
         return instrumentsToAdd.ToString();
     }
