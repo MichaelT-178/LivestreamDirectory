@@ -1732,12 +1732,12 @@
     "otis-redding": {
         "Artist": "Otis Redding",
         "CleanedArtist": "otis-redding",
-        "Location": "Melbourne, Australia",
-        "YearFormed": 1987,
-        "Genre": "Alternative",
-        "Country": "Australia",
-        "CleanedCountry": "australia",
-        "Emoji": "🇦🇺"
+        "Location": "Dawson, Georgia",
+        "YearFormed": 1941,
+        "Genre": "R&B/Soul",
+        "Country": "United States",
+        "CleanedCountry": "united-states",
+        "Emoji": "🇺🇸"
     },
     "jonny-lang": {
         "Artist": "Jonny Lang",
