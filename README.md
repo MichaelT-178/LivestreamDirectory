@@ -15,6 +15,9 @@ Note: I'm the "Michael L" being referred to, that's my Youtube username. The L d
 - Python
 - SQLite
 
+## Corey's Patreon Post
+- Corey Heuvel's Patreon Post about the Website can be found [Here](https://www.patreon.com/posts/livestream-70578990?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share)
+
 ## Explanation of how this Works
 - The frontend was built using **HTML**, **CSS**, and **JavaScript**. I did not use any framework for this project
 
