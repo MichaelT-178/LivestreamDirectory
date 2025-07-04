@@ -48,9 +48,13 @@ const searchSongs = async searchText => {
     const l = document.getElementById('link');
     const l2 = document.getElementById('helplink');
 
+    // DELETE THIS EVENUTALLY AND l3.style.display
+    const l3 = document.getElementById('new-website-link')
+
     //Hides the "Contact the developer" and "help" button when searching
     l.style.display  = matches.length === 0 || searchText.length === 0 ? "flex" : "none";
     l2.style.display = matches.length === 0 || searchText.length === 0 ? "flex" : "none";
+    l3.style.display = matches.length === 0 || searchText.length === 0 ? "flex" : "none";
 
     if (searchText.length === 0 || matches.length === 0) {
         matches = [];
