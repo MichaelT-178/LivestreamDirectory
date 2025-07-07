@@ -8,6 +8,7 @@
 #new-website-link {
     position: fixed;
     bottom: 70px;
+    left: 50%;
     margin-left: -0.8px;
     transform: translateX(-50%);
 }
