@@ -209,7 +209,9 @@ class Algorithm
         AlbumRepertoireHandler.UpdateCleanedAttributes();
 
         CreateNewJSON.AddAlbumAttribute();
-        
+
+        CreateNewJSON.AddAlbumSongInfo();
+
         ErrorFinder.FindDuplicates();
 
     } //Run method ends 

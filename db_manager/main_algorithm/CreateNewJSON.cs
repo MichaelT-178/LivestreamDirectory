@@ -17,6 +17,7 @@ using Newtonsoft.Json;
  * AddArtistToMap | Adds a song and its associated album to the artist entry in the map.
  * GetLocalArtistData | Gets the JSON data from db_manager/json_files/artists.json
  * CreateCountriesFile | Creates the countries.json file in VueLivestreamDirectory.
+ * AddAlbumSongInfo | Add 'song' to albums with same name as song. Fix L.A. woman
  *
  * @author Michael Totaro
  */
@@ -502,5 +503,61 @@ class CreateNewJSON
 
         JSONHelper.WriteJSONToVueData("countries.json", outputJson);
     }
-    
+
+    /**
+     * Add 'song' to albums with same name as song. Fix L.A. woman
+     */
+    public static void AddAlbumSongInfo()
+    {
+        List<Song> songs = JSONHelper.GetDatabaseSongs();
+
+        foreach (var song in songs)
+        {
+            bool modified = false;
+
+            // Add "la woman" if CleanedAlbum is "la-woman"
+            if (song.CleanedAlbum == "la-woman")
+            {
+                string laWoman = "la woman";
+
+                if (string.IsNullOrWhiteSpace(song.Search))
+                {
+                    song.Search = laWoman;
+                }
+                else if (!song.Search.Contains(laWoman, StringComparison.OrdinalIgnoreCase))
+                {
+                    song.Search += $" {laWoman}";
+                }
+
+                modified = true;
+            }
+
+            // If Title == Album, add "Title Song"
+            if (!string.IsNullOrWhiteSpace(song.Title) && song.Title == song.Album)
+            {
+                string titleSong = $"{song.Title} Song";
+
+                if (string.IsNullOrWhiteSpace(song.Search))
+                {
+                    song.Search = titleSong;
+                }
+                else if (!song.Search.Contains(titleSong, StringComparison.OrdinalIgnoreCase))
+                {
+                    song.Search += $" {titleSong}";
+                }
+
+                modified = true;
+            }
+
+            if (modified)
+            {
+                song.Search = song.Search.Trim();
+            }
+        }
+
+        var updatedData = new { songs };
+        string json = JsonConvert.SerializeObject(updatedData, Formatting.Indented);
+        File.WriteAllText("./database/song_list.json", json);
+    }
+
 }
