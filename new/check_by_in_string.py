@@ -2,12 +2,7 @@ excluded_keywords = (
     "https", 
     "Livestream", 
     "Solo Video", 
-    " by "
-    "Acoustic Guitar"
-    "Electric Guitar"
-    "Acoustic Guitar"
-    "Classical Guitar"
-    "Acoustic Guitar"
+    " by ",
 )
 
 # like saying if 'https' not in line and ' by ' not in line
