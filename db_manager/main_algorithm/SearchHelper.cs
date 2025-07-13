@@ -123,6 +123,8 @@ class SearchHelper
         if (artists.Contains("Black Sabbath")) { AppendNew("Ozzy Osbourne", search); return; }
         if (artists.Contains("Ozzy Osbourne")) { AppendNew("Black Sabbath", search); return; }
 
+        if (artists.Contains("Creedence Clearwater Revival")) { AppendNew("CCR", search); return; }
+
         if (artists.Contains("P!nk")) { AppendNew("Pink", search); return; }
         if (artists.Contains("Red Hot Chili")) { AppendNew("The Red Hot Chili Peppers", search); }
         if (artists.Contains("Red Hot Chili")) { AppendNew("RHCP", search); return; }
