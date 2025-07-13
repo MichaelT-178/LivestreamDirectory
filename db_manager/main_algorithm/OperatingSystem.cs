@@ -141,8 +141,14 @@ class OS
 
         Color.DisplaySuccess("PUSHING TO VueLivestreamDirectory!!!\n", "\n\n");
 
-        Console.Write("Enter commit message: ");
+        Console.Write("Enter commit message (press 'p' to pass): ");
         string? commitMessage = Console.ReadLine()?.Trim();
+
+        if (commitMessage?.ToLower() == "p")
+        {
+            Color.DisplaySuccess("Skipped pushing changes.");
+            return;
+        }
 
         if (string.IsNullOrWhiteSpace(commitMessage))
         {
