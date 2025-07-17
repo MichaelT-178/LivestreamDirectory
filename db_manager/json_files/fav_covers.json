@@ -538,6 +538,14 @@
             "Appearance": "Livestream 17",
             "Link": "https://youtu.be/watch?v=Bdi0EGV_zpY&t=1666",
             "AlbumImage": "big-ones"
+        },
+        {
+            "id": 68,
+            "Song": "The Way Young Lovers Do",
+            "Artist": "Van Morrison",
+            "Appearance": "Livestream 32",
+            "Link": "https://youtu.be/jDGy1_nMmbk&t=8707",
+            "AlbumImage": "astral-weeks"
         }
     ]
 }
