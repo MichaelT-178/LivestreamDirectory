@@ -319,9 +319,9 @@
         "CleanedCountry": "united-states",
         "Emoji": "🇺🇸"
     },
-    "justin-timberlake-ft-jay-z": {
-        "Artist": "Justin Timberlake ft. JAY-Z",
-        "CleanedArtist": "justin-timberlake-ft-jay-z",
+    "justin-timberlake": {
+        "Artist": "Justin Timberlake",
+        "CleanedArtist": "justin-timberlake",
         "Location": "Memphis, Tennessee",
         "YearFormed": 1981,
         "Genre": "Pop",
@@ -1299,9 +1299,9 @@
         "CleanedCountry": "united-states",
         "Emoji": "🇺🇸"
     },
-    "beyonce-jay-z": {
-        "Artist": "Beyoncé, JAY-Z",
-        "CleanedArtist": "beyonce-jay-z",
+    "beyonce": {
+        "Artist": "Beyoncé",
+        "CleanedArtist": "beyonce",
         "Location": "Houston, Texas",
         "YearFormed": 1981,
         "Genre": "Pop",
@@ -3525,6 +3525,16 @@
         "Location": "Los Angeles, California",
         "YearFormed": 1948,
         "Genre": "Rock",
+        "Country": "United States",
+        "CleanedCountry": "united-states",
+        "Emoji": "🇺🇸"
+    },
+    "jay-z": {
+        "Artist": "JAY-Z",
+        "CleanedArtist": "jay-z",
+        "Location": "New York, New York",
+        "YearFormed": 1969,
+        "Genre": "Hip-Hop/Rap",
         "Country": "United States",
         "CleanedCountry": "united-states",
         "Emoji": "🇺🇸"
