@@ -1,4 +1,4 @@
-Control + g. Type 1257 for end of solo videos. Format: (time) (title) (by) (artist)
+Control + g. Type 1261 for end of solo videos. Format: (time) (title) (by) (artist)
 
 Livestream 30
 https://youtu.be/9zUVfKZrSGs
@@ -1254,6 +1254,10 @@ https://youtu.be/pELczZYz0NM?si=tjVUeUD9FieDMXOT
 Solo Video
 https://youtu.be/cH2h0sfPtFM?si=TzyPyKeYIwoYiQMV
 0:00 Angel by Sarah McLachlan
+
+Solo Video
+https://youtu.be/Bx2yUFhR9Yo?si=ow4-1vWqtEKS5ypQ
+0:00 Running on Empty by Jackson Browne
 
 Livestream 25
 https://youtu.be/RipA8bRdIbI

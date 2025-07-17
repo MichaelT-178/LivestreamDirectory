@@ -57,7 +57,9 @@ else:
     print(c('\n\nThe image already exists in the pics folder!', 'green'))
 
 
-push_to_vue()
 
 webbrowser.open("https://music.apple.com/us/new")
+
+push_to_vue()
+
 
