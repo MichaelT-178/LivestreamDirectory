@@ -136,6 +136,7 @@ class SearchHelper
         if (title.Equals("Angel")) { AppendNew("In the arms of the angel Fly away from here", search); return; }
 
         if (title.Contains("Starbird")) { AppendNew("Star bird", search); return; }
+        if (title.ToLower().Contains("running on empty")) { AppendNew("forrest gump", search); return; }
         if (title.Contains("River Man")) { AppendNew("riverman", search); return; }
         if (title.Contains("Hymne")) { AppendNew("Ode to Love", search); }
         if (title.Contains("Hymne")) { AppendNew("French", search); return; }
