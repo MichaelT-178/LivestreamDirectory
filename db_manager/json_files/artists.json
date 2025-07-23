@@ -132,12 +132,12 @@
     "nick-drake": {
         "Artist": "Nick Drake",
         "CleanedArtist": "nick-drake",
-        "Location": "Rangoon, Burma",
+        "Location": "Warwickshire, England",
         "YearFormed": 1948,
         "Genre": "Singer/Songwriter",
-        "Country": "Burma",
-        "CleanedCountry": "burma",
-        "Emoji": "🇲🇲"
+        "Country": "England",
+        "CleanedCountry": "england",
+        "Emoji": "🇬🇧"
     },
     "john-martyn": {
         "Artist": "John Martyn",
