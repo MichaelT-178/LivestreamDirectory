@@ -16,6 +16,7 @@ using Newtonsoft.Json;
  * AllArtistsInArtistsJsonFile | Ensures every artist has an object in db_manager/json_files/artists.json
  * AllCountryPicturesExist | Ensures every country has an associated picture in VueLivestreamDirectory
  * AllArtistsHaveValidAttributes | Ensures all attributes in artists.json are NOT blank strings or 0
+ * CheckAlbumNonNumberAttributes | Ensure all albums in albums.json that have a AlbumTitle that starts with a number have a NonNumberCleanedAlbumTitle attribute
  * 
  * @author Michael Totaro
  */
@@ -729,6 +730,81 @@ class ErrorFinder
             Console.WriteLine("\nFix these entries and rerun.\n");
             Environment.Exit(0);
         }
+    }
+
+    /**
+     * Ensure all albums in albums.json that have a AlbumTitle that 
+     * starts with a number have a NonNumberCleanedAlbumTitle attribute
+     * and don't match any of the other AlbumTitle or CleanedAlbumTitle 
+     * attributes.
+     */
+    public static void CheckAlbumNonNumberAttributes()
+    {
+        List<Album> albums = AlbumRepertoireHandler.GetAlbums();
+        List<string> albumsToReport = new();
+
+        foreach (Album album in albums)
+        {
+            bool titleStartsWithDigit = !string.IsNullOrEmpty(album.AlbumTitle) && char.IsDigit(album.AlbumTitle[0]);
+            bool isMissingOrEmptyNonNumber = string.IsNullOrEmpty(album.NonNumberCleanedAlbumTitle);
+
+            if (titleStartsWithDigit && isMissingOrEmptyNonNumber)
+            {
+                albumsToReport.Add(album.AlbumTitle!);
+            }
+        }
+
+        if (albumsToReport.Count > 0)
+        {
+            Color.DisplayError("AlbumTitle starts with a number and is missing \"NonNumberCleanedAlbumTitle\" attribute");
+            Color.PrintLine("Go to albums.json to fix!", "Magenta");
+            Color.PrintLine("The \"NonNumberCleanedAlbumTitle\" attribute should be camelCase. Put it under CleanedAlbumTitle", "Magenta");
+            Color.PrintLine("REMEMBER IT SHOULD BE CAMELCASE!!!!!!!", "green");
+
+            foreach (string title in albumsToReport)
+            {
+                Console.WriteLine($" - {title}");
+            }
+
+            Environment.Exit(0);
+        }
+
+        //Check that it doesn't match other Albumtitle or CleanedAlbumTitle
+        var nonNumberCleanedAlbumTitles = albums
+            .Where(a => !string.IsNullOrEmpty(a.NonNumberCleanedAlbumTitle))
+            .Select(a => a.NonNumberCleanedAlbumTitle!)
+            .ToList();
+
+        var albumTitles = albums
+            .Where(a => !string.IsNullOrEmpty(a.AlbumTitle))
+            .Select(a => a.AlbumTitle!)
+            .ToList();
+
+        var cleanedAlbumTitles = albums
+            .Where(a => !string.IsNullOrEmpty(a.AlbumTitle))
+            .Select(a => TextCleaner.CleanText(a.AlbumTitle!))
+            .ToList();
+
+        var duplicateNonNumberTitles = nonNumberCleanedAlbumTitles
+            .Where(title => albumTitles.Contains(title) || cleanedAlbumTitles.Contains(title))
+            .Distinct()
+            .ToList();
+
+        if (duplicateNonNumberTitles.Count > 0)
+        {
+            Color.DisplayError("Invalid \"NonNumberCleanedAlbumTitle\" value detected:");
+            Color.PrintLine("Each \"NonNumberCleanedAlbumTitle\" attribute must be unique and must NOT match any existing AlbumTitle or CleanedAlbumTitle.", "Green");
+            Color.PrintLine("This ensures the value is only used as a fallback for albums that begin with a number.", "Magenta");
+            Color.PrintLine("Fix the duplicates in albums.json by assigning a unique, camelCase string.", "Green");
+
+            foreach (string title in duplicateNonNumberTitles)
+            {
+                Console.WriteLine($" - \"NonNumberCleanedAlbumTitle\": \"{title}\"");
+            }
+
+            Environment.Exit(0);
+        }
+
     }
 
 }

@@ -12,10 +12,6 @@ class Program
      */
     public static async Task Main()
     {
-
-        // OS.PushChangesInVue();
-        // Environment.Exit(0);
-
         Color.PrintLine("REMEBER TO ADD THE YOUTUBE LINK", "Magenta");
         Color.PrintWithColoredPart(@"Do you want to open the ""all-timestamps.txt"" file? : ", "\"all-timestamps.txt\"", "Cyan");
 
@@ -55,6 +51,8 @@ class Program
 
         // Small check I'm not going to display a message.
         ErrorFinder.CheckDuplicateTitlesWithDifferentArtists();
+
+        ErrorFinder.CheckAlbumNonNumberAttributes();
 
         Console.WriteLine("\nPlease be patient. This will take roughly 30-35 seconds.");
         Console.WriteLine("Currently running algorithm...");

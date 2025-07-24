@@ -1476,6 +1476,7 @@
       "CleanedSong": "day-tripper-audio-issues",
       "AlbumTitle": "1",
       "CleanedAlbumTitle": "1",
+      "NonNumberCleanedAlbumTitle": "one",
       "Artist": "The Beatles",
       "CleanedArtist": "the-beatles",
       "Year": 2000
@@ -2987,6 +2988,7 @@
       "CleanedSong": "hot-for-teacher-partial",
       "AlbumTitle": "1984",
       "CleanedAlbumTitle": "1984",
+      "NonNumberCleanedAlbumTitle": "nineteenEightyFour",
       "Artist": "Van Halen",
       "CleanedArtist": "van-halen",
       "Year": 1984
@@ -3297,6 +3299,7 @@
       "CleanedSong": "in-the-street-that-70s-show-theme-partial",
       "AlbumTitle": "#1 Record",
       "CleanedAlbumTitle": "1-record",
+      "NonNumberCleanedAlbumTitle": "oneRecord",
       "Artist": "Big Star",
       "CleanedArtist": "big-star",
       "Year": 1972
@@ -5277,6 +5280,7 @@
       "CleanedSong": "panama-partial",
       "AlbumTitle": "1984",
       "CleanedAlbumTitle": "1984",
+      "NonNumberCleanedAlbumTitle": "nineteenEightyFour",
       "Artist": "Van Halen",
       "CleanedArtist": "van-halen",
       "Year": 1984
@@ -5337,6 +5341,7 @@
       "CleanedSong": "a-passage-to-bangkok-electric-riff",
       "AlbumTitle": "2112",
       "CleanedAlbumTitle": "2112",
+      "NonNumberCleanedAlbumTitle": "twentyOneTwelve",
       "Artist": "Rush",
       "CleanedArtist": "rush",
       "Year": 1976
@@ -6037,6 +6042,7 @@
       "CleanedSong": "send-my-love-to-your-new-lover",
       "AlbumTitle": "25",
       "CleanedAlbumTitle": "25",
+      "NonNumberCleanedAlbumTitle": "twentyFive",
       "Artist": "Adele",
       "CleanedArtist": "adele",
       "Year": 2015
@@ -7197,6 +7203,7 @@
       "CleanedSong": "the-pot-electric-riff",
       "AlbumTitle": "10,000 Days",
       "CleanedAlbumTitle": "10-000-days",
+      "NonNumberCleanedAlbumTitle": "tenThousandDays",
       "Artist": "Tool",
       "CleanedArtist": "tool",
       "Year": 2006
@@ -7367,6 +7374,7 @@
       "CleanedSong": "thirteen",
       "AlbumTitle": "#1 Record",
       "CleanedAlbumTitle": "1-record",
+      "NonNumberCleanedAlbumTitle": "oneRecord",
       "Artist": "Big Star",
       "CleanedArtist": "big-star",
       "Year": 1972

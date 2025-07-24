@@ -25,6 +25,10 @@ public class Album
     [JsonPropertyName("CleanedAlbumTitle")]
     public string? CleanedAlbumTitle { get; set; }
 
+    [JsonPropertyName("NonNumberCleanedAlbumTitle")]
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)]
+    public string? NonNumberCleanedAlbumTitle { get; set; }
+
     [JsonPropertyName("Artist")]
     public required string Artist { get; set; }
 
