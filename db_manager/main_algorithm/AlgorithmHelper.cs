@@ -20,6 +20,8 @@ using System.Text.RegularExpressions;
  * CleanAppearance | Gets the instruments from a song title based on it's keys.
  * ExtractKeysFromAppearance | Gets the keys from an appearance as a string list
  * AddHarmonicaToAppearances | Adds H key to Rein Rutnik appearances
+ * getAlbumLoaderData | Get a list of LoaderDataDTO objects from local albums.json
+ * getArtistLoaderData | Get a list of LoaderDataDTO objects from local artists.json
  *
  * @author Michael Totaro
  */
@@ -616,6 +618,94 @@ class AlgorithmHelper
             });
 
         return string.Join(",", updated);
+    }
+
+    /**
+     * Get a list of LoaderDataDTO objects from local artists.json
+     *
+     * @return List of LoaderDataDTO objects with cleanedName and importStmtName
+     */
+    public static List<LoaderDataDTO> getAlbumLoaderData()
+    {
+        // this comes directly from the local albums.json file.
+        // Only keeps one Album per CleanedAlbumTitle (first one encountered)
+        // Doesn't include Albums where CleanedAlbumTitle is null
+        List<Album> albums = AlbumRepertoireHandler.GetAlbums()
+            .Where(a => !string.IsNullOrEmpty(a.CleanedAlbumTitle))
+            .DistinctBy(a => a.CleanedAlbumTitle)
+            .ToList();
+
+        // This will be our return list.
+        List<LoaderDataDTO> loaderAlbumInfoList = new();
+
+        foreach (Album album in albums)
+        {
+            string cleanedAlbumTitle = album.CleanedAlbumTitle!; //Will never be null
+            string importStmtName = "";
+
+            // If NonNumberCleanedArtist is present set ImportStmtName 
+            // to that value. Else just set Helper.ToCamelCase(localArtist.CleanedArtist)
+            if (!string.IsNullOrEmpty(album.NonNumberCleanedAlbumTitle))
+            {
+                importStmtName = album.NonNumberCleanedAlbumTitle!;
+            }
+            else
+            {
+                importStmtName = Helper.ToCamelCase(album.CleanedAlbumTitle!);
+            }
+
+            loaderAlbumInfoList.Add(new LoaderDataDTO
+            {
+                CleanedName = cleanedAlbumTitle,
+                ImportStmtName = importStmtName
+            });
+        }
+
+        return loaderAlbumInfoList;
+    }
+
+    /**
+     * Get a list of LoaderDataDTO objects from local artists.json
+     * All artists returned should be unique.
+     *
+     * @return List of LoaderDataDTO objects with cleanedName and importStmtName
+     */
+    public static List<LoaderDataDTO> getArtistLoaderData()
+    {
+        // this comes directly from the local artists.json file.
+        // Only keep one LocalArtist per CleanedArtist (first one encountered)
+        // They should all be unique anyway so the filter doesn't really do anything.
+        List<LocalArtist> localArtists = JSONHelper.GetLocalArtists()
+            .DistinctBy(a => a.CleanedArtist)
+            .ToList();
+
+        // This will be our return list.
+        List<LoaderDataDTO> loaderArtistInfoList = new();
+
+        foreach (LocalArtist localArtist in localArtists)
+        {
+            string cleanedArtist = localArtist.CleanedArtist;
+            string importStmtName = "";
+
+            // If NonNumberCleanedArtist is present set ImportStmtName 
+            // to that value. Else just set it to Helper.ToCamelCase(localArtist.CleanedArtist)
+            if (!string.IsNullOrEmpty(localArtist.NonNumberCleanedArtist))
+            {
+                importStmtName = localArtist.NonNumberCleanedArtist!;
+            }
+            else
+            {
+                importStmtName = Helper.ToCamelCase(localArtist.CleanedArtist);
+            }
+
+            loaderArtistInfoList.Add(new LoaderDataDTO
+            {
+                CleanedName = cleanedArtist,
+                ImportStmtName = importStmtName
+            });
+        }
+
+        return loaderArtistInfoList;
     }
 
 
