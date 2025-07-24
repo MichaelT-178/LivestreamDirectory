@@ -1,3 +1,4 @@
+using System.Text.Json;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using JsonSerializer = System.Text.Json.JsonSerializer;
@@ -17,6 +18,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  * WriteJSONToDifferentFile | Writes the content of one JSON file to another JSON file.
  * WriteJSONToVueData | Write string JSON data to a data file in VueLivestreamDirectory
  * WriteTextToJSFile | Write text to a JavaScript file in VueLivestreamDirectory
+ * GetLocalArtists | Get all local artists from the local artists.json file.
  *
  * @author Michael Totaro
  */
@@ -284,6 +286,24 @@ class JSONHelper
     {
         string pathToVueData = $"../VueLivestreamDirectory/src/assets/Data/{fileName}";
         File.WriteAllText(pathToVueData, jsString);
+    }
+
+    /**
+     * Get all local artists from the local artists.json file.
+     */
+    public static List<LocalArtist> GetLocalArtists()
+    {
+        string filePath = "./db_manager/json_files/artists.json";
+
+        string jsonString = File.ReadAllText(filePath);
+
+        var artistDict = JsonSerializer.Deserialize<Dictionary<string, LocalArtist>>(jsonString, new JsonSerializerOptions
+        {
+            PropertyNameCaseInsensitive = true,
+            ReadCommentHandling = JsonCommentHandling.Skip
+        });
+
+        return artistDict?.Values.ToList() ?? new List<LocalArtist>();
     }
 
     /**

@@ -11,4 +11,7 @@ public class LocalArtist
     public required string Country { get; set; } = "";
     public required string CleanedCountry { get; set; } = "";
     public required string Emoji { get; set; } = "";
+
+    // Optional attribute
+    public string? NonNumberCleanedArtist { get; set; }
 }
