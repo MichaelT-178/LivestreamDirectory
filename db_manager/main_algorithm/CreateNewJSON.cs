@@ -18,6 +18,8 @@ using Newtonsoft.Json;
  * GetLocalArtistData | Gets the JSON data from db_manager/json_files/artists.json
  * CreateCountriesFile | Creates the countries.json file in VueLivestreamDirectory.
  * AddAlbumSongInfo | Add 'song' to albums with same name as song. Fix L.A. woman
+ * CreateArtistLookup | Creates a .js file with a dictionary you can use to lookup artist images.
+ * CreateAlbumLookup | Creates a .js file with a dictionary you can use to lookup album images.
  *
  * @author Michael Totaro
  */
@@ -560,4 +562,61 @@ class CreateNewJSON
         File.WriteAllText("./database/song_list.json", json);
     }
 
+
+    /**
+     * Creates a .js file with a dictionary you can use to lookup artist images.
+     */
+    public static void CreateArtistLookup()
+    {
+
+        string javascriptCode = "";
+
+        List<LoaderDataDTO> artistData = AlgorithmHelper.getArtistLoaderData();
+
+        foreach (LoaderDataDTO artist in artistData)
+        {
+            javascriptCode += $"import {artist.ImportStmtName} from \"../../assets/ArtistPics/{artist.CleanedName}.jpg\";\n";
+        }
+
+        javascriptCode += "\n\nconst artistImages = {\n";
+
+        foreach (LoaderDataDTO artist in artistData)
+        {
+            javascriptCode += $"  '{artist.CleanedName}': {artist.ImportStmtName},\n";
+        }
+
+        javascriptCode = javascriptCode.Trim().Substring(0, javascriptCode.Length - 2);
+
+        javascriptCode += "\n};\n\nexport default artistImages;";
+
+        JSONHelper.WriteTextToJSFile("ArtistLookup.js", javascriptCode);
+    }
+
+    /**
+     * Creates a .js file with a dictionary you can use to lookup album images.
+     */
+    public static void CreateAlbumLookup()
+    {
+        string javascriptCode = "";
+
+        List<LoaderDataDTO> albumData = AlgorithmHelper.getAlbumLoaderData();
+
+        foreach (LoaderDataDTO album in albumData)
+        {
+            javascriptCode += $"import {album.ImportStmtName} from \"../../assets/AlbumPics/{album.CleanedName}.jpg\";\n";
+        }
+
+        javascriptCode += "\n\nconst albumImages = {\n";
+
+        foreach (LoaderDataDTO album in albumData)
+        {
+            javascriptCode += $"  '{album.CleanedName}': {album.ImportStmtName},\n";
+        }
+
+        javascriptCode = javascriptCode.Trim().Substring(0, javascriptCode.Length - 2);
+
+        javascriptCode += "\n};\n\nexport default albumImages;";
+
+        JSONHelper.WriteTextToJSFile("AlbumLookup.js", javascriptCode);
+    }
 }
