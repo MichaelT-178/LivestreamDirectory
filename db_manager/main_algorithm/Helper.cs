@@ -13,11 +13,12 @@ using System.Text.RegularExpressions;
  * GetSongListWithoutKeys | Removes all the keys for every song in a song list 
  * IsAscii | Returns whether or not a string contains only Ascii characters 
  * RemoveKeys | Removes all keys from a song title.
- * OpenInWebBrowser | Opens a url in the webbrowser 
+ * OpenInWebBrowser | Opens a url in the webbrowser
+ * ToCamelCase | Converts a kebab case string to camel case
  * 
  * @author Michael Totaro
  */
-class Helper 
+class Helper
 {
 
     /**
@@ -51,10 +52,10 @@ class Helper
      *         contain both or one of those things.
      */
     public static string[]? GetSongAndArtist(string line)
-    {   
+    {
         // ["3:07:03", " Do", "It", "Again", "by", "Steely", "Dan"]
         string[] timeSplit = line.Split(new string[] { " " }, StringSplitOptions.None);
-        
+
 
         //If line not a blank line or Livestream marker. Ex: Livestream 163. Return null.
         if (timeSplit.Length < 3)
@@ -64,16 +65,16 @@ class Helper
 
         //Do It Again by Steely Dan. Life by the Drop by Stevie Ray Vaughan
         string lineNoTimestamp = line.Replace(timeSplit[0], "").Trim();
-        
+
         int lastIndexOfBy = lineNoTimestamp.LastIndexOf(" by ");
-        
+
         if (lastIndexOfBy != -1)
-        {   
+        {
             //Do It Again. Life by the Drop
             string song = lineNoTimestamp[..lastIndexOfBy].Trim();
 
             //Steely Dan. Stevie Ray Vaughan
-            string artist = lineNoTimestamp[(lastIndexOfBy + 3)..].Trim(); 
+            string artist = lineNoTimestamp[(lastIndexOfBy + 3)..].Trim();
 
             string[] songAndArtist = { song, artist };
             return songAndArtist;
@@ -118,10 +119,10 @@ class Helper
                 letter = firstChar.ToUpper();
                 alphabetList.Add("");
             }
-            
+
             alphabetList.Add(song);
         }
-        
+
         return alphabetList;
     }
 
@@ -251,7 +252,7 @@ class Helper
     /**
      * Opens a url in the webbrowser 
      * @param url The url to be opened
-     */ 
+     */
     public static void OpenInWebBrowser(string url)
     {
         Process.Start(new ProcessStartInfo
@@ -259,6 +260,36 @@ class Helper
             FileName = url,
             UseShellExecute = true
         });
+    }
+
+    /**
+     * Converts a kebab case string to camel case
+     *
+     * Ex. 
+     * the-rolling-stones -> theRollingStones
+     *
+     * @param kebab The original kebab case string
+     * @return the came case string
+     */
+    public static string ToCamelCase(string kebab)
+    {
+        if (string.IsNullOrWhiteSpace(kebab))
+        {
+            return kebab;
+        }
+
+        var parts = kebab.Split('-');
+        var camel = parts[0].ToLower();
+
+        for (int i = 1; i < parts.Length; i++)
+        {
+            if (parts[i].Length > 0)
+            {
+                camel += char.ToUpper(parts[i][0]) + parts[i].Substring(1);
+            }
+        }
+
+        return camel;
     }
     
 }
