@@ -16,7 +16,8 @@ using Newtonsoft.Json;
  * AllArtistsInArtistsJsonFile | Ensures every artist has an object in db_manager/json_files/artists.json
  * AllCountryPicturesExist | Ensures every country has an associated picture in VueLivestreamDirectory
  * AllArtistsHaveValidAttributes | Ensures all attributes in artists.json are NOT blank strings or 0
- * CheckAlbumNonNumberAttributes | Ensure all albums in albums.json that have a AlbumTitle that starts with a number have a NonNumberCleanedAlbumTitle attribute
+ * CheckArtistNonNumberAttributes | Ensure all artists in artists.json that have an Artist attribute that starts with a number have a NonNumberCleanedArtist attribute
+ * CheckAlbumNonNumberAttributes | Ensure all albums in albums.json that have an AlbumTitle that starts with a number have a NonNumberCleanedAlbumTitle attribute
  * 
  * @author Michael Totaro
  */
@@ -730,6 +731,82 @@ class ErrorFinder
             Console.WriteLine("\nFix these entries and rerun.\n");
             Environment.Exit(0);
         }
+    }
+
+    /**
+     * Ensure all artists in artists.json that have an "Artist" attribute 
+     * that starts with a number have a NonNumberCleanedArtist attribute
+     * and don't match any of the other "Artist" or CleanedArtist
+     * attributes.
+     */
+    public static void CheckArtistNonNumberAttributes()
+    {
+        List<LocalArtist> localArtists = JSONHelper.GetLocalArtists();
+        List<string> artistsToReport = new();
+
+        foreach (LocalArtist localArtist in localArtists)
+        {
+            bool artistStartsWithDigit = !string.IsNullOrEmpty(localArtist.Artist) && char.IsDigit(localArtist.Artist[0]);
+            bool isMissingOrEmptyNonNumber = string.IsNullOrEmpty(localArtist.NonNumberCleanedArtist);
+
+            if (artistStartsWithDigit && isMissingOrEmptyNonNumber)
+            {
+                artistsToReport.Add(localArtist.Artist!);
+            }
+        }
+
+        if (artistsToReport.Count > 0)
+        {
+            Color.DisplayError("\"Artist\" attribute starts with a number and is missing \"NonNumberCleanedArtist\" attribute");
+            Color.PrintLine("Go to local \"artists.json\" file to fix!", "Magenta");
+            Color.PrintLine("The \"NonNumberCleanedArtist\" attribute should be camelCase. Put it under CleanedArtist", "Magenta");
+            Color.PrintLine("REMEMBER IT SHOULD BE CAMELCASE!!!!!!!", "green");
+
+            foreach (string artist in artistsToReport)
+            {
+                Console.WriteLine($" - {artist}");
+            }
+
+            Environment.Exit(0);
+        }
+
+        //Check that it doesn't match other Artist or CleanedTitle
+        var nonNumberCleanedArtists = localArtists
+            .Where(a => !string.IsNullOrEmpty(a.NonNumberCleanedArtist))
+            .Select(a => a.NonNumberCleanedArtist!)
+            .ToList();
+
+        var artists = localArtists
+            .Where(a => !string.IsNullOrEmpty(a.Artist))
+            .Select(a => a.Artist!)
+            .ToList();
+
+        var cleanedArtists = localArtists
+            .Where(a => !string.IsNullOrEmpty(a.CleanedArtist))
+            .Select(a => TextCleaner.CleanText(a.CleanedArtist!))
+            .ToList();
+
+        var duplicateNonNumberCleanedArtists = nonNumberCleanedArtists
+            .Where(artist => artists.Contains(artist) || cleanedArtists.Contains(artist))
+            .Distinct()
+            .ToList();
+        
+        if (duplicateNonNumberCleanedArtists.Count > 0)
+        {
+            Color.DisplayError("Invalid \"NonNumberCleanedArtist\" value detected:");
+            Color.PrintLine("Each \"NonNumberCleanedArtist\" attribute must be unique and must NOT match any existing Artist or CleanedArtist attribute.", "Green");
+            Color.PrintLine("This ensures the value is only used as a fallback for artists that begin with a number.", "Magenta");
+            Color.PrintLine("Fix the duplicates in the local \"artists.json\" by assigning a unique, camelCase string.", "Green");
+            Color.PrintLine("NonNumberCleanedArtist is just used in ArtistLookup.js import statements.", "Green");
+
+            foreach (string artist in duplicateNonNumberCleanedArtists)
+            {
+                Console.WriteLine($" - \"NonNumberCleanedArtist\": \"{artist}\"");
+            }
+
+            Environment.Exit(0);
+        }
+        
     }
 
     /**
