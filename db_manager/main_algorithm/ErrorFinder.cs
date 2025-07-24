@@ -796,6 +796,7 @@ class ErrorFinder
             Color.PrintLine("Each \"NonNumberCleanedAlbumTitle\" attribute must be unique and must NOT match any existing AlbumTitle or CleanedAlbumTitle.", "Green");
             Color.PrintLine("This ensures the value is only used as a fallback for albums that begin with a number.", "Magenta");
             Color.PrintLine("Fix the duplicates in albums.json by assigning a unique, camelCase string.", "Green");
+            Color.PrintLine("NonNumberCleanedAlbumTitle is just used in AlbumLookup.js import statements.", "Green");
 
             foreach (string title in duplicateNonNumberTitles)
             {
