@@ -16,6 +16,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
  * GetRepeatCleanedTitle | Gets cleaned title for repeat songs.
  * WriteJSONToDifferentFile | Writes the content of one JSON file to another JSON file.
  * WriteJSONToVueData | Write string JSON data to a data file in VueLivestreamDirectory
+ * WriteTextToJSFile | Write text to a JavaScript file in VueLivestreamDirectory
  *
  * @author Michael Totaro
  */
@@ -271,6 +272,18 @@ class JSONHelper
     {
         string pathToVueData = $"../VueLivestreamDirectory/src/assets/Data/{fileName}";
         File.WriteAllText(pathToVueData, newJSONData);
+    }
+
+    /**
+     * Write text to a JavaScript file in VueLivestreamDirectory
+     *
+     * @param fileName name of file in src/assets/data. Ex. "ArtistLookup.js", "AlbumLookup.js"
+     * @param jsString the JavaScript as a string
+     */
+    public static void WriteTextToJSFile(string fileName, string jsString)
+    {
+        string pathToVueData = $"../VueLivestreamDirectory/src/assets/Data/{fileName}";
+        File.WriteAllText(pathToVueData, jsString);
     }
 
     /**
