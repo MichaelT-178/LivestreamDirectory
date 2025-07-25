@@ -33,6 +33,9 @@ cleaned_artist = clean_text(artist)
 year = int(input("\nWhat year was in released? : "))
 
 
+has_number_title = album.strip() and album.strip()[0].isdigit()
+    
+
 print("\n")
 
 album_str = ""
@@ -43,6 +46,10 @@ album_str += f'      "Song": "{song}",\n'
 album_str += f'      "CleanedSong": "{cleaned_song}",\n'
 album_str += f'      "AlbumTitle": "{album}",\n'
 album_str += f'      "CleanedAlbumTitle": "{cleaned_album}",\n'
+
+if has_number_title:
+    album_str += f'      "NonNumberCleanedAlbumTitle": "",\n'
+
 album_str += f'      "Artist": "{artist}",\n'
 album_str += f'      "CleanedArtist": "{cleaned_artist}",\n'
 album_str += f'      "Year": {year}\n'

@@ -30,11 +30,17 @@ file_path = f'../pics/{clean_artist_name}.jpg'
 if not os.path.isfile(file_path):
     os.system(f'cp ../../VueLivestreamDirectory/src/assets/ArtistPics/{clean_artist_name}.jpg ../pics/')
     print(c('\n\nCopied new image to the pics folder!', 'green'))
+    
+    non_number_line = ''
+    
+    if artist.strip() and artist.strip()[0].isdigit():
+        non_number_line = '        "NonNumberCleanedArtist": "",\n'
+        
 
     artist_output = f'''"{clean_artist_name}": {{
         "Artist": "{artist.strip()}",
         "CleanedArtist": "{clean_artist_name}",
-        "Location": "",
+{non_number_line}        "Location": "",
         "YearFormed": 0,
         "Genre": "",
         "Country": "",
